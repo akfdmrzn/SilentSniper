@@ -1,0 +1,55 @@
+{
+ "id": "ph_table_set",
+ "category": "prop",
+ "tris": 3000,
+ "tris_src": 9828,
+ "size": [
+  0.742,
+  0.859,
+  1.717
+ ],
+ "center": [
+  -0.055,
+  0.423,
+  0.048
+ ],
+ "materials": [
+  {
+   "name": "ph_table_set__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_table_set_m0_albedo.jpg",
+   "normal": "ph_table_set_m0_normal.jpg",
+   "ms": "ph_table_set_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "ph_table_set__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_table_set_m1_albedo.jpg",
+   "normal": "ph_table_set_m1_normal.jpg",
+   "ms": "ph_table_set_m1_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

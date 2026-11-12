@@ -1,0 +1,71 @@
+{
+ "id": "ph_street_lamp_02",
+ "category": "prop",
+ "tris": 2500,
+ "tris_src": 20338,
+ "size": [
+  0.386,
+  1.675,
+  0.807
+ ],
+ "center": [
+  0.0,
+  0.838,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_street_lamp_02__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_street_lamp_02_m0_albedo.jpg",
+   "normal": "ph_street_lamp_02_m0_normal.jpg",
+   "ms": "ph_street_lamp_02_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "ph_street_lamp_02__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_street_lamp_02_m1_albedo.png",
+   "normal": "ph_street_lamp_02_m1_normal.jpg",
+   "ms": "ph_street_lamp_02_m1_ms.png",
+   "cutout": true,
+   "double_sided": true
+  },
+  {
+   "name": "ph_street_lamp_02__m2",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_street_lamp_02_m2_albedo.jpg",
+   "normal": "ph_street_lamp_02_m2_normal.jpg",
+   "ms": "ph_street_lamp_02_m2_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

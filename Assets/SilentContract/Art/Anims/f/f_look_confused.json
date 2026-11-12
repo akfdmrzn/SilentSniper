@@ -1,0 +1,16 @@
+{
+ "name": "f_look_confused",
+ "frames": 191,
+ "fps": 30,
+ "length": 6.3333,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Look_Around_Dumbfounded.glb",
+ "tags": [
+  "idle"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

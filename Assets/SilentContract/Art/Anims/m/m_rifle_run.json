@@ -1,0 +1,13 @@
+{
+ "name": "m_rifle_run",
+ "frames": 15,
+ "fps": 30,
+ "length": 0.4667,
+ "loop": true,
+ "speed": 6.9741,
+ "source": "Rifle_Charge.glb",
+ "tags": [
+  "run",
+  "combat"
+ ]
+}

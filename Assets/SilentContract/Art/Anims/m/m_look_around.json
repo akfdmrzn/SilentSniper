@@ -1,0 +1,16 @@
+{
+ "name": "m_look_around",
+ "frames": 338,
+ "fps": 30,
+ "length": 11.2333,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Long_Breathe_and_Look_Around.glb",
+ "tags": [
+  "idle"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

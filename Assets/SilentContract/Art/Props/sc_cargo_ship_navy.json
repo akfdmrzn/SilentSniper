@@ -1,0 +1,149 @@
+{
+ "id": "sc_cargo_ship_navy",
+ "category": "structure",
+ "tris": 1498,
+ "tris_src": 1498,
+ "size": [
+  150.02,
+  41.5,
+  26.4
+ ],
+ "center": [
+  -0.01,
+  13.25,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "sc_cargo_ship_navy__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "albedo": "sc_cargo_ship_navy_m0_albedo.jpg",
+   "normal": "sc_cargo_ship_navy_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "ship3_hull_navy",
+   "window": false
+  },
+  {
+   "name": "sc_cargo_ship_navy__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "sc_cargo_ship_navy_m1_albedo.jpg",
+   "normal": "sc_cargo_ship_navy_m1_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "ship3_antifoul",
+   "window": false
+  },
+  {
+   "name": "sc_cargo_ship_navy__m2",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.35,
+   "albedo": "sc_cargo_ship_navy_m2_albedo.jpg",
+   "normal": "sc_cargo_ship_navy_m2_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "ship3_deck",
+   "window": false
+  },
+  {
+   "name": "sc_cargo_ship_navy__m3",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "albedo": "sc_cargo_ship_navy_m3_albedo.jpg",
+   "normal": "sc_cargo_ship_navy_m3_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "ship3_white",
+   "window": false
+  },
+  {
+   "name": "sc_cargo_ship_navy__m4",
+   "color": [
+    0.05,
+    0.07,
+    0.09,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.94,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "ship_glass",
+   "window": false
+  },
+  {
+   "name": "sc_cargo_ship_navy__m5",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "albedo": "sc_cargo_ship_navy_m5_albedo.jpg",
+   "normal": "sc_cargo_ship_navy_m5_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "ship3_funnel",
+   "window": false
+  },
+  {
+   "name": "sc_cargo_ship_navy__m6",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "sc_cargo_ship_navy_m6_albedo.png",
+   "normal": null,
+   "ms": null,
+   "cutout": true,
+   "double_sided": true,
+   "src": "ship_name_navy",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "custom",
+ "static": true,
+ "credit": "Silent Contract (procedural, Poly Haven CC0 textures)",
+ "tags": []
+}

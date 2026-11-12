@@ -1,0 +1,41 @@
+{
+ "id": "ai_taxi",
+ "category": "prop",
+ "tris": 14000,
+ "tris_src": 29988,
+ "size": [
+  1.847,
+  1.608,
+  4.699
+ ],
+ "center": [
+  0.0,
+  0.804,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_taxi__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ai_taxi_m0_albedo.jpg",
+   "normal": "ai_taxi_m0_normal.jpg",
+   "ms": "ai_taxi_m0_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 2,
+ "collider": "box",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

@@ -1,0 +1,113 @@
+{
+ "id": "sc_m_gcabin",
+ "category": "struct",
+ "tris": 200,
+ "tris_src": 200,
+ "size": [
+  2.12,
+  4.4,
+  2.32
+ ],
+ "center": [
+  0.0,
+  -2.2,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "shared__mtn_gondola_red",
+   "color": [
+    0.62,
+    0.06,
+    0.05,
+    1.0
+   ],
+   "metallic": 0.3,
+   "smoothness": 0.65,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_gondola_red",
+   "window": false
+  },
+  {
+   "name": "shared__glass_mtn_cabin",
+   "color": [
+    0.55,
+    0.62,
+    0.66,
+    1.0
+   ],
+   "metallic": 0.9,
+   "smoothness": 0.96,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "glass_mtn_cabin",
+   "window": false
+  },
+  {
+   "name": "shared__mtn_cabin_seat",
+   "color": [
+    0.15,
+    0.15,
+    0.17,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.3,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_cabin_seat",
+   "window": false
+  },
+  {
+   "name": "shared__mtn_steel_455",
+   "color": [
+    0.55,
+    0.56,
+    0.58,
+    1.0
+   ],
+   "metallic": 0.75,
+   "smoothness": 0.62,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_steel_455",
+   "window": false
+  },
+  {
+   "name": "shared__mtn_steel_111",
+   "color": [
+    0.18,
+    0.19,
+    0.2,
+    1.0
+   ],
+   "metallic": 0.75,
+   "smoothness": 0.62,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_steel_111",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "",
+ "tags": []
+}

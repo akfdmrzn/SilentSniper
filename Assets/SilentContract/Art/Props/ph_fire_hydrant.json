@@ -1,0 +1,55 @@
+{
+ "id": "ph_fire_hydrant",
+ "category": "prop",
+ "tris": 2500,
+ "tris_src": 86316,
+ "size": [
+  0.875,
+  0.799,
+  0.318
+ ],
+ "center": [
+  -0.004,
+  0.4,
+  0.032
+ ],
+ "materials": [
+  {
+   "name": "ph_fire_hydrant__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_fire_hydrant_m0_albedo.jpg",
+   "normal": "ph_fire_hydrant_m0_normal.jpg",
+   "ms": "ph_fire_hydrant_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "ph_fire_hydrant__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_fire_hydrant_m1_albedo.jpg",
+   "normal": "ph_fire_hydrant_m1_normal.jpg",
+   "ms": "ph_fire_hydrant_m1_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

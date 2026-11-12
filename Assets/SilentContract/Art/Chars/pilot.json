@@ -1,0 +1,26 @@
+{
+ "id": "pilot",
+ "gender": "m",
+ "tris": 17649,
+ "height": 1.83,
+ "materials": [
+  {
+   "name": "pilot_opaque",
+   "albedo": "pilot_albedo.jpg",
+   "normal": "pilot_normal.jpg",
+   "ms": "pilot_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "pilot",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

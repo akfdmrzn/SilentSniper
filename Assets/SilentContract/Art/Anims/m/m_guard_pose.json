@@ -1,0 +1,12 @@
+{
+ "name": "m_guard_pose",
+ "frames": 85,
+ "fps": 30,
+ "length": 2.8,
+ "loop": true,
+ "speed": 0.0,
+ "source": "76_04.bvh",
+ "tags": [
+  "guard"
+ ]
+}

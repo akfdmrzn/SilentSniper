@@ -1,0 +1,16 @@
+{
+ "name": "m_kneel_stand",
+ "frames": 76,
+ "fps": 30,
+ "length": 2.5,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Kneel_on_One_Knee_and_Stand.glb",
+ "tags": [
+  "combat"
+ ],
+ "offset": [
+  -0.2284,
+  0.1864
+ ]
+}

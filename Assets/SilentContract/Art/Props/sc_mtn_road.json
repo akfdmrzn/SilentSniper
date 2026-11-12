@@ -1,0 +1,41 @@
+{
+ "id": "sc_mtn_road",
+ "category": "level",
+ "tris": 396,
+ "tris_src": 396,
+ "size": [
+  599.109,
+  61.4,
+  86.922
+ ],
+ "center": [
+  220.947,
+  31.38,
+  85.493
+ ],
+ "materials": [
+  {
+   "name": "shared__mtn_road",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.126,
+   "albedo": "shared__mtn_road_albedo.jpg",
+   "normal": "shared__mtn_road_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_road",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "Silent Contract (procedural, Poly Haven CC0 textures)",
+ "tags": []
+}

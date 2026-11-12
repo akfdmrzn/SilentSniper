@@ -1,0 +1,16 @@
+{
+ "name": "m_cheer",
+ "frames": 281,
+ "fps": 30,
+ "length": 9.3333,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Victory_Cheer.glb",
+ "tags": [
+  "cheer"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

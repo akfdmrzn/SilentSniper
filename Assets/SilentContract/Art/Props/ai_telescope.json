@@ -1,0 +1,41 @@
+{
+ "id": "ai_telescope",
+ "category": "prop",
+ "tris": 2000,
+ "tris_src": 4955,
+ "size": [
+  0.789,
+  1.551,
+  0.885
+ ],
+ "center": [
+  0.0,
+  0.775,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_telescope__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ai_telescope_m0_albedo.jpg",
+   "normal": "ai_telescope_m0_normal.jpg",
+   "ms": "ai_telescope_m0_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

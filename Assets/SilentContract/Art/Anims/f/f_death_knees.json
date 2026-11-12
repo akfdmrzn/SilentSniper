@@ -1,0 +1,17 @@
+{
+ "name": "f_death_knees",
+ "frames": 89,
+ "fps": 30,
+ "length": 2.9333,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Dead.glb",
+ "tags": [
+  "death",
+  "ho=2.03"
+ ],
+ "offset": [
+  0.19,
+  0.5322
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "id": "sr_drum_blue",
+ "category": "prop",
+ "tris": 1399,
+ "tris_src": 27858,
+ "size": [
+  0.283,
+  0.387,
+  0.284
+ ],
+ "center": [
+  0.0,
+  0.193,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "sr_drum_blue__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.718,
+   "albedo": "sr_drum_blue_m0_albedo.jpg",
+   "normal": "sr_drum_blue_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_drum_blue__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.786,
+   "albedo": "sr_drum_blue_m1_albedo.jpg",
+   "normal": "sr_drum_blue_m1_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "NVIDIA SimReady (CC-BY 4.0)",
+ "tags": []
+}

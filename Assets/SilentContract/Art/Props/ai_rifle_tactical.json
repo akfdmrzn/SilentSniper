@@ -1,0 +1,39 @@
+{
+ "id": "ai_rifle_tactical",
+ "category": "prop",
+ "tris": 16000,
+ "tris_src": 30019,
+ "size": [
+  1.2,
+  0.326,
+  0.112
+ ],
+ "center": [
+  0.0,
+  0.0,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_rifle_tactical__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ai_rifle_tactical_m0_albedo.jpg",
+   "normal": "ai_rifle_tactical_m0_normal.jpg",
+   "ms": "ai_rifle_tactical_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": false,
+ "credit": "Silent Contract (AI-generated model, Meshy)",
+ "tags": []
+}

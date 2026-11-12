@@ -1,0 +1,26 @@
+{
+ "id": "w_courier",
+ "gender": "m",
+ "tris": 24902,
+ "height": 1.78,
+ "materials": [
+  {
+   "name": "w_courier_opaque",
+   "albedo": "w_courier_albedo.jpg",
+   "normal": "w_courier_normal.jpg",
+   "ms": "w_courier_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "w_courier",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

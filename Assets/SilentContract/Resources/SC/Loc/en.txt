@@ -1,0 +1,1381 @@
+SİPER	COVER
+Sana ateş ediyorlar! SİPER tuşuyla eğil — ateş kesilince doğrul ve kırmızı işaretli nişancıları indir. Yaraların birkaç saniye sonra iyileşir.	They're shooting at you! Duck with the COVER button — pop back up when the fire stops and drop the shooters marked in red. Your wounds heal after a few seconds.
+YERİN TESPİT EDİLDİ — SANA ATEŞ EDECEKLER!	POSITION SPOTTED — THEY'RE OPENING FIRE!
+DOĞRUL	RISE
+YERİN TESPİT EDİLDİ	POSITION SPOTTED
+GÖZCÜ SENİ ARIYOR	SPOTTER SEARCHING
+YERİNİ ARIYORLAR	THEY'RE HUNTING YOU
+DİKKAT ÇEKİYORSUN	DRAWING ATTENTION
+Her atış yerini biraz daha belli eder (susturucu daha az). Göz dolarsa yerin tespit edilir ve silahlı adamlar sana ateş eder.	Every shot gives your position away a little more (less with a suppressor). If the eye fills up, you're spotted and the gunmen open fire.
+Bir gözcü dürbünle damları tarıyor: dürbün parlaması sana dönerken eğil ya da önce onu indir.	A spotter is sweeping the rooftops with binoculars: duck when the glint turns your way, or drop him first.
+MAĞAZA	SHOP
+TEKLİFLER	OFFERS
+SİLAH PAKETLERİ	WEAPON PACKS
+ELMAS	GEMS
+NAKİT	CASH
+SATIN ALIMLARI GERİ YÜKLE	RESTORE PURCHASES
+ÜCRETSİZ ELMAS	FREE GEMS
+İZLE	WATCH
+GECE	NIGHT
+TERMAL	THERMAL
+ELMAS YETMİYOR	NOT ENOUGH GEMS
+Bu paket için 	This pack costs 
+ elmas gerekiyor, sende 	 gems. You have 
+ var.	 right now.
+ELMAS AL	GET GEMS
+PAKET HAZIR	PACK READY
+Tüfek	Rifle
+ kuşanıldı. Cephanelikte seni bekliyor.	 equipped. It's waiting for you in the armory.
+CEPHANELİK	ARMORY
+TAMAM	OK
+SATIN ALINAMADI	PURCHASE FAILED
+KAPAT	CLOSE
+GERİ YÜKLEME	RESTORE
+ satın alım geri yüklendi.	 purchase(s) restored.
+Geri yüklenecek satın alım bulunamadı.	No purchases to restore.
+ALINDI	CLAIMED
+Bugün 	Today: 
+ hakkın kaldı	 left
+Şu an video yok	No video right now
+TEST SÜRÜMÜ: satın almalar ücretsiz tamamlanır, reklamlar yer tutucudur. Gerçek fiyatlar App Store'dan gelir.	TEST BUILD: purchases complete for free, ads are placeholders. Real prices come from the App Store.
+GÜNLÜK ÖDÜL	DAILY REWARD
+Her gün gel, ödülün büyüsün. 7. gün büyük ödül.	Come back every day and your reward grows. Big prize on day 7.
+. GÜN	. DAY
+ ELMAS	 GEMS
+ Z. DELİCİ	 AP
+2× AL	GET 2×
+TOPLA	COLLECT
+VAZGEÇ	CANCEL
+Dürbünde nişangahı birinin üzerinde tutarak kimliğini tara — masumları vurma.	Hold the crosshair on someone in the scope to scan their identity — don't shoot the innocent.
+Nefesini tutarken nişangah sabitlenir, ama nefes çubuğu biterse titreme artar.	Holding your breath steadies the crosshair, but if the breath bar runs out, the sway gets worse.
+Uzak mesafede kurşun düşer ve rüzgarla kayar. Kırmızı nokta isabet noktasını gösterir.	At long range the bullet drops and drifts with the wind. The red dot shows the point of impact.
+Bir koruma telsize uzanırsa birkaç saniyen var: onu durdurursan alarm verilmez.	If a guard reaches for the radio, you have a few seconds: stop him and no alarm is raised.
+Kafadan vuruşlar ve sivil kayıpsız görevler daha fazla yıldız ve para kazandırır.	Headshots and missions without civilian casualties earn more stars and cash.
+Zırhlı adamların gövdesi kurşun tutar: kafaya nişan al ya da tüfeğinin HASAR'ını geliştir.	Armored men soak up body shots: aim for the head or upgrade your rifle's DAMAGE.
+Iskalama sessiz kalmaz: ikinci boş atış silahlıları yuvana yollar.	A miss doesn't stay quiet: a second wasted shot sends the gunmen to your nest.
+Görev, sana ateş eden son silahlı susunca biter. Önce en yakındakini sustur.	The mission ends when the last gunman shooting at you goes quiet. Silence the closest one first.
+Cephanelikte her tüfeğin beş hattı var: en üst kademe elmasla açılır.	Every rifle in the armory has five upgrade lines: the top tier unlocks with gems.
+Günün sözleşmesi iki kat para ve elmas öder — her gün yenisi gelir.	The daily contract pays double cash and gems — a new one arrives every day.
+LİMAN OPERASYONU	HARBOUR OPERATION
+TAKTİK HARİTA  ·  GÖREV 	TACTICAL MAP  ·  MISSION 
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     	<color=#46C8F2>●</color> Firing positions     <color=#FF4545>●</color> Target zone     
+<color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#FFFFFF>- -</color> Known routes     Rings: 100 m apart from the main nest     Up: direction the main nest faces
+ZORLUK  	DIFFICULTY  
+HARİTA	MAP
+HEDEF DOSYASI	TARGET FILE
+SUİKAST	HIT
+TANIMA	PROFILE
+BRİFİNG	BRIEFING
+GÖREV	MISSION
+YILDIZ HEDEFLERİ	STAR GOALS
+DEĞİŞTİR	CHANGE
+BAŞLA	START
+EKİPMAN GEREKLİ	GEAR REQUIRED
+Bu iş 	This job can't be done without 
+ ve 	 and 
+ olmadan yapılamaz. Cephaneliğe git?	 — head to the armory?
+TÜFEĞİN ZAYIF KALABİLİR	YOUR RIFLE MAY BE WEAK
+Bu sözleşme için önerilen güç 	Recommended power for this contract is 
+ şu an 	 is currently at 
+Geliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	You can try without upgrading, but armored men and distant targets will be tough.
+GELİŞTİR	UPGRADE
+YİNE DE BAŞLA	START ANYWAY
+ZIRHLI HEDEFLER	ARMORED TARGETS
+Bu işte zırhlı silahlılar var; tüfeğinin mermisi gövdeden geçmez.\nKısa bir video izle, 3 zırh delici mermi senin olsun.	This job has armored gunmen; your rifle's rounds won't go through the body.\nWatch a short video and get 3 armor-piercing rounds.
+İZLE  +3 MERMİ	WATCH  +3 AMMO
+GÜNÜN İŞİ ×2	DAILY JOB ×2
+VETERAN ×1,5	VETERAN ×1.5
+<b><color=#E8B04A>YENİ:</color></b> 	<b><color=#E8B04A>NEW:</color></b> 
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n	<b><color=#FFB21E>VETERAN:</color></b> no impact point, stronger and gustier wind, more rifle sway, targets aren't marked. Reward ×1.5.\n
+NEREDEN ATEŞ EDECEKSİN?	WHERE WILL YOU SHOOT FROM?
+Her yerin artısı eksisi var. Görev sırasında iki kez yer değiştirebilirsin.	Every spot has its pros and cons. You can relocate twice during the mission.
+GERİ	BACK
+DEVAM	CONTINUE
+BÖLÜM 	CHAPTER 
+KORUMA	ESCORT
+CANLI YAKALA	TAKE ALIVE
+SABOTAJ	SABOTAGE
+YARALA	WOUND
+GÖREV 	MISSION 
+KORUNACAK KİŞİ	PROTECTEE
+HEDEF DOSYASI  ·  CANLI	TARGET FILE  ·  LIVE
+•  Hedefi etkisiz hale getir	•  Neutralize the target
+TÜFEK:  	RIFLE:  
+>GÜÇ 	>POWER 
+</color><color=#6B7682>  /  önerilen 	</color><color=#6B7682>  /  recommended 
+Bu iş için verildi	Issued for this job
+   ·   Verilen: 	   ·   Issued: 
+   ·   <color=#FF8A2B>Zırhlı silahlılar: kafaya nişan al, HASAR geliştir ya da zırh delici al</color>	   ·   <color=#FF8A2B>Armored gunmen: aim for the head, upgrade DAMAGE or get armor-piercing</color>
+AYARLAR	SETTINGS
+Nişan hassasiyeti	Aim sensitivity
+Kolay nişan (3. yıldız alınmaz)	Easy aim (no 3rd star)
+Kurşun kamerası (son hedefte ağır çekim)	Bullet cam (slow motion on final target)
+Titreşim	Vibration
+Ses seviyesi	Volume
+İlerleme	Progress
+İLERLEMEYİ SIFIRLA	RESET PROGRESS
+İlerleme sıfırlansın mı?	Reset progress?
+Tüm yıldızlar, para ve geliştirmeler silinecek (satın aldıkların ve elmasların kalır). Bu işlem geri alınamaz.	All stars, cash and upgrades will be erased (your purchases and gems stay). This can't be undone.
+SIFIRLA	RESET
+Satın alımlar ve gizlilik	Purchases and privacy
+GERİ YÜKLE	RESTORE
+GİZLİLİK	PRIVACY
+Grafik kalitesi	Graphics quality
+PERFORMANS	PERFORMANCE
+DENGELİ	BALANCED
+KALİTE	QUALITY
+KAYNAKLAR VE LİSANSLAR	CREDITS & LICENSES
+Henüz dosyada bir şey yok. İlk sözleşmeyi tamamla.	Nothing in the file yet. Complete the first contract.
+<size=40><color=#E8B04A><b>BÖLÜM 	<size=40><color=#E8B04A><b>CHAPTER 
+<b>SON</b>\n	<b>END</b>\n
+Disk KONTROL'de. Kurul'un koltukları yeniden doluyor.	The disk is with Control. The Council's seats are filling up again.
+Disk savcıda. KONTROL'ün kapısına polis dayandı.	The disk is with the prosecutor. Police are at Control's door.
+DAVA DOSYASI	CASE FILE
+DURAKLATILDI	PAUSED
+DEVAM ET	RESUME
+YENİDEN BAŞLAT	RESTART
+GÖREVDEN ÇIK	QUIT MISSION
+Görevden çıkılsın mı?	Quit the mission?
+Bu görevdeki ilerlemen kaybolacak.	Your progress in this mission will be lost.
+ÇIK	QUIT
+DERECE	GRADE
+YENİ YILDIZ	NEW STAR
+ATIŞ	SHOTS
+En uzun atış	Longest shot
+Kafadan vuruş	Headshots
+Süre	Time
+İsabet	Accuracy
+KAZANÇ DÖKÜMÜ	EARNINGS BREAKDOWN
+KAZANÇ	EARNINGS
+2× KAZANÇ	2× EARNINGS
+MENÜ	MENU
+TEKRAR	REPLAY
+SONRAKİ GÖREV	NEXT MISSION
+İSTİHBARAT	INTEL
+SON	END
+YİNE KİMSESİZ	ALONE AGAIN
+KENDİ SEÇİMİN	YOUR OWN CHOICE
+Kimyager: 	Chemist: 
+KONTROL'ün hücresinde kayboldu.	vanished in a Control cell.
+savcılığa ifade verdi; Baran davası onunla başladı.	testified to the prosecutor; the Barrow case started with her.
+Baran'ın kasası: 	Barrow's vault: 
+para sende, KONTROL bunu biliyor.	the cash is with you, and Control knows it.
+dosyaların kopyası Başsavcı Arslan'da.	a copy of the files is with Chief Prosecutor Ashford.
+Kurul: beş koltuk boşaldı.	The Council: five seats emptied.
+KONTROL: yerinde. Yeni bir isim arıyor.	CONTROL: still in place. Looking for a new name.
+KONTROL: kapısında polis.	CONTROL: police at the door.
+Toplam: 	Total: 
+GÖREV TAMAMLANDI	MISSION COMPLETE
+GÖREV BAŞARISIZ	MISSION FAILED
+  <color=#FFB21E>REKOR</color>	  <color=#FFB21E>RECORD</color>
+ÖNCEDEN	PREVIOUS
+KOLAY NİŞAN	EASY AIM
+Günün sözleşmesi  ·  elmas	Daily contract  ·  gems
+İlk S derecesi  ·  elmas	First S grade  ·  gems
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.	Contract not completed — no payment.\nYou can take the same job again; see what went wrong above.
+\nKısa bir videoyla ücretin bir kısmını telafi alabilirsin.	\nWatch a short video to recover part of your fee.
+TEKRAR DENE	TRY AGAIN
+TÜFEĞİN ZORLANIYOR	YOUR RIFLE IS STRUGGLING
+Bu iş için önerilen güç 	Recommended power for this job: 
+, senin tüfeğin 	, your rifle: 
+. Geliştir ya da 	. Upgrade, or grab 
+bir silah paketiyle	a weapon pack
+ hemen güçlen.	 to power up now.
+GÜÇLEN	POWER UP
+ TP	 XP
+TELAFİ +	COMPENSATION +
+GÖREVLER	MISSIONS
+ANA YUVA	MAIN NEST
+<color=#36D47C>●</color> Tamamlandı    <color=#FFB21E>●</color> Sıradaki    <color=#6B7682>●</color> Kilitli	<color=#36D47C>●</color> Completed    <color=#FFB21E>●</color> Up next    <color=#6B7682>●</color> Locked
+BRİFİNGE GİT	TO BRIEFING
+Rüzgâr 	Wind 
+\nZORLUK 	\nDIFFICULTY 
+   ·   <color=#FF8A2B>ZIRHLI DÜŞMAN</color>	   ·   <color=#FF8A2B>ARMORED ENEMY</color>
+Önerilen güç <b>	Recommended power <b>
+</b>   ·   Tüfeğin <color=	</b>   ·   Your rifle <color=
+Önceki görevi tamamla	Complete the previous mission
+OYNA	PLAY
+  ·  TEST MODU: tüm bölümler açık	  ·  TEST MODE: all chapters unlocked
+  ·  Tek oyunculu keskin nişancı	  ·  Single-player sniper
+TEST MODU	TEST MODE
+Tüm haritalar ve görevler şu an açık. Normal ilerlemeye dönülsün mü?	All maps and missions are currently unlocked. Return to normal progression?
+Test için bütün haritalar ve görevler açılsın mı? (Ayarlardan ilerleme sıfırlanmaz.)	Unlock all maps and missions for testing? (Progress in Settings won't be reset.)
+AÇ	UNLOCK
+KAYNAKLAR	CREDITS
+SIRADAKİ SÖZLEŞME	NEXT CONTRACT
+GÜÇ	POWER
+GÜNLÜK GÖREVLER	DAILY TASKS
+GÜNÜN SÖZLEŞMESİ  ·  TAMAM	DAILY CONTRACT  ·  DONE
+GÜNÜN SÖZLEŞMESİ  ·  ×2 ÖDÜL  +10 ELMAS	DAILY CONTRACT  ·  ×2 REWARD  +10 GEMS
+Yenisi 	New one in 
+ sa 	 h 
+ dk sonra	 m
+  —  VETERAN kurallarıyla	  —  with VETERAN rules
+Güç 	Power 
+Başlangıç paketi	Starter pack
+Ücretsiz elmas	Free gems
+Elmas · Nakit	Gems · Cash
+ dosya	 files
+REKLAMLARDAN SIKILDIN MI?	TIRED OF ADS?
+Görev aralarındaki reklamları 	Remove the ads between missions forever for 
+ karşılığında sonsuza dek kaldır. Hediye: 	 one-time. Bonus: 
+ elmas.	 gems.
+REKLAMSIZ OL	GO AD-FREE
+ŞİMDİ DEĞİL	NOT NOW
+TÜFEKLER	RIFLES
+EKİPMAN	GEAR
+MÜHİMMAT	AMMO
+BECERİLER	SKILLS
+Çevirmek için sürükle	Drag to rotate
+ için 	 costs 
+HEMEN AL	BUY NOW
+ elmasla hemen senin olsun mu?	 gems — yours right now?
+AL	BUY
+SEVİYE 	LEVEL 
+ GEREKLİ	 REQUIRED
+Son kademe (elmasla) 	The top tier (gems) unlocks at level 
+. seviyede açılır. Sözleşmelerden tecrübe kazan.	. Earn XP from contracts.
+AZ KALDI	ALMOST THERE
+Bu geliştirme için 	You're 
+ eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.	 short for this upgrade. Watch a short video to cover the gap and upgrade right away.
+\nBugün 	\nYou have 
+ hakkın var.	 left today.
+İZLE VE GELİŞTİR	WATCH & UPGRADE
+PARA YETMİYOR	NOT ENOUGH CASH
+Son kademe 	The top tier costs 
+ elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	 gems. Buy gems in the shop or collect them from daily rewards.
+Bu geliştirme 	This upgrade costs 
+. Sözleşmelerden para kazan ya da mağazaya bak.	. Earn cash from contracts or check the shop.
+GÜÇ <color=#FFB21E>	POWER <color=#FFB21E>
+<color=#36D47C>KUŞANILDI</color>	<color=#36D47C>EQUIPPED</color>
+SAHİP	OWNED
+ ★ ile açılır	 ★ to unlock
+Yarı otomatik	Semi-auto
+Sürgülü	Bolt-action
+   ·   Susturuculu	   ·   Suppressed
+   ·   Duvar deler	   ·   Pierces walls
+   ·   Siper deler	   ·   Pierces cover
+  <color=#46C8F2>EN ÜST</color>	  <color=#46C8F2>TOP</color>
+SV 	LV 
+Satın aldığında beş hatta geliştirebilirsin. En üst kademe <color=#46C8F2>elmasla</color>.	Once you buy it, you can upgrade five lines. The top tier takes <color=#46C8F2>gems</color>.
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> 	To pierce armored bodies you need <color=#FFB21E>DAMAGE</color> 
+. kademe ya da zırh delici mermi gerekir.	+ or armor-piercing rounds.
+Bu tüfek zırhlı gövdeyi deler.	This rifle pierces armored bodies.
+KUŞANILDI	EQUIPPED
+KUŞAN	EQUIP
+SATIN AL   	BUY   
+ ★ YA DA   	 ★ OR   
+ ELMASLA AL	 GEMS
+SAHİPSİN	OWNED
+Görevlerde otomatik takılı	Auto-equipped on missions
+ yıldızla açılır	 stars to unlock
+SATIN AL  	BUY  
+KİLİTLİ	LOCKED
+ adetlik paket	 per pack
+SABİT NİŞAN	STEADY AIM
+Dürbündeki el titremesi her kademede %17 azalır.	Scope hand sway drops 17% per tier.
+NEFES KONTROLÜ	BREATH CONTROL
+Nefesini daha uzun tutarsın: nişangah daha uzun sabit kalır.	Hold your breath longer: the crosshair stays steady longer.
+SOĞUKKANLILIK	COMPOSURE
+Ateş altında ve yaralıyken titreme her kademede %25 azalır.	Sway under fire and while wounded drops 25% per tier.
+ sn	 s
+MAKSİMUM	MAX
+YÜKSELT  	UPGRADE  
+BURAYA ATEŞ ET	FIRE HERE
+DRON	DRONE
+İŞARETLE — HEDEF BU	MARK — THAT'S THE TARGET
+YER DEĞİŞTİR	RELOCATE
+NEFES	BREATH
+MENZİL	RANGE
+Geçmek için dokun	Tap to skip
+Hedef: 	Target: 
+Taşınırken dünya durmaz. Yeni yerde seni kimse bilmez.	The world doesn't stop while you move. At the new spot, nobody knows you're there.
+YER DEĞİŞTİRİYORSUN\n<size=30>	RELOCATING\n<size=30>
+ sn</size>	 s</size>
+DOSYA	FILE
+ARANIYOR	WANTED
+ETKİSİZ	DOWN
+KAÇTI	ESCAPED
+DOĞRULANDI	CONFIRMED
+BEKLE…	WAIT…
+KURŞUN KAMERASI  ·  	BULLET CAM  ·  
+GECE GÖRÜŞÜ	NIGHT VISION
+KAFA	HEAD
+KOL	ARM
+BACAK	LEG
+KARIN	STOMACH
+GÖVDE	TORSO
+Kimliği belirsiz	Unidentified
+HEDEF DEĞİL	NOT THE TARGET
+TARANDI	SCANNED
+Masum — ateş etme	Innocent — hold fire
+Dosyadaki yüzle karşılaştır — emin olunca İŞARETLE	Compare with the face in the file — MARK when you're sure
+SİLAHLI	ARMED
+BAYGIN	OUT COLD
+YERDE	DOWN
+Koru — ona bir şey olmamalı	Protect — nothing can happen to him
+Silahlı — sivil kılığında	Armed — dressed as a civilian
+Sözleşme hedefi	Contract target
+” — sözleşme hedefi	” — contract target
+Silahlı — vurulabilir	Armed — fair game
+Yaralı — 	Wounded — 
+!  NİŞAN ALIYOR	!  AIMING
+!  SANA ATEŞ EDİYOR	!  FIRING AT YOU
+GÖZCÜ	SPOTTER
+Öldürüldü	Killed
+Kaçıyor — güvenli yere	Running — heading for safety
+Güvende — gözün üzerinde olsun	Safe — keep an eye on him
+Kimliği doğrulanmadı — dosyadaki yüzü bul	Identity not confirmed — find the face from the file
+Görüş dışında — bekle	Out of sight — wait
+Baygın	Out cold
+İğne isabet etti — bayılıyor	Dart hit — going under
+Yerde — sürünüyor	Down — crawling
+NİŞAN ALIYOR — HEMEN VUR!	AIMING — SHOOT NOW!
+KAÇIYOR!	RUNNING!
+Sese doğru bakıyor — fırsat!	Looking toward the noise — now's your chance!
+Siperin arkasında — dikkatini dağıt	Behind cover — distract him
+Kalabalıkta — herkesi dürbünle tara	In the crowd — scan everyone with the scope
+Yaralı	Wounded
+Kimlik doğrulandı	Identity confirmed
+Kimliği taranmadı — dürbünle tara	Identity not scanned — scan with the scope
+HEDEF:  	TARGET:  
+Sözleşme tamamlandı	Contract complete
+Etkisiz hale getir: 	Neutralize: 
+Ateş et: devre dışı bırak	Shoot: disable it
+Devam ediyor	In progress
+KEŞİF  ·  	RECON  ·  
+ tehdit tarandı	 threats scanned
+Fırsat penceresi	Window of opportunity
+Bayraklara bak	Watch the flags
+Rüzgar yok	No wind
+Sağa esiyor »	Blowing right »
+« Sola esiyor	« Blowing left
+Karşıdan	Headwind
+« Sola tut 	« Hold left 
+Sağa tut » 	Hold right » 
+TELSİZ  	RADIO  
+DOLDURULUYOR	RELOADING
+STANDART	STANDARD
+Yıldız kaçtı: 	Star missed: 
+SÖZLEŞME 	CONTRACT 
+Kalabalıkta silahlı adam(lar) var — kimliği bilinmiyor	Armed man (or men) in the crowd — identity unknown
+Hedef bu bölgede — dosyadaki yüzü bul, emin olunca İŞARETLE	Target is in this area — find the face from the file, MARK when you're sure
+HEDEF	TARGET
+KORU	PROTECT
+Ekranı parmağınla sürükleyerek etrafa bak.	Drag your finger across the screen to look around.
+Sağdaki dürbün tuşuna dokunarak dürbünü aç.	Tap the scope button on the right to open the scope.
+Kırmızı işaret hedefi gösterir. Nişangahı hedefin üzerine getir.	The red marker shows the target. Put the crosshair on the target.
+Nişangahı kişinin üzerinde tut: kimliği taranıyor…	Keep the crosshair on the person: scanning identity…
+Soldaki NEFES tuşuna basılı tut: nişan sabitlenir.	Hold the BREATH button on the left: your aim steadies.
+Hazır! Büyük kırmızı tuşla ateş et.	Ready! Fire with the big red button.
+  <size=24><color=#A3AEB9>·  SEVİYE 	  <size=24><color=#A3AEB9>·  LEVEL 
+SEVİYE ATLADIN!	LEVEL UP!
+2× TOPLA	COLLECT 2×
+   ·   SEVİYE 	   ·   LEVEL 
+AÇILDI:  	UNLOCKED:  
+GÜN BATIMI	SUNSET
+GÜNDÜZ	DAY
+YAĞMURLU	RAIN
+YAĞMURLU GECE	RAINY NIGHT
+KARLI GÜN	SNOWY DAY
+DAĞDA GÜN BATIMI	MOUNTAIN SUNSET
+KARLI GECE	SNOWY NIGHT
+TİPİ	BLIZZARD
+VİDEO YOK	NO VIDEO
+Şu an gösterilecek video yok. Biraz sonra tekrar dene.	No video to show right now. Try again in a bit.
+ÖDÜLLÜ TEST REKLAMI  ·  	REWARDED TEST AD  ·  
+TEST REKLAMI  ·  her 	TEST AD  ·  one every 
+ görevde bir	 missions
+Reklam sonunda ödül verilir	Reward is given at the end of the ad
+Reklamsız paketle bu ekran kalkar	The no-ads pack removes this screen
+AVUÇ DOLUSU	HANDFUL
+KESE	POUCH
+EN POPÜLER	MOST POPULAR
+SANDIK	CHEST
+KASA	VAULT
+EN İYİ DEĞER	BEST VALUE
+HAZİNE	TREASURE
+ZARF	ENVELOPE
+ÇANTA	BAG
+%15 FAZLA	15% MORE
+VALİZ	SUITCASE
+%33 FAZLA	33% MORE
+%54 FAZLA	54% MORE
+BAŞLANGIÇ PAKETİ	STARTER PACK
+500 elmas, $10.000 ve 10 zırh delici mermi. Sadece bir kez.	500 gems, $10,000 and 10 armor-piercing rounds. One time only.
+%80 İNDİRİM	80% OFF
+REKLAMSIZ	NO ADS
+Görev aralarındaki reklamlar sonsuza dek kalkar. Ödüllü videolar istersen açık kalır. Hediye: 100 elmas.	Ads between missions are gone forever. Rewarded videos stay available if you want them. Bonus: 100 gems.
+GÖLGE OPERASYON	SHADOW OPS
+Susturuculu GÖLGE SR-7 hemen senin: bütün hatları 3. kademede. Gece görüşü ve 150 elmas.	The suppressed SHADOW SR-7 is yours now: every line at tier 3. Plus night vision and 150 gems.
+EN ÇOK SATAN	BEST SELLER
+TİTAN PAKETİ	TITAN PACK
+Efsane TİTAN .50: zırhı ve camı deler. Termal dürbün, 400 elmas ve 20 zırh delici mermi.	The legendary TITAN .50: pierces armor and glass. Thermal scope, 400 gems and 20 armor-piercing rounds.
+EFSANE	LEGENDARY
+Bu paket zaten alındı.	You already own this pack.
+Elmasın yetmiyor.	Not enough gems.
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.	The store isn't available right now. Check your internet connection and try again in a bit.
+LİMAN — KRAL'IN AĞI	HARBOUR — KROLL'S NETWORK
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: 	You have no name. The army listed you dead three years ago. Control found you in a military hospital and made you one offer: 
+limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	take down the smuggling ring at the harbour, and your past gets erased.\n\nEvery contract is a name. Every name is the road to the next.
+ŞEHİR — BARAN HOLDİNG	CITY — BARROW HOLDING
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\n	The harbour has fallen, but the money keeps flowing. The last number in Viktor Kroll's phone leads to Bayfront Plaza: Barrow Holdings.\n\n
+Bu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	This time the targets wear suits. In the crowd, behind glass walls, next to the police.
+KARTAL TEPE — KURUL	EAGLE RIDGE — THE COUNCIL
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını 	The files from Barrow's vault give up five names: the Council. Five people who fed and protected Barrow for years, and who spend New Year's week 
+her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	at Eagle Ridge every year.\n\nAmong the files there's one more signature. A familiar one.
+Selim Kaya'nın cebinden çıkan rüşvet makbuzlarında tek bir imza var: liman yönetiminden C. Aydın.	The bribe receipts in Stuart Kane's pocket carry a single signature: C. Ayres, harbour authority.
+Can Aydın'ın sildiği kayıtlar kurtarıldı. Gelecek sevkiyatın alıcısı: Kuzgun lakaplı Tarık Bal.	The records Colin Ayres wiped have been recovered. The buyer of the next shipment: Travis Bell, known as the Raven.
+Kuzgun'un arabasındaki çanta boş değil: depoları koruyan paralı askerlerin maaş listesi. Başlarında Rico Vargas.	The bag in the Raven's car isn't empty: it's the payroll for the mercenaries guarding the warehouses. Their leader is Rico Vargas.
+Rico'nun telsizinde bir uyarı: "Depoda köstebek var." Örgüt de kendi içinde birini arıyor.	A warning on Rico's radio: "There's a mole in the warehouse." The organization is hunting someone inside too.
+Köstebek Kerim'in sattığı bilgi bir teslimata işaret ediyor: Tilki çalınan belgeleri rıhtımdan kaçıracak.	The intel Keith the Mole sold points to a handoff: the Fox will smuggle the stolen documents off the quay.
+Tilki'nin belgeleri bir gemi manifestosu: Meridian Star'ın ambarında örgütün silah yükü var.	The Fox's documents are a ship's manifest: the organization's weapons cargo is in the hold of the Meridian Star.
+Kaptan Demir'in seyir defterinde tek bir isim tekrar ediyor: yükün sahibi Viktor Kral.	One name keeps repeating in Captain Dempsey's logbook: the cargo belongs to Viktor Kroll.
+Kral düştü. Telefonundaki son arama Kordon Plaza'ya: Baran Holding. Ama örgüt hâlâ nefes alıyor — ve bir tanığı susturmak istiyor.	Kroll is down. The last call on his phone went to Bayfront Plaza: Barrow Holdings. But the organization is still breathing — and it wants a witness silenced.
+Ayten Şahin ifadesini verdi. Örgütün para kuryesi Emre Doğan şehirden kaçmaya hazırlanıyor.	Alice Shaw gave her statement. The organization's cash courier, Evan Dorsey, is getting ready to flee the city.
+Kuryenin çantasındaki hesaplar bir kimyagere ödeme gösteriyor: Dr. Selin Aras.	The accounts in the courier's bag show payments to a chemist: Dr. Sarah Ames.
+Kartal karanlıkta kaldı. Silah sevkiyatının parası bir laboratuvara gidiyor: Meridian Star'ın ambarı.	The Eagle is in the dark. The money from the arms shipment goes to a lab: the hold of the Meridian Star.
+Dr. Aras konuştu: laboratuvarın asıl sahibi Baran Holding. Liman bitti; sırada şehir var.	Dr. Ames talked: the lab's real owner is Barrow Holdings. The harbour is done; the city is next.
+Defne Aksoy'un ekranında son işlem: Baran'ın rüşvet defteri Postacı'ya teslim edildi.	The last transaction on Daphne Archer's screen: Barrow's bribe ledger was handed to the Postman.
+Rüşvet defteri ele geçti. Sayfalardan biri gemilerin sahibine ayrılmış: Cevdet Aydemir.	We have the bribe ledger. One page is set aside for the owner of the ships: Cedric Aldridge.
+Aydemir'in balkonda bıraktığı telefon: Baran, Başsavcı Nermin Arslan'ı susturmak için iki kişi tutmuş.	The phone Aldridge left on the balcony: Barrow hired two men to silence Chief Prosecutor Nora Ashford.
+Savcı konuşmasını bitirdi. Tetikçinin cebinden bir not çıktı: "Muhasebeci konuşmadan işini bitir." Baran'ın muhasebecisi her şeyi biliyor — onu canlı istiyoruz.	The prosecutor finished her speech. A note came out of the hitman's pocket: "Finish the accountant before he talks." Barrow's accountant knows everything — we want him alive.
+Muhasebeci Koç'un hesapları gazeteci Selin Ay'ın cinayetine ödeme gösteriyor. Tetikçi Çakal, dosyayı kapatan bir komiser.	Accountant Cole's books show a payment for the murder of journalist Sophie Lane. The hitman, the Jackal, is a police inspector who closed the case.
+Çakal'ın motosikletinde Baran'ın güvenlik şefinin numarası: Tolga Demirel. Bize karşı her hamleyi o planlamış.	On the Jackal's motorcycle: the number of Barrow's security chief, Toby Darrell. He planned every move against us.
+Demirel'in tabletinde senin kullandığın bütün atış noktaları var — hepsi işten önce kaydedilmiş. Bunları ona kim verdi? Dosyanın üstünde tek harf: "K."	Darrell's tablet has every firing position you've used — all logged before the jobs. Who gave them to him? One letter on the file: "C."
+Baran'ın son mesajı yarım kaldı: "KONTROL'e söyle, anlaşma hâlâ geçerli…" Dosyalar Kartal Tepe'yi ve beş ismi gösteriyor: Kurul.	Barrow's last message was cut off: "Tell Control the deal still stands…" The files point to Eagle Ridge and five names: the Council.
+Banker Kurt'un tableti Kurul'un ödeme defterine bağlanıyor. Her ödemenin altında aynı onay kodu: KONTROL.	Banker Hurst's tablet connects to the Council's payment ledger. Under every payment, the same approval code: CONTROL.
+Hakim Oral'ın kasasında Baran davalarının kararları — duruşmalardan önce yazılmış. Biri de senin eski birliğine ait.	In Judge Oakley's safe: rulings for Barrow's cases — written before the hearings. One of them concerns your old unit.
+Müteahhit Tan'ın telefonunda Kurul'un kuryesinin rotası: şifreli diskle vadiyi geçecek.	Contractor Tate's phone has the route of the Council's courier: he'll cross the valley with an encrypted disk.
+Kuryenin diski açıldı: Kurul'un bütün ödemeleri — ve KONTROL'e yapılan aylık ödemeler. Bize iş verenler, Kurul'un kendi temizlikçileri.	The courier's disk is open: every Council payment — and monthly payments to Control. The people giving us jobs are the Council's own cleaners.
+Bülent Er'in konvoyundaki evraklar: Kurul'a karşı açılan her soruşturmayı KONTROL'ün talimatıyla kapatmış.	The papers in Brian Ellery's convoy: he shut down every investigation into the Council on Control's orders.
+Elif Demir yaşıyor ve yarın konuşacak. Tetikçileri tutan adamın adı onun dosyasında: Orhan Sezer, Kurul'un temizlikçisi.	Ellie Dunn is alive and will testify tomorrow. The name of the man who hired the hitmen is in her file: Oscar Selby, the Council's cleaner.
+Sezer'in telefonundaki son arama Patron'dan değil. KONTROL'den. Senden sonra temizlenecek kişi sendin.	The last call on Selby's phone isn't from the Boss. It's from Control. After you, the next one to be cleaned up was you.
+Kurul bitti. Disk hâlâ sende.	The Council is finished. The disk is still with you.
+Dr. Aras baygın, tekne bekliyor. Onu kime teslim edeceksin?	Dr. Ames is unconscious, the boat is waiting. Who will you hand her over to?
+KONTROL'E	TO CONTROL
+Kimyager KONTROL'ün hücresine gitti. Ondan bir daha haber alınmadı.	The Chemist went to a Control cell. Nobody heard from her again.
+SAVCILIĞA	TO PROSECUTOR
+Kimyager savcılığa bırakıldı. İfadesi Baran'a açılan davanın ilk delili oldu.	The Chemist was left with the prosecutor's office. Her statement became the first evidence in the case against Barrow.
+Baran'ın kasası açık: dosyalar ve iki milyon avro. Ne yapacaksın?	Barrow's vault is open: the files and two million euros. What will you do?
+PARAYI AL	TAKE THE CASH
+Parayı aldın (+20.000). KONTROL'e sadece dosyaları gönderdin.	You took the cash (+20,000). You sent Control only the files.
+DOKUNMA	LEAVE IT
+Parayı bıraktın. Dosyaların kopyasını Başsavcı Arslan'a yolladın.	You left the cash. You sent a copy of the files to Chief Prosecutor Ashford.
+Kurul'un bütün ödemeleri ve KONTROL'ün imzası bu diskte. Kime vereceksin?	Every Council payment and Control's signature are on this disk. Who gets it?
+Diski KONTROL'e verdin. Ertesi sabah Kurul'un boş koltukları dolmaya başladı — yeni isimlerle. Sözleşme tamam; sen yine kimsesin.	You gave the disk to Control. The next morning the Council's empty seats began to fill — with new names. Contract done; you're nobody again.
+SAVCIYA	TO PROSECUTOR
+Diski Başsavcı Nermin Arslan'a bıraktın. Bir hafta sonra KONTROL'ün kapısına polis dayandı. Adın yine yok — ama bu sefer kendi seçimin.	You left the disk with Chief Prosecutor Nora Ashford. A week later, police were at Control's door. You still have no name — but this time it was your own choice.
+ Kimyagerin ifadesi davayı ayakta tutuyor.	 The Chemist's testimony keeps the case alive.
+ Baran'ın parasını aldığını KONTROL biliyor.	 Control knows you took Barrow's money.
+Seni kaybettiler — ama nişancı yuvasını arıyorlar	They lost you — but they're searching for the sniper's nest
+Vuruldun — 	You're hit — 
+Vuruldun — yerin tespit edildi	You're hit — position spotted
+ÇAYLAK	ROOKIE
+TETİKÇİ	TRIGGERMAN
+NİŞANCI	MARKSMAN
+KESKİN NİŞANCI	SHARPSHOOTER
+GÖLGE	SHADOW
+HAYALET	GHOST
+Günün sözleşmesi	Daily contract
+Elmasla son geliştirme kademeleri	Final upgrade tiers with gems
+Efsane rütbe yolu	Legendary rank path
+TELEFERİK	CABLE CAR
+Kartal Tepe teleferiği	Eagle Ridge cable car
+Sinan Kurt zirvedeki kahvaltıya teleferikle çıkacak. Kabin zirve istasyonuna varırsa onu kaybederiz.	Sidney Hurst is taking the cable car up to breakfast at the summit. If the cabin reaches the summit station, we lose him.
+Baran'ın dosyaları bizi Kartal Tepe'ye getirdi. Kurul — Baran'ı yıllarca besleyen ve koruyan beş kişi — yılbaşı haftasını her yıl burada geçiriyor.\n\nİlki Sinan Kurt, Kurul'un bankeri. Kayak barında kahvesini bitirince iki korumasıyla teleferiğe binip zirvedeki restorana çıkacak. Kabin hattın sonuna varırsa onu kaybederiz.	Barrow's files led us to Eagle Ridge. The Council — five people who fed and protected Barrow for years — spends New Year's week here every year.\n\nFirst up is Sidney Hurst, the Council's banker. Once he finishes his coffee at the ski bar, he'll board the cable car with two bodyguards and ride up to the summit restaurant. If the cabin reaches the end of the line, we lose him.
+Kabin camı mermiyi durdurmaz; yukarı çıkan kabine biraz önden ve yukarıdan nişan al. İstasyonun yanındaki motor dairesine iki atış hattı durdurur: kabinler sallanır, içindekiler çömelir.	The cabin glass won't stop a bullet; lead the rising cabin a little ahead and above. Two shots into the motor room by the station stop the line: the cabins sway and the passengers crouch.
+Uzun menzil: kabin 250 metreden 1 kilometreye kadar uzaklaşır	Long range: the cabin moves from 250 meters out to 1 kilometer
+Teleferik motoru: istasyonun batısındaki beton kulübe	Cable car motor: the concrete hut west of the station
+Sinan Kurt istasyona kaçtı	Sidney Hurst fled into the station
+KONTROL	CONTROL
+Platformdalar. Sıradaki kabine binecekler.	They're on the platform. They'll board the next cabin.
+Kabine bindiler — yukarı çıkıyorlar	They're in the cabin — heading up
+Zirve istasyonuna	To summit station
+Sinan Kurt zirve istasyonuna vardı	Sidney Hurst reached the summit station
+Teleferik durdu — kabinler sallanıyor!	Cable car stopped — the cabins are swaying!
+Teknisyenler hattı yeniden çalıştırdı! Kabin yine hareket ediyor.	The technicians restarted the line! The cabin's moving again.
+Kayak barında, korumalarıyla kahve içiyor. Platforma çıkınca sıradaki kabine binecek.	At the ski bar, having coffee with his bodyguards. When he gets to the platform he'll board the next cabin.
+Hat saatte 18 kilometre gidiyor. Kabin uzaklaştıkça mermi düşüşü artar — hesabını yap.	The line moves at 18 km/h. The farther the cabin gets, the more the bullet drops — do the math.
+Sinan Kurt	Sidney Hurst
+Uzun gri palto, gözlük, kır saç. İki korumasıyla.	Long gray coat, glasses, gray hair. Two bodyguards.
+Sinan Kurt'u zirve istasyonuna varmadan etkisiz hale getir	Neutralize Sidney Hurst before he reaches the summit station
+Teleferik motorunu durdurabilirsin (isteğe bağlı)	You can stop the cable car motor (optional)
+Sözleşmeyi tamamla	Complete the contract
+Kabin hareket halindeyken vur	Hit him while the cabin is moving
+En fazla iki atış	Two shots max
+ŞÖMİNE	FIREPLACE
+Doğu yamacı — cam villa	East slope — glass villa
+Hakim Ferit Oral şöminenin başında. Villanın bütün ön cephesi cam — ve cam kırıldığı an içeridekiler anlar.	Judge Francis Oakley is by the fireplace. The villa's whole front is glass — and the moment it breaks, everyone inside knows.
+Ferit Oral, Baran'ın her davasını düşüren hakim. Yıllardır Kurul'un yargıdaki adamı. Bu gece doğu yamacındaki cam villasında eşiyle.\n\nDışarıda, terasta bir koruma dolaşıyor; aşağıda araçta bir şoför bekliyor. Hakim 23:25'te yatmaya gidecek. Eşi odadayken ateş edersen tanık kalır.	Francis Oakley is the judge who threw out every case against Barrow. For years he's been the Council's man in the courts. Tonight he's at his glass villa on the east slope with his wife.\n\nOutside, a guard patrols the terrace; below, a driver waits in a car. The judge turns in at 23:25. Fire while his wife is in the room and you leave a witness.
+İlk mermi camı kırar ve sesi içeridekileri ürkütür: ilk atışın öldürücü olsun. Hakim zaman zaman cama gelip vadiye bakıyor — en açık an o.	The first round breaks the glass and the noise spooks everyone inside: make your first shot lethal. Now and then the judge comes to the glass to look at the valley — that's when he's most exposed.
+Hakim bölmenin arkasında. Cama ya da şömineye geri gelmesini bekle.	The judge is behind the partition. Wait for him to come back to the glass or the fireplace.
+Hakim yatak odasına kilitlendi	The judge locked himself in the bedroom
+Hakimin yatmasına	Until the judge turns in
+Hakim yatak odasına gidiyor!	The judge is heading for the bedroom!
+Hakim yatmaya gitti	The judge has turned in
+Cam ön cephe vadiye bakıyor. Hakim kanepede, eşi masanın başında.	The glass front faces the valley. The judge is on the sofa, his wife at the table.
+Eşi arada bir öbür odalara geçiyor. O sırada vurursan kimse bir şey görmez.	His wife steps into the other rooms now and then. Hit him then and nobody sees a thing.
+Yolun aşağısındaki adamın elinde gece dürbünü var. Dürbün sana dönünce eğil.	The man down the road has night binoculars. Duck when they turn your way.
+Ferit Oral	Francis Oakley
+Beyaz balıkçı yaka kazak, gözlük, beyaz saç. Cam villada.	White turtleneck, glasses, white hair. In the glass villa.
+Hakim Ferit Oral'ı yatmaya gitmeden etkisiz hale getir	Neutralize Judge Francis Oakley before he turns in
+Tanık bırakma: eşi odadayken ateş etme	Leave no witness: don't fire while his wife is in the room
+Camın ardından tek atış	One shot through the glass
+JAKUZİ	HOT TUB
+Kartal Dağ Oteli — spa terası	Eagle Mountain Hotel — spa terrace
+Selim Tan gün batımında jakuzide. Buhar onu bir saklıyor, bir gösteriyor — pencereni bekle.	Simon Tate is in the hot tub at sunset. The steam hides him, then shows him — wait for your window.
+Selim Tan, Baran'ın limandaki depolarını, Kurul'un kara parayla yükselen bütün otellerini inşa eden müteahhit.\n\nOtelin spa terasında, jakuzide gün batımını izliyor. Kapıda bir koruması, yanında bir arkadaşı var; garson şampanya getirecek. Sudan çıktığında içeri girer.\n\nKoruma kapıdan dürbünle yamaçları tarıyor. Selim'in dibinde durduğu için onu vurmak Selim'i ürkütür: dürbün sana döndüğünde eğil.	Simon Tate is the contractor who built Barrow's warehouses at the harbour and every hotel the Council raised with dirty money.\n\nHe's watching the sunset from the hot tub on the hotel's spa terrace. A bodyguard at the door, a friend beside him; a waiter will bring champagne. When he gets out of the water, he goes inside.\n\nThe bodyguard at the door is sweeping the slopes with binoculars. He's standing right next to Simon, so dropping him will spook Simon: duck when the binoculars turn your way.
+Suyun üstünde yalnızca başı ve omuzları görünüyor. Buhar yoğunlaştığında hedef kaybolur, açıldığında birkaç saniyelik pencere doğar. Sudan çıkıp kapıya yürürken bütün boyuyla açıktadır — ama yalnızca birkaç saniye.	Only his head and shoulders show above the water. When the steam thickens the target vanishes; when it clears, you get a window of a few seconds. Getting out and walking to the door, he's fully exposed — but only for a few seconds.
+Selim Tan otele girdi	Simon Tate went into the hotel
+Selim sudan çıkıyor — kapıya yürüyor!	Simon's getting out — walking to the door!
+Sudan çıkmasına	Until he gets out
+Buhar bazen tamamen kapatıyor. Sabret: açıldığı an tek bir temiz atış yeter.	Sometimes the steam covers him completely. Be patient: the moment it clears, one clean shot is all it takes.
+Kapıdaki koruma dürbünle yamaçları tarıyor. Onu vurursan Selim içeri kaçar: dürbün sana dönünce eğil.	The bodyguard at the door is sweeping the slopes with binoculars. Shoot him and Simon runs inside: duck when the binoculars turn your way.
+Selim Tan	Simon Tate
+Müteahhit	Contractor
+Kalın yapılı, sakallı, koyu saç. Jakuzide.	Heavyset, bearded, dark hair. In the hot tub.
+Selim Tan'ı içeri girmeden etkisiz hale getir	Neutralize Simon Tate before he goes inside
+Kafadan vur	Headshot
+Buharın içinden vur	Shoot through the steam
+KAR MOTORU	SNOWMOBILE
+Vadi tabanı — batı yamacı	Valley floor — west slope
+Kurye Kurul'un defterini kar motoruyla dağa kaçıracak. Ölmemeli: defterin şifresi onda.	The courier will run the Council's ledger up the mountain on a snowmobile. He can't die: he has the ledger's password.
+Doğan Aksu, Kurul'un kuryesi. Bütün ödemelerin kaydı olan şifreli disk onda. Birazdan otelden çıkıp kar motoruyla vadiyi geçecek ve batı yamacından ormana girecek.\n\nOnu CANLI istiyoruz. Önce motoru durdur — motor bloğuna iki atış — sonra kaçmaya çalışırsa bacağından vur. Ekibimiz ratrakla gelip onu alacak.\n\nKurul onu bizim almamıza izin vermez: kurye düşünce spadan adamları çıkıp onu susturmaya gelecek. Ratrak gelene kadar onları durdur.	Douglas Pike is the Council's courier. He has the encrypted disk with a record of every payment. Soon he'll leave the hotel, cross the valley on a snowmobile and enter the forest on the west slope.\n\nWe want him ALIVE. Stop the engine first — two shots to the engine block — then if he tries to run, shoot him in the leg. Our team will come in a snowcat to pick him up.\n\nThe Council won't let us take him: once the courier goes down, their men will come out of the spa to silence him. Hold them off until the snowcat arrives.
+Kar motoru saatte 25 kilometreyle gidiyor: biraz önden nişan al. Sürücüye isabet edersen ölebilir; motor bloğu sürücünün önünde, hedefin altında. Motor durunca kurye en yakın dağ evine koşar: içeri girmeden bacağından vur.	The snowmobile is doing 25 km/h: lead it a little. Hit the rider and he may die; the engine block is in front of the rider, below the target. Once the engine stops, the courier runs for the nearest chalet: shoot him in the leg before he gets inside.
+Kurye bir dağ evine saklandı	The courier hid in a chalet
+Kuryeyi BACAĞINDAN vur — ölmemeli	Shoot the courier in the LEG — he can't die
+Ekip gelene kadar onu hayatta tut	Keep him alive until the team arrives
+Kar motoru çalışmıyor — kurye koşarak kaçıyor!	The snowmobile's dead — the courier's running!
+Kurye ormana girdi	The courier made it into the forest
+Kurye kar motorunda — vadiyi geçiyor!	The courier's on the snowmobile — crossing the valley!
+Motor durdu — kurye koşarak kaçıyor!	Engine's dead — the courier's running!
+Ratrakın ulaşmasına	Snowcat arrives in
+Spadan silahlı biri çıktı — kuryeye gidiyor!	An armed man came out of the spa — he's going for the courier!
+Etraf temiz — ratrak tam gaz geliyor!	All clear — the snowcat's coming full throttle!
+Kurye uyudu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	The courier's out! The snowcat's on its way — the Council's men will come out of the spa, keep them away from him.
+Bacağından vuruldu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	Shot in the leg! The snowcat's on its way — the Council's men will come out of the spa, keep them away from him.
+Ekip kuryeyi aldı	The team picked up the courier
+Otelin spa kapısından çıkacak. Kar motoru otoparkın doğu ucunda.	He'll come out of the hotel's spa door. The snowmobile is at the east end of the parking lot.
+Doğan Aksu	Douglas Pike
+Koyu yeşil kapüşonlu, gri bere, kargo pantolon. Kar motorunda.	Dark green hoodie, gray beanie, cargo pants. On the snowmobile.
+Önce kar motorunu durdurabilirsin (motor bloğu: 2 atış)	You can stop the snowmobile first (engine block: 2 shots)
+Kuryeyi canlı yakala	Take the courier alive
+En fazla beş atış	Five shots max
+Kurul'un adamları nişan alamasın	Don't let the Council's men take aim
+ÇIĞ	AVALANCHE
+Batı yolu — çığ yamacı	West road — avalanche slope
+KAZA	ACCIDENT
+Bülent Er'in konvoyu batı yolundan gelecek. Kaza gibi görünmeli: yamaçta bir çığ patlayıcısı var.	Brian Ellery's convoy is coming up the west road. It has to look like an accident: there's an avalanche charge on the slope.
+Bülent Er, emniyet istihbaratının başında ve Kurul'un maaş bordrosunda. Baran'a karşı açılan her soruşturmayı o kapattırdı. Bu sabah iki araçlık konvoyla batı yolundan otele geliyor.\n\nBir emniyet müdürünün kurşunla ölmesi ülkeyi ayağa kaldırır. Kaza olmalı: yolun üstündeki yamaçta çığ kontrol patlayıcısı var. Onu doğru anda vurursan yamaç kopar ve yolu örter. Bülent ikinci araçta.	Brian Ellery heads police intelligence and is on the Council's payroll. He had every investigation into Barrow shut down. This morning he's coming to the hotel up the west road in a two-car convoy.\n\nA police chief dying by bullet would set the whole country off. It has to be an accident: there's an avalanche control charge on the slope above the road. Hit it at the right moment and the slope breaks loose and buries the road. Brian is in the second car.
+Çığ yola altı saniyede iner: sayaç altıya indiğinde patlayıcıyı vur. Erken vurursan konvoy kar yığınının önünde durur, geç kalırsan geçip gider; o zaman Bülent'i doğrudan vurmak zorundasın — ama kaza süsü gider.	The avalanche takes six seconds to reach the road: hit the charge when the counter drops to six. Too early and the convoy stops in front of the snow pile; too late and it drives past — then you'll have to shoot Brian directly, and the accident cover is gone.
+Çığ kontrol patlayıcısı: yolun üstündeki yamacın tepesinde, sarı tank	Avalanche control charge: the yellow tank at the top of the slope above the road
+İkinci araçta — batı yolundan geliyor	In the second car — coming up the west road
+Bülent Er otele girdi	Brian Ellery went into the hotel
+Yamaç koptu — çığ yola iniyor!	The slope broke loose — avalanche heading for the road!
+Konvoy otele vardı — Bülent arabadan iniyor!	The convoy reached the hotel — Brian's getting out!
+Konvoyun yamaca ulaşmasına	Convoy reaches the slope in
+Konvoy batı yolunda. Yamacın altındaki virajdan geçecekler.	The convoy's on the west road. They'll pass the bend under the slope.
+Çığ yolu kapattı, konvoy durdu. Bülent araçtan indi — kaza olmadı ama fırsat bu.	The avalanche blocked the road, the convoy stopped. Brian got out — no accident, but this is your chance.
+Çığ boşa gitti! Konvoy otele devam ediyor — Bülent arabadan inince fırsatın var.	The avalanche missed! The convoy's heading on to the hotel — you'll get a chance when Brian steps out.
+Tepedeki adam kayak devriyesi, patlayıcıyı kontrol ediyor. O oradayken tetikleme.	The man on the ridge is ski patrol, checking the charge. Don't trigger it while he's there.
+Çığ yamaçtan yola altı saniyede iner. Sayaç altıya indiği an patlayıcıyı vur.	The avalanche takes six seconds to reach the road. Hit the charge the moment the counter drops to six.
+Bülent Er	Brian Ellery
+Emniyet İstihbaratı	Police Intelligence
+İkinci araçta. Lacivert palto, şapka, gözlük.	In the second car. Navy coat, hat, glasses.
+Bülent Er'i etkisiz hale getir — kaza gibi görünmeli	Neutralize Brian Ellery — it must look like an accident
+Kaza süsü ver: çığla	Stage an accident: avalanche
+Çığ devriyesine zarar verme	Don't harm the ski patrol
+KAYAK HOCASI	SKI INSTRUCTOR
+Acemi pisti	Beginner slope
+Elif Demir yarın mahkemede Kurul'a karşı tanıklık edecek. Bugün onu öldürmeye üç kişi geliyor.	Ellie Dunn testifies against the Council in court tomorrow. Today, three men are coming to kill her.
+Kayak hocası Elif Demir, geçen kış teleferik makinisti Hasan Usta'nın Kurul'un adamlarınca öldürülüşünü gördü. Yarın mahkemede tanıklık edecek; Kurul onu bugün susturmak istiyor.\n\nElif acemi pistinde ders veriyor. Üç tetikçi var: istasyonun çatısında bir nişancı, otelden yürüyerek gelen biri ve kar motoruyla gelecek biri. Jandarma 11:33'te geliyor. O zamana kadar onu hayatta tut.	Ski instructor Ellie Dunn saw the Council's men kill cable car operator Harry Wells last winter. She testifies in court tomorrow; the Council wants her silenced today.\n\nEllie is teaching on the beginner slope. There are three hitmen: a sniper on the station roof, one walking in from the hotel and one coming by snowmobile. The gendarmerie arrives at 11:33. Keep her alive until then.
+Nişancıyı önce bul: teleferik istasyonunun düz çatısında, kar kadar beyaz. Ateş ettiğin an namlu alevini görür ve sana döner. Silah çeken birini kolundan vurursan silahını düşürür.	Find the sniper first: on the cable car station's flat roof, white as the snow. The moment you fire, he sees your muzzle flash and turns on you. Shoot someone drawing a gun in the arm and he drops it.
+Susturucu nişancının seni görmesini geciktirir	A suppressor delays the sniper spotting you
+İstihbarat: üç tetikçi — biri yüksekte	Intel: three hitmen — one up high
+Elif Demir	Ellie Dunn
+TANIK	WITNESS
+Kayak hocası — koru	Ski instructor — protect
+Elif'i jandarma gelene kadar koru	Protect Ellie until the gendarmerie arrives
+Çatıdaki Nişancı	Rooftop Sniper
+Haki yeşil palto, kalpak — teleferik istasyonunun çatısında	Khaki green coat, fur hat — on the cable car station roof
+İstasyonun çatısında biri doğruldu — Elif'e nişan alıyor!	Someone stood up on the station roof — he's aiming at Ellie!
+Çatıdaki nişancı seni vurdu	The rooftop sniper shot you
+Yürüyen Adam	The Walker
+Siyah kapüşonlu, siyah bere, sakallı	Black hoodie, black beanie, bearded
+Kar Motorlu Adam	Snowmobile Man
+Gri kapüşonlu, siyah bere, spor gözlük — kar motorunda	Gray hoodie, black beanie, sport goggles — on a snowmobile
+Doğudan bir kar motoru geliyor, hızlı!	A snowmobile's coming from the east, fast!
+Kar motorlu indi — Elif'e koşuyor!	Snowmobile man is off — running at Ellie!
+Üç tetikçiyi de durdur	Stop all three hitmen
+Üç tetikçiyi de durdur  	Stop all three hitmen  
+Jandarmanın gelmesine	Gendarmerie arrives in
+Jandarma geldi — Elif güvende	The gendarmerie is here — Ellie is safe
+Üç tetikçi var. Yüksekteki önce: istasyonun çatısını tara.	Three hitmen. The high one first: scan the station roof.
+Tanık	Witness
+Kırmızı mont, beyaz bere, at kuyruğu. Acemi pistinde ders veriyor.	Red jacket, white beanie, ponytail. Teaching on the beginner slope.
+Elif Demir'i jandarma gelene kadar koru	Protect Ellie Dunn until the gendarmerie arrives
+Üç tetikçiyi bul ve durdur (bonus)	Find and stop all three hitmen (bonus)
+Tanığı koru	Protect the witness
+Nişancıyı nişan alamadan durdur	Stop the sniper before he takes aim
+Öğrencilere zarar verme	Don't harm the students
+Köy — tipi altında	Village — in the blizzard
+Orhan Sezer tipiyi fırsat bilip ratrakla dağı aşacak. Göz gözü görmüyor — termal dürbün hazır olsun.	Oscar Selby will use the blizzard to cross the mountain in a snowcat. Zero visibility — have the thermal scope ready.
+Orhan Sezer, Kurul'un temizlikçisi: tanıkları ortadan kaldıran, delilleri yok eden adam. Elif'e gönderilen tetikçileri o tutmuştu. Tipiyi fırsat bilip ratrakla dağı aşacak; zirvenin ötesinde bir helikopter bekliyor.\n\nOtelden çıkıp köyü yürüyerek geçecek ve istasyonun yanındaki ratraka binecek. Kar fırtınasında 200 metrenin ötesi görünmüyor; termal dürbün vücut ısısını sisin içinden gösterir. Rüzgar çok sert.	Oscar Selby is the Council's cleaner: the man who makes witnesses disappear and destroys evidence. He hired the hitmen sent after Ellie. He'll use the blizzard to cross the mountain in a snowcat; a helicopter is waiting beyond the summit.\n\nHe'll leave the hotel, walk through the village and board the snowcat by the station. In the snowstorm you can't see past 200 meters; the thermal scope shows body heat through the fog. The wind is brutal.
+Termal dürbün herkesi beyaz gösterir: tarayıp kimliği oku. Rüzgar saatte 30 kilometreden fazla esiyor; nişanı rüzgarın geldiği yöne kaydır.	The thermal scope shows everyone white: scan to read their identity. The wind is over 30 km/h; shift your aim toward where the wind is coming from.
+Termal dürbün şart	Thermal scope required
+Orhan istasyona kaçtı	Oscar fled into the station
+Ratrak hareket etti — dağa tırmanıyor!	The snowcat is moving — climbing the mountain!
+Ratrakın sırtı aşmasına	Snowcat clears the ridge in
+Ratrak sırtı aştı	The snowcat cleared the ridge
+Görüş 200 metrenin altında. Termal dürbünle sıcak noktaları ara, sonra kimliği tara.	Visibility is under 200 meters. Look for heat signatures with the thermal scope, then scan their identity.
+Rüzgar doğudan sert esiyor. Uzak atışta mermi metrelerce sürüklenir.	The wind is blowing hard from the east. On a long shot the bullet drifts by meters.
+Orhan Sezer	Oscar Selby
+Temizlikçi	The Cleaner
+Lacivert uzun palto, kalpak, gözlük. İki korumasıyla.	Long navy coat, fur hat, glasses. Two bodyguards.
+Orhan Sezer'i ratrak sırtı aşmadan etkisiz hale getir	Neutralize Oscar Selby before the snowcat clears the ridge
+Tek atış	One shot
+Termal dürbün kullanmadan	Without the thermal scope
+ZİRVE	SUMMIT
+Kartal Dağ Oteli — yılbaşı gecesi	Eagle Mountain Hotel — New Year's Eve
+Gece yarısı havai fişekler başlayınca vadi gürültüyle dolacak. Patlamalar senin silahının sesini yutar.	At midnight the fireworks start and the valley fills with noise. The blasts swallow the sound of your rifle.
+Kurul'dan geriye bir kişi kaldı: Nedim Kurt — Patron. Baran'ı yaratan, yıllarca ayakta tutan ve her şeyin hesabını tutan adam.\n\nYılbaşı gecesi otelin önündeki terasta misafirleriyle. Gece yarısı gölün üstünde havai fişek gösterisi var: Patron izlemek için terasın ucuna yürüyecek. Patlamalar yankılanırken atılan bir kurşunu kimse duymaz. Gösteri bitince içeri girer — bir daha çıkmaz.\n\nPatron tedbirli: güvenlik şefi terasın önünden gece dürbünüyle yamaçları tarıyor. Seni görürse korumalar yerini öğrenir.	One member of the Council is left: Nathaniel Crowe — the Boss. The man who created Barrow, kept him standing for years and kept the books on everything.\n\nOn New Year's Eve he's on the terrace in front of the hotel with his guests. At midnight there's a fireworks show over the lake: the Boss will walk to the edge of the terrace to watch. A shot fired while the blasts echo — nobody hears it. When the show ends he goes inside — and doesn't come out again.\n\nThe Boss is careful: his security chief is sweeping the slopes with night binoculars from the front of the terrace. If he spots you, the bodyguards learn your position.
+Havai fişek patlamasının sesi yuvaya ulaştığı an tetiğe bas: o anki atışı kimse duymaz. Patron'un iki koruması var; kalabalığın içinde ateş etme. Güvenlik şefinin dürbünü sana dönünce eğil (SİPER).	Pull the trigger the moment a firework's boom reaches your nest: nobody hears a shot fired then. The Boss has two bodyguards; don't fire into the crowd. Duck (COVER) when the security chief's binoculars turn your way.
+Gece yarısı: göl üstünde havai fişek	Midnight: fireworks over the lake
+Patron içeri girdi	The Boss went inside
+Gece yarısına	Midnight in
+MİSAFİRLER	GUESTS
+On! Dokuz! Sekiz! Yedi...	Ten! Nine! Eight! Seven...
+Mutlu yıllar! — havai fişekler başladı	Happy New Year! — the fireworks have started
+Gösterinin bitmesine	Show ends in
+Gösteri bitti — Patron içeri dönüyor!	The show's over — the Boss is heading back inside!
+Kalabalığın ortasında. Gece yarısı gösteriyi izlemek için terasın ucuna yürüyecek.	In the middle of the crowd. At midnight he'll walk to the edge of the terrace to watch the show.
+Patlamanın sesi sana ulaştığı an ateş et — o anki atışı kimse duymaz.	Fire the moment the boom reaches you — nobody hears a shot fired then.
+Gece dürbünüyle yamaçları tarıyor — seni görürse yerini bildirir	Sweeping the slopes with night binoculars — if he spots you, he'll report your position
+Terasın önünde gece dürbünlü biri var: Patron'un güvenlik şefi. Dürbün sana dönünce eğil — gece yarısından önce atış sesi duyulur.	There's a man with night binoculars at the front of the terrace: the Boss's security chief. Duck when they turn your way — before midnight, a gunshot will be heard.
+Nedim Kurt	Nathaniel Crowe
+Beyaz smokin ceket, papyon, kır sakal. Otel terasında.	White tuxedo jacket, bow tie, gray beard. On the hotel terrace.
+Nedim Kurt'u gösteri bitmeden etkisiz hale getir	Neutralize Nathaniel Crowe before the show ends
+Kurul'u bitir	Finish the Council
+Her atışı havai fişeklerin sesine gizle	Hide every shot under the fireworks
+Balıkçı	Fisherman
+KARTAL K-98	EAGLE K-98
+Güvenilir sürgülü tüfek. Her suikastçının ilk ortağı.	A reliable bolt-action rifle. Every assassin's first partner.
+GÖLGE SR-7	SHADOW SR-7
+7.62×51 susturuculu	7.62×51 suppressed
+Entegre susturucu: atış sesi duyulmaz, mermi daha yavaş gider. Gizli işler için.	Integrated suppressor: the shot can't be heard, the bullet travels slower. For quiet jobs.
+FIRTINA DMR	STORM DMR
+7.62×51 yarı otomatik	7.62×51 semi-auto
+Yarı otomatik: sürgü çekmeden peş peşe ateş. Kaçan ve kalabalık hedefler için.	Semi-auto: fire shot after shot without working the bolt. For runners and crowds.
+ATMACA .338 LR	HAWK .338 LR
+Uzun menzil: yüksek namlu çıkış hızı, az düşüş, 20× dürbün. İnce siperleri deler.	Long range: high muzzle velocity, low drop, 20× scope. Pierces thin cover.
+TİTAN .50	TITAN .50
+Anti-materyel tüfek: duvar, araç kapısı ve motor bloğu deler. Her isabet öldürür.	Anti-materiel rifle: pierces walls, car doors and engine blocks. Every hit kills.
+Dürbüne takılır: karanlıkta her şeyi yeşil ışıkta görürsün.	Mounts on the scope: see everything in green light in the dark.
+TERMAL DÜRBÜN	THERMAL SCOPE
+İnsan vücudu beyaz parlar: sis, karanlık ve kalabalıkta hedefi bul.	Human bodies glow white: find the target in fog, darkness and crowds.
+KEŞİF DRONU	RECON DRONE
+Görev başına bir kez: bölgedeki herkesi 15 saniye işaretler ve kimliklerini tarar.	Once per mission: marks everyone in the area for 15 seconds and scans their identity.
+Sınırsız.	Unlimited.
+ZIRH DELİCİ	ARMOR-PIERCING
+İnce siperleri, araç kapılarını ve camları delip geçer.	Punches through thin cover, car doors and glass.
+UYUŞTURUCU İĞNE	TRANQ DART
+Öldürmez, bayıltır. Sessizdir ama yavaştır: çok düşer.	Doesn't kill, knocks out. Silent but slow: drops a lot.
+PATLAYICI	EXPLOSIVE
+Çarptığı yerde patlar: araçları ve jeneratörleri tek atışta durdurur.	Explodes on impact: stops vehicles and generators in one shot.
+HASAR	DAMAGE
+DÜRBÜN	SCOPE
+DENGE	STABILITY
+ŞARJÖR	MAGAZINE
+HIZ	SPEED
+Daha ağır mermi: zırhlı gövdeyi deler, kurşun daha hızlı ve düz gider.	Heavier round: pierces armored bodies, the bullet flies faster and flatter.
+Dürbünün en büyük yakınlaştırması artar.	Increases the scope's maximum zoom.
+Dürbündeki sallantı ve geri tepme azalır.	Reduces scope sway and recoil.
+Şarjöre daha çok fişek sığar.	The magazine holds more rounds.
+Sürgü ve şarjör değişimi hızlanır.	Faster bolt cycling and magazine changes.
+YAYGIN	COMMON
+NADİR	RARE
+EPİK	EPIC
+ fişek	 rounds
+Bu açıdan 	From this angle 
+ görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	 isn't visible. Use RELOCATE to move to another spot.
+Bundan sonra hedef işaretli gelmez. Dürbüne gir: sağdaki DOSYA'daki yüzü kalabalıkta bul, kişiyi tara, emin olunca İŞARETLE. Yanlış kişiyi vurursan sözleşme iptal.	From now on the target won't come marked. Go into the scope: find the face from the FILE on the right in the crowd, scan the person and MARK when you're sure. Shoot the wrong person and the contract is off.
+Uzak hedefte mermi düşer. Sol alttaki MENZİL ile dürbünü hedefin mesafesine ayarla (telemetre dürbünün altında) ya da sarı çizgilerden tut: 2 = 200 m, 3 = 300 m.	At long range the bullet drops. Set the scope to the target's distance with RANGE at bottom left (rangefinder under the scope) or hold over using the yellow lines: 2 = 200 m, 3 = 300 m.
+Bundan sonra isabet noktası sadece NEFES tutarken görünür. Nefesini doğru ana sakla.	From now on the impact point only shows while you hold your BREATH. Save your breath for the right moment.
+Şehirde isabet noktası yok. Menzili ayarla, rüzgâr panelindeki yöne göre sarı noktalardan (1 nokta = 1 mil) tut.	There's no impact point in the city. Set the range, then hold off with the yellow dots in the direction shown on the wind panel (1 dot = 1 mil).
+Dağda rüzgâr sert ve değişken; paneldeki ok ve güç anlık değişir. Okun yönünü ve gücünü izle, rüzgârın dindiği anı bekle.	On the mountain the wind is strong and shifting; the arrow and strength on the panel change constantly. Watch the arrow's direction and strength, and wait for the wind to die down.
+Alarm engellendi	Alarm prevented
+Son 10 saniye!	Last 10 seconds!
+Süre doldu	Time's up
+Takviye — mevzi alıp yuvana ateş edecek	Reinforcements — they'll take position and fire on your nest
+ silahlı adam mevzi alıyor — yuvanı arıyorlar!	 gunmen taking position — they're looking for your nest!
+Alarm çaldı, takviye geliyor. Başını eğik tut, önce silahlıları sustur.	The alarm went off, reinforcements are coming. Keep your head down and silence the gunmen first.
+Hedef düştü ama adamları seni arıyor. Siper al ya da silahlıları sustur — sonra çık.	The target's down but his men are looking for you. Take cover or silence the gunmen — then get out.
+Iskalaman dikkat çekti — silahlılar dışarı çıkıyor. Siper al, sonra işini bitir.	Your miss drew attention — the gunmen are coming out. Take cover, then finish the job.
+İŞÇİ	WORKER
+SİVİL	CIVILIAN
+Hedef saklandı	The target is hiding
+Hedef kaçtı	The target escaped
+Silahlı adam kaçtı	An armed man escaped
+Hedef öldü — onu canlı istiyorduk	The target is dead — we wanted him alive
+Korunan kişi	The protectee
+ öldürüldü	 was killed
+İsabet — 	Hit — 
+ atış daha	 more to go
+Görev başarısız	Mission failed
+YENİ HEDEF: 	NEW TARGET: 
+  ·  DÜELLO	  ·  DUEL
+  ·  SON ANDA	  ·  LAST SECOND
+  ·  SİPERİN İÇİNDEN	  ·  THROUGH COVER
+  ·  CAMIN İÇİNDEN	  ·  THROUGH GLASS
+  ·  HAREKETLİ HEDEF	  ·  MOVING TARGET
+ZIRH DURDURDU — kafaya nişan al, zırh delici kullan ya da HASAR geliştir	ARMOR STOPPED IT — aim for the head, use armor-piercing or upgrade DAMAGE
+SİLAHLI ADAM BULUNDU: 	GUNMAN FOUND: 
+HEDEF DOĞRULANDI: 	TARGET CONFIRMED: 
+Hedef değil — masum konuk	Not the target — an innocent guest
+Üç yanlış teşhis — sözleşme iptal	Three wrong IDs — contract cancelled
+KONTROL: O değildi — masum birini vurdun!	CONTROL: That wasn't him — you shot an innocent!
+KONTROL: Yine yanlış kişi. Bir daha olursa iptal.	CONTROL: Wrong person again. Once more and it's off.
+KİMLİK DOĞRULANDI: 	IDENTITY CONFIRMED: 
+KONTROL: Hayır, o değil. Dosyaya tekrar bak.	CONTROL: No, not him. Check the file again.
+KONTROL: O da değil. Bir daha yanılırsan iptal.	CONTROL: Not him either. One more mistake and it's off.
+YENİ YER: 	NEW POSITION: 
+Dron bölgeyi taradı — 	Drone swept the area — 
+ kişi tanımlandı	 people identified
+Dron silahlı birini işaretledi!	The drone marked an armed man!
+ vuruldu!	 has been shot!
+SUİKASTÇI ETKİSİZ — KAFADAN	ASSASSIN DOWN — HEADSHOT
+SUİKASTÇI ETKİSİZ	ASSASSIN DOWN
+KAFADAN VURUŞ — HEDEF ETKİSİZ	HEADSHOT — TARGET DOWN
+HEDEF ETKİSİZ	TARGET DOWN
+ öldü!	 is dead!
+Koruma etkisiz — kafadan	Guard down — headshot
+Koruma etkisiz	Guard down
+Yanlış kişi — o bir dublördü	Wrong person — that was a body double
+Yanlış kişi — masum birini vurdun	Wrong person — you shot an innocent
+Çok fazla sivil kayıp	Too many civilian casualties
+SİVİL KAYIP! Bir daha olursa görev iptal.	CIVILIAN CASUALTY! One more and the mission is off.
+ hedef kaldı	 targets left
+Yanlış yer — BACAĞINDAN vurmalısın	Wrong spot — you have to hit the LEG
+Yanlış yer — KOLUNDAN vurmalısın	Wrong spot — you have to hit the ARM
+ yaralandı — artık yürüyemiyor	 is wounded — can't walk anymore
+Silahını düşürdü!	He dropped his weapon!
+HEDEF YERE DÜŞTÜ	TARGET DOWN ON THE GROUND
+HEDEF YARALANDI	TARGET WOUNDED
+Koruma yaralandı — hâlâ telsize uzanabilir	Guard wounded — he can still reach the radio
+Masum biri yaralandı!	An innocent was wounded!
+ bayıldı — güvenli yere ulaşamaz	 passed out — can't reach safety
+İĞNE İSABET — hedef birkaç saniyede bayılacak	DART HIT — the target will pass out in a few seconds
+Koruma bayılıyor	Guard going under
+Masum birini bayılttın	You knocked out an innocent
+KARŞI NİŞANCI SANA NİŞAN ALDI — ÖNCE SEN VUR!	COUNTER-SNIPER HAS YOU — SHOOT FIRST!
+SİLAHLI ADAM NİŞAN ALIYOR — ŞİMDİ VUR!	GUNMAN AIMING — SHOOT NOW!
+GÖZCÜ SENİ GÖRDÜ!	THE SPOTTER SAW YOU!
+GÖZCÜ SENİ GÖRDÜ — telsize uzanıyor, onu durdur!	THE SPOTTER SAW YOU — he's reaching for the radio, stop him!
+Koruma telsize uzanıyor — onu durdur!	A guard is reaching for the radio — stop him!
+GÖZCÜ YERİNİ BİLDİRDİ!	THE SPOTTER REPORTED YOUR POSITION!
+ALARM VERİLDİ — HEDEF KAÇIYOR	ALARM RAISED — TARGET RUNNING
+Hedef tedirgin oldu ve kaçıyor!	The target got nervous and is running!
+Hedef saklandığı yerden çıkmadı	The target never left his hiding place
+Hedef içeri saklandı — bekle, bakmak için tekrar çıkabilir	The target is hiding inside — wait, he may come out again to look
+Hedef kapıda göründü — şimdi!	The target is at the door — now!
+Hedef siperin arkasında, görünmüyor. Yakınına ateş et: sesi duyunca bakmak için açığa çıkar. Bir daha ateş edersen kaçar — o sırada vur.	The target is behind cover, out of sight. Fire near him: he'll step out to check the noise. Fire again and he runs — hit him then.
+ISKALADIN — 	MISSED — 
+ KAÇIYOR!	 IS RUNNING!
+Iskaladın — biri ürktü ve kaçıyor!	Missed — someone got spooked and is running!
+Sana ateş edenleri sustur	Silence the shooters firing at you
+Sana ateş edenleri sustur  ·  	Silence the shooters  ·  
+ kaldı	 left
+HEDEF TAMAM — AMA SENİ BULDULAR: SİLAHLILARI SUSTUR	TARGET DONE — BUT THEY FOUND YOU: SILENCE THE GUNMEN
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — 	The target's down but your position is known. Don't let anyone come after you — 
+ silahlı var, hepsini sustur. Gerekirse siper al.	 gunmen left, silence them all. Take cover if you need to.
+Kalan silahlılar geri çekildi	The remaining gunmen pulled back
+BÖLGE TEMİZ — GÖREV TAMAM	AREA CLEAR — MISSION COMPLETE
+Sözleşme ücreti	Contract fee
+Yıldız hedefleri  ×	Star goals  ×
+Sessiz iş — alarm yok	Quiet job — no alarm
+Uzak atış  ·  	Long shot  ·  
+Keşif  ·  	Recon  ·  
+ tehdit	 threats
+Sivil kaybı  ×	Civilian casualties  ×
+Yaralı sivil  ×	Wounded civilians  ×
+Tekrar oynanış  ×%	Replay  ×%
+VETERAN  ×1,5	VETERAN  ×1.5
+Günün sözleşmesi (+%33: ücretin 2 katı)	Daily contract (+33%: 2× the fee)
+GÜMRÜK KAPISI	CUSTOMS GATE
+Liman giriş kapısı	Harbour entrance gate
+Selim Kaya kapıda denetimde. Kimliğini tara, sonra işini bitir.	Stuart Kane is inspecting the gate. Scan his identity, then finish the job.
+Gümrük müdürü Selim Kaya, rüşvet karşılığında kaçakçılara liman kapısını açıyor. Her sabah kapıdaki güvenlik noktasını denetliyor.\n\nKapıdan ayrılmadan onu etkisiz hale getir. Alarm verilirse otoparktaki aracına koşar.	Customs director Stuart Kane opens the harbour gate to smugglers for bribes. Every morning he inspects the security checkpoint at the gate.\n\nNeutralize him before he leaves the gate. If the alarm is raised, he'll run for his car in the parking lot.
+Dürbünü aç ve nişangahı birinin üzerinde tut: kimliği otomatik taranır. Kırmızı işaret hedefi gösterir.	Open the scope and hold the crosshair on someone: their identity is scanned automatically. The red marker shows the target.
+Selim Kaya	Stuart Kane
+Gümrük Müdürü	Customs Director
+Lacivert takım elbise, kırmızı kravat, gözlük.	Navy suit, red tie, glasses.
+Gümrük müdürü Selim Kaya'yı etkisiz hale getir	Neutralize customs director Stuart Kane
+LİMAN OFİSİ	HARBOUR OFFICE
+Liman yönetim binası	Harbour authority building
+Aydın sigara için dışarı çıkacak. Kapıdan uzaklaştığı an senin anın.	Ayres will step out for a smoke. The moment he moves away from the door, it's your moment.
+Liman müdür yardımcısı Can Aydın, kaçak sevkiyatların kayıtlarını siliyor. Binadan sadece sigara molalarında çıkıyor.\n\nKapıdan çıktığında fırsatı kaçırma: alarm verilirse binaya kapanır ve görev başarısız olur.	Deputy harbour director Colin Ayres is wiping the records of smuggled shipments. He only leaves the building on smoke breaks.\n\nDon't miss your chance when he steps out: if the alarm is raised, he'll lock himself in the building and the mission fails.
+Hedef bina içindeyken bekle. Kapıdan çıkınca sigara içtiği noktada sabit durur — nefesini tut ve kafasına nişan al.	Wait while the target is inside. When he comes out, he stands still where he smokes — hold your breath and aim for the head.
+Can Aydın	Colin Ayres
+Müdür Yardımcısı	Deputy Director
+Mavi polo tişört, siyah pantolon. Sigara molasında dışarı çıkar.	Blue polo shirt, black trousers. Steps out on smoke breaks.
+Can Aydın'ı binaya geri girmeden vur	Hit Colin Ayres before he goes back inside
+Alarm verdirme	Don't trigger the alarm
+Hedefi kafadan vur	Headshot on the target
+KONTEYNER TAKASI	CONTAINER SWAP
+Konteyner sahası	Container yard
+Kuzgun limana giriyor. Takas yeri çatıdan görünmüyor — onu dışarı çekmen gerekecek.	The Raven is entering the harbour. The swap spot can't be seen from the roof — you'll have to draw him out.
+Kuzgun lakaplı kaçakçı Tarık Bal arabasıyla limana gelecek ve konteynerlerin arasında bir alıcıyla buluşacak. Takas bitince arabasına binip gidecek.\n\nTakas yeri çatıdan görünmüyor. Ya yürürken vur ya da onu açığa çıkar: arabasının alarmı ya da yakınına düşen bir kurşun. İkinci kez ürkerse arabasına koşar.	Smuggler Travis Bell, known as the Raven, will drive into the harbour and meet a buyer between the containers. When the swap is done he'll get in his car and leave.\n\nThe swap spot can't be seen from the roof. Either hit him while he's walking or draw him into the open: his car alarm, or a bullet landing near him. If he gets spooked a second time, he'll run for his car.
+Hedef görünmüyorsa yakınına ateş et: sese bakmak için açığa çıkar. Arabasını vurursan alarm çalar, kontrol etmeye gelir.	If the target isn't visible, fire near him: he'll step out to check the noise. Shoot his car and the alarm goes off; he'll come to check it.
+Tarık konteynerlerin arasında, buradan görünmüyor. Arabasına ateş et: alarm çalınca kontrol etmeye gelir. Ya da ara yolun açık kısmına ateş et, sese bakmak için oraya yürür.	Travis is between the containers, out of sight from here. Shoot his car: when the alarm goes off he'll come to check. Or fire at the open part of the alley and he'll walk over to check the noise.
+Arabasında — limana geliyor	In his car — driving into the harbour
+Hedef arabasıyla kaçtı	The target escaped in his car
+Takas bitti — hedef arabasına dönüyor!	Swap's done — the target is heading back to his car!
+Takasın bitmesine	Swap ends in
+Hedefin arabası kapıdan girdi	The target's car came through the gate
+Araç alarmı çalıyor!	Car alarm going off!
+Tarık Bal	Travis Bell
+Gri tişört, kot pantolon, kırmızı bere. Kolları dövmeli.	Gray T-shirt, jeans, red beanie. Tattooed arms.
+Kuzgun'u takas bitmeden etkisiz hale getir	Neutralize the Raven before the swap ends
+En fazla 3 atış	3 shots max
+GECE NÖBETİ	NIGHT WATCH
+Depolar ve gözetleme kulesi	Warehouses and watchtower
+Rico ve adamları ateşin başında. Kuledeki gözcü her şeyi görür — önce onu düşün.	Rico and his men are by the fire. The spotter in the tower sees everything — think about him first.
+Paralı asker Rico Vargas ve adamları depoları koruyor. Gece soğuğunda ateş varilinin başında toplanıyorlar.\n\nKuledeki gözcü cesetleri görürse alarm verir. Önce onu susturmak işini kolaylaştırır.	Mercenary Rico Vargas and his men guard the warehouses. In the night cold they gather around a fire barrel.\n\nIf the spotter in the tower sees the bodies, he'll raise the alarm. Silencing him first makes the job easier.
+Ateşin yanındaki kırmızı yakıt bidonu tek atışta patlar ve yanındakileri götürür — ama yanlarındaki bekçi de ölür (sivil kayıp, yıldız kaybı) ve patlama sessiz iş primini yakar. Temiz iş için Rico'yu doğrudan vur.	The red fuel can by the fire blows with one shot and takes out everyone next to it — but the watchman beside them dies too (civilian casualty, lost star) and the blast burns the quiet-job bonus. For a clean job, hit Rico directly.
+Paralı Asker	Mercenary
+Kel ve sakallı. Taktik yelek, kırmızı tişört.	Bald and bearded. Tactical vest, red T-shirt.
+Rico Vargas'ı etkisiz hale getir	Neutralize Rico Vargas
+Bekçiye zarar verme	Don't harm the watchman
+DEPODAKİ KÖSTEBEK	THE MOLE IN THE WAREHOUSE
+A deposu yükleme alanı	Warehouse A loading area
+Köstebek kasa taşıyanlardan biri. Masumları vurma: önce tara.	The mole is one of the crate carriers. Don't shoot the innocent: scan first.
+Depoda çalışan Kerim, örgütün sevkiyat bilgilerini rakiplere satıyor. Diğer işçilerle birlikte kasa taşıyor.\n\nİşçiler masum: hedefi kıyafetinden tanı ve ateş etmeden önce mutlaka tara.	Keith, who works at the warehouse, is selling the organization's shipment intel to rivals. He's carrying crates with the other workers.\n\nThe workers are innocent: recognize the target by his clothes and always scan before you fire.
+Hareket eden hedefi vururken kurşunun uçuş süresini hesaba kat: yürüdüğü yönün biraz önüne nişan al.	When shooting a moving target, account for the bullet's flight time: aim a little ahead in the direction he's walking.
+Kerim Usta	Keith Porter
+Köstebek	The Mole
+Kırmızı kazak, siyah pantolon, bere. Kasa taşıyor.	Red sweater, black trousers, beanie. Carrying crates.
+Köstebeği bul ve etkisiz hale getir	Find and neutralize the mole
+Sivillere zarar verme	Don't harm civilians
+RIHTIM KAÇAĞI	QUAYSIDE RUNNER
+Rıhtım ve iskele	Quay and pier
+Tilki belgeleri teslim edip tekneye koşacak. Tekneyi vurursan yaya kalır.	The Fox will hand over the documents and run for the boat. Shoot the boat and he's stranded on foot.
+Tilki lakaplı Deniz Kara, çalınan belgeleri rıhtımda bir adama teslim edecek. Ardından iskeledeki sürat teknesiyle kaçacak.\n\nTekneye binerse onu kaybederiz. Hareketli hedefe önden nişan al.	Dean Carver, known as the Fox, will hand the stolen documents to a man on the quay. Then he'll escape in the speedboat at the pier.\n\nIf he gets on the boat, we lose him. Lead the moving target.
+300 metrede kurşun yaklaşık 0,4 saniye uçar. Koşan hedefte nişanı yaklaşık bir gövde önüne al. İskeledeki sürat teknesini önceden vurursan motoru çalışmaz: tekneyle kaçamaz, iskeleden koşmak zorunda kalır.	At 300 meters the bullet flies for about 0.4 seconds. On a running target, aim about one body-width ahead. Shoot the speedboat at the pier beforehand and its engine won't start: he can't escape by boat and has to run down the pier.
+Tekne çalışmıyor — hedef iskeleden kaçıyor!	The boat won't start — the target is running down the pier!
+Tekne vuruldu — motor çalışmıyor, tekneyle kaçamaz!	Boat hit — engine's dead, he can't escape by boat!
+Deniz Kara	Dean Carver
+Kahverengi kapüşonlu, kasket, koyu pantolon.	Brown hoodie, flat cap, dark trousers.
+Tilki'yi tekneyle kaçmadan durdur	Stop the Fox before he escapes by boat
+Önce teknesini vur	Shoot his boat first
+KAPTAN KÖŞKÜ	WHEELHOUSE
+Meridian Star köprüüstü	Meridian Star bridge
+Kaptan köprüüstünün kanadına çıkacak. Uzun atış, sert rüzgar — rüzgar okuna bak.	The captain will step out onto the bridge wing. Long shot, strong wind — watch the wind arrow.
+Meridian Star'ın kaptanı Orhan Demir, örgütün silah yükünü teslim etmeden limandan ayrılmak üzere. Köprüüstünün açık kanadına çıkıyor.\n\nMesafe uzun ve rüzgar sert. Kaçırırsan köşke kapanır.	Owen Dempsey, captain of the Meridian Star, is about to leave the harbour without delivering the organization's weapons cargo. He's stepping out onto the open bridge wing.\n\nThe distance is long and the wind is strong. Miss, and he shuts himself in the wheelhouse.
+Uzun mesafede kurşun düşer. Nişan yardımı açıksa dürbündeki kırmızı nokta kurşunun gideceği yeri gösterir.	At long range the bullet drops. With aim assist on, the red dot in the scope shows where the bullet will go.
+Orhan Demir	Owen Dempsey
+Yeşil mont, kot pantolon. Köprüüstü kanadında.	Green jacket, jeans. On the bridge wing.
+Kaptan Orhan Demir'i köşke kapanmadan vur	Hit Captain Owen Dempsey before he shuts himself in the wheelhouse
+YAT PARTİSİ	YACHT PARTY
+İskeledeki yat	The yacht at the pier
+Kral'ın partisi. Beyaz smokinli iki adam var — bıyıklı ve gözlüklü olan bizim adam.	Kroll's party. There are two men in white tuxedos — the one with the mustache and glasses is our man.
+Örgütün başı Viktor Kral yatında kutlama yapıyor. Korumaları her yerde.\n\nKonuklardan biri de beyaz smokin giymiş: taramadan ateş etme. Kral bir süre sonra iskeleden ayrılıp depolara yürüyecek.	Viktor Kroll, head of the organization, is celebrating on his yacht. His bodyguards are everywhere.\n\nOne of the guests is in a white tuxedo too: don't fire without scanning. After a while Kroll will leave the pier and walk to the warehouses.
+Gerçek hedef bıyıklı ve güneş gözlüklü. Emin değilsen nişangahı üzerinde tut ve kimlik kartını oku.	The real target has a mustache and sunglasses. If you're not sure, hold the crosshair on him and read his ID card.
+Kral'ın ayrılmasına	Kroll leaves in
+Viktor Kral	Viktor Kroll
+Örgüt Lideri	Organization Leader
+Beyaz smokin, papyon. Bıyıklı ve güneş gözlüklü.	White tuxedo, bow tie. Mustache and sunglasses.
+Viktor Kral'ı yattan ayrılmadan etkisiz hale getir	Neutralize Viktor Kroll before he leaves the yacht
+Konuklara zarar verme	Don't harm the guests
+Korumalara dokunma	Don't touch the bodyguards
+Giriş kapısı ve yönetim binası	Entrance gate and authority building
+Ayten Şahin bugün örgüte karşı ifade verecek. Polis onu ofise götürüyor. Kalabalıkta iki tetikçi var.	Alice Shaw testifies against the organization today. The police are taking her to the office. There are two hitmen in the crowd.
+Gümrük memuru Ayten Şahin, örgütün rüşvet ağına karşı tanıklık edecek. Polis onu sabah liman yönetim binasına getiriyor.\n\nÖrgüt iki tetikçi yolladı: işçi kılığında kalabalığa karışmışlar. Herkesi dürbünle tara — silahlılar kimlik kartında görünür. Ayten binaya girene kadar hayatta kalmalı.\n\nÖrgüt yalnız gelmedi: gözetleme kulesinde dürbünlü bir gözcü, kapının iki yanında silahlı adamları var. Yerini bulurlarsa sana ateş ederler.	Customs officer Alice Shaw will testify against the organization's bribery network. The police are bringing her to the harbour authority building this morning.\n\nThe organization sent two hitmen: dressed as workers, they've blended into the crowd. Scan everyone with the scope — the armed ones show on their ID card. Alice has to stay alive until she's inside the building.\n\nThe organization didn't come alone: a spotter with binoculars in the watchtower, armed men on both sides of the gate. If they find your position, they'll fire on you.
+Tetikçi silah çekince işaretçisinin etrafındaki kırmızı halka dolmadan vur. Kolundan vurursan silahını düşürür. Kuledeki gözcünün dürbünü sana dönünce eğil (SİPER) ya da önce onu indir.	When a hitman draws, hit him before the red ring around his marker fills. Shoot him in the arm and he drops his gun. Duck (COVER) when the tower spotter's binoculars turn your way, or drop him first.
+Termal dürbün kalabalıkta işe yarar	The thermal scope helps in the crowd
+Ayten Şahin	Alice Shaw
+Bej trençkot — polis eşliğinde	Beige trench coat — under police escort
+Tanığı ofise kadar koru	Protect the witness all the way to the office
+Bilinmeyen İşçi	Unknown Worker
+Temizlikçi kılığında — silahlı	Dressed as a janitor — armed
+İşçi kılığında — silahlı	Dressed as a worker — armed
+Tetikçileri durdur	Stop the hitmen
+Tetikçileri durdur  	Stop the hitmen  
+Kulede dürbünlü biri var. Dürbünü sana döndüğünde eğil — seni görürse telsizle herkese bildirir.	There's someone with binoculars in the tower. Duck when they turn your way — if he sees you, he'll radio everyone.
+Polis arabasında — yolda	In the police car — on the way
+Tanık arabadan indi, kapıya yürüyor. Gözünü dört aç.	The witness is out of the car, walking to the door. Keep your eyes open.
+POLİS	POLICE
+Silah! Arkamda kal, eğil!	Gun! Stay behind me, get down!
+Herkesi tara. Kartında SİLAHLI yazan adam bizim adamımız değil.	Scan everyone. The man whose card says ARMED isn't one of ours.
+Bej trençkot, kahverengi saç. Polis memuruyla yürüyor.	Beige trench coat, brown hair. Walking with a police officer.
+Tanığı ofise girene kadar hayatta tut	Keep the witness alive until she's inside the office
+Kalabalıktaki iki tetikçiyi bul ve durdur (bonus)	Find and stop the two hitmen in the crowd (bonus)
+İki tetikçiyi de silah çekmeden durdur	Stop both hitmen before they draw
+KURYE	COURIER
+Kurye çantayla depodan çıkacak. Müşteri onu canlı istiyor: bacağından vur, gerisini ekip halleder.	The courier will leave the warehouse with a bag. The client wants him alive: shoot him in the leg, the team handles the rest.
+Emre Doğan, örgütün banka hesaplarını taşıyan kurye. Birazdan A deposundan çıkıp arabasına yürüyecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, yere düşsün. Ekibimiz arabayla gelip onu alacak. Öldürürsen bilgi kaybolur. Dikkat: örgüt, kuryesinin konuşmasındansa ölmesini tercih eder — korumaları ona silah çekecek, depodaki adamları da dışarı çıkıp onu susturmaya çalışacak.	Evan Dorsey is the courier carrying the organization's bank accounts. Soon he'll leave Warehouse A and walk to his car.\n\nThe client wants him ALIVE: shoot him in the leg and put him down. Our team will drive in and pick him up. Kill him and the intel is lost. Careful: the organization would rather its courier die than talk — his bodyguards will draw on him, and the men in the warehouse will come out to try to silence him.
+Bacağından vurulan yere düşer. Korumalar onu susturmak için silah çekerse kırmızı halka dolmadan indir — kolundan vurursan silahını düşürür. Iskalarsan kurye arabasına koşar.	Shot in the leg, he goes down. If the bodyguards draw to silence him, drop them before the red ring fills — shoot one in the arm and he drops his gun. Miss, and the courier runs for his car.
+Kurye arabasıyla kaçtı	The courier escaped in his car
+Ekip gelene kadar kuryeyi hayatta tut	Keep the courier alive until the team arrives
+Kurye dışarıda. Bacağına nişan al.	The courier's outside. Aim for his leg.
+Depodaki Adam	Warehouse Man
+Depodan silahlı biri çıktı — kuryeye gidiyor!	An armed man came out of the warehouse — he's going for the courier!
+Yol temiz — ekip gaza bastı, geliyorlar!	Road's clear — the team's flooring it, they're coming!
+Ekip kuryeyi aldı!	The team picked up the courier!
+Ekibin gelmesine	Team arrives in
+Kurye yerde! Ekip yolda — 	Courier's down! The team's on the way — 
+ saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	 seconds. The organization's men will try to silence him, and more will come out of the warehouse!
+Emre Doğan	Evan Dorsey
+Mavi polo tişört, siyah pantolon. Elinde siyah bir çanta.	Blue polo shirt, black trousers. Carrying a black bag.
+Ekip gelene kadar onu silahlı adamlardan koru	Protect him from the gunmen until the team arrives
+Kuryeyi canlı teslim et	Deliver the courier alive
+İlk atışta bacağından vur	Hit his leg with the first shot
+Kimse kuryeye nişan alamasın	Don't let anyone aim at the courier
+KARARTMA	BLACKOUT
+Merkez saha — gece sevkiyatı	Central yard — night shipment
+Kartal sevkiyatı bizzat denetliyor. Işıklar onun lehine — ama elektrik panosu direğin dibinde.	The Eagle is overseeing the shipment himself. The lights are on his side — but the power box is at the base of the pole.
+Silah tüccarı Hakan Er, namıdiğer Kartal, gece yarısı limanın merkez sahasında bir sevkiyatı denetliyor. Etrafı aydınlık ve korumalarla dolu.\n\nIşık direğinin dibindeki elektrik panosunu vurursan bütün liman karanlığa gömülür: korumalar kör kalır, ama Kartal da arabasına yürür. Gece görüşü dürbünü bu iş için sende.	Arms dealer Hank Ellis, a.k.a. the Eagle, is overseeing a shipment in the harbour's central yard at midnight. The area is lit up and full of bodyguards.\n\nShoot the power box at the base of the light pole and the whole harbour goes dark: the bodyguards are blinded, but the Eagle walks to his car too. You have the night vision scope for this job.
+Gece görüşünü dürbündeki göz tuşuyla aç. Karanlıkta korumalar yakından geçmedikçe cesetleri göremez. Kartal arabasına binerse kaçar.	Turn on night vision with the eye button in the scope. In the dark, the bodyguards can't see bodies unless they pass close by. If the Eagle gets in his car, he escapes.
+Kartal arabasıyla kaçtı	The Eagle escaped in his car
+Kartal'ı etkisiz hale getir	Neutralize the Eagle
+Kartal arabasına yürüyor!	The Eagle is walking to his car!
+Sevkiyatın bitmesine	Shipment ends in
+KARARTMA — liman karanlığa gömüldü	BLACKOUT — the harbour went dark
+Işıklar gitti! Gece görüşünü aç — Kartal arabasına gidiyor!	Lights out! Turn on night vision — the Eagle's heading for his car!
+Hakan Er	Hank Ellis
+Lacivert takım, kırmızı kravat, gözlük. Sevkiyatı denetliyor.	Navy suit, red tie, glasses. Overseeing the shipment.
+Silah tüccarı Kartal'ı etkisiz hale getir	Neutralize arms dealer the Eagle
+İstersen önce elektrik panosunu vurup limanı karart	If you want, shoot the power box first and black out the harbour
+Işıkları söndür ve karanlıkta vur	Kill the lights and hit him in the dark
+İĞNE	DART
+Rıhtım — Meridian Star iskelesi	Quay — Meridian Star pier
+Kimyager gemiye binmeden onu uyut. Kimse ölmeyecek — bu iş temiz olmalı.	Put the Chemist to sleep before she boards the ship. Nobody dies — this job has to be clean.
+Dr. Selin Aras, örgütün sentetik uyuşturucu laboratuvarını yöneten kimyager. Şafak sökmeden iki korumasıyla rıhtım boyunca yürüyüp Meridian Star'a binecek.\n\nİstihbarat onu canlı istiyor. Sana yedi uyuşturucu iğne veriyoruz: kimyageri bayılt. Korumaları da bayıltırsan ekibimiz tekneyle gelip onu sessizce alır. Korumalar — ya da gemiden inen biri — baygın kadına ulaşırsa onu gemiye taşırlar.	Dr. Sarah Ames is the chemist who runs the organization's synthetic drug lab. Before dawn she'll walk along the quay with two bodyguards and board the Meridian Star.\n\nIntelligence wants her alive. We're giving you seven tranquilizer darts: knock out the Chemist. Knock out the bodyguards too and our team will come by boat and take her quietly. If the bodyguards — or someone coming off the ship — reach the unconscious woman, they'll carry her aboard.
+Mermi seçici tuşuyla UYUŞTURUCU İĞNE'ye geç. İğne yavaş uçar ve çok düşer: kırmızı nokta isabet yerini gösterir. Önce korumaları bayıltmak işi kolaylaştırır.	Switch to TRANQ DART with the ammo selector. The dart flies slow and drops a lot: the red dot shows the impact point. Knocking out the bodyguards first makes the job easier.
+Kimyager gemiye bindi	The Chemist boarded the ship
+Kimyageri uyuşturucu iğneyle bayılt	Knock out the Chemist with a tranquilizer dart
+Ekip tekneyle gelene kadar onu korumalardan uzak tut	Keep the bodyguards away from her until the team arrives by boat
+Meridian Star'ın adamı — kimyageri gemiye taşımak isteyecek	Meridian Star crewman — he'll try to carry the Chemist aboard
+Ekip kimyageri tekneye aldı!	The team got the Chemist into the boat!
+Teknenin gelmesine	Boat arrives in
+Gemiden iki kişi iniyor — kimyagere gidiyorlar!	Two men coming off the ship — they're going for the Chemist!
+Herkes yerde. Tekne hızlanıyor!	Everyone's down. The boat's speeding up!
+Korumalar temiz. Tekne geliyor — 	Bodyguards clear. The boat's coming — 
+ saniye.	 seconds.
+İğne tuttu! Korumaları durdur, sonra ekibi gönderiyorum.	The dart took! Stop the bodyguards, then I'll send the team.
+Koruma kimyagere ulaştı — onu taşıyacak!	A bodyguard reached the Chemist — he's going to carry her!
+Mürettebat kimyagere ulaştı — onu kaldırıyorlar!	The crew reached the Chemist — they're lifting her!
+Kimyageri gemiye taşıdılar	They carried the Chemist aboard
+Dr. Selin Aras	Dr. Sarah Ames
+Siyah mont, sarı saç. İki korumayla yürüyor.	Black jacket, blonde hair. Walking with two bodyguards.
+Korumaları durdur, ekip onu tekneyle alsın	Stop the bodyguards so the team can take her by boat
+Kimyageri canlı teslim et	Deliver the Chemist alive
+Kimseyi öldürme	Don't kill anyone
+Önce korumaları bayılt	Knock out the bodyguards first
+CAM KULE	GLASS TOWER
+Kordon Plaza — 11. kat	Bayfront Plaza — 11th floor
+Defne Aksoy hâlâ ofiste. Cam mermiyi durdurmaz — ama kırıldığı an içerideki herkes duyar.	Daphne Archer is still at the office. Glass won't stop a bullet — but the moment it breaks, everyone inside hears it.
+Liman ağı çöktü ama paranın aktığı yer hâlâ ayakta: Baran Holding. Finans direktörü Defne Aksoy, örgütün kirli parasını aklıyor ve bu gece hesapları yurtdışına taşıyacak.\n\nKordon Plaza'nın 11. katında, ışıkları yanan ofiste tek başına çalışıyor. Katta bir güvenlik görevlisi devriye geziyor. Saat 22:42'de asansörle iniyor: ondan önce bitir.	The harbour network is gone, but the place the money flows to is still standing: Barrow Holdings. Finance director Daphne Archer launders the organization's dirty money, and tonight she's moving the accounts abroad.\n\nShe's working alone in a lit office on the 11th floor of Bayfront Plaza. A security guard patrols the floor. At 22:42 she takes the elevator down: finish it before then.
+Cam mermiyi yavaşlatır ama durdurmaz. İlk atışta cam kırılır ve içeridekiler sesi duyar: Defne kırık cama bakmaya gelir, ikinci kez ürkerse asansöre koşar.	Glass slows the bullet but doesn't stop it. The first shot breaks the glass and everyone inside hears it: Daphne comes to look at the broken window; spook her a second time and she runs for the elevator.
+Defne masaların arkasında, görünmüyor. Ofisin camına yakın bir yere ateş et: kırılan camı görmeye pencereye gelir.	Daphne is behind the desks, out of sight. Fire somewhere near the office glass: she'll come to the window to see what broke.
+Defne asansöre bindi	Daphne got into the elevator
+Asansöre inmesine	Until she heads for the elevator
+Defne çantasını aldı — asansöre yürüyor!	Daphne grabbed her bag — she's walking to the elevator!
+Katta bir güvenlik görevlisi var. Cesedi görürse alarm verir, Defne de kaçar.	There's a security guard on the floor. If he sees the body, he'll raise the alarm and Daphne runs.
+Pencereye her gelişinde birkaç saniye durup şehre bakıyor. Sabırlı ol.	Each time she comes to the window she stops for a few seconds to look at the city. Be patient.
+Defne Aksoy	Daphne Archer
+Siyah ceket, mavi etek, kızıl saç, gözlük. Kordon Plaza 11. kat.	Black jacket, blue skirt, red hair, glasses. Bayfront Plaza, 11th floor.
+Defne Aksoy'u asansöre binmeden etkisiz hale getir	Neutralize Daphne Archer before she gets into the elevator
+TRAMVAY	TRAM
+Saat Kulesi tramvay durağı	Clock Tower tram stop
+Postacı defteri tramvayla şehirden çıkaracak. 19:06 tramvayı durağa girdiğinde iş biter.	The Postman will take the ledger out of the city by tram. When the 19:06 tram pulls into the stop, it's over.
+Mert Tunç, nam-ı diğer Postacı, Baran'ın rüşvet defterini taşıyor: kime ne ödendiyse hepsi orada. Kordon'dan yürüyüp Saat Kulesi durağında tramvay bekleyecek.\n\nDurak kalabalık. Postacı'ya çok benzeyen bir yolcu da orada: kapüşonlu, kasketli. Ateş etmeden önce tara. Tramvaya binerse onu kaybederiz.	Martin Tunney, a.k.a. the Postman, is carrying Barrow's bribe ledger: everyone who got paid, and how much, is in there. He'll walk from the Bayfront and wait for the tram at the Clock Tower stop.\n\nThe stop is crowded. There's also a passenger who looks a lot like the Postman: hoodie, flat cap. Scan before you fire. If he gets on the tram, we lose him.
+Yürüyen hedefe biraz önden nişan al. Durakta bekleyenlerden biri Postacı'ya çok benziyor: nişangahı üzerinde tut, kimlik kartını oku.	Lead a walking target a little. One of the people waiting at the stop looks a lot like the Postman: hold the crosshair on him and read his ID card.
+Postacı kaçtı	The Postman got away
+Hedef değil — Postacı'ya benzeyen bir yolcu	Not the target — a passenger who looks like the Postman
+Tramvayın gelmesine	Tram arrives in
+Tramvay yola çıktı. Durağa girdiği an Postacı biner.	The tram is on its way. The moment it pulls in, the Postman gets on.
+Tramvay durakta — herkes biniyor!	The tram's at the stop — everyone's boarding!
+Postacı tramvaya bindi	The Postman got on the tram
+Postacı Kordon'dan durağa yürüyor. Durakta ona benzeyen biri var — önce tara.	The Postman is walking from the Bayfront to the stop. Someone at the stop looks like him — scan first.
+Mert Tunç	Martin Tunney
+Postacı	the Postman
+Koyu kapüşonlu, gri kasket, kot pantolon. Durağa yürüyor.	Dark hoodie, gray flat cap, jeans. Walking to the stop.
+Postacı'yı tramvaya binmeden etkisiz hale getir	Neutralize the Postman before he gets on the tram
+Postacı'yı yürürken vur	Hit the Postman while he's walking
+Yolculara zarar verme	Don't harm the passengers
+Devlet Opera ve Balesi	State Opera and Ballet
+Aydemir'in dublörü önden gelir. Limuzinden inen adama inanma — önce tara.	Aldridge's body double arrives first. Don't trust the man stepping out of the limo — scan first.
+Armatör Cevdet Aydemir, Baran'ın gemilerinin sahibi. Bu gece operanın sezon açılışında: kırmızı halı, fotoğrafçılar, polis.\n\nAydemir kalabalığa asla önce kendisi çıkmaz: limuzinden önce dublörü iner. Gerçek Aydemir birkaç dakika sonra siyah bir sedanla gelir, eşiyle halıda poz verir ve içeri girer. Perde arasında balkona çıkacağı biliniyor.	Shipowner Cedric Aldridge owns Barrow's ships. Tonight he's at the opera's season opening: red carpet, photographers, police.\n\nAldridge never steps into a crowd first: his body double gets out of the limo before him. The real Aldridge arrives a few minutes later in a black sedan, poses on the carpet with his wife and goes inside. He's known to step out onto the balcony at intermission.
+Flaşlar patlarken dürbünde parlama olur, panik yapma. Dublörü vurursan herkes kaçar ve gerçek Aydemir'in arabası durmadan geçer.	Camera flashes cause glare in the scope — don't panic. Shoot the body double and everyone scatters, and the real Aldridge's car drives past without stopping.
+Dikkat: limuzinden inen adam Aydemir'in dublörü olabilir	Careful: the man stepping out of the limo may be Aldridge's body double
+DUBLÖR — bu Aydemir değil!	BODY DOUBLE — that's not Aldridge!
+Sedanda — operaya geliyor	In the sedan — heading to the opera
+Aydemir operaya kaçtı	Aldridge escaped into the opera
+Aydemir salona döndü — fırsat kaçtı	Aldridge went back into the hall — chance missed
+Aydemir balkona çıktı!	Aldridge stepped out onto the balcony!
+CANLI  ·  OPERA GİRİŞİ	LIVE  ·  OPERA ENTRANCE
+Siyah bir sedan bulvara girdi, operaya geliyor. Kim olduğunu taramadan ateş etme.	A black sedan turned onto the boulevard, heading for the opera. Don't fire without scanning who it is.
+Aydemir'in arabası durmadan geçti	Aldridge's car drove past without stopping
+İçeri giren dublördü. Asıl adam birazdan geliyor — sabır.	The one who went in was the double. The real man is coming shortly — patience.
+Cevdet Aydemir	Cedric Aldridge
+Armatör	Shipowner
+Kır saç, bıyık, gri smokin ve papyon. Eşi kırmızı elbiseli.	Gray hair, mustache, gray tuxedo and bow tie. His wife is in a red dress.
+Cevdet Aydemir'i gala gecesinde etkisiz hale getir	Neutralize Cedric Aldridge on gala night
+Kırmızı halıda vur	Hit him on the red carpet
+Dublöre ve davetlilere dokunma	Don't touch the body double or the guests
+MİTİNG	RALLY
+Saat Kulesi Meydanı	Clock Tower Square
+Başsavcı bugün Baran hakkında iddianameyi açıklıyor. Onu öldürmek isteyen tek kişi değiliz bu sefer — onu korumak bizim işimiz.	Today the Chief Prosecutor announces the indictment against Barrow. This time we're not the only ones who want her dead — protecting her is our job.
+Başsavcı Nermin Arslan, meydandaki halk buluşmasında Baran'a açılan davayı anlatacak. Baran onu konuşturmamak için iki kişi tuttu: meydanı yukarıdan gören bir keskin nişancı ve kalabalığa karışmış silahlı biri.\n\nNişancıyı önce bul. Dikkat: bir atış yaparsan namlu alevini görür ve sana döner. Savcı konuşmasını bitirip sahneden inene kadar hayatta kalmalı.	Chief Prosecutor Nora Ashford will lay out the case against Barrow at a public meeting in the square. Barrow hired two men to keep her from speaking: a sniper overlooking the square and a gunman blended into the crowd.\n\nFind the sniper first. Careful: once you take a shot, he sees your muzzle flash and turns on you. The prosecutor has to stay alive until she finishes her speech and leaves the stage.
+Keskin nişancının dürbünü güneşi yakaladıkça parlar. Sana nişan alırsa kırmızı halka dolmadan onu indir. Kalabalıktaki adam silah çekince kolundan vurursan silahını düşürür.	The sniper's scope glints whenever it catches the sun. If he aims at you, drop him before the red ring fills. When the man in the crowd draws, shoot him in the arm and he drops his gun.
+Susturuculu tüfekle nişancı seni daha geç fark eder	With a suppressed rifle, the sniper notices you later
+İstihbarat: meydanı yukarıdan gören bir nişancı ve kalabalıkta silahlı biri var	Intel: a sniper overlooking the square and a gunman in the crowd
+Nermin Arslan	Nora Ashford
+BAŞSAVCI	CHIEF PROSECUTOR
+Başsavcı — konuşması bitene kadar koru	Chief Prosecutor — protect her until her speech ends
+Başsavcıyı konuşması bitene kadar koru	Protect the Chief Prosecutor until her speech ends
+Kuledeki Nişancı	Tower Sniper
+Siyah gömlek, güneş gözlüğü — saat kulesinin çan katında	Black shirt, sunglasses — in the clock tower's bell chamber
+Kalabalıktaki Adam	The Man in the Crowd
+Siyah kapüşonlu, kırmızı bere, sakallı	Black hoodie, red beanie, bearded
+Nişancıyı ve silahlıyı durdur	Stop the sniper and the gunman
+Nişancıyı ve silahlıyı durdur  	Stop the sniper and the gunman  
+Kalabalıkta biri öne doğru itiliyor — silahı var!	Someone in the crowd is pushing to the front — he has a gun!
+Bir dürbün parladı! Savcıya nişan alıyorlar — bul onu!	A scope glinted! They're aiming at the prosecutor — find him!
+Kuledeki nişancı seni vurdu	The tower sniper shot you
+Meydanı tepeden gören her yere bak. Bir nişancı varsa dürbünü güneşte parlar.	Check every spot that overlooks the square. If there's a sniper, his scope will glint in the sun.
+Başsavcı	Chief Prosecutor
+Gri takım, küt kesim saç. Sahnede, kürsüde konuşuyor.	Gray suit, bob haircut. On stage, speaking at the podium.
+Nişancıyı ve kalabalıktaki silahlıyı bul ve durdur (bonus)	Find and stop the sniper and the gunman in the crowd (bonus)
+Başsavcıyı koru	Protect the Chief Prosecutor
+Kimse nişan alamadan ikisini de durdur	Stop both before anyone takes aim
+Kalabalığa zarar verme	Don't harm the crowd
+İSKELE	FERRY PIER
+Kordon vapur iskelesi	Bayfront ferry pier
+Muhasebeci sabah vapurundan inecek. Müşteri onu canlı istiyor: bacağından.	The accountant will get off the morning ferry. The client wants him alive: hit the leg.
+Ertan Koç, Baran'ın bütün hesaplarını bilen muhasebeci. Sabah vapuruyla şehre geliyor, iskeleden yürüyüp taksiye binecek ve havalimanına gidecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, taksi durağında bekleyen ekibimiz koşup onu alsın. Baran da onu izletiyor: muhasebeci yere düştüğü an susturmak için birini gönderecek.	Arthur Cole is the accountant who knows all of Barrow's books. He's coming into the city on the morning ferry; he'll walk off the pier, take a taxi and head for the airport.\n\nThe client wants him ALIVE: shoot him in the leg, and our team waiting at the taxi stand will run over and grab him. Barrow is having him watched too: the moment the accountant goes down, he'll send someone to silence him.
+Vapurdan inen kalabalıkta herkesi tara. Muhasebeci yere düşünce Baran'ın adamı motosikletle promenattan gelir: silah çekmeden önce onu durdur.	Scan everyone in the crowd coming off the ferry. When the accountant goes down, Barrow's man comes along the promenade on a motorcycle: stop him before he draws.
+Muhasebeci taksiyle kaçtı	The accountant escaped in a taxi
+Muhasebeciyi BACAĞINDAN vur — ölmemeli	Shoot the accountant in the LEG — he can't die
+Vapurda — iskeleye yanaşıyor	On the ferry — docking at the pier
+CANLI  ·  VAPUR İSKELESİ	LIVE  ·  FERRY PIER
+Gri tişört, kırmızı bere — Baran'ın tetikçisi	Gray T-shirt, red beanie — Barrow's hitman
+Bekleyen Adam	The Waiting Man
+Gri ceket — tramvay durağında, silahlı	Gray jacket — at the tram stop, armed
+Baran'ın adamlarını durdur	Stop Barrow's men
+Baran'ın adamlarını durdur  	Stop Barrow's men  
+Ekibin ulaşmasına	Team reaches him in
+Muhasebeci yerde! Ekip koşuyor — 	The accountant's down! The team's running in — 
+ saniye. Baran'ın adamı da yolda!	 seconds. Barrow's man is on the way too!
+Tramvay durağındaki gri ceketli de Baran'ın adamı — muhasebeciye gidiyor!	The man in the gray jacket at the tram stop is Barrow's too — he's going for the accountant!
+Tehlike geçti — ekip koşuyor!	Threat's gone — the team's running in!
+Ekip muhasebeciyi aldı!	The team picked up the accountant!
+Vapur yanaşıyor. Muhasebeci elinde siyah bir evrak çantasıyla inecek.	The ferry is docking. The accountant will step off carrying a black briefcase.
+Ertan Koç	Arthur Cole
+Kahverengi deri mont, kot pantolon, gözlük. Elinde siyah evrak çantası.	Brown leather jacket, jeans, glasses. Carrying a black briefcase.
+Ekip gelene kadar onu Baran'ın adamlarından koru	Protect him from Barrow's men until the team arrives
+Muhasebeciyi canlı teslim et	Deliver the accountant alive
+Baran'ın adamları nişan alamasın	Don't let Barrow's men take aim
+YAĞMUR	RAIN
+Saat Kulesi Meydanı — çeşme	Clock Tower Square — fountain
+ÇİFT HEDEF	DOUBLE TARGET
+İkisi de şemsiye altında. Biri düştüğü an öteki kaçar — ikinci atışın hazır olsun.	Both are under umbrellas. The moment one drops, the other runs — have your second shot ready.
+Gazeteci Selin Ay'ı öldüren tetikçi Erol Kaya, nam-ı diğer Çakal, bu gece parasını alacak. Parayı getiren, cinayet dosyasını kapatan Komiser Tuncay Er.\n\nYağmurda, çeşmenin başında buluşacaklar. İkisi de bu işin bedelini ödeyecek. Biri vurulduğu an öteki aracına koşar: Komiser'in arabası Plaza Sokak'ta, Çakal'ın motosikleti meydanın köşesinde. Sana yarı otomatik bir tüfek ve termal dürbün veriyoruz.	Eddie Crane, a.k.a. the Jackal, the hitman who killed journalist Sophie Lane, collects his money tonight. The man bringing it is Inspector Thomas Earl, who closed the murder case.\n\nThey'll meet by the fountain in the rain. Both of them will pay for this job. The moment one is hit, the other runs for his ride: the Inspector's car is on Plaza Street, the Jackal's motorcycle at the corner of the square. We're giving you a semi-auto rifle and a thermal scope.
+Şemsiyeler yukarıdan bakınca başı saklar ama kurşunu durdurmaz. Termal dürbün yağmurda vücut ısısını gösterir. Yarı otomatik tüfekle sürgü çekmeden ikinci atışı yaparsın.	From above, umbrellas hide their heads but won't stop a bullet. The thermal scope shows body heat in the rain. With the semi-auto you take the second shot without working the bolt.
+Ödünç: FIRTINA DMR (yarı otomatik) ve termal dürbün	On loan: STORM DMR (semi-auto) and thermal scope
+Komiser arabasıyla kaçtı	The Inspector escaped in his car
+Çakal motosikletle kaçtı	The Jackal escaped on his motorcycle
+Komiser çeşmenin başında bekliyor. Çakal meydanın güneyinden geliyor — kırmızı şemsiyeli.	The Inspector is waiting by the fountain. The Jackal is coming from the south side of the square — red umbrella.
+Biri düştüğü an öteki koşar. İkisini de aynı anda görebileceğin yeri bekle.	The moment one drops, the other runs. Wait for a spot where you can see both at once.
+Erol Kaya	Eddie Crane
+Çakal	the Jackal
+Siyah kapüşonlu, kırmızı bere, sakallı. Kırmızı şemsiye.	Black hoodie, red beanie, bearded. Red umbrella.
+Tuncay Er	Thomas Earl
+Lacivert polo, kep, bıyıklı. Siyah şemsiye.	Navy polo, cap, mustache. Black umbrella.
+Çakal'ı etkisiz hale getir	Neutralize the Jackal
+Komiser Tuncay Er'i etkisiz hale getir	Neutralize Inspector Thomas Earl
+İkisini 4 saniye içinde vur	Hit both within 4 seconds
+İkisini de kafadan vur	Headshot both
+HELİPAD	HELIPAD
+Palas Oteli çatısı	Palace Hotel rooftop
+Demirel'i almaya bir helikopter geliyor. Kapısı kapandığı an iş biter.	A helicopter is coming for Darrell. The moment its door closes, it's over.
+Tolga Demirel, eski özel kuvvetler subayı, Baran'ın güvenlik şefi. Sana ve ekibimize karşı yürütülen her şeyi o planlıyor. Bu akşam Palas Oteli'nin çatısından helikopterle şehirden çıkacak.\n\nHelikopter piste indikten sonra Demirel iki korumasıyla çatı kapısından çıkıp yürüyecek. Mesafe uzun ve çatıda rüzgar sert. Helikopterin motorunu önceden vurursan yerde kalır: Demirel binaya geri döner — ama o yürüyüş açıkta geçer.	Toby Darrell, ex-special forces officer, Barrow's security chief. He plans everything aimed at you and our team. Tonight he's leaving the city by helicopter from the roof of the Palace Hotel.\n\nOnce the helicopter lands on the pad, Darrell will come out the roof door with two bodyguards and walk to it. The distance is long and the wind on the roof is strong. Shoot the helicopter's engine beforehand and it stays grounded: Darrell heads back into the building — but that walk is out in the open.
+Uzun atışta rüzgar okuna ve kurşun düşüşüne dikkat. Helikopterin gövdesine iki isabet motoru durdurur; patlayıcı mermi tek atışta yeter.	On a long shot, mind the wind arrow and bullet drop. Two hits on the helicopter's body stop the engine; one explosive round is enough.
+Otelin çatısının batı köşesinde dürbünlü biri var. Dürbün sana dönünce eğil — ya da önce onu indir.	There's someone with binoculars on the west corner of the hotel roof. Duck when they turn your way — or drop him first.
+Binada — çatıya çıkacak	In the building — heading up to the roof
+Demirel helikopterle kaçtı	Darrell escaped by helicopter
+Demirel çatıya çıktı!	Darrell is on the roof!
+Demirel binaya geri döndü	Darrell went back into the building
+Motor durdu — helikopter yerde kaldı!	Engine's dead — the helicopter is grounded!
+Güzel! Helikopter gitmiyor. Demirel binaya dönecek — yürürken yakala!	Nice! The helicopter isn't going anywhere. Darrell will head back inside — catch him while he walks!
+CANLI  ·  PALAS HELİPADI	LIVE  ·  PALACE HOTEL HELIPAD
+Helikopter denizden geliyor. Demirel inişten sonra çatı kapısından çıkacak.	The helicopter is coming in from the sea. Darrell will come out the roof door after it lands.
+Tolga Demirel	Toby Darrell
+Güvenlik Şefi	Security Chief
+Kel, sakallı, güneş gözlüklü. Siyah kruvaze takım.	Bald, bearded, sunglasses. Black double-breasted suit.
+Tolga Demirel'i helikoptere binmeden etkisiz hale getir	Neutralize Toby Darrell before he boards the helicopter
+Helikopteri havalanmadan yere çak	Ground the helicopter before it takes off
+SON PERDE	FINAL ACT
+Palas Oteli — çatı katı	Palace Hotel — penthouse
+Baran biliyor. Çatıda bir nişancısı, bir projektörü ve bekleyen bir helikopteri var. Bu gece bitiyor.	Barrow knows. He has a sniper on the roof, a searchlight and a helicopter waiting. It ends tonight.
+Kenan Baran. Limandaki kaçakçılık, kirli para, satın alınmış polisler, susturulan tanıklar: hepsinin arkasındaki adam. Bu gece Palas Oteli'nin çatı katında, cam duvarların ardında küçük bir parti veriyor.\n\nBaran bizi bekliyor. Çatıda projektörle damları tarayan bir adam ve bir keskin nişancı var: ışık seni bulursa nişancı sana döner. Ateş edersen Baran merdivenden çatıya, bekleyen helikoptere koşar. Bu son iş — temiz bitir.	Kenneth Barrow. The smuggling at the harbour, the dirty money, the bought police, the silenced witnesses: he's the man behind all of it. Tonight he's throwing a small party in the Palace Hotel penthouse, behind glass walls.\n\nBarrow is expecting us. On the roof there's a man sweeping the rooftops with a searchlight and a sniper: if the light finds you, the sniper turns on you. Open fire and Barrow runs up the stairs to the roof, to the waiting helicopter. This is the last job — finish it clean.
+Önce çatıdaki nişancıyı bul: dürbünü yeşil parlar. Projektör ışığı üzerine gelince nişancı sana nişan alır. Cam duvarlar mermiyi durdurmaz.	Find the rooftop sniper first: his scope glows green. When the searchlight lands on you, the sniper takes aim at you. The glass walls won't stop a bullet.
+Çatıda projektör ve bir karşı nişancı var — ışık seni bulmadan onu bul	There's a searchlight and a counter-sniper on the roof — find him before the light finds you
+Kenan Baran'ı etkisiz hale getir	Neutralize Kenneth Barrow
+Baran helikopterle kaçtı	Barrow escaped by helicopter
+Palas'ın çatısında, korkuluğun arkasında	On the Palace roof, behind the railing
+PROJEKTÖR ÜZERİNDE — GÖRÜLDÜN!	SEARCHLIGHT ON YOU — YOU'VE BEEN SEEN!
+Projektör damları tarıyor, sana yaklaşıyor! Işık seni bulmadan nişancıyı indir.	The searchlight is sweeping the rooftops, closing in on you! Drop the sniper before the light finds you.
+Baran binaya geri döndü	Barrow went back into the building
+Merdivende — çatıya çıkıyor	On the stairs — heading up to the roof
+Baran çatıya kaçıyor — helikoptere!	Barrow's running for the roof — to the helicopter!
+Helikopter yerde kaldı!	The helicopter is grounded!
+BARAN	BARROW
+Biliyorum oradasın, tetikçi. Bu camların ardında bana dokunamazsın.	I know you're out there, hitman. Behind this glass, you can't touch me.
+Telsizini dinliyoruz. Çatıda projektör ve bir nişancı var — önce onu bul.	We're listening to his radio. There's a searchlight and a sniper on the roof — find him first.
+Baran düştü. Bitti... Şehir artık nefes alabilir.	Barrow is down. It's over... The city can breathe again.
+Kenan Baran	Kenneth Barrow
+Gümüş saç ve sakal, koyu takım, kırmızı kravat.	Silver hair and beard, dark suit, red tie.
+Çatıdaki nişancı sana nişan alamasın	Don't let the rooftop sniper take aim at you
+Davetlilere zarar verme	Don't harm the guests
+Buluşmanın bitmesine	Meeting ends in
+Buluşma başladı	The meeting has started
+Kurşun siperine çarptı — nişancı başını kaldırmanı bekliyor	The bullet hit your cover — the sniper is waiting for you to raise your head
+Iskaladı — nişancı yeniden nişan alıyor	He missed — the sniper is taking aim again
+Nişancı yine aşağıya nişan alıyor!	The sniper is aiming down again!
+Seni gördü! Ateş etmeden onu indir — ya da siperine eğil!	He's seen you! Drop him before he fires — or duck behind cover!
+2 sözleşme tamamla	Complete 2 contracts
+3 kafadan vuruş yap	Land 3 headshots
+250 m'den uzak bir isabet	Hit a target beyond 250 m
+Alarm vermeden bir iş bitir	Finish a job without an alarm
+S derecesi al	Get an S grade
+5 yıldız topla	Collect 5 stars
+2 zırhlı adamı sustur	Silence 2 armored men
+VETERAN olarak bir iş bitir	Finish a job on VETERAN
+Sivillere dokunmadan 2 iş bitir	Finish 2 jobs without touching civilians
+Dürbün, nefes tutma ve ilk atış.	Scope, holding breath and the first shot.
+MENZİL ayarı: uzak hedefte mermi düşer, sarı çizgilerle tut.	RANGE setting: at long range the bullet drops, hold over with the yellow lines.
+Dikkat dağıtma: yakınına düşen kurşun ya da araba alarmı hedefi siperden çıkarır.	Distraction: a bullet landing nearby or a car alarm draws the target out of cover.
+Gece ve gözcü: önce seni görebilecek olanı düşün.	Night and spotters: deal with whoever can see you first.
+Hedefi kendin bul. İsabet noktası artık sadece nefes tutarken görünür.	Find the target yourself. The impact point now only shows while holding your breath.
+Hareketli hedef: yürüyüşüne göre önden nişan al.	Moving target: lead him based on his walk.
+Uzun atış ve sert rüzgâr: rüzgâr panelindeki mil değerine göre kaydır.	Long shot and strong wind: hold off by the mil value on the wind panel.
+Koruma: kalabalıktaki tetikçileri bul, tanık yaşasın.	Escort: find the hitmen in the crowd, keep the witness alive.
+Canlı yakala: bacaktan vur, öldürme.	Take alive: hit the leg, don't kill.
+Karanlık: ışığı kesmek korumaları kör eder.	Darkness: cutting the lights blinds the bodyguards.
+Uyuşturucu iğne: kimse ölmeyecek.	Tranquilizer dart: nobody dies.
+Şehir: isabet noktası yok. Iskalarsan hedef kaçar; iş bitince yerin biliniyorsa çıkış var.	City: no impact point. Miss and the target runs; if your position is known when it's done, there's a way out.
+Dublör: yüze iyi bak, yanlış kişiyi vurursan iş biter.	Body double: look closely at the face — shoot the wrong person and the job is over.
+Karşı nişancı: önce o seni bulmasın.	Counter-sniper: don't let him find you first.
+Çift hedef: biri düşünce öteki kaçar, ikinci atış hazır olsun.	Double target: when one drops the other runs, have your second shot ready.
+Zaman penceresi: helikopterin kapısı kapanınca iş biter.	Time window: when the helicopter door closes, the job is over.
+Dağ: rüzgâr sert ve değişken. Paneldeki yön ve gücü izle, dindiği anı bekle.	Mountain: the wind is strong and shifting. Watch the direction and strength on the panel, wait for it to die down.
+Kaza: kurşun değil, çığ.	Accident: not a bullet, an avalanche.
+Tipi: termal dürbün olmadan göremezsin.	Blizzard: you can't see without the thermal scope.
+Ses örtüsü: havai fişek patlarken atış duyulmaz.	Sound cover: shots can't be heard while fireworks explode.
+HAFİF	LIGHT
+ORTA	MODERATE
+SERT	STRONG
+FIRTINA	STORM
+LİMAN	HARBOUR
+Konteyner limanı	Container port
+Kaçakçılar, silah tüccarları ve rüşvet ağı. Her şey limanda başladı.	Smugglers, arms dealers and a bribery network. It all started at the harbour.
+Liman kuruluyor	Building the harbour
+ŞEHİR MERKEZİ	CITY CENTER
+ŞEHİR OPERASYONU	CITY OPERATION
+Örgütün parası ve koruyucuları şehirde. Opera, gökdelen, otel — ve deniz kıyısında bir meydan.	The organization's money and protectors are in the city. The opera, a skyscraper, a hotel — and a square by the sea.
+Şehir kuruluyor	Building the city
+Liman'da 6. görevi bitir	Finish mission 6 at the Harbour
+KARTAL TEPE	EAGLE RIDGE
+DAĞ OPERASYONU	MOUNTAIN OPERATION
+Kartal Tepe Kayak Merkezi	Eagle Ridge Ski Resort
+Örgütün konseyi karlı bir dağ otelinde toplanıyor. Teleferik, dağ evleri, donmuş göl — ve tipi.	The organization's council gathers at a snowy mountain hotel. Cable car, chalets, a frozen lake — and a blizzard.
+Dağ kuruluyor	Building the mountain
+Şehirde 16. görevi bitir	Finish mission 16 in the City
+Başlatılıyor	Starting
+Hazırlanıyor	Preparing
+Hazır	Ready
+Ceset suya gömüldü — kimse bulamayacak	The body sank into the water — nobody will find it
++%{0} BONUS	+{0}% BONUS
+Bu paket için {0} elmas gerekiyor, sende {1} var.	This pack costs {0} gems. You have {1} right now.
+{0} kuşanıldı. Cephanelikte seni bekliyor.	{0} equipped. It's waiting for you in the armory.
+{0} satın alım geri yüklendi.	{0} purchase(s) restored.
+Bugün {0} / {1} hakkın kaldı	Today: {0} / {1} left
+{0}. GÜN	DAY {0}
+{0} Z. DELİCİ	{0} AP
+TAKTİK HARİTA  ·  GÖREV {0}  ·  {1}	TACTICAL MAP  ·  MISSION {0}  ·  {1}
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     <color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#46C8F2>●</color> Firing positions     <color=#FF4545>●</color> Target zone     <color=#FFFFFF>- -</color> Known routes     Rings: 100 m apart from the main nest     Up: direction the main nest faces
+ZORLUK  {0}/10	DIFFICULTY  {0}/10
+Bu iş {0} olmadan yapılamaz. Cephaneliğe git?	This job can't be done without {0}. Go to the armory?
+Bu sözleşme için önerilen güç {0}, {1} şu an {2}.\nGeliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	Recommended power for this contract is {0}; {1} is currently at {2}.\nYou can try without upgrading, but armored men and distant targets will be tough.
+<b><color=#E8B04A>YENİ:</color></b> {0}\n{1}	<b><color=#E8B04A>NEW:</color></b> {0}\n{1}
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n{0}	<b><color=#FFB21E>VETERAN:</color></b> no impact point, stronger and gustier wind, more rifle sway, targets aren't marked. Reward ×1.5.\n{0}
+BÖLÜM {0}	CHAPTER {0}
+GÖREV {0}  ·  {1}	MISSION {0}  ·  {1}
+TÜFEK:  {0}   <size=26><color={1}>GÜÇ {2}</color><color=#6B7682>  /  önerilen {3}</color></size>	RIFLE:  {0}   <size=26><color={1}>POWER {2}</color><color=#6B7682>  /  recommended {3}</color></size>
+   ·   Verilen: {0}	   ·   Issued: {0}
+GÖREV {0} · {1}	MISSION {0} · {1}
+Baran'ın kasası: {0}	Barrow's vault: {0}
++{0} ELMAS	+{0} GEMS
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.{0}	Contract not completed — no payment.\nYou can take the same job again; see what went wrong above.{0}
+Bu iş için önerilen güç {0}, senin tüfeğin {1}. Geliştir ya da {2} hemen güçlen.	Recommended power for this job: {0}, your rifle: {1}. Upgrade, or power up now with {2}.
++{0} TP	+{0} XP
+TELAFİ +{0}	COMPENSATION +{0}
+GÖREV {0}	MISSION {0}
+{0}Rüzgâr {1} m/s   ·   {2}\nZORLUK {3}/10{4}	{0}Wind {1} m/s   ·   {2}\nDIFFICULTY {3}/10{4}
+Önerilen güç <b>{0}</b>   ·   Tüfeğin <color={1}><b>{2}</b></color>	Recommended power <b>{0}</b>   ·   Your rifle <color={1}><b>{2}</b></color>
+Yenisi {0} sa {1} dk sonra	New one in {0} h {1} m
+{0} · {1}  —  VETERAN kurallarıyla	{0} · {1}  —  with VETERAN rules
+Güç {0} / {1}	Power {0} / {1}
+Görev aralarındaki reklamları {0} karşılığında sonsuza dek kaldır. Hediye: {1} elmas.	Remove the ads between missions forever for {0}. Bonus: {1} gems.
+{0} için {1} elmas gerekiyor, sende {2} var.	{0} costs {1} gems. You have {2} right now.
+{0} {1} elmasla hemen senin olsun mu?	Get {0} right now for {1} gems?
+SEVİYE {0} GEREKLİ	LEVEL {0} REQUIRED
+Son kademe (elmasla) {0}. seviyede açılır. Sözleşmelerden tecrübe kazan.	The top tier (gems) unlocks at level {0}. Earn XP from contracts.
+Bu geliştirme için {0} eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.\nBugün {1} hakkın var.	You're {0} short for this upgrade. Watch a short video to cover the gap and upgrade right away.\nYou have {1} left today.
+Son kademe {0} elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	The top tier costs {0} gems. Buy gems in the shop or collect them from daily rewards.
+Bu geliştirme {0}. Sözleşmelerden para kazan ya da mağazaya bak.	This upgrade costs {0}. Earn cash from contracts or check the shop.
+GÜÇ <color=#FFB21E>{0}</color>   ·   {1}	POWER <color=#FFB21E>{0}</color>   ·   {1}
+{0}   ·   {1} ★ ile açılır	{0}   ·   {1} ★ to unlock
+{0}  <color=#46C8F2>EN ÜST</color>	{0}  <color=#46C8F2>TOP</color>
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> {0}. kademe ya da zırh delici mermi gerekir.	To pierce armored bodies you need <color=#FFB21E>DAMAGE</color> tier {0} or armor-piercing rounds.
+SATIN AL   {0}	BUY   {0}
+{0} ★ YA DA   	{0} ★ OR   
+{0} ELMASLA AL	{0} GEMS
+{0} yıldızla açılır	{0} stars to unlock
+SATIN AL  {0}	BUY  {0}
+YÜKSELT  {0}	UPGRADE  {0}
+YER DEĞİŞTİRİYORSUN\n<size=30>{0}  ·  {1} sn</size>	RELOCATING\n<size=30>{0}  ·  {1} s</size>
+KURŞUN KAMERASI  ·  {0}	BULLET CAM  ·  {0}
+“{0}” — sözleşme hedefi	“{0}” — contract target
+Yaralı — {0}	Wounded — {0}
+KEŞİF  ·  {0} / {1} tehdit tarandı	RECON  ·  {0} / {1} threats scanned
+{0},{1} mil	{0}.{1} mil
+TELSİZ  {0},{1} sn	RADIO  {0}.{1} s
+Yıldız kaçtı: {0}	Star missed: {0}
+SÖZLEŞME {0}  ·  {1}{2}	CONTRACT {0}  ·  {1}{2}
+{0}  <size=24><color=#A3AEB9>·  SEVİYE {1}</color></size>	{0}  <size=24><color=#A3AEB9>·  LEVEL {1}</color></size>
+{0} / {1} TP	{0} / {1} XP
+{0}   ·   SEVİYE {1}	{0}   ·   LEVEL {1}
+AÇILDI:  {0}	UNLOCKED:  {0}
+ÖDÜLLÜ TEST REKLAMI  ·  {0}	REWARDED TEST AD  ·  {0}
+TEST REKLAMI  ·  her {0} görevde bir	TEST AD  ·  one every {0} missions
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	You have no name. The army listed you dead three years ago. Control found you in a military hospital and made you one offer: take down the smuggling ring at the harbour, and your past gets erased.\n\nEvery contract is a name. Every name is the road to the next.
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\nBu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	The harbour has fallen, but the money keeps flowing. The last number in Viktor Kroll's phone leads to Bayfront Plaza: Barrow Holdings.\n\nThis time the targets wear suits. In the crowd, behind glass walls, next to the police.
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	The files from Barrow's vault give up five names: the Council. Five people who fed and protected Barrow for years, and who spend New Year's week at Eagle Ridge every year.\n\nAmong the files there's one more signature. A familiar one.
+Vuruldun — {0}	You're hit — {0}
+Üç tetikçiyi de durdur  {0}/3	Stop all three hitmen  {0}/3
+{0} fişek	{0} rounds
+Bu açıdan {0} görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	From this angle {0} isn't visible. Use RELOCATE to move to another spot.
+{0} silahlı adam mevzi alıyor — yuvanı arıyorlar!	{0} gunmen taking position — they're looking for your nest!
+Etkisiz hale getir: {0}	Neutralize: {0}
+{0} öldürüldü	{0} was killed
+İsabet — {0} atış daha	Hit — {0} more to go
+YENİ HEDEF: {0}	NEW TARGET: {0}
+SİLAHLI ADAM BULUNDU: {0}	GUNMAN FOUND: {0}
+HEDEF DOĞRULANDI: {0}	TARGET CONFIRMED: {0}
+KİMLİK DOĞRULANDI: {0}	IDENTITY CONFIRMED: {0}
+YENİ YER: {0}	NEW POSITION: {0}
+Dron bölgeyi taradı — {0} kişi tanımlandı	Drone swept the area — {0} people identified
+{0} öldü!	{0} is dead!
+{0} hedef kaldı	{0} targets left
+{0} yaralandı — artık yürüyemiyor	{0} is wounded — can't walk anymore
+{0} bayıldı — güvenli yere ulaşamaz	{0} passed out — can't reach safety
+ISKALADIN — {0} KAÇIYOR!	MISSED — {0} IS RUNNING!
+Sana ateş edenleri sustur  ·  {0} kaldı	Silence the shooters  ·  {0} left
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — {0} silahlı var, hepsini sustur. Gerekirse siper al.	The target's down but your position is known. Don't let anyone come after you — {0} gunmen left, silence them all. Take cover if you need to.
+Yıldız hedefleri  ×{0}	Star goals  ×{0}
+Uzak atış  ·  {0} m	Long shot  ·  {0} m
+Keşif  ·  {0}/{1} tehdit	Recon  ·  {0}/{1} threats
+Sivil kaybı  ×{0}	Civilian casualties  ×{0}
+Yaralı sivil  ×{0}	Wounded civilians  ×{0}
+Tekrar oynanış  ×%{0}	Replay  ×{0}%
+Tetikçileri durdur  {0}/2	Stop the hitmen  {0}/2
+Kurye yerde! Ekip yolda — {0} saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	Courier's down! The team's on the way — {0} seconds. The organization's men will try to silence him, and more will come out of the warehouse!
+Korumalar temiz. Tekne geliyor — {0} saniye.	Bodyguards clear. The boat's coming — {0} seconds.
+Nişancıyı ve silahlıyı durdur  {0}/2	Stop the sniper and the gunman  {0}/2
+Baran'ın adamlarını durdur  {0}/2	Stop Barrow's men  {0}/2
+Muhasebeci yerde! Ekip koşuyor — {0} saniye. Baran'ın adamı da yolda!	The accountant's down! The team's running in — {0} seconds. Barrow's man is on the way too!
+{0} ELMAS	{0} GEMS
+Kimyager: {0}	Chemist: {0}
+Toplam: {0}	Total: {0}
+SV {0}	LV {0}
+Hedef: {0}{1}	Target: {0}{1}
+HEDEF:  {0}	TARGET:  {0}
+{0} vuruldu!	{0} hit!
+Kullanım Koşulları (EULA)	Terms of Use (EULA)
+Gizlilik Politikası	Privacy Policy
+Oyunu beğendin mi?	Enjoying the game?
+PUANLA	RATE US
+BURAYA	HERE
+Önce dürbünü aç.	Scope in first.
+EĞİTİM	TRAINING
+Yakınlaştır: soldaki kaydırıcıyı yukarı it ya da iki parmakla ekranı aç.	Zoom in: push the slider on the left up, or spread two fingers on the screen.
+Halka boşalmadan ateş et: nefes biterse nişan titrer.	Fire before the ring empties: run out of breath and your aim shakes.
+Kırmızı nokta merminin ineceği yeri gösterir.	The red dot shows where the bullet will land.
+Kırmızı halka: bu adam sana nişan alıyor!	Red ring: this man is aiming at you!
+Halka dolmadan onu vur ya da SİPER'e eğil.	Shoot him before the ring fills, or duck into COVER.
+Vuruluyorsun! SİPER tuşuna bas: duvarın arkasına eğil.	You're taking hits! Press COVER: duck behind the wall.
+Siperde can yenilenir.	Health regenerates in cover.
+Ateş kesilince dürbünle doğrul ve karşılık ver: önce sana nişan alanı vur.	When the firing stops, come up scoped in and return fire: drop whoever's aiming at you first.
+Hedef {0} m uzakta. Mermi yol boyunca düşer.	The target is {0} m away. The bullet drops along the way.
+Kırmızı nokta merminin ineceği yer: nişangahın {0} cm altında. Kafaya nişan alırsan ıskalarsın.	The red dot is where the bullet will land: {0} cm below the crosshair. Aim for the head and you'll miss.
+MENZİL'i hedefin mesafesine getir: + tuşuna bas.	Set the RANGE to the target's distance: press +.
+MENZİL'i hedefin mesafesine getir: − tuşuna bas.	Set the RANGE to the target's distance: press −.
+MENZİL {0} m  ·  hedef {1} m	RANGE {0} m  ·  target {1} m
+Tam ayar! Nokta nişangaha döndü.	Dialed in! The dot is back on the crosshair.
+Uzak hedefte önce mesafeyi oku, MENZİL'i ona getir, sonra ateş et.	On long shots, read the distance first, set the RANGE to match, then fire.
+Hedef yürüyor: mermi oraya varana kadar o da ilerler.	The target is walking: by the time the bullet gets there, he's moved on.
+Nişangahı yürüdüğü yöne, mavi halkanın üzerine al.	Move the crosshair ahead of him, onto the blue ring.
+İşte bu! Önünde kal ve ateş et.	That's it! Stay ahead of him and fire.
+Koşan adamda pay daha büyük, duran adamda hiç yok.	A running man needs more lead; a man standing still needs none.
+Rüzgâr mermiyi yana iter. Yönü ve gücü bu panelde.	Wind pushes the bullet sideways. Direction and strength are on this panel.
+Bak: rüzgâr mermiyi {0} cm sağa götürüyor.	Look: the wind is carrying the bullet {0} cm to the right.
+Bak: rüzgâr mermiyi {0} cm sola götürüyor.	Look: the wind is carrying the bullet {0} cm to the left.
+Kırmızı nokta merminin ineceği yer.	The red dot is where the bullet will land.
+Rüzgâra karşı tut: nişangahı {0} mil sola kaydır.	Hold into the wind: shift the crosshair {0} mil left.
+Rüzgâra karşı tut: nişangahı {0} mil sağa kaydır.	Hold into the wind: shift the crosshair {0} mil right.
+Sarı noktalar 1 mil aralıklı. Kırmızı nokta hedefe gelince ateş et.	The yellow dots are 1 mil apart. Fire when the red dot is on the target.
+Tam üstünde! Şimdi ateş et.	Dead on! Fire now.
+Rüzgâr dinip artar: ateşten önce paneldeki değere bir daha bak.	The wind dies and picks up again: check the panel reading once more before you fire.
+Bu işte kimse ölmeyecek: bu tuşla İĞNE'ye geç.	Nobody dies on this job: switch to DART with this button.
+Mermi seçici: her basış bir sonraki türü takar.	Ammo selector: each press loads the next round type.
+İğne yavaş uçar ve çok düşer: biraz yukarı nişan al.	The dart flies slow and drops a lot: aim a little higher.
+Kırmızı nokta iğnenin ineceği yeri gösterir.	The red dot shows where the dart will land.
+Zırhlı adam! Gövdesine mermi işlemez.	Armored man! Body shots won't get through.
+Bu tuşla ZIRH DELİCİ'ye geç ya da kafasına nişan al.	Switch to ARMOR-PIERCING with this button, or aim for the head.
+Kafasına nişan al. Zırh delici mermiyi cephanelikten alabilirsin.	Aim for the head. You can get armor-piercing rounds in the armory.
+Yerin belli oldu. YER DEĞİŞTİR: yeni yerde seni kimse bilmez.	Your position is blown. RELOCATE: at the new spot, nobody knows you're there.
+Taşınırken dünya durmaz: hedef kaçmadan dön.	The world doesn't stop while you move: get back before the target slips away.
+Bu yüz dosyadakiyle aynıysa İŞARETLE — HEDEF BU.	If this face matches the file, MARK — THAT'S THE TARGET.
+Emin değilsen basma: yanlış kişiyi vurmak işi bitirir.	Not sure? Don't press it: shoot the wrong person and the job is over.
+Karanlıkta gece görüşü kullan: bu tuşla modu değiştir.	In the dark, use night vision: switch modes with this button.
+Termal dürbünde insanlar beyaz parlar: sis ve kar arkasında bile.	In the thermal scope, people glow white: even behind fog and snow.
+DRON'u gönder: bölgeyi tarar, tehditleri işaretler.	Send the DRONE: it sweeps the area and marks threats.
+Her sözleşmede bir kez.	Once per contract.
+Son anda kıpırdadı. Nişanı tazele, tekrar dene.	He moved at the last second. Re-aim and try again.
+Siperine takıldı. Açığa çıkmasını bekle ya da başka açıdan dene.	Stopped by his cover. Wait for him to show himself, or try another angle.
+Iska: {0} cm alçak.	Miss: {0} cm low.
+Iska: {0} cm yüksek.	Miss: {0} cm high.
+Iska: {0} cm solda.	Miss: {0} cm left.
+Iska: {0} cm sağda.	Miss: {0} cm right.
+Mermi düştü: hedef {0} m, MENZİL {1}. MENZİL'i hedefin mesafesine getir.	Bullet dropped: target {0} m, RANGE {1}. Set the RANGE to the target's distance.
+Fazla yüksek: hedef {0} m, MENZİL {1}. MENZİL'i düşür.	Too high: target {0} m, RANGE {1}. Bring the RANGE down.
+Arkasından geçti: yürüdüğü yöne daha önden nişan al.	Passed behind him: lead him more.
+Önünden geçti: payı biraz azalt.	Passed in front of him: ease off the lead a little.
+Rüzgâr sağa itti: biraz sola tut.	Wind pushed it right: hold a little left.
+Rüzgâr sola itti: biraz sağa tut.	Wind pushed it left: hold a little right.
+Nefesini tut: nişan sabitlenince ateş et.	Hold your breath: fire once your aim steadies.
+Nişangahı vücudun ortasına al.	Put the crosshair on center mass.
+Sabır: hedef dışarı çıkana kadar bekle, nefesini tut ve kafaya nişan al.	Patience: wait for the target to step out, hold your breath and aim for the head.
+MENZİL ayarı: uzak hedefte mermi düşer. Dikkat dağıtma: yakına düşen kurşun hedefi açığa çıkarır.	RANGE setting: at long range the bullet drops. Distraction: a bullet landing nearby draws the target into the open.
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.{0}	The store isn't available right now. Check your internet connection and try again in a bit.{0}
+GEÇ	SKIP
+Yer seviyesi — siper arkası	Ground level — behind cover
+Alçak mevzi — yakın çatı	Low position — nearby roof
+Orta yükseklik	Mid height
+Hedeflerle aynı seviyede ve yakın. Net atış, ama seni de çabuk görürler.	Close in, at the targets' level. Clean shots, but they spot you fast too.
+Birkaç kat yukarıda: yakın ve geniş açı.	A few floors up: close, with a wide view.
+Sahaya yukarıdan ama yakından bakar.	Looks down on the area, but from close range.
+Dil  ·  Language	Language

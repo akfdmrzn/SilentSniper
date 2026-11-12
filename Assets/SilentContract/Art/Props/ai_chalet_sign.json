@@ -1,0 +1,41 @@
+{
+ "id": "ai_chalet_sign",
+ "category": "prop",
+ "tris": 1800,
+ "tris_src": 4842,
+ "size": [
+  2.37,
+  2.799,
+  0.933
+ ],
+ "center": [
+  0.0,
+  1.4,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_chalet_sign__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.354,
+   "albedo": "ai_chalet_sign_m0_albedo.jpg",
+   "normal": "ai_chalet_sign_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

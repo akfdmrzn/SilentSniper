@@ -1,0 +1,103 @@
+{
+ "id": "sr_ibc_tank",
+ "category": "prop",
+ "tris": 3000,
+ "tris_src": 135566,
+ "size": [
+  1.048,
+  1.202,
+  1.256
+ ],
+ "center": [
+  0.0,
+  0.601,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "sr_ibc_tank__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.718,
+   "albedo": "sr_ibc_tank_m0_albedo.jpg",
+   "normal": "sr_ibc_tank_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_ibc_tank__m1",
+   "color": [
+    0.8,
+    0.8,
+    0.8,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.752,
+   "albedo": null,
+   "normal": "sr_ibc_tank_m1_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_ibc_tank__m2",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.738,
+   "albedo": "sr_ibc_tank_m2_albedo.jpg",
+   "normal": "sr_ibc_tank_m2_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_ibc_tank__m3",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.704,
+   "albedo": "sr_ibc_tank_m3_albedo.jpg",
+   "normal": "sr_ibc_tank_m3_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_ibc_tank__m4",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 0.733,
+   "albedo": "sr_ibc_tank_m4_albedo.jpg",
+   "normal": "sr_ibc_tank_m4_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "NVIDIA SimReady (CC-BY 4.0)",
+ "tags": []
+}

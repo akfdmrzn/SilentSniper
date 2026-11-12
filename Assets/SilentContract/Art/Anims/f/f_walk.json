@@ -1,0 +1,12 @@
+{
+ "name": "f_walk",
+ "frames": 43,
+ "fps": 30,
+ "length": 1.4,
+ "loop": true,
+ "speed": 0.668,
+ "source": "guard_walk.glb",
+ "tags": [
+  "walk"
+ ]
+}

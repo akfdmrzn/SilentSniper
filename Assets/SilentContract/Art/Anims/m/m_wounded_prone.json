@@ -1,0 +1,16 @@
+{
+ "name": "m_wounded_prone",
+ "frames": 552,
+ "fps": 30,
+ "length": 18.3667,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Prone_Reach_Help.glb",
+ "tags": [
+  "wounded"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

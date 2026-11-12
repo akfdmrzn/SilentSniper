@@ -1,0 +1,87 @@
+{
+ "id": "sr_drum_steel",
+ "category": "prop",
+ "tris": 1600,
+ "tris_src": 100452,
+ "size": [
+  0.642,
+  0.878,
+  0.657
+ ],
+ "center": [
+  0.0,
+  0.425,
+  0.008
+ ],
+ "materials": [
+  {
+   "name": "sr_drum_steel__m0",
+   "color": [
+    0.0175,
+    0.0175,
+    0.0175,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "albedo": null,
+   "normal": "sr_drum_steel_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_drum_steel__m1",
+   "color": [
+    0.6401,
+    0.6401,
+    0.6401,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "albedo": null,
+   "normal": "sr_drum_steel_m1_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_drum_steel__m2",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.998,
+   "smoothness": 0.586,
+   "albedo": "sr_drum_steel_m2_albedo.jpg",
+   "normal": "sr_drum_steel_m2_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_drum_steel__m3",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.999,
+   "smoothness": 0.598,
+   "albedo": "sr_drum_steel_m3_albedo.jpg",
+   "normal": "sr_drum_steel_m3_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "NVIDIA SimReady (CC-BY 4.0)",
+ "tags": []
+}

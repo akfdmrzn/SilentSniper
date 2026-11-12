@@ -1,0 +1,16 @@
+{
+ "name": "m_alert",
+ "frames": 121,
+ "fps": 30,
+ "length": 4.0,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Alert.glb",
+ "tags": [
+  "idle"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

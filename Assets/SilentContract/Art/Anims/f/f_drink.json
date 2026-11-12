@@ -1,0 +1,12 @@
+{
+ "name": "f_drink",
+ "frames": 333,
+ "fps": 30,
+ "length": 11.0667,
+ "loop": true,
+ "speed": 0.0,
+ "source": "guest_f_idle.glb",
+ "tags": [
+  "drink"
+ ]
+}

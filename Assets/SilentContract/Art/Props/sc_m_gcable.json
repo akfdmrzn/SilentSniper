@@ -1,0 +1,41 @@
+{
+ "id": "sc_m_gcable",
+ "category": "struct",
+ "tris": 1556,
+ "tris_src": 1556,
+ "size": [
+  98.05,
+  351.925,
+  821.898
+ ],
+ "center": [
+  133.0,
+  186.382,
+  609.003
+ ],
+ "materials": [
+  {
+   "name": "shared__mtn_steel_000",
+   "color": [
+    0.08,
+    0.08,
+    0.09,
+    1.0
+   ],
+   "metallic": 0.75,
+   "smoothness": 0.62,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_steel_000",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "",
+ "tags": []
+}

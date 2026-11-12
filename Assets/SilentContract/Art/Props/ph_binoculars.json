@@ -1,0 +1,55 @@
+{
+ "id": "ph_binoculars",
+ "category": "prop",
+ "tris": 3000,
+ "tris_src": 19248,
+ "size": [
+  0.167,
+  0.066,
+  0.288
+ ],
+ "center": [
+  0.007,
+  0.031,
+  -0.085
+ ],
+ "materials": [
+  {
+   "name": "ph_binoculars__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_binoculars_m0_albedo.jpg",
+   "normal": "ph_binoculars_m0_normal.jpg",
+   "ms": "ph_binoculars_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "ph_binoculars__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_binoculars_m1_albedo.png",
+   "normal": "ph_binoculars_m1_normal.jpg",
+   "ms": "ph_binoculars_m1_ms.png",
+   "cutout": true,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": false,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

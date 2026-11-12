@@ -1,0 +1,41 @@
+{
+ "id": "ai_scooter",
+ "category": "prop",
+ "tris": 6000,
+ "tris_src": 12145,
+ "size": [
+  0.766,
+  1.242,
+  1.851
+ ],
+ "center": [
+  0.0,
+  0.621,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_scooter__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ai_scooter_m0_albedo.jpg",
+   "normal": "ai_scooter_m0_normal.jpg",
+   "ms": "ai_scooter_m0_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 2,
+ "collider": "box",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

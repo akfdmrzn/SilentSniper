@@ -1,0 +1,26 @@
+{
+ "id": "accountant",
+ "gender": "m",
+ "tris": 24776,
+ "height": 1.77,
+ "materials": [
+  {
+   "name": "accountant_opaque",
+   "albedo": "accountant_albedo.jpg",
+   "normal": "accountant_normal.jpg",
+   "ms": "accountant_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "accountant",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "name": "m_hand_on_gun",
+ "frames": 186,
+ "fps": 30,
+ "length": 6.1667,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Gesture_with_Hand_on_Gun.glb",
+ "tags": [
+  "idle"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

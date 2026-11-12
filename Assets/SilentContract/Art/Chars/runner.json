@@ -1,0 +1,26 @@
+{
+ "id": "runner",
+ "gender": "m",
+ "tris": 24807,
+ "height": 1.78,
+ "materials": [
+  {
+   "name": "runner_opaque",
+   "albedo": "runner_albedo.jpg",
+   "normal": "runner_normal.jpg",
+   "ms": "runner_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "runner",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

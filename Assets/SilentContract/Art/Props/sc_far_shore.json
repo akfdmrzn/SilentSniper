@@ -1,0 +1,77 @@
+{
+ "id": "sc_far_shore",
+ "category": "city",
+ "tris": 1694,
+ "tris_src": 1694,
+ "size": [
+  8779.252,
+  320.789,
+  4431.948
+ ],
+ "center": [
+  12.238,
+  152.725,
+  2066.07
+ ],
+ "materials": [
+  {
+   "name": "sc_far_shore__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.178,
+   "albedo": "sc_far_shore_m0_albedo.jpg",
+   "normal": "sc_far_shore_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "shore_rock",
+   "window": false
+  },
+  {
+   "name": "sc_far_shore__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.151,
+   "albedo": "sc_far_shore_m1_albedo.jpg",
+   "normal": "sc_far_shore_m1_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "shore_hills",
+   "window": false
+  },
+  {
+   "name": "sc_far_shore__m2",
+   "color": [
+    0.26,
+    0.29,
+    0.31,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.0,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "shore_ridge",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "Silent Contract (procedural, Poly Haven CC0 textures)",
+ "tags": []
+}

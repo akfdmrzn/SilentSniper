@@ -1,0 +1,16 @@
+{
+ "name": "m_scheme",
+ "frames": 99,
+ "fps": 30,
+ "length": 3.2667,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Scheming_Hand_Rub.glb",
+ "tags": [
+  "idle"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

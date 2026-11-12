@@ -1,0 +1,13 @@
+{
+ "name": "f_crouch_walk",
+ "frames": 34,
+ "fps": 30,
+ "length": 1.1,
+ "loop": true,
+ "speed": 1.3425,
+ "source": "Cautious_Crouch_Walk_Forward.glb",
+ "tags": [
+  "walk",
+  "crouch"
+ ]
+}

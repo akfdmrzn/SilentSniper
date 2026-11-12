@@ -1,0 +1,59 @@
+{
+ "id": "sc_mtn_far",
+ "category": "level",
+ "tris": 26891,
+ "tris_src": 26891,
+ "size": [
+  5200.0,
+  1813.806,
+  4120.0
+ ],
+ "center": [
+  0.0,
+  506.903,
+  1140.0
+ ],
+ "materials": [
+  {
+   "name": "shared__mtn_snow",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.195,
+   "albedo": "shared__mtn_snow_albedo.jpg",
+   "normal": "shared__mtn_snow_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_snow",
+   "window": false
+  },
+  {
+   "name": "shared__mtn_rock",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.162,
+   "albedo": "shared__mtn_rock_albedo.jpg",
+   "normal": "shared__mtn_rock_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_rock",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "mesh",
+ "static": true,
+ "credit": "Silent Contract (procedural terrain, Poly Haven CC0 textures)",
+ "tags": []
+}

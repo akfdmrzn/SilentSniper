@@ -1,0 +1,343 @@
+{
+ "id": "sr_pallet_jack",
+ "category": "prop",
+ "tris": 2000,
+ "tris_src": 380248,
+ "size": [
+  0.888,
+  0.943,
+  1.601
+ ],
+ "center": [
+  0.104,
+  0.397,
+  0.664
+ ],
+ "materials": [
+  {
+   "name": "sr_pallet_jack__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m0_albedo.jpg",
+   "normal": "sr_pallet_jack_m0_normal.jpg",
+   "ms": "sr_pallet_jack_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m1_albedo.jpg",
+   "normal": "sr_pallet_jack_m1_normal.jpg",
+   "ms": "sr_pallet_jack_m1_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m2",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m2_albedo.jpg",
+   "normal": "sr_pallet_jack_m2_normal.jpg",
+   "ms": "sr_pallet_jack_m2_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m3",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m3_albedo.jpg",
+   "normal": "sr_pallet_jack_m3_normal.jpg",
+   "ms": "sr_pallet_jack_m3_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m4",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m4_albedo.jpg",
+   "normal": "sr_pallet_jack_m4_normal.jpg",
+   "ms": "sr_pallet_jack_m4_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m5",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m5_albedo.jpg",
+   "normal": "sr_pallet_jack_m5_normal.jpg",
+   "ms": "sr_pallet_jack_m5_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m6",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m6_albedo.jpg",
+   "normal": "sr_pallet_jack_m6_normal.jpg",
+   "ms": "sr_pallet_jack_m6_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m7",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m7_albedo.jpg",
+   "normal": "sr_pallet_jack_m7_normal.jpg",
+   "ms": "sr_pallet_jack_m7_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m8",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m8_albedo.jpg",
+   "normal": "sr_pallet_jack_m8_normal.jpg",
+   "ms": "sr_pallet_jack_m8_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m9",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m9_albedo.jpg",
+   "normal": "sr_pallet_jack_m9_normal.jpg",
+   "ms": "sr_pallet_jack_m9_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m10",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.715,
+   "albedo": "sr_pallet_jack_m10_albedo.jpg",
+   "normal": "sr_pallet_jack_m10_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m11",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m11_albedo.jpg",
+   "normal": "sr_pallet_jack_m11_normal.jpg",
+   "ms": "sr_pallet_jack_m11_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m12",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m12_albedo.jpg",
+   "normal": "sr_pallet_jack_m12_normal.jpg",
+   "ms": "sr_pallet_jack_m12_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m13",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m13_albedo.jpg",
+   "normal": "sr_pallet_jack_m13_normal.jpg",
+   "ms": "sr_pallet_jack_m13_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m14",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m14_albedo.jpg",
+   "normal": "sr_pallet_jack_m14_normal.jpg",
+   "ms": "sr_pallet_jack_m14_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m15",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m15_albedo.jpg",
+   "normal": "sr_pallet_jack_m15_normal.jpg",
+   "ms": "sr_pallet_jack_m15_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m16",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.715,
+   "albedo": "sr_pallet_jack_m16_albedo.jpg",
+   "normal": "sr_pallet_jack_m16_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m17",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m17_albedo.jpg",
+   "normal": "sr_pallet_jack_m17_normal.jpg",
+   "ms": "sr_pallet_jack_m17_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m18",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m18_albedo.jpg",
+   "normal": "sr_pallet_jack_m18_normal.jpg",
+   "ms": "sr_pallet_jack_m18_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_jack__m19",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_jack_m19_albedo.jpg",
+   "normal": "sr_pallet_jack_m19_normal.jpg",
+   "ms": "sr_pallet_jack_m19_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "NVIDIA SimReady (CC-BY 4.0)",
+ "tags": []
+}

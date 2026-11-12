@@ -1,0 +1,26 @@
+{
+ "id": "w_guard",
+ "gender": "m",
+ "tris": 24770,
+ "height": 1.85,
+ "materials": [
+  {
+   "name": "w_guard_opaque",
+   "albedo": "w_guard_albedo.jpg",
+   "normal": "w_guard_normal.jpg",
+   "ms": "w_guard_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "w_guard",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

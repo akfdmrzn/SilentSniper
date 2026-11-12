@@ -1,0 +1,16 @@
+{
+ "name": "m_roll_cover",
+ "frames": 106,
+ "fps": 30,
+ "length": 3.5,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Roll_Behind_Cover.glb",
+ "tags": [
+  "combat"
+ ],
+ "offset": [
+  -0.4801,
+  2.9751
+ ]
+}

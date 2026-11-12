@@ -1,0 +1,12 @@
+{
+ "name": "m_phone",
+ "frames": 182,
+ "fps": 30,
+ "length": 6.0333,
+ "loop": true,
+ "speed": 0.0,
+ "source": "boss_idle.glb",
+ "tags": [
+  "phone"
+ ]
+}

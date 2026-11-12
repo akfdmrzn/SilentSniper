@@ -1,0 +1,16 @@
+{
+ "name": "m_talk_passion",
+ "frames": 308,
+ "fps": 30,
+ "length": 10.2333,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Talk_Passionately.glb",
+ "tags": [
+  "talk"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

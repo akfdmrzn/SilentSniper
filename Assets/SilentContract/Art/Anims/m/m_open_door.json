@@ -1,0 +1,16 @@
+{
+ "name": "m_open_door",
+ "frames": 156,
+ "fps": 30,
+ "length": 5.1667,
+ "loop": false,
+ "speed": 0.0,
+ "source": "open_door.glb",
+ "tags": [
+  "gesture"
+ ],
+ "offset": [
+  -0.0002,
+  -0.0001
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "name": "f_idle_shift",
+ "frames": 196,
+ "fps": 30,
+ "length": 6.5,
+ "loop": true,
+ "speed": 0.0,
+ "source": "139_02.bvh",
+ "tags": [
+  "idle"
+ ]
+}

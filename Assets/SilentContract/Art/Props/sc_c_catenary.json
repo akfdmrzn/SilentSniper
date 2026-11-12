@@ -1,0 +1,59 @@
+{
+ "id": "sc_c_catenary",
+ "category": "struct",
+ "tris": 88,
+ "tris_src": 88,
+ "size": [
+  30.0,
+  7.4,
+  6.4
+ ],
+ "center": [
+  0.0,
+  3.7,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "shared__cat_pole",
+   "color": [
+    0.16,
+    0.2,
+    0.18,
+    1.0
+   ],
+   "metallic": 0.6,
+   "smoothness": 0.55,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "cat_pole",
+   "window": false
+  },
+  {
+   "name": "shared__cat_wire",
+   "color": [
+    0.1,
+    0.1,
+    0.1,
+    1.0
+   ],
+   "metallic": 0.8,
+   "smoothness": 0.6,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "cat_wire",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "",
+ "tags": []
+}

@@ -1,0 +1,26 @@
+{
+ "id": "w_fisher",
+ "gender": "m",
+ "tris": 17610,
+ "height": 1.78,
+ "materials": [
+  {
+   "name": "w_fisher_opaque",
+   "albedo": "w_fisher_albedo.jpg",
+   "normal": "w_fisher_normal.jpg",
+   "ms": "w_fisher_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "w_fisher",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

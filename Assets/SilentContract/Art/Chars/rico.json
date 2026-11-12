@@ -1,0 +1,26 @@
+{
+ "id": "rico",
+ "gender": "m",
+ "tris": 24808,
+ "height": 1.83,
+ "materials": [
+  {
+   "name": "rico_opaque",
+   "albedo": "rico_albedo.jpg",
+   "normal": "rico_normal.jpg",
+   "ms": "rico_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "rico",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

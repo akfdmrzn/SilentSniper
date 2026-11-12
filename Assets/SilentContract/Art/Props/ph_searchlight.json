@@ -1,0 +1,55 @@
+{
+ "id": "ph_searchlight",
+ "category": "prop",
+ "tris": 2000,
+ "tris_src": 18802,
+ "size": [
+  0.165,
+  0.185,
+  0.253
+ ],
+ "center": [
+  0.0,
+  0.093,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_searchlight__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_searchlight_m0_albedo.jpg",
+   "normal": "ph_searchlight_m0_normal.jpg",
+   "ms": "ph_searchlight_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "ph_searchlight__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_searchlight_m1_albedo.png",
+   "normal": "ph_searchlight_m1_normal.jpg",
+   "ms": "ph_searchlight_m1_ms.png",
+   "cutout": true,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

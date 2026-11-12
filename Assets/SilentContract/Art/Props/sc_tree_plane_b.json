@@ -1,0 +1,59 @@
+{
+ "id": "sc_tree_plane_b",
+ "category": "prop",
+ "tris": 508,
+ "tris_src": 508,
+ "size": [
+  10.741,
+  10.915,
+  11.1
+ ],
+ "center": [
+  -0.663,
+  5.138,
+  -0.016
+ ],
+ "materials": [
+  {
+   "name": "shared__bark_plane",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "shared__bark_plane_albedo.jpg",
+   "normal": "shared__bark_plane_normal.jpg",
+   "ms": "shared__bark_plane_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "bark_plane",
+   "window": false
+  },
+  {
+   "name": "shared__foliage_plane",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__foliage_plane_albedo.png",
+   "normal": null,
+   "ms": null,
+   "cutout": true,
+   "double_sided": true,
+   "src": "foliage_plane",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "",
+ "tags": []
+}

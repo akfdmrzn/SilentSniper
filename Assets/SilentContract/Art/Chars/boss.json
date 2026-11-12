@@ -1,0 +1,26 @@
+{
+ "id": "boss",
+ "gender": "m",
+ "tris": 24471,
+ "height": 1.83,
+ "materials": [
+  {
+   "name": "boss_opaque",
+   "albedo": "boss_albedo.jpg",
+   "normal": "boss_normal.jpg",
+   "ms": "boss_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "boss",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

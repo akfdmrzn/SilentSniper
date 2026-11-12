@@ -1,0 +1,41 @@
+{
+ "id": "ai_simit_cart",
+ "category": "prop",
+ "tris": 7000,
+ "tris_src": 9916,
+ "size": [
+  1.548,
+  2.0,
+  0.946
+ ],
+ "center": [
+  0.0,
+  1.0,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_simit_cart__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ai_simit_cart_m0_albedo.jpg",
+   "normal": "ai_simit_cart_m0_normal.jpg",
+   "ms": "ai_simit_cart_m0_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 2,
+ "collider": "box",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

@@ -1,0 +1,16 @@
+{
+ "name": "m_pain_head",
+ "frames": 112,
+ "fps": 30,
+ "length": 3.7,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Head_Hold_in_Pain.glb",
+ "tags": [
+  "pain"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

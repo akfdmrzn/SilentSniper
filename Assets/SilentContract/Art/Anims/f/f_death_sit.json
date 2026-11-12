@@ -1,0 +1,17 @@
+{
+ "name": "f_death_sit",
+ "frames": 67,
+ "fps": 30,
+ "length": 2.2,
+ "loop": false,
+ "speed": 0.0,
+ "source": "dying_backwards.glb",
+ "tags": [
+  "death",
+  "ho=1.17"
+ ],
+ "offset": [
+  -0.5007,
+  -0.4906
+ ]
+}

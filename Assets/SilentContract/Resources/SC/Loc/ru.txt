@@ -1,0 +1,1391 @@
+SİPER	УКРЫТИЕ
+Sana ateş ediyorlar! SİPER tuşuyla eğil — ateş kesilince doğrul ve kırmızı işaretli nişancıları indir. Yaraların birkaç saniye sonra iyileşir.	По тебе стреляют! Пригнись кнопкой УКРЫТИЕ — когда огонь стихнет, поднимись и сними стрелков, отмеченных красным. Раны затянутся через несколько секунд.
+YERİN TESPİT EDİLDİ — SANA ATEŞ EDECEKLER!	ТЕБЯ ЗАСЕКЛИ — СЕЙЧАС ОТКРОЮТ ОГОНЬ!
+DOĞRUL	ПОДНЯТЬСЯ
+YERİN TESPİT EDİLDİ	ТЕБЯ ЗАСЕКЛИ
+GÖZCÜ SENİ ARIYOR	НАБЛЮДАТЕЛЬ ИЩЕТ ТЕБЯ
+YERİNİ ARIYORLAR	ТЕБЯ ИЩУТ
+DİKKAT ÇEKİYORSUN	ТЫ ПРИВЛЕКАЕШЬ ВНИМАНИЕ
+Her atış yerini biraz daha belli eder (susturucu daha az). Göz dolarsa yerin tespit edilir ve silahlı adamlar sana ateş eder.	Каждый выстрел всё сильнее выдаёт твою позицию (с глушителем — меньше). Когда шкала заполнится, тебя засекут, и вооружённые люди откроют огонь.
+Bir gözcü dürbünle damları tarıyor: dürbün parlaması sana dönerken eğil ya da önce onu indir.	Наблюдатель осматривает крыши в бинокль: пригнись, когда блик оптики повернётся к тебе, или сними его первым.
+MAĞAZA	МАГАЗИН
+TEKLİFLER	ПРЕДЛОЖЕНИЯ
+SİLAH PAKETLERİ	НАБОРЫ ОРУЖИЯ
+ELMAS	КРИСТАЛЛЫ
+NAKİT	НАЛИЧНЫЕ
+SATIN ALIMLARI GERİ YÜKLE	ВОССТАНОВИТЬ ПОКУПКИ
+ÜCRETSİZ ELMAS	БЕСПЛАТНЫЕ КРИСТАЛЛЫ
+İZLE	СМОТРЕТЬ
+GECE	НОЧЬ
+TERMAL	ТЕПЛОВИЗОР
+ BONUS	 БОНУС
+ELMAS YETMİYOR	НЕ ХВАТАЕТ КРИСТАЛЛОВ
+Bu paket için 	Для этого набора нужно 
+ elmas gerekiyor, sende 	 кристаллов, а у тебя 
+ var.	 шт.
+ELMAS AL	КУПИТЬ КРИСТАЛЛЫ
+PAKET HAZIR	НАБОР ГОТОВ
+Tüfek	Винтовка
+ kuşanıldı. Cephanelikte seni bekliyor.	 — экипировано. Ждёт тебя в арсенале.
+CEPHANELİK	АРСЕНАЛ
+TAMAM	ОК
+SATIN ALINAMADI	ПОКУПКА НЕ УДАЛАСЬ
+KAPAT	ЗАКРЫТЬ
+GERİ YÜKLEME	ВОССТАНОВЛЕНИЕ
+ satın alım geri yüklendi.	 покупок восстановлено.
+Geri yüklenecek satın alım bulunamadı.	Покупок для восстановления не найдено.
+ALINDI	ПОЛУЧЕНО
+Bugün 	Попыток на сегодня: 
+ hakkın kaldı	 шт.
+Şu an video yok	Сейчас видео нет
+TEST SÜRÜMÜ: satın almalar ücretsiz tamamlanır, reklamlar yer tutucudur. Gerçek fiyatlar App Store'dan gelir.	ТЕСТОВАЯ ВЕРСИЯ: покупки проходят бесплатно, реклама — заглушки. Настоящие цены приходят из App Store.
+GÜNLÜK ÖDÜL	ЕЖЕДНЕВНАЯ НАГРАДА
+Her gün gel, ödülün büyüsün. 7. gün büyük ödül.	Заходи каждый день — награда растёт. На 7-й день большой приз.
+. GÜN	-Й ДЕНЬ
+ ELMAS	 КРИСТАЛЛОВ
+ Z. DELİCİ	 БРОНЕБОЙНЫХ
+2× AL	ВЗЯТЬ ×2
+TOPLA	ЗАБРАТЬ
+VAZGEÇ	ОТМЕНА
+Dürbünde nişangahı birinin üzerinde tutarak kimliğini tara — masumları vurma.	Держи прицел на человеке в оптике, чтобы установить его личность, — не стреляй в невиновных.
+Nefesini tutarken nişangah sabitlenir, ama nefes çubuğu biterse titreme artar.	Пока задерживаешь дыхание, прицел неподвижен, но когда шкала дыхания кончится, дрожь усилится.
+Uzak mesafede kurşun düşer ve rüzgarla kayar. Kırmızı nokta isabet noktasını gösterir.	На большой дистанции пуля снижается и уходит по ветру. Красная точка показывает точку попадания.
+Bir koruma telsize uzanırsa birkaç saniyen var: onu durdurursan alarm verilmez.	Если охранник тянется к рации, у тебя несколько секунд: останови его — и тревоги не будет.
+Kafadan vuruşlar ve sivil kayıpsız görevler daha fazla yıldız ve para kazandırır.	Выстрелы в голову и контракты без жертв среди гражданских приносят больше звёзд и денег.
+Zırhlı adamların gövdesi kurşun tutar: kafaya nişan al ya da tüfeğinin HASAR'ını geliştir.	Бронированных в корпус пуля не берёт: целься в голову или улучши УРОН винтовки.
+Iskalama sessiz kalmaz: ikinci boş atış silahlıları yuvana yollar.	Промах не останется незамеченным: второй пустой выстрел наведёт вооружённых на твою позицию.
+Görev, sana ateş eden son silahlı susunca biter. Önce en yakındakini sustur.	Контракт завершён, когда замолкнет последний стрелок, ведущий по тебе огонь. Сначала снимай ближайших.
+Cephanelikte her tüfeğin beş hattı var: en üst kademe elmasla açılır.	У каждой винтовки в арсенале пять веток улучшений: высшая ступень открывается за кристаллы.
+Günün sözleşmesi iki kat para ve elmas öder — her gün yenisi gelir.	Контракт дня платит вдвое больше денег и кристаллов — новый каждый день.
+LİMAN OPERASYONU	ОПЕРАЦИЯ «ПОРТ»
+TAKTİK HARİTA  ·  GÖREV 	ТАКТИЧЕСКАЯ КАРТА  ·  КОНТРАКТ 
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     	<color=#46C8F2>●</color> Огневые позиции     <color=#FF4545>●</color> Зона цели     
+<color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#FFFFFF>- -</color> Известные маршруты     Кольца: каждые 100 m от основной позиции     Вверх: направление обзора с основной позиции
+ZORLUK  	СЛОЖНОСТЬ  
+VETERAN	ВЕТЕРАН
+HARİTA	КАРТА
+HEDEF DOSYASI	ДОСЬЕ ЦЕЛИ
+SUİKAST	ЛИКВИДАЦИЯ
+TANIMA	ОПОЗНАНИЕ
+BRİFİNG	БРИФИНГ
+GÖREV	КОНТРАКТ
+YILDIZ HEDEFLERİ	ЦЕЛИ НА ЗВЁЗДЫ
+DEĞİŞTİR	СМЕНИТЬ
+BAŞLA	НАЧАТЬ
+EKİPMAN GEREKLİ	НУЖНО СНАРЯЖЕНИЕ
+Bu iş 	Для этой работы нужны 
+ ve 	 и 
+ olmadan yapılamaz. Cephaneliğe git?	 — без них никак. Перейти в арсенал?
+TÜFEĞİN ZAYIF KALABİLİR	ВИНТОВКА МОЖЕТ НЕ ПОТЯНУТЬ
+Bu sözleşme için önerilen güç 	Рекомендуемая мощь для этого контракта: 
+ şu an 	 — сейчас 
+Geliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	Можно попробовать и без улучшений, но с бронированными и дальними целями будет тяжело.
+GELİŞTİR	УЛУЧШИТЬ
+YİNE DE BAŞLA	ВСЁ РАВНО НАЧАТЬ
+ZIRHLI HEDEFLER	БРОНИРОВАННЫЕ ЦЕЛИ
+Bu işte zırhlı silahlılar var; tüfeğinin mermisi gövdeden geçmez.\nKısa bir video izle, 3 zırh delici mermi senin olsun.	Здесь будут бронированные стрелки — твоя пуля не пробьёт корпус.\nПосмотри короткое видео и получи 3 бронебойных патрона.
+İZLE  +3 MERMİ	СМОТРЕТЬ  +3 ПАТР.
+GÜNÜN İŞİ ×2	РАБОТА ДНЯ ×2
+VETERAN ×1,5	ВЕТЕРАН ×1,5
+<b><color=#E8B04A>YENİ:</color></b> 	<b><color=#E8B04A>НОВОЕ:</color></b> 
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n	<b><color=#FFB21E>ВЕТЕРАН:</color></b> без точки попадания, ветер сильнее и порывистее, винтовку сильнее водит, цели не отмечаются. Награда ×1,5.\n
+NEREDEN ATEŞ EDECEKSİN?	ОТКУДА БУДЕШЬ СТРЕЛЯТЬ?
+Her yerin artısı eksisi var. Görev sırasında iki kez yer değiştirebilirsin.	У каждой позиции свои плюсы и минусы. Во время контракта можно дважды сменить позицию.
+GERİ	НАЗАД
+DEVAM	ДАЛЕЕ
+BÖLÜM 	ГЛАВА 
+KORUMA	ОХРАНА
+CANLI YAKALA	ВЗЯТЬ ЖИВЫМ
+SABOTAJ	САБОТАЖ
+YARALA	РАНИТЬ
+GÖREV 	КОНТРАКТ 
+KORUNACAK KİŞİ	ПОД ЗАЩИТОЙ
+HEDEF DOSYASI  ·  CANLI	ДОСЬЕ ЦЕЛИ  ·  ЖИВЫМ
+•  Hedefi etkisiz hale getir	•  Нейтрализуй цель
+TÜFEK:  	ВИНТОВКА:  
+>GÜÇ 	>МОЩЬ 
+</color><color=#6B7682>  /  önerilen 	</color><color=#6B7682>  /  реком. 
+Bu iş için verildi	Выдано для этой работы
+   ·   Verilen: 	   ·   Выдано: 
+   ·   <color=#FF8A2B>Zırhlı silahlılar: kafaya nişan al, HASAR geliştir ya da zırh delici al</color>	   ·   <color=#FF8A2B>Бронированные стрелки: целься в голову, улучши УРОН или возьми бронебойные</color>
+AYARLAR	НАСТРОЙКИ
+Nişan hassasiyeti	Чувствительность прицела
+Kolay nişan (3. yıldız alınmaz)	Лёгкое прицеливание (без 3-й звезды)
+Kurşun kamerası (son hedefte ağır çekim)	Камера пули (замедление на последней цели)
+Titreşim	Вибрация
+Ses seviyesi	Громкость
+İlerleme	Прогресс
+İLERLEMEYİ SIFIRLA	СБРОСИТЬ ПРОГРЕСС
+İlerleme sıfırlansın mı?	Сбросить прогресс?
+Tüm yıldızlar, para ve geliştirmeler silinecek (satın aldıkların ve elmasların kalır). Bu işlem geri alınamaz.	Все звёзды, деньги и улучшения будут удалены (покупки и кристаллы останутся). Это действие нельзя отменить.
+SIFIRLA	СБРОСИТЬ
+Satın alımlar ve gizlilik	Покупки и конфиденциальность
+GERİ YÜKLE	ВОССТАНОВИТЬ
+GİZLİLİK	КОНФИДЕНЦ.
+Grafik kalitesi	Качество графики
+PERFORMANS	ПРОИЗВОДИТ.
+DENGELİ	БАЛАНС
+KALİTE	КАЧЕСТВО
+KAYNAKLAR VE LİSANSLAR	ИСТОЧНИКИ И ЛИЦЕНЗИИ
+Henüz dosyada bir şey yok. İlk sözleşmeyi tamamla.	В досье пока пусто. Выполни первый контракт.
+<size=40><color=#E8B04A><b>BÖLÜM 	<size=40><color=#E8B04A><b>ГЛАВА 
+<b>SON</b>\n	<b>ФИНАЛ</b>\n
+Disk KONTROL'de. Kurul'un koltukları yeniden doluyor.	Диск у КОНТРОЛЯ. Кресла Совета снова занимают.
+Disk savcıda. KONTROL'ün kapısına polis dayandı.	Диск у прокурора. К дверям КОНТРОЛЯ пришла полиция.
+DAVA DOSYASI	МАТЕРИАЛЫ ДЕЛА
+DURAKLATILDI	ПАУЗА
+DEVAM ET	ПРОДОЛЖИТЬ
+YENİDEN BAŞLAT	ЗАНОВО
+GÖREVDEN ÇIK	ПОКИНУТЬ
+Görevden çıkılsın mı?	Покинуть контракт?
+Bu görevdeki ilerlemen kaybolacak.	Прогресс этого контракта будет потерян.
+ÇIK	ВЫЙТИ
+DERECE	РАНГ
+YENİ YILDIZ	НОВАЯ ЗВЕЗДА
+ATIŞ	ВЫСТРЕЛЫ
+En uzun atış	Самый дальний выстрел
+Kafadan vuruş	В голову
+Süre	Время
+İsabet	Точность
+KAZANÇ DÖKÜMÜ	ДЕТАЛИ ДОХОДА
+KAZANÇ	ДОХОД
+2× KAZANÇ	ДОХОД ×2
+MENÜ	МЕНЮ
+TEKRAR	ЕЩЁ РАЗ
+SONRAKİ GÖREV	ДАЛЬШЕ
+İSTİHBARAT	РАЗВЕДДАННЫЕ
+SON	ФИНАЛ
+YİNE KİMSESİZ	СНОВА НИЧЕЙ
+KENDİ SEÇİMİN	ТВОЙ ВЫБОР
+Kimyager: 	Химик: 
+KONTROL'ün hücresinde kayboldu.	пропал в камере КОНТРОЛЯ.
+savcılığa ifade verdi; Baran davası onunla başladı.	дал показания прокуратуре; с него началось дело Громова.
+Baran'ın kasası: 	Сейф Громова: 
+para sende, KONTROL bunu biliyor.	деньги у тебя, и КОНТРОЛЬ это знает.
+dosyaların kopyası Başsavcı Arslan'da.	копия файлов у главного прокурора Львовой.
+Kurul: beş koltuk boşaldı.	Совет: пять кресел опустели.
+KONTROL: yerinde. Yeni bir isim arıyor.	КОНТРОЛЬ: на месте. Ищет новое имя.
+KONTROL: kapısında polis.	КОНТРОЛЬ: у его дверей полиция.
+Toplam: 	Итого: 
+GÖREV TAMAMLANDI	КОНТРАКТ ВЫПОЛНЕН
+GÖREV BAŞARISIZ	КОНТРАКТ ПРОВАЛЕН
+   ·   VETERAN	   ·   ВЕТЕРАН
+  <color=#FFB21E>REKOR</color>	  <color=#FFB21E>РЕКОРД</color>
+ÖNCEDEN	БЫЛО
+KOLAY NİŞAN	ЛЁГКИЙ ПРИЦЕЛ
+Günün sözleşmesi  ·  elmas	Контракт дня  ·  кристаллы
+İlk S derecesi  ·  elmas	Первый ранг S  ·  кристаллы
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.	Контракт не выполнен — оплаты нет.\nМожно взяться за ту же работу снова; что пошло не так — смотри выше.
+\nKısa bir videoyla ücretin bir kısmını telafi alabilirsin.	\nКороткое видео вернёт тебе часть гонорара.
+TEKRAR DENE	ПОВТОРИТЬ
+TÜFEĞİN ZORLANIYOR	ВИНТОВКА НЕ ТЯНЕТ
+Bu iş için önerilen güç 	Рекомендуемая мощь для этой работы — 
+, senin tüfeğin 	, у твоей винтовки — 
+. Geliştir ya da 	. Улучши её или 
+bir silah paketiyle	возьми набор оружия
+ hemen güçlen.	 и стань сильнее прямо сейчас.
+GÜÇLEN	УСИЛИТЬСЯ
+ TP	 ОП
+TELAFİ +	КОМПЕНСАЦИЯ +
+GÖREVLER	КОНТРАКТЫ
+ANA YUVA	ОСН. ПОЗИЦИЯ
+<color=#36D47C>●</color> Tamamlandı    <color=#FFB21E>●</color> Sıradaki    <color=#6B7682>●</color> Kilitli	<color=#36D47C>●</color> Выполнено    <color=#FFB21E>●</color> Следующий    <color=#6B7682>●</color> Закрыто
+BRİFİNGE GİT	К БРИФИНГУ
+Rüzgâr 	Ветер 
+\nZORLUK 	\nСЛОЖНОСТЬ 
+   ·   <color=#FF8A2B>ZIRHLI DÜŞMAN</color>	   ·   <color=#FF8A2B>БРОНИРОВАННЫЙ ВРАГ</color>
+Önerilen güç <b>	Рекомендуемая мощь <b>
+</b>   ·   Tüfeğin <color=	</b>   ·   Твоя винтовка <color=
+Önceki görevi tamamla	Выполни предыдущий контракт
+OYNA	ИГРАТЬ
+  ·  TEST MODU: tüm bölümler açık	  ·  ТЕСТ-РЕЖИМ: все главы открыты
+  ·  Tek oyunculu keskin nişancı	  ·  Одиночный снайперский шутер
+TEST MODU	ТЕСТ-РЕЖИМ
+Tüm haritalar ve görevler şu an açık. Normal ilerlemeye dönülsün mü?	Сейчас открыты все карты и контракты. Вернуться к обычному прогрессу?
+Test için bütün haritalar ve görevler açılsın mı? (Ayarlardan ilerleme sıfırlanmaz.)	Открыть все карты и контракты для теста? (Прогресс в настройках не сбросится.)
+AÇ	ОТКРЫТЬ
+KAYNAKLAR	ИСТОЧНИКИ
+SIRADAKİ SÖZLEŞME	СЛЕДУЮЩИЙ КОНТРАКТ
+GÜÇ	МОЩЬ
+GÜNLÜK GÖREVLER	ЕЖЕДНЕВНЫЕ ЗАДАНИЯ
+GÜNÜN SÖZLEŞMESİ  ·  TAMAM	КОНТРАКТ ДНЯ  ·  ГОТОВО
+GÜNÜN SÖZLEŞMESİ  ·  ×2 ÖDÜL  +10 ELMAS	КОНТРАКТ ДНЯ  ·  НАГРАДА ×2  +10 КРИСТАЛЛОВ
+Yenisi 	Новый через 
+ sa 	 ч 
+ dk sonra	 мин
+  —  VETERAN kurallarıyla	  —  по правилам ВЕТЕРАНА
+Güç 	Мощь 
+Başlangıç paketi	Стартовый набор
+Ücretsiz elmas	Бесплатные кристаллы
+Elmas · Nakit	Кристаллы · Наличные
+ dosya	 досье
+REKLAMLARDAN SIKILDIN MI?	НАДОЕЛА РЕКЛАМА?
+Görev aralarındaki reklamları 	Убери рекламу между контрактами за 
+ karşılığında sonsuza dek kaldır. Hediye: 	 — навсегда. В подарок: 
+ elmas.	 кристаллов.
+REKLAMSIZ OL	БЕЗ РЕКЛАМЫ
+ŞİMDİ DEĞİL	НЕ СЕЙЧАС
+TÜFEKLER	ВИНТОВКИ
+EKİPMAN	СНАРЯЖЕНИЕ
+MÜHİMMAT	БОЕПРИПАСЫ
+BECERİLER	НАВЫКИ
+Çevirmek için sürükle	Потяни, чтобы повернуть
+ için 	 за 
+HEMEN AL	КУПИТЬ СРАЗУ
+ elmasla hemen senin olsun mu?	 кристаллов — забрать прямо сейчас?
+AL	КУПИТЬ
+SEVİYE 	УРОВЕНЬ 
+ GEREKLİ	 ТРЕБУЕТСЯ
+Son kademe (elmasla) 	Последняя ступень (за кристаллы) открывается на уровне 
+. seviyede açılır. Sözleşmelerden tecrübe kazan.	. Набирай опыт в контрактах.
+AZ KALDI	ПОЧТИ ХВАТАЕТ
+Bu geliştirme için 	Для этого улучшения 
+ eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.	 не хватает. Посмотри короткое видео — недостающие деньги добавятся, и улучшение пройдёт сразу.
+\nBugün 	\nПопыток на сегодня: 
+ hakkın var.	 шт.
+İZLE VE GELİŞTİR	СМОТРЕТЬ И УЛУЧШИТЬ
+PARA YETMİYOR	НЕ ХВАТАЕТ ДЕНЕГ
+Son kademe 	Последняя ступень стоит 
+ elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	 кристаллов. Купи их в магазине или собери в ежедневных наградах.
+Bu geliştirme 	Это улучшение стоит 
+. Sözleşmelerden para kazan ya da mağazaya bak.	. Заработай в контрактах или загляни в магазин.
+GÜÇ <color=#FFB21E>	МОЩЬ <color=#FFB21E>
+<color=#36D47C>KUŞANILDI</color>	<color=#36D47C>ЭКИПИРОВАНО</color>
+SAHİP	ЕСТЬ
+ ★ ile açılır	 ★ для открытия
+Yarı otomatik	Полуавтомат
+Sürgülü	Продольно-скользящий затвор
+   ·   Susturuculu	   ·   С глушителем
+   ·   Duvar deler	   ·   Пробивает стены
+   ·   Siper deler	   ·   Пробивает укрытия
+  <color=#46C8F2>EN ÜST</color>	  <color=#46C8F2>МАКС.</color>
+SV 	УР. 
+Satın aldığında beş hatta geliştirebilirsin. En üst kademe <color=#46C8F2>elmasla</color>.	После покупки можно улучшать по пяти веткам. Высшая ступень — <color=#46C8F2>за кристаллы</color>.
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> 	Чтобы пробить корпус бронированных, нужен <color=#FFB21E>УРОН</color> 
+. kademe ya da zırh delici mermi gerekir.	-й ступени или бронебойные патроны.
+Bu tüfek zırhlı gövdeyi deler.	Эта винтовка пробивает бронированный корпус.
+KUŞANILDI	ЭКИПИРОВАНО
+KUŞAN	ВЗЯТЬ
+SATIN AL   	КУПИТЬ   
+ ★ YA DA   	 ★ ИЛИ   
+ ELMASLA AL	 ЗА КРИСТАЛЛЫ
+SAHİPSİN	У ТЕБЯ ЕСТЬ
+Görevlerde otomatik takılı	Автоматически в каждом контракте
+ yıldızla açılır	 звёзд для открытия
+SATIN AL  	КУПИТЬ  
+KİLİTLİ	ЗАКРЫТО
+ adetlik paket	 шт. в наборе
+SABİT NİŞAN	ТВЁРДАЯ РУКА
+Dürbündeki el titremesi her kademede %17 azalır.	Дрожь рук в оптике снижается на 17% с каждой ступенью.
+NEFES KONTROLÜ	КОНТРОЛЬ ДЫХАНИЯ
+Nefesini daha uzun tutarsın: nişangah daha uzun sabit kalır.	Дольше задерживаешь дыхание: прицел дольше остаётся неподвижным.
+SOĞUKKANLILIK	ХЛАДНОКРОВИЕ
+Ateş altında ve yaralıyken titreme her kademede %25 azalır.	Дрожь под огнём и при ранении снижается на 25% с каждой ступенью.
+ sn	 с
+MAKSİMUM	МАКСИМУМ
+YÜKSELT  	УЛУЧШИТЬ  
+BURAYA ATEŞ ET	СТРЕЛЯТЬ СЮДА
+DRON	ДРОН
+İŞARETLE — HEDEF BU	ОТМЕТИТЬ — ЭТО ЦЕЛЬ
+YER DEĞİŞTİR	СМЕНИТЬ ПОЗИЦИЮ
+NEFES	ДЫХАНИЕ
+MENZİL	ДИСТАНЦИЯ
+Geçmek için dokun	Нажми, чтобы пропустить
+Hedef: 	Цель: 
+Taşınırken dünya durmaz. Yeni yerde seni kimse bilmez.	Пока ты перебираешься, мир не стоит на месте. На новой позиции о тебе никто не знает.
+YER DEĞİŞTİRİYORSUN\n<size=30>	СМЕНА ПОЗИЦИИ\n<size=30>
+ sn</size>	 с</size>
+DOSYA	ДОСЬЕ
+ARANIYOR	В РОЗЫСКЕ
+ETKİSİZ	НЕЙТРАЛИЗОВАН
+KAÇTI	СБЕЖАЛ
+DOĞRULANDI	ПОДТВЕРЖДЕНО
+BEKLE…	ЖДИ…
+NORMAL	ОБЫЧНЫЙ
+KURŞUN KAMERASI  ·  	КАМЕРА ПУЛИ  ·  
+GECE GÖRÜŞÜ	НОЧНОЕ ВИДЕНИЕ
+KAFA	ГОЛОВА
+KOL	РУКА
+BACAK	НОГА
+KARIN	ЖИВОТ
+GÖVDE	КОРПУС
+Kimliği belirsiz	Личность не установлена
+HEDEF DEĞİL	НЕ ЦЕЛЬ
+TARANDI	ПРОВЕРЕН
+Masum — ateş etme	Невиновный — не стрелять
+Dosyadaki yüzle karşılaştır — emin olunca İŞARETLE	Сравни с лицом из досье — когда уверен, нажми ОТМЕТИТЬ
+SİLAHLI	ВООРУЖЁН
+BAYGIN	БЕЗ СОЗНАНИЯ
+YERDE	ЛЕЖИТ
+Koru — ona bir şey olmamalı	Защищай — с ним ничего не должно случиться
+Silahlı — sivil kılığında	Вооружён — под видом гражданского
+Sözleşme hedefi	Цель контракта
+” — sözleşme hedefi	” — цель контракта
+Silahlı — vurulabilir	Вооружён — можно стрелять
+Yaralı — 	Ранен — 
+!  NİŞAN ALIYOR	!  ЦЕЛИТСЯ
+!  SANA ATEŞ EDİYOR	!  СТРЕЛЯЕТ ПО ТЕБЕ
+GÖZCÜ	НАБЛЮДАТЕЛЬ
+Öldürüldü	Убит
+Kaçıyor — güvenli yere	Убегает в безопасное место
+Güvende — gözün üzerinde olsun	В безопасности — не спускай с него глаз
+Kimliği doğrulanmadı — dosyadaki yüzü bul	Личность не подтверждена — найди лицо из досье
+Görüş dışında — bekle	Вне поля зрения — жди
+Baygın	Без сознания
+İğne isabet etti — bayılıyor	Дротик попал — теряет сознание
+Yerde — sürünüyor	На земле — ползёт
+NİŞAN ALIYOR — HEMEN VUR!	ЦЕЛИТСЯ — СТРЕЛЯЙ!
+KAÇIYOR!	УБЕГАЕТ!
+Sese doğru bakıyor — fırsat!	Смотрит на звук — твой шанс!
+Siperin arkasında — dikkatini dağıt	За укрытием — отвлеки его
+Kalabalıkta — herkesi dürbünle tara	В толпе — проверь всех через оптику
+Yaralı	Ранен
+Kimlik doğrulandı	Личность подтверждена
+Kimliği taranmadı — dürbünle tara	Личность не проверена — проверь через оптику
+HEDEF:  	ЦЕЛЬ:  
+Sözleşme tamamlandı	Контракт выполнен
+Etkisiz hale getir: 	Нейтрализуй: 
+Ateş et: devre dışı bırak	Стреляй: выведи из строя
+Devam ediyor	В процессе
+BONUS  ·  	БОНУС  ·  
+KEŞİF  ·  	РАЗВЕДКА  ·  
+ tehdit tarandı	 угр. проверено
+Fırsat penceresi	Окно возможности
+Bayraklara bak	Смотри на флаги
+Rüzgar yok	Безветрие
+Sağa esiyor »	Дует вправо »
+« Sola esiyor	« Дует влево
+Karşıdan	Встречный
+« Sola tut 	« Бери левее 
+Sağa tut » 	Бери правее » 
+ mil	 мил
+ALARM	ТРЕВОГА
+TELSİZ  	РАЦИЯ  
+DOLDURULUYOR	ПЕРЕЗАРЯДКА
+STANDART	СТАНДАРТ
+Yıldız kaçtı: 	Звезда упущена: 
+SÖZLEŞME 	КОНТРАКТ 
+  ·  VETERAN	  ·  ВЕТЕРАН
+Kalabalıkta silahlı adam(lar) var — kimliği bilinmiyor	В толпе вооружённые люди — личности неизвестны
+Hedef bu bölgede — dosyadaki yüzü bul, emin olunca İŞARETLE	Цель в этой зоне — найди лицо из досье и, когда уверен, нажми ОТМЕТИТЬ
+HEDEF	ЦЕЛЬ
+KORU	ЗАЩИТА
+Ekranı parmağınla sürükleyerek etrafa bak.	Веди пальцем по экрану, чтобы осмотреться.
+Sağdaki dürbün tuşuna dokunarak dürbünü aç.	Нажми кнопку оптики справа, чтобы прильнуть к прицелу.
+Kırmızı işaret hedefi gösterir. Nişangahı hedefin üzerine getir.	Красная метка показывает цель. Наведи на неё прицел.
+Nişangahı kişinin üzerinde tut: kimliği taranıyor…	Держи прицел на человеке: идёт опознание…
+Soldaki NEFES tuşuna basılı tut: nişan sabitlenir.	Зажми кнопку ДЫХАНИЕ слева: прицел замрёт.
+Hazır! Büyük kırmızı tuşla ateş et.	Готово! Стреляй большой красной кнопкой.
+  <size=24><color=#A3AEB9>·  SEVİYE 	  <size=24><color=#A3AEB9>·  УРОВЕНЬ 
+SEVİYE ATLADIN!	НОВЫЙ УРОВЕНЬ!
+2× TOPLA	ЗАБРАТЬ ×2
+   ·   SEVİYE 	   ·   УРОВЕНЬ 
+AÇILDI:  	ОТКРЫТО:  
+GÜN BATIMI	ЗАКАТ
+GÜNDÜZ	ДЕНЬ
+YAĞMURLU	ДОЖДЬ
+YAĞMURLU GECE	ДОЖДЛИВАЯ НОЧЬ
+KARLI GÜN	СНЕЖНЫЙ ДЕНЬ
+DAĞDA GÜN BATIMI	ЗАКАТ В ГОРАХ
+KARLI GECE	СНЕЖНАЯ НОЧЬ
+TİPİ	МЕТЕЛЬ
+VİDEO YOK	НЕТ ВИДЕО
+Şu an gösterilecek video yok. Biraz sonra tekrar dene.	Сейчас нет доступных видео. Попробуй чуть позже.
+ÖDÜLLÜ TEST REKLAMI  ·  	ТЕСТ. РЕКЛАМА С НАГРАДОЙ  ·  
+TEST REKLAMI  ·  her 	ТЕСТОВАЯ РЕКЛАМА  ·  раз в 
+ görevde bir	 контракта
+Reklam sonunda ödül verilir	Награда — после окончания рекламы
+Reklamsız paketle bu ekran kalkar	Пакет «Без рекламы» убирает этот экран
+AVUÇ DOLUSU	ГОРСТЬ
+KESE	МЕШОЧЕК
+EN POPÜLER	ХИТ
+SANDIK	СУНДУК
+KASA	СЕЙФ
+EN İYİ DEĞER	ВЫГОДНЕЕ ВСЕГО
+HAZİNE	СОКРОВИЩЕ
+ZARF	КОНВЕРТ
+ÇANTA	СУМКА
+%15 FAZLA	+15% БОЛЬШЕ
+VALİZ	ЧЕМОДАН
+%33 FAZLA	+33% БОЛЬШЕ
+%54 FAZLA	+54% БОЛЬШЕ
+BAŞLANGIÇ PAKETİ	СТАРТОВЫЙ НАБОР
+500 elmas, $10.000 ve 10 zırh delici mermi. Sadece bir kez.	500 кристаллов, $10.000 и 10 бронебойных патронов. Только один раз.
+%80 İNDİRİM	СКИДКА 80%
+REKLAMSIZ	БЕЗ РЕКЛАМЫ
+Görev aralarındaki reklamlar sonsuza dek kalkar. Ödüllü videolar istersen açık kalır. Hediye: 100 elmas.	Реклама между контрактами исчезнет навсегда. Видео с наградой остаются — по желанию. В подарок: 100 кристаллов.
+GÖLGE OPERASYON	ОПЕРАЦИЯ «ТЕНЬ»
+Susturuculu GÖLGE SR-7 hemen senin: bütün hatları 3. kademede. Gece görüşü ve 150 elmas.	ТЕНЬ SR-7 с глушителем сразу твоя: все ветки на 3-й ступени. Плюс ночное видение и 150 кристаллов.
+EN ÇOK SATAN	ХИТ ПРОДАЖ
+TİTAN PAKETİ	НАБОР «ТИТАН»
+Efsane TİTAN .50: zırhı ve camı deler. Termal dürbün, 400 elmas ve 20 zırh delici mermi.	Легендарная ТИТАН .50: пробивает броню и стекло. Тепловизионный прицел, 400 кристаллов и 20 бронебойных патронов.
+EFSANE	ЛЕГЕНДА
+Bu paket zaten alındı.	Этот набор уже куплен.
+Elmasın yetmiyor.	Не хватает кристаллов.
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.	Магазин сейчас недоступен. Проверь подключение к интернету и попробуй чуть позже.
+LİMAN — KRAL'IN AĞI	ПОРТ — СЕТЬ КРАЛА
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: 	У тебя нет имени. Армия три года назад записала тебя в погибшие. КОНТРОЛЬ нашёл тебя в военном госпитале и сделал одно предложение: 
+limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	разрушь контрабандную сеть в порту — и твоё прошлое сотрут.\n\nКаждый контракт — это имя. Каждое имя — путь к следующему.
+ŞEHİR — BARAN HOLDİNG	ГОРОД — ГРОМОВ ХОЛДИНГ
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\n	Порт пал, но деньги продолжают течь. Последний номер в телефоне Виктора Крауса ведёт в Приморье Плаза: Громов Холдинг.\n\n
+Bu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	На этот раз цели в костюмах. В толпе, за стеклянными стенами, рядом с полицией.
+KARTAL TEPE — KURUL	ОРЛИНАЯ ГОРА — СОВЕТ
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını 	Файлы из сейфа Громова дают пять имён: Совет. Пять человек, которые годами кормили и прикрывали Громова, новогоднюю неделю 
+her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	каждый год проводят на Орлиной Горе.\n\nСреди файлов есть ещё одна подпись. Знакомая подпись.
+Selim Kaya'nın cebinden çıkan rüşvet makbuzlarında tek bir imza var: liman yönetiminden C. Aydın.	На квитанциях о взятках из кармана Семёна Каменева только одна подпись: Я. Светлов из управления порта.
+Can Aydın'ın sildiği kayıtlar kurtarıldı. Gelecek sevkiyatın alıcısı: Kuzgun lakaplı Tarık Bal.	Записи, которые стёр Яков Светлов, восстановлены. Получатель следующей партии — Тимур Белых по кличке Ворон.
+Kuzgun'un arabasındaki çanta boş değil: depoları koruyan paralı askerlerin maaş listesi. Başlarında Rico Vargas.	Сумка в машине Ворона не пуста: платёжная ведомость наёмников, охраняющих склады. Во главе — Рико Варгас.
+Rico'nun telsizinde bir uyarı: "Depoda köstebek var." Örgüt de kendi içinde birini arıyor.	В рации Рико предупреждение: «На складе крот». Организация тоже ищет кого-то в своих рядах.
+Köstebek Kerim'in sattığı bilgi bir teslimata işaret ediyor: Tilki çalınan belgeleri rıhtımdan kaçıracak.	Сведения, которые продал Крот Клим, указывают на передачу: Лис вывезет украденные документы с причала.
+Tilki'nin belgeleri bir gemi manifestosu: Meridian Star'ın ambarında örgütün silah yükü var.	Документы Лиса — судовой манифест: в трюме Meridian Star груз оружия организации.
+Kaptan Demir'in seyir defterinde tek bir isim tekrar ediyor: yükün sahibi Viktor Kral.	В судовом журнале капитана Железнова повторяется одно имя: владелец груза — Виктор Краус.
+Kral düştü. Telefonundaki son arama Kordon Plaza'ya: Baran Holding. Ama örgüt hâlâ nefes alıyor — ve bir tanığı susturmak istiyor.	Краус пал. Последний звонок с его телефона — в Приморье Плаза: Громов Холдинг. Но организация ещё дышит — и хочет заставить замолчать свидетельницу.
+Ayten Şahin ifadesini verdi. Örgütün para kuryesi Emre Doğan şehirden kaçmaya hazırlanıyor.	Анна Кречетова дала показания. Денежный курьер организации Егор Соколов готовится бежать из города.
+Kuryenin çantasındaki hesaplar bir kimyagere ödeme gösteriyor: Dr. Selin Aras.	Счета из сумки курьера показывают выплаты химику: доктор Ирина Аргунова.
+Kartal karanlıkta kaldı. Silah sevkiyatının parası bir laboratuvara gidiyor: Meridian Star'ın ambarı.	Орёл остался в темноте. Деньги за партию оружия уходят в лабораторию — в трюм Meridian Star.
+Dr. Aras konuştu: laboratuvarın asıl sahibi Baran Holding. Liman bitti; sırada şehir var.	Доктор Аргунова заговорила: настоящий владелец лаборатории — Громов Холдинг. С портом покончено; следующий — город.
+Defne Aksoy'un ekranında son işlem: Baran'ın rüşvet defteri Postacı'ya teslim edildi.	Последняя операция на экране Дарьи Акимовой: книга взяток Громова передана Почтальону.
+Rüşvet defteri ele geçti. Sayfalardan biri gemilerin sahibine ayrılmış: Cevdet Aydemir.	Книга взяток у нас. Одна из страниц посвящена владельцу кораблей: Вадим Амосов.
+Aydemir'in balkonda bıraktığı telefon: Baran, Başsavcı Nermin Arslan'ı susturmak için iki kişi tutmuş.	Телефон, который Амосов оставил на балконе: Громов нанял двоих, чтобы заставить замолчать главного прокурора Наталью Львову.
+Savcı konuşmasını bitirdi. Tetikçinin cebinden bir not çıktı: "Muhasebeci konuşmadan işini bitir." Baran'ın muhasebecisi her şeyi biliyor — onu canlı istiyoruz.	Прокурор закончила речь. В кармане киллера нашлась записка: «Закончи дело, пока бухгалтер не заговорил». Бухгалтер Громова знает всё — он нужен нам живым.
+Muhasebeci Koç'un hesapları gazeteci Selin Ay'ın cinayetine ödeme gösteriyor. Tetikçi Çakal, dosyayı kapatan bir komiser.	Счета бухгалтера Козлова показывают оплату убийства журналистки Ольги Лунёвой. Убийца — Шакал, комиссар, который закрыл дело.
+Çakal'ın motosikletinde Baran'ın güvenlik şefinin numarası: Tolga Demirel. Bize karşı her hamleyi o planlamış.	На мотоцикле Шакала — номер начальника охраны Громова: Роман Дементьев. Каждый ход против нас планировал он.
+Demirel'in tabletinde senin kullandığın bütün atış noktaları var — hepsi işten önce kaydedilmiş. Bunları ona kim verdi? Dosyanın üstünde tek harf: "K."	В планшете Дементьева все огневые точки, которые ты использовал, — все записаны до начала работы. Кто ему их дал? На папке одна буква: «К».
+Baran'ın son mesajı yarım kaldı: "KONTROL'e söyle, anlaşma hâlâ geçerli…" Dosyalar Kartal Tepe'yi ve beş ismi gösteriyor: Kurul.	Последнее сообщение Громова оборвалось: «Передай КОНТРОЛЮ, что сделка в силе…» Файлы указывают на Орлиную Гору и пять имён: Совет.
+Banker Kurt'un tableti Kurul'un ödeme defterine bağlanıyor. Her ödemenin altında aynı onay kodu: KONTROL.	Планшет банкира Волкова подключён к платёжной книге Совета. Под каждым платежом один и тот же код подтверждения: КОНТРОЛЬ.
+Hakim Oral'ın kasasında Baran davalarının kararları — duruşmalardan önce yazılmış. Biri de senin eski birliğine ait.	В сейфе судьи Осипова приговоры по делам Громова — написанные до заседаний. Один из них касается твоего бывшего подразделения.
+Müteahhit Tan'ın telefonunda Kurul'un kuryesinin rotası: şifreli diskle vadiyi geçecek.	В телефоне подрядчика Тарасова маршрут курьера Совета: он пересечёт долину с зашифрованным диском.
+Kuryenin diski açıldı: Kurul'un bütün ödemeleri — ve KONTROL'e yapılan aylık ödemeler. Bize iş verenler, Kurul'un kendi temizlikçileri.	Диск курьера вскрыт: все платежи Совета — и ежемесячные выплаты КОНТРОЛЮ. Те, кто давал нам работу, — личные чистильщики Совета.
+Bülent Er'in konvoyundaki evraklar: Kurul'a karşı açılan her soruşturmayı KONTROL'ün talimatıyla kapatmış.	Бумаги из конвоя Бориса Ермакова: каждое расследование против Совета он закрывал по указанию КОНТРОЛЯ.
+Elif Demir yaşıyor ve yarın konuşacak. Tetikçileri tutan adamın adı onun dosyasında: Orhan Sezer, Kurul'un temizlikçisi.	Елена Миронова жива и завтра даст показания. Имя того, кто нанял киллеров, есть в её деле: Анатолий Седов, чистильщик Совета.
+Sezer'in telefonundaki son arama Patron'dan değil. KONTROL'den. Senden sonra temizlenecek kişi sendin.	Последний звонок в телефоне Седова — не от Босса. От КОНТРОЛЯ. Следующим под зачистку шёл ты.
+Kurul bitti. Disk hâlâ sende.	С Советом покончено. Диск всё ещё у тебя.
+Dr. Aras baygın, tekne bekliyor. Onu kime teslim edeceksin?	Доктор Аргунова без сознания, лодка ждёт. Кому ты её передашь?
+KONTROL'E	КОНТРОЛЮ
+Kimyager KONTROL'ün hücresine gitti. Ondan bir daha haber alınmadı.	Химика забрали в камеру КОНТРОЛЯ. Больше о ней ничего не слышали.
+SAVCILIĞA	ПРОКУРАТУРЕ
+Kimyager savcılığa bırakıldı. İfadesi Baran'a açılan davanın ilk delili oldu.	Химика передали прокуратуре. Её показания стали первой уликой в деле против Громова.
+Baran'ın kasası açık: dosyalar ve iki milyon avro. Ne yapacaksın?	Сейф Громова открыт: файлы и два миллиона евро. Что будешь делать?
+PARAYI AL	ВЗЯТЬ ДЕНЬГИ
+Parayı aldın (+20.000). KONTROL'e sadece dosyaları gönderdin.	Ты взял деньги (+20.000). КОНТРОЛЮ отправил только файлы.
+DOKUNMA	НЕ ТРОГАТЬ
+Parayı bıraktın. Dosyaların kopyasını Başsavcı Arslan'a yolladın.	Ты оставил деньги. Копию файлов отправил главному прокурору Львовой.
+Kurul'un bütün ödemeleri ve KONTROL'ün imzası bu diskte. Kime vereceksin?	Все платежи Совета и подпись КОНТРОЛЯ — на этом диске. Кому ты его отдашь?
+Diski KONTROL'e verdin. Ertesi sabah Kurul'un boş koltukları dolmaya başladı — yeni isimlerle. Sözleşme tamam; sen yine kimsesin.	Ты отдал диск КОНТРОЛЮ. Наутро пустые кресла Совета начали заполняться — новыми именами. Контракт выполнен; ты снова никто.
+SAVCIYA	ПРОКУРОРУ
+Diski Başsavcı Nermin Arslan'a bıraktın. Bir hafta sonra KONTROL'ün kapısına polis dayandı. Adın yine yok — ama bu sefer kendi seçimin.	Ты оставил диск главному прокурору Наталье Львовой. Через неделю к дверям КОНТРОЛЯ пришла полиция. Имени у тебя снова нет — но на этот раз это твой выбор.
+ Kimyagerin ifadesi davayı ayakta tutuyor.	 Показания Химика держат дело на плаву.
+ Baran'ın parasını aldığını KONTROL biliyor.	 КОНТРОЛЬ знает, что ты взял деньги Громова.
+Seni kaybettiler — ama nişancı yuvasını arıyorlar	Тебя потеряли — но ищут снайперскую позицию
+Vuruldun — 	Ты ранен — 
+Vuruldun — yerin tespit edildi	Ты ранен — позиция раскрыта
+ÇAYLAK	НОВИЧОК
+TETİKÇİ	НАЁМНИК
+NİŞANCI	СТРЕЛОК
+KESKİN NİŞANCI	СНАЙПЕР
+GÖLGE	ТЕНЬ
+HAYALET	ПРИЗРАК
+Günün sözleşmesi	Контракт дня
+Elmasla son geliştirme kademeleri	Последние ступени улучшений за кристаллы
+Efsane rütbe yolu	Путь к легендарному званию
+TELEFERİK	КАНАТКА
+Kartal Tepe teleferiği	Канатная дорога Орлиной Горы
+Sinan Kurt zirvedeki kahvaltıya teleferikle çıkacak. Kabin zirve istasyonuna varırsa onu kaybederiz.	Станислав Волков поднимется на канатке к завтраку на вершине. Если кабина доберётся до верхней станции, мы его упустим.
+Baran'ın dosyaları bizi Kartal Tepe'ye getirdi. Kurul — Baran'ı yıllarca besleyen ve koruyan beş kişi — yılbaşı haftasını her yıl burada geçiriyor.\n\nİlki Sinan Kurt, Kurul'un bankeri. Kayak barında kahvesini bitirince iki korumasıyla teleferiğe binip zirvedeki restorana çıkacak. Kabin hattın sonuna varırsa onu kaybederiz.	Файлы Громова привели нас на Орлиную Гору. Совет — пять человек, годами кормивших и прикрывавших Громова, — каждый год проводит здесь новогоднюю неделю.\n\nПервый — Станислав Волков, банкир Совета. Допив кофе в лыжном баре, он с двумя телохранителями сядет в канатку и поднимется в ресторан на вершине. Если кабина доедет до конца линии, мы его упустим.
+Kabin camı mermiyi durdurmaz; yukarı çıkan kabine biraz önden ve yukarıdan nişan al. İstasyonun yanındaki motor dairesine iki atış hattı durdurur: kabinler sallanır, içindekiler çömelir.	Стекло кабины пулю не остановит; целься в поднимающуюся кабину чуть с упреждением и выше. Два выстрела в машинное отделение рядом со станцией остановят линию: кабины закачаются, пассажиры пригнутся.
+Uzun menzil: kabin 250 metreden 1 kilometreye kadar uzaklaşır	Большая дистанция: кабина уходит с 250 метров до 1 километра
+Teleferik motoru: istasyonun batısındaki beton kulübe	Двигатель канатки: бетонная будка к западу от станции
+Sinan Kurt istasyona kaçtı	Станислав Волков сбежал на станцию
+KONTROL	КОНТРОЛЬ
+Platformdalar. Sıradaki kabine binecekler.	Они на платформе. Сядут в следующую кабину.
+Kabine bindiler — yukarı çıkıyorlar	Сели в кабину — поднимаются
+Zirve istasyonuna	До верхней станции
+Sinan Kurt zirve istasyonuna vardı	Станислав Волков добрался до верхней станции
+Teleferik durdu — kabinler sallanıyor!	Канатка встала — кабины качаются!
+Teknisyenler hattı yeniden çalıştırdı! Kabin yine hareket ediyor.	Техники снова запустили линию! Кабина опять движется.
+Kayak barında, korumalarıyla kahve içiyor. Platforma çıkınca sıradaki kabine binecek.	В лыжном баре, пьёт кофе с охраной. Выйдя на платформу, сядет в следующую кабину.
+Hat saatte 18 kilometre gidiyor. Kabin uzaklaştıkça mermi düşüşü artar — hesabını yap.	Линия идёт со скоростью 18 км/ч. Чем дальше кабина, тем сильнее снижение пули — учитывай.
+Sinan Kurt	Станислав Волков
+Uzun gri palto, gözlük, kır saç. İki korumasıyla.	Длинное серое пальто, очки, седые волосы. С двумя телохранителями.
+Sinan Kurt'u zirve istasyonuna varmadan etkisiz hale getir	Нейтрализуй Станислава Волкова, пока он не добрался до верхней станции
+Teleferik motorunu durdurabilirsin (isteğe bağlı)	Можно остановить двигатель канатки (по желанию)
+Sözleşmeyi tamamla	Выполни контракт
+Kabin hareket halindeyken vur	Попади, пока кабина в движении
+En fazla iki atış	Не больше двух выстрелов
+ŞÖMİNE	КАМИН
+Doğu yamacı — cam villa	Восточный склон — стеклянная вилла
+Hakim Ferit Oral şöminenin başında. Villanın bütün ön cephesi cam — ve cam kırıldığı an içeridekiler anlar.	Судья Фёдор Осипов у камина. Весь фасад виллы стеклянный — и стоит стеклу разбиться, все внутри поймут.
+Ferit Oral, Baran'ın her davasını düşüren hakim. Yıllardır Kurul'un yargıdaki adamı. Bu gece doğu yamacındaki cam villasında eşiyle.\n\nDışarıda, terasta bir koruma dolaşıyor; aşağıda araçta bir şoför bekliyor. Hakim 23:25'te yatmaya gidecek. Eşi odadayken ateş edersen tanık kalır.	Фёдор Осипов — судья, который разваливал каждое дело Громова. Годами он был человеком Совета в суде. Этой ночью он с женой на своей стеклянной вилле на восточном склоне.\n\nСнаружи по террасе ходит охранник, внизу в машине ждёт водитель. В 23:25 судья пойдёт спать. Выстрелишь, пока жена в комнате, — останется свидетель.
+İlk mermi camı kırar ve sesi içeridekileri ürkütür: ilk atışın öldürücü olsun. Hakim zaman zaman cama gelip vadiye bakıyor — en açık an o.	Первая пуля разобьёт стекло, и звук спугнёт всех внутри: первый выстрел должен быть смертельным. Время от времени судья подходит к стеклу и смотрит на долину — это самый открытый момент.
+Hakim bölmenin arkasında. Cama ya da şömineye geri gelmesini bekle.	Судья за перегородкой. Жди, пока он вернётся к стеклу или к камину.
+Hakim yatak odasına kilitlendi	Судья заперся в спальне
+Hakimin yatmasına	До отхода судьи ко сну
+Hakim yatak odasına gidiyor!	Судья идёт в спальню!
+Hakim yatmaya gitti	Судья ушёл спать
+Cam ön cephe vadiye bakıyor. Hakim kanepede, eşi masanın başında.	Стеклянный фасад выходит на долину. Судья на диване, жена за столом.
+Eşi arada bir öbür odalara geçiyor. O sırada vurursan kimse bir şey görmez.	Жена иногда выходит в другие комнаты. Выстрелишь в это время — никто ничего не увидит.
+Yolun aşağısındaki adamın elinde gece dürbünü var. Dürbün sana dönünce eğil.	У человека ниже по дороге ночной бинокль. Когда бинокль поворачивается к тебе — пригнись.
+Ferit Oral	Фёдор Осипов
+Beyaz balıkçı yaka kazak, gözlük, beyaz saç. Cam villada.	Белый свитер с высоким горлом, очки, седые волосы. На стеклянной вилле.
+Hakim Ferit Oral'ı yatmaya gitmeden etkisiz hale getir	Нейтрализуй судью Фёдора Осипова, пока он не ушёл спать
+Tanık bırakma: eşi odadayken ateş etme	Без свидетелей: не стреляй, пока жена в комнате
+Camın ardından tek atış	Один выстрел сквозь стекло
+JAKUZİ	ДЖАКУЗИ
+Kartal Dağ Oteli — spa terası	Отель «Орлиное Гнездо» — спа-терраса
+Selim Tan gün batımında jakuzide. Buhar onu bir saklıyor, bir gösteriyor — pencereni bekle.	Сергей Тарасов в джакузи на закате. Пар то скрывает его, то открывает — жди своего окна.
+Selim Tan, Baran'ın limandaki depolarını, Kurul'un kara parayla yükselen bütün otellerini inşa eden müteahhit.\n\nOtelin spa terasında, jakuzide gün batımını izliyor. Kapıda bir koruması, yanında bir arkadaşı var; garson şampanya getirecek. Sudan çıktığında içeri girer.\n\nKoruma kapıdan dürbünle yamaçları tarıyor. Selim'in dibinde durduğu için onu vurmak Selim'i ürkütür: dürbün sana döndüğünde eğil.	Сергей Тарасов — подрядчик, который построил портовые склады Громова и все отели Совета, выросшие на грязных деньгах.\n\nОн в джакузи на спа-террасе отеля, смотрит на закат. У двери телохранитель, рядом друг; официант принесёт шампанское. Выйдя из воды, Сергей уйдёт внутрь.\n\nТелохранитель у двери осматривает склоны в бинокль. Он стоит прямо рядом с Сергеем, так что выстрел в него спугнёт Сергея: когда бинокль повернётся к тебе, пригнись.
+Suyun üstünde yalnızca başı ve omuzları görünüyor. Buhar yoğunlaştığında hedef kaybolur, açıldığında birkaç saniyelik pencere doğar. Sudan çıkıp kapıya yürürken bütün boyuyla açıktadır — ama yalnızca birkaç saniye.	Над водой видны только голова и плечи. Когда пар сгущается, цель пропадает, когда рассеивается — открывается окно на несколько секунд. Выйдя из воды и шагая к двери, он открыт в полный рост — но лишь на несколько секунд.
+Selim Tan otele girdi	Сергей Тарасов ушёл в отель
+Selim sudan çıkıyor — kapıya yürüyor!	Сергей выходит из воды — идёт к двери!
+Sudan çıkmasına	До выхода из воды
+Buhar bazen tamamen kapatıyor. Sabret: açıldığı an tek bir temiz atış yeter.	Иногда пар закрывает всё. Терпение: как только рассеется, хватит одного чистого выстрела.
+Kapıdaki koruma dürbünle yamaçları tarıyor. Onu vurursan Selim içeri kaçar: dürbün sana dönünce eğil.	Телохранитель у двери осматривает склоны в бинокль. Выстрелишь в него — Сергей скроется внутри: когда бинокль повернётся к тебе, пригнись.
+Selim Tan	Сергей Тарасов
+Müteahhit	Подрядчик
+Kalın yapılı, sakallı, koyu saç. Jakuzide.	Крупный, с бородой, тёмные волосы. В джакузи.
+Selim Tan'ı içeri girmeden etkisiz hale getir	Нейтрализуй Сергея Тарасова, пока он не ушёл внутрь
+Kafadan vur	Выстрел в голову
+Buharın içinden vur	Выстрел сквозь пар
+KAR MOTORU	СНЕГОХОД
+Vadi tabanı — batı yamacı	Дно долины — западный склон
+Kurye Kurul'un defterini kar motoruyla dağa kaçıracak. Ölmemeli: defterin şifresi onda.	Курьер увезёт книгу Совета в горы на снегоходе. Он не должен погибнуть: шифр от книги у него.
+Doğan Aksu, Kurul'un kuryesi. Bütün ödemelerin kaydı olan şifreli disk onda. Birazdan otelden çıkıp kar motoruyla vadiyi geçecek ve batı yamacından ormana girecek.\n\nOnu CANLI istiyoruz. Önce motoru durdur — motor bloğuna iki atış — sonra kaçmaya çalışırsa bacağından vur. Ekibimiz ratrakla gelip onu alacak.\n\nKurul onu bizim almamıza izin vermez: kurye düşünce spadan adamları çıkıp onu susturmaya gelecek. Ratrak gelene kadar onları durdur.	Дмитрий Аксёнов — курьер Совета. У него зашифрованный диск с записями всех платежей. Скоро он выйдет из отеля, пересечёт долину на снегоходе и уйдёт в лес по западному склону.\n\nОн нужен нам ЖИВЫМ. Сначала останови снегоход — два выстрела в блок двигателя, — а если попробует бежать, стреляй в ногу. Наша группа приедет на ратраке и заберёт его.\n\nСовет не даст нам его забрать: когда курьер упадёт, их люди выйдут из спа, чтобы заставить его замолчать. Сдерживай их, пока не подойдёт ратрак.
+Kar motoru saatte 25 kilometreyle gidiyor: biraz önden nişan al. Sürücüye isabet edersen ölebilir; motor bloğu sürücünün önünde, hedefin altında. Motor durunca kurye en yakın dağ evine koşar: içeri girmeden bacağından vur.	Снегоход идёт со скоростью 25 км/ч: бери небольшое упреждение. Попадёшь в водителя — может погибнуть; блок двигателя перед водителем, ниже цели. Когда двигатель заглохнет, курьер побежит к ближайшему шале: стреляй в ногу, пока он не забежал внутрь.
+Kurye bir dağ evine saklandı	Курьер укрылся в шале
+Kuryeyi BACAĞINDAN vur — ölmemeli	Стреляй курьеру В НОГУ — он не должен погибнуть
+Ekip gelene kadar onu hayatta tut	Сохрани ему жизнь до прибытия группы
+Kar motoru çalışmıyor — kurye koşarak kaçıyor!	Снегоход заглох — курьер убегает бегом!
+Kurye ormana girdi	Курьер ушёл в лес
+Kurye kar motorunda — vadiyi geçiyor!	Курьер на снегоходе — пересекает долину!
+Motor durdu — kurye koşarak kaçıyor!	Двигатель встал — курьер убегает бегом!
+Ratrakın ulaşmasına	До прибытия ратрака
+Spadan silahlı biri çıktı — kuryeye gidiyor!	Из спа вышел вооружённый — идёт к курьеру!
+Etraf temiz — ratrak tam gaz geliyor!	Чисто — ратрак идёт на полном ходу!
+Kurye uyudu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	Курьер усыплён! Ратрак выехал — люди Совета выйдут из спа, не подпускай их к нему.
+Bacağından vuruldu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	Попадание в ногу! Ратрак выехал — люди Совета выйдут из спа, не подпускай их к нему.
+Ekip kuryeyi aldı	Группа забрала курьера
+Otelin spa kapısından çıkacak. Kar motoru otoparkın doğu ucunda.	Выйдет через дверь спа отеля. Снегоход в восточном конце парковки.
+Doğan Aksu	Дмитрий Аксёнов
+Koyu yeşil kapüşonlu, gri bere, kargo pantolon. Kar motorunda.	Тёмно-зелёная куртка с капюшоном, серая шапка, карго-штаны. На снегоходе.
+Önce kar motorunu durdurabilirsin (motor bloğu: 2 atış)	Можно сначала остановить снегоход (блок двигателя: 2 выстрела)
+Kuryeyi canlı yakala	Возьми курьера живым
+En fazla beş atış	Не больше пяти выстрелов
+Kurul'un adamları nişan alamasın	Не дай людям Совета прицелиться
+ÇIĞ	ЛАВИНА
+Batı yolu — çığ yamacı	Западная дорога — лавинный склон
+KAZA	АВАРИЯ
+Bülent Er'in konvoyu batı yolundan gelecek. Kaza gibi görünmeli: yamaçta bir çığ patlayıcısı var.	Конвой Бориса Ермакова пойдёт по западной дороге. Всё должно выглядеть как несчастный случай: на склоне есть заряд для схода лавин.
+Bülent Er, emniyet istihbaratının başında ve Kurul'un maaş bordrosunda. Baran'a karşı açılan her soruşturmayı o kapattırdı. Bu sabah iki araçlık konvoyla batı yolundan otele geliyor.\n\nBir emniyet müdürünün kurşunla ölmesi ülkeyi ayağa kaldırır. Kaza olmalı: yolun üstündeki yamaçta çığ kontrol patlayıcısı var. Onu doğru anda vurursan yamaç kopar ve yolu örter. Bülent ikinci araçta.	Борис Ермаков возглавляет разведку полиции и состоит на жалованье у Совета. Каждое расследование против Громова закрывали по его указке. Этим утром он едет в отель по западной дороге конвоем из двух машин.\n\nГибель начальника полиции от пули поднимет на ноги всю страну. Нужен несчастный случай: на склоне над дорогой стоит заряд противолавинной службы. Попадёшь в него в нужный момент — склон сорвётся и накроет дорогу. Борис во второй машине.
+Çığ yola altı saniyede iner: sayaç altıya indiğinde patlayıcıyı vur. Erken vurursan konvoy kar yığınının önünde durur, geç kalırsan geçip gider; o zaman Bülent'i doğrudan vurmak zorundasın — ama kaza süsü gider.	Лавина сходит на дорогу за шесть секунд: стреляй в заряд, когда счётчик дойдёт до шести. Выстрелишь раньше — конвой остановится перед снежным завалом, опоздаешь — проедет мимо; тогда придётся стрелять в Бориса напрямую — и видимость несчастного случая пропадёт.
+Çığ kontrol patlayıcısı: yolun üstündeki yamacın tepesinde, sarı tank	Противолавинный заряд: на вершине склона над дорогой, жёлтый бак
+İkinci araçta — batı yolundan geliyor	Во второй машине — едет по западной дороге
+Bülent Er otele girdi	Борис Ермаков вошёл в отель
+Yamaç koptu — çığ yola iniyor!	Склон сорвался — лавина идёт на дорогу!
+Konvoy otele vardı — Bülent arabadan iniyor!	Конвой прибыл в отель — Борис выходит из машины!
+Konvoyun yamaca ulaşmasına	До подхода конвоя к склону
+Konvoy batı yolunda. Yamacın altındaki virajdan geçecekler.	Конвой на западной дороге. Пройдут через поворот под склоном.
+Çığ yolu kapattı, konvoy durdu. Bülent araçtan indi — kaza olmadı ama fırsat bu.	Лавина перекрыла дорогу, конвой встал. Борис вышел из машины — аварии не вышло, но это твой шанс.
+Çığ boşa gitti! Konvoy otele devam ediyor — Bülent arabadan inince fırsatın var.	Лавина ушла впустую! Конвой едет дальше к отелю — когда Борис выйдет из машины, будет шанс.
+Tepedeki adam kayak devriyesi, patlayıcıyı kontrol ediyor. O oradayken tetikleme.	Человек наверху — лыжный патруль, проверяет заряд. Пока он там, не подрывай.
+Çığ yamaçtan yola altı saniyede iner. Sayaç altıya indiği an patlayıcıyı vur.	Лавина сходит со склона на дорогу за шесть секунд. Как только счётчик дойдёт до шести — стреляй в заряд.
+Bülent Er	Борис Ермаков
+Emniyet İstihbaratı	Разведка полиции
+İkinci araçta. Lacivert palto, şapka, gözlük.	Во второй машине. Тёмно-синее пальто, шляпа, очки.
+Bülent Er'i etkisiz hale getir — kaza gibi görünmeli	Нейтрализуй Бориса Ермакова — это должно выглядеть как несчастный случай
+Kaza süsü ver: çığla	Подстрой несчастный случай: лавиной
+Çığ devriyesine zarar verme	Не причини вреда лыжному патрулю
+KAYAK HOCASI	ИНСТРУКТОР
+Acemi pisti	Учебный склон
+Elif Demir yarın mahkemede Kurul'a karşı tanıklık edecek. Bugün onu öldürmeye üç kişi geliyor.	Завтра Елена Миронова даст в суде показания против Совета. Сегодня её придут убить трое.
+Kayak hocası Elif Demir, geçen kış teleferik makinisti Hasan Usta'nın Kurul'un adamlarınca öldürülüşünü gördü. Yarın mahkemede tanıklık edecek; Kurul onu bugün susturmak istiyor.\n\nElif acemi pistinde ders veriyor. Üç tetikçi var: istasyonun çatısında bir nişancı, otelden yürüyerek gelen biri ve kar motoruyla gelecek biri. Jandarma 11:33'te geliyor. O zamana kadar onu hayatta tut.	Инструктор по лыжам Елена Миронова прошлой зимой видела, как люди Совета убили машиниста канатки Григория Устинова. Завтра она даст показания в суде; Совет хочет заставить её замолчать сегодня.\n\nЕлена ведёт занятие на учебном склоне. Киллеров трое: снайпер на крыше станции, один идёт пешком от отеля, ещё один приедет на снегоходе. Жандармерия прибудет в 11:33. До тех пор сохрани ей жизнь.
+Nişancıyı önce bul: teleferik istasyonunun düz çatısında, kar kadar beyaz. Ateş ettiğin an namlu alevini görür ve sana döner. Silah çeken birini kolundan vurursan silahını düşürür.	Сначала найди снайпера: на плоской крыше станции канатки, белый как снег. Как только выстрелишь, он увидит вспышку и развернётся к тебе. Попадёшь вооружённому в руку — он выронит оружие.
+Susturucu nişancının seni görmesini geciktirir	Глушитель не даст снайперу сразу тебя засечь
+İstihbarat: üç tetikçi — biri yüksekte	Разведка: трое киллеров — один на высоте
+Elif Demir	Елена Миронова
+TANIK	СВИДЕТЕЛЬ
+Kayak hocası — koru	Инструктор по лыжам — защитить
+Elif'i jandarma gelene kadar koru	Защищай Елену до прибытия жандармерии
+Çatıdaki Nişancı	Снайпер на крыше
+Haki yeşil palto, kalpak — teleferik istasyonunun çatısında	Пальто цвета хаки, папаха — на крыше станции канатки
+İstasyonun çatısında biri doğruldu — Elif'e nişan alıyor!	На крыше станции кто-то поднялся — целится в Елену!
+Çatıdaki nişancı seni vurdu	Тебя подстрелил снайпер с крыши
+Yürüyen Adam	Пеший
+Siyah kapüşonlu, siyah bere, sakallı	Чёрная толстовка с капюшоном, чёрная шапка, борода
+Kar Motorlu Adam	На снегоходе
+Gri kapüşonlu, siyah bere, spor gözlük — kar motorunda	Серая толстовка с капюшоном, чёрная шапка, спортивные очки — на снегоходе
+Doğudan bir kar motoru geliyor, hızlı!	С востока едет снегоход, быстро!
+Kar motorlu indi — Elif'e koşuyor!	Тот, что на снегоходе, спешился — бежит к Елене!
+Üç tetikçiyi de durdur	Останови всех троих киллеров
+Üç tetikçiyi de durdur  	Останови всех троих киллеров  
+Jandarmanın gelmesine	До прибытия жандармерии
+Jandarma geldi — Elif güvende	Жандармерия на месте — Елена в безопасности
+Üç tetikçi var. Yüksekteki önce: istasyonun çatısını tara.	Киллеров трое. Первым — того, кто на высоте: осмотри крышу станции.
+Tanık	Свидетель
+Kırmızı mont, beyaz bere, at kuyruğu. Acemi pistinde ders veriyor.	Красная куртка, белая шапка, хвостик. Ведёт занятие на учебном склоне.
+Elif Demir'i jandarma gelene kadar koru	Защищай Елену Миронову до прибытия жандармерии
+Üç tetikçiyi bul ve durdur (bonus)	Найди и останови всех троих киллеров (бонус)
+Tanığı koru	Защити свидетеля
+Nişancıyı nişan alamadan durdur	Сними снайпера, пока он не прицелился
+Öğrencilere zarar verme	Не причини вреда ученикам
+Köy — tipi altında	Деревня — в метель
+Orhan Sezer tipiyi fırsat bilip ratrakla dağı aşacak. Göz gözü görmüyor — termal dürbün hazır olsun.	Анатолий Седов воспользуется метелью и уйдёт через гору на ратраке. Видимость нулевая — держи тепловизор наготове.
+Orhan Sezer, Kurul'un temizlikçisi: tanıkları ortadan kaldıran, delilleri yok eden adam. Elif'e gönderilen tetikçileri o tutmuştu. Tipiyi fırsat bilip ratrakla dağı aşacak; zirvenin ötesinde bir helikopter bekliyor.\n\nOtelden çıkıp köyü yürüyerek geçecek ve istasyonun yanındaki ratraka binecek. Kar fırtınasında 200 metrenin ötesi görünmüyor; termal dürbün vücut ısısını sisin içinden gösterir. Rüzgar çok sert.	Анатолий Седов — чистильщик Совета: убирает свидетелей и уничтожает улики. Это он нанял киллеров, посланных за Еленой. Воспользовавшись метелью, он уйдёт через гору на ратраке; за вершиной его ждёт вертолёт.\n\nОн выйдет из отеля, пешком пройдёт через деревню и сядет в ратрак у станции. В буран дальше 200 метров ничего не видно; тепловизор показывает тепло тела сквозь мглу. Ветер очень сильный.
+Termal dürbün herkesi beyaz gösterir: tarayıp kimliği oku. Rüzgar saatte 30 kilometreden fazla esiyor; nişanı rüzgarın geldiği yöne kaydır.	В тепловизоре все светятся белым: проверяй и читай личность. Ветер дует быстрее 30 км/ч; смещай прицел в ту сторону, откуда он дует.
+Termal dürbün şart	Нужен тепловизор
+Orhan istasyona kaçtı	Анатолий сбежал на станцию
+Ratrak hareket etti — dağa tırmanıyor!	Ратрак тронулся — поднимается в гору!
+Ratrakın sırtı aşmasına	До перехода ратрака через хребет
+Ratrak sırtı aştı	Ратрак перевалил через хребет
+Görüş 200 metrenin altında. Termal dürbünle sıcak noktaları ara, sonra kimliği tara.	Видимость меньше 200 метров. Ищи тёплые пятна в тепловизор, затем проверяй личность.
+Rüzgar doğudan sert esiyor. Uzak atışta mermi metrelerce sürüklenir.	С востока дует сильный ветер. На дальнем выстреле пулю сносит на метры.
+Orhan Sezer	Анатолий Седов
+Temizlikçi	Чистильщик
+Lacivert uzun palto, kalpak, gözlük. İki korumasıyla.	Длинное тёмно-синее пальто, папаха, очки. С двумя телохранителями.
+Orhan Sezer'i ratrak sırtı aşmadan etkisiz hale getir	Нейтрализуй Анатолия Седова, пока ратрак не перевалил через хребет
+Tek atış	Один выстрел
+Termal dürbün kullanmadan	Без тепловизора
+ZİRVE	ВЕРШИНА
+Kartal Dağ Oteli — yılbaşı gecesi	Отель «Орлиное Гнездо» — новогодняя ночь
+Gece yarısı havai fişekler başlayınca vadi gürültüyle dolacak. Patlamalar senin silahının sesini yutar.	В полночь начнётся салют, и долину заполнит грохот. Взрывы заглушат звук твоего выстрела.
+Kurul'dan geriye bir kişi kaldı: Nedim Kurt — Patron. Baran'ı yaratan, yıllarca ayakta tutan ve her şeyin hesabını tutan adam.\n\nYılbaşı gecesi otelin önündeki terasta misafirleriyle. Gece yarısı gölün üstünde havai fişek gösterisi var: Patron izlemek için terasın ucuna yürüyecek. Patlamalar yankılanırken atılan bir kurşunu kimse duymaz. Gösteri bitince içeri girer — bir daha çıkmaz.\n\nPatron tedbirli: güvenlik şefi terasın önünden gece dürbünüyle yamaçları tarıyor. Seni görürse korumalar yerini öğrenir.	От Совета остался один человек: Леонид Нестеров — Босс. Тот, кто создал Громова, годами держал его на плаву и вёл счёт всему.\n\nВ новогоднюю ночь он с гостями на террасе перед отелем. В полночь над озером салют: Босс выйдет на край террасы посмотреть. Пулю, выпущенную под эхо взрывов, никто не услышит. Когда шоу кончится, он уйдёт внутрь — и больше не выйдет.\n\nБосс осторожен: начальник охраны с края террасы осматривает склоны в ночной бинокль. Если он тебя заметит, охрана узнает твою позицию.
+Havai fişek patlamasının sesi yuvaya ulaştığı an tetiğe bas: o anki atışı kimse duymaz. Patron'un iki koruması var; kalabalığın içinde ateş etme. Güvenlik şefinin dürbünü sana dönünce eğil (SİPER).	Жми на спуск, как только грохот салюта докатится до позиции: этот выстрел никто не услышит. У Босса двое телохранителей; не стреляй в толпу. Когда бинокль начальника охраны повернётся к тебе — пригнись (УКРЫТИЕ).
+Gece yarısı: göl üstünde havai fişek	Полночь: салют над озером
+Patron içeri girdi	Босс ушёл внутрь
+Gece yarısına	До полуночи
+MİSAFİRLER	ГОСТИ
+On! Dokuz! Sekiz! Yedi...	Десять! Девять! Восемь! Семь...
+Mutlu yıllar! — havai fişekler başladı	С Новым годом! — начался салют
+Gösterinin bitmesine	До конца шоу
+Gösteri bitti — Patron içeri dönüyor!	Шоу окончено — Босс возвращается внутрь!
+Kalabalığın ortasında. Gece yarısı gösteriyi izlemek için terasın ucuna yürüyecek.	В центре толпы. В полночь выйдет на край террасы смотреть шоу.
+Patlamanın sesi sana ulaştığı an ateş et — o anki atışı kimse duymaz.	Стреляй, как только до тебя докатится звук взрыва, — этот выстрел никто не услышит.
+Gece dürbünüyle yamaçları tarıyor — seni görürse yerini bildirir	Осматривает склоны в ночной бинокль — заметит тебя, сообщит позицию
+Terasın önünde gece dürbünlü biri var: Patron'un güvenlik şefi. Dürbün sana dönünce eğil — gece yarısından önce atış sesi duyulur.	На краю террасы человек с ночным биноклем: начальник охраны Босса. Когда бинокль повернётся к тебе — пригнись: до полуночи выстрел услышат.
+Nedim Kurt	Леонид Нестеров
+Beyaz smokin ceket, papyon, kır sakal. Otel terasında.	Белый смокинг, бабочка, седая борода. На террасе отеля.
+Nedim Kurt'u gösteri bitmeden etkisiz hale getir	Нейтрализуй Леонида Нестерова до конца шоу
+Kurul'u bitir	Покончи с Советом
+Her atışı havai fişeklerin sesine gizle	Прячь каждый выстрел в грохоте салюта
+Balıkçı	Рыбак
+KARTAL K-98	ОРЁЛ K-98
+Güvenilir sürgülü tüfek. Her suikastçının ilk ortağı.	Надёжная продольно-скользящая винтовка. Первый напарник любого киллера.
+GÖLGE SR-7	ТЕНЬ SR-7
+7.62×51 susturuculu	7.62×51, с глушителем
+Entegre susturucu: atış sesi duyulmaz, mermi daha yavaş gider. Gizli işler için.	Встроенный глушитель: выстрела не слышно, пуля летит медленнее. Для тихой работы.
+FIRTINA DMR	ШТОРМ DMR
+7.62×51 yarı otomatik	7.62×51, полуавтомат
+Yarı otomatik: sürgü çekmeden peş peşe ateş. Kaçan ve kalabalık hedefler için.	Полуавтомат: стреляй раз за разом без передёргивания затвора. Для убегающих целей и целей в толпе.
+ATMACA .338 LR	ЯСТРЕБ .338 LR
+Uzun menzil: yüksek namlu çıkış hızı, az düşüş, 20× dürbün. İnce siperleri deler.	Большая дальность: высокая начальная скорость, малое снижение, оптика 20×. Пробивает тонкие укрытия.
+TİTAN .50	ТИТАН .50
+Anti-materyel tüfek: duvar, araç kapısı ve motor bloğu deler. Her isabet öldürür.	Крупнокалиберная винтовка: пробивает стены, двери машин и блоки двигателей. Каждое попадание смертельно.
+Dürbüne takılır: karanlıkta her şeyi yeşil ışıkta görürsün.	Ставится на прицел: в темноте всё видно в зелёном свете.
+TERMAL DÜRBÜN	ТЕПЛОВИЗОР
+İnsan vücudu beyaz parlar: sis, karanlık ve kalabalıkta hedefi bul.	Человеческое тело светится белым: находи цель в тумане, темноте и толпе.
+KEŞİF DRONU	ДРОН-РАЗВЕДЧИК
+Görev başına bir kez: bölgedeki herkesi 15 saniye işaretler ve kimliklerini tarar.	Раз за контракт: на 15 секунд отмечает всех в зоне и проверяет их личности.
+Sınırsız.	Без ограничений.
+ZIRH DELİCİ	БРОНЕБОЙНЫЕ
+İnce siperleri, araç kapılarını ve camları delip geçer.	Пробивают тонкие укрытия, двери машин и стёкла.
+UYUŞTURUCU İĞNE	ТРАНКВИЛИЗАТОР
+Öldürmez, bayıltır. Sessizdir ama yavaştır: çok düşer.	Не убивает, а усыпляет. Бесшумный, но медленный: сильно снижается.
+PATLAYICI	РАЗРЫВНЫЕ
+Çarptığı yerde patlar: araçları ve jeneratörleri tek atışta durdurur.	Взрываются при попадании: останавливают машины и генераторы одним выстрелом.
+HASAR	УРОН
+DÜRBÜN	ОПТИКА
+DENGE	УСТОЙЧИВОСТЬ
+ŞARJÖR	МАГАЗИН
+HIZ	СКОРОСТЬ
+Daha ağır mermi: zırhlı gövdeyi deler, kurşun daha hızlı ve düz gider.	Более тяжёлая пуля: пробивает бронированный корпус, летит быстрее и прямее.
+Dürbünün en büyük yakınlaştırması artar.	Увеличивается максимальная кратность оптики.
+Dürbündeki sallantı ve geri tepme azalır.	Меньше раскачки в оптике и отдачи.
+Şarjöre daha çok fişek sığar.	В магазин помещается больше патронов.
+Sürgü ve şarjör değişimi hızlanır.	Быстрее работа затвором и смена магазина.
+YAYGIN	ОБЫЧНАЯ
+NADİR	РЕДКАЯ
+EPİK	ЭПИЧЕСКАЯ
+ fişek	 патр.
+Bu açıdan 	С этой позиции 
+ görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	 не видно. Перейди на другое место кнопкой СМЕНИТЬ ПОЗИЦИЮ.
+Bundan sonra hedef işaretli gelmez. Dürbüne gir: sağdaki DOSYA'daki yüzü kalabalıkta bul, kişiyi tara, emin olunca İŞARETLE. Yanlış kişiyi vurursan sözleşme iptal.	Дальше цель не будет отмечена. Смотри в оптику: найди в толпе лицо из ДОСЬЕ справа, проверь человека и, когда уверен, нажми ОТМЕТИТЬ. Попадёшь не в того — контракт отменён.
+Uzak hedefte mermi düşer. Sol alttaki MENZİL ile dürbünü hedefin mesafesine ayarla (telemetre dürbünün altında) ya da sarı çizgilerden tut: 2 = 200 m, 3 = 300 m.	На дальней цели пуля снижается. Выставь оптику на дистанцию до цели кнопкой ДИСТАНЦИЯ слева внизу (дальномер под оптикой) или бери по жёлтым меткам: 2 = 200 m, 3 = 300 m.
+Bundan sonra isabet noktası sadece NEFES tutarken görünür. Nefesini doğru ana sakla.	Дальше точка попадания видна, только пока ты задерживаешь ДЫХАНИЕ. Береги дыхание для нужного момента.
+Şehirde isabet noktası yok. Menzili ayarla, rüzgâr panelindeki yöne göre sarı noktalardan (1 nokta = 1 mil) tut.	В городе нет точки попадания. Выставь дистанцию и бери поправку по жёлтым точкам (1 точка = 1 мил) в сторону, указанную на панели ветра.
+Dağda rüzgâr sert ve değişken; paneldeki ok ve güç anlık değişir. Okun yönünü ve gücünü izle, rüzgârın dindiği anı bekle.	В горах ветер сильный и переменчивый; стрелка и сила на панели меняются на глазах. Следи за направлением и силой и жди момента, когда ветер стихнет.
+Alarm engellendi	Тревога предотвращена
+Son 10 saniye!	Последние 10 секунд!
+Süre doldu	Время вышло
+Takviye — mevzi alıp yuvana ateş edecek	Подкрепление — займёт позицию и откроет огонь по тебе
+ silahlı adam mevzi alıyor — yuvanı arıyorlar!	 вооружённых занимают позиции — ищут тебя!
+Alarm çaldı, takviye geliyor. Başını eğik tut, önce silahlıları sustur.	Подняли тревогу, идёт подкрепление. Не высовывайся, сначала заставь замолчать стрелков.
+Hedef düştü ama adamları seni arıyor. Siper al ya da silahlıları sustur — sonra çık.	Цель снята, но её люди ищут тебя. Укройся или заставь замолчать стрелков — потом уходи.
+Iskalaman dikkat çekti — silahlılar dışarı çıkıyor. Siper al, sonra işini bitir.	Твой промах заметили — стрелки выходят. Укройся, потом заканчивай работу.
+İŞÇİ	РАБОЧИЙ
+SİVİL	ГРАЖДАНСКИЙ
+Hedef saklandı	Цель спряталась
+Hedef kaçtı	Цель сбежала
+Silahlı adam kaçtı	Стрелок сбежал
+Hedef öldü — onu canlı istiyorduk	Цель мертва — а нужна была живой
+Korunan kişi	Охраняемый
+ öldürüldü	 — убит
+İsabet — 	Попадание — ещё 
+ atış daha	 выстр.
+Görev başarısız	Контракт провален
+YENİ HEDEF: 	НОВАЯ ЦЕЛЬ: 
+  ·  DÜELLO	  ·  ДУЭЛЬ
+  ·  SON ANDA	  ·  В ПОСЛЕДНИЙ МИГ
+  ·  SİPERİN İÇİNDEN	  ·  СКВОЗЬ УКРЫТИЕ
+  ·  CAMIN İÇİNDEN	  ·  СКВОЗЬ СТЕКЛО
+  ·  HAREKETLİ HEDEF	  ·  ДВИЖУЩАЯСЯ ЦЕЛЬ
+ZIRH DURDURDU — kafaya nişan al, zırh delici kullan ya da HASAR geliştir	БРОНЯ ВЫДЕРЖАЛА — целься в голову, возьми бронебойные или улучши УРОН
+SİLAHLI ADAM BULUNDU: 	ОБНАРУЖЕН СТРЕЛОК: 
+HEDEF DOĞRULANDI: 	ЦЕЛЬ ПОДТВЕРЖДЕНА: 
+Hedef değil — masum konuk	Не цель — невинный гость
+Üç yanlış teşhis — sözleşme iptal	Три ошибки в опознании — контракт отменён
+KONTROL: O değildi — masum birini vurdun!	КОНТРОЛЬ: Это был не он — ты убил невиновного!
+KONTROL: Yine yanlış kişi. Bir daha olursa iptal.	КОНТРОЛЬ: Опять не тот. Ещё раз — и отмена.
+KİMLİK DOĞRULANDI: 	ЛИЧНОСТЬ ПОДТВЕРЖДЕНА: 
+KONTROL: Hayır, o değil. Dosyaya tekrar bak.	КОНТРОЛЬ: Нет, не он. Загляни в досье ещё раз.
+KONTROL: O da değil. Bir daha yanılırsan iptal.	КОНТРОЛЬ: И не он. Ошибёшься снова — отмена.
+YENİ YER: 	НОВАЯ ПОЗИЦИЯ: 
+Dron bölgeyi taradı — 	Дрон просканировал зону — 
+ kişi tanımlandı	 чел. опознано
+Dron silahlı birini işaretledi!	Дрон отметил вооружённого!
+ vuruldu!	 подстрелен!
+SUİKASTÇI ETKİSİZ — KAFADAN	УБИЙЦА НЕЙТРАЛИЗОВАН — В ГОЛОВУ
+SUİKASTÇI ETKİSİZ	УБИЙЦА НЕЙТРАЛИЗОВАН
+KAFADAN VURUŞ — HEDEF ETKİSİZ	В ГОЛОВУ — ЦЕЛЬ НЕЙТРАЛИЗОВАНА
+HEDEF ETKİSİZ	ЦЕЛЬ НЕЙТРАЛИЗОВАНА
+ öldü!	 убит!
+Koruma etkisiz — kafadan	Охранник нейтрализован — в голову
+Koruma etkisiz	Охранник нейтрализован
+Yanlış kişi — o bir dublördü	Не тот — это был двойник
+Yanlış kişi — masum birini vurdun	Не тот — ты подстрелил невиновного
+Çok fazla sivil kayıp	Слишком много жертв среди гражданских
+SİVİL KAYIP! Bir daha olursa görev iptal.	ГРАЖДАНСКАЯ ЖЕРТВА! Ещё раз — и контракт отменён.
+ hedef kaldı	 цел. осталось
+Yanlış yer — BACAĞINDAN vurmalısın	Не туда — нужно попасть В НОГУ
+Yanlış yer — KOLUNDAN vurmalısın	Не туда — нужно попасть В РУКУ
+ yaralandı — artık yürüyemiyor	 ранен — больше не может идти
+Silahını düşürdü!	Выронил оружие!
+HEDEF YERE DÜŞTÜ	ЦЕЛЬ УПАЛА
+HEDEF YARALANDI	ЦЕЛЬ РАНЕНА
+Koruma yaralandı — hâlâ telsize uzanabilir	Охранник ранен — ещё может дотянуться до рации
+Masum biri yaralandı!	Ранен невиновный!
+ bayıldı — güvenli yere ulaşamaz	 без сознания — до укрытия не доберётся
+İĞNE İSABET — hedef birkaç saniyede bayılacak	ДРОТИК ПОПАЛ — цель отключится через пару секунд
+Koruma bayılıyor	Охранник отключается
+Masum birini bayılttın	Ты усыпил невиновного
+KARŞI NİŞANCI SANA NİŞAN ALDI — ÖNCE SEN VUR!	ВРАЖЕСКИЙ СНАЙПЕР ЦЕЛИТСЯ В ТЕБЯ — СТРЕЛЯЙ ПЕРВЫМ!
+SİLAHLI ADAM NİŞAN ALIYOR — ŞİMDİ VUR!	СТРЕЛОК ЦЕЛИТСЯ — СТРЕЛЯЙ!
+GÖZCÜ SENİ GÖRDÜ!	НАБЛЮДАТЕЛЬ ТЕБЯ ЗАМЕТИЛ!
+GÖZCÜ SENİ GÖRDÜ — telsize uzanıyor, onu durdur!	НАБЛЮДАТЕЛЬ ТЕБЯ ЗАМЕТИЛ — тянется к рации, останови его!
+Koruma telsize uzanıyor — onu durdur!	Охранник тянется к рации — останови его!
+GÖZCÜ YERİNİ BİLDİRDİ!	НАБЛЮДАТЕЛЬ ПЕРЕДАЛ ТВОЮ ПОЗИЦИЮ!
+ALARM VERİLDİ — HEDEF KAÇIYOR	ТРЕВОГА — ЦЕЛЬ УБЕГАЕТ
+Hedef tedirgin oldu ve kaçıyor!	Цель насторожилась и убегает!
+Hedef saklandığı yerden çıkmadı	Цель так и не вышла из укрытия
+Hedef içeri saklandı — bekle, bakmak için tekrar çıkabilir	Цель спряталась внутри — жди, может выглянуть снова
+Hedef kapıda göründü — şimdi!	Цель показалась в дверях — сейчас!
+Hedef siperin arkasında, görünmüyor. Yakınına ateş et: sesi duyunca bakmak için açığa çıkar. Bir daha ateş edersen kaçar — o sırada vur.	Цель за укрытием, её не видно. Выстрели рядом: услышав звук, она выглянет. Выстрелишь ещё раз — убежит, вот тогда и стреляй.
+ISKALADIN — 	ПРОМАХ — 
+ KAÇIYOR!	 УБЕГАЕТ!
+Iskaladın — biri ürktü ve kaçıyor!	Промах — кто-то испугался и убегает!
+Sana ateş edenleri sustur	Заставь замолчать тех, кто стреляет по тебе
+Sana ateş edenleri sustur  ·  	Заставь замолчать тех, кто стреляет по тебе  ·  
+ kaldı	 осталось
+HEDEF TAMAM — AMA SENİ BULDULAR: SİLAHLILARI SUSTUR	ЦЕЛЬ СНЯТА — НО ТЕБЯ НАШЛИ: УБЕРИ СТРЕЛКОВ
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — 	Цель снята, но твоя позиция раскрыта. Никто не должен сесть тебе на хвост — 
+ silahlı var, hepsini sustur. Gerekirse siper al.	 вооружённых, убери всех. Если надо — укройся.
+Kalan silahlılar geri çekildi	Оставшиеся стрелки отступили
+BÖLGE TEMİZ — GÖREV TAMAM	ЗОНА ЗАЧИЩЕНА — КОНТРАКТ ВЫПОЛНЕН
+Sözleşme ücreti	Гонорар за контракт
+Yıldız hedefleri  ×	Цели на звёзды  ×
+Sessiz iş — alarm yok	Тихая работа — без тревоги
+Uzak atış  ·  	Дальний выстрел  ·  
+Keşif  ·  	Разведка  ·  
+ tehdit	 угр.
+Sivil kaybı  ×	Жертвы среди гражданских  ×
+Yaralı sivil  ×	Раненые гражданские  ×
+Tekrar oynanış  ×%	Повторное прохождение  ×%
+VETERAN  ×1,5	ВЕТЕРАН  ×1,5
+Günün sözleşmesi (+%33: ücretin 2 katı)	Контракт дня (+33%: двойная оплата)
+GÜMRÜK KAPISI	ТАМОЖНЯ
+Liman giriş kapısı	Въездные ворота порта
+Selim Kaya kapıda denetimde. Kimliğini tara, sonra işini bitir.	Семён Каменев проводит проверку у ворот. Установи его личность, потом заканчивай дело.
+Gümrük müdürü Selim Kaya, rüşvet karşılığında kaçakçılara liman kapısını açıyor. Her sabah kapıdaki güvenlik noktasını denetliyor.\n\nKapıdan ayrılmadan onu etkisiz hale getir. Alarm verilirse otoparktaki aracına koşar.	Начальник таможни Семён Каменев за взятки открывает контрабандистам ворота порта. Каждое утро он проверяет пост охраны у ворот.\n\nНейтрализуй его, пока он не ушёл от ворот. Если поднимут тревогу, он побежит к своей машине на парковке.
+Dürbünü aç ve nişangahı birinin üzerinde tut: kimliği otomatik taranır. Kırmızı işaret hedefi gösterir.	Включи оптику и держи прицел на человеке: личность проверяется автоматически. Красная метка показывает цель.
+Selim Kaya	Семён Каменев
+Gümrük Müdürü	Начальник таможни
+Lacivert takım elbise, kırmızı kravat, gözlük.	Тёмно-синий костюм, красный галстук, очки.
+Gümrük müdürü Selim Kaya'yı etkisiz hale getir	Нейтрализуй начальника таможни Семёна Каменева
+LİMAN OFİSİ	ОФИС ПОРТА
+Liman yönetim binası	Здание управления порта
+Aydın sigara için dışarı çıkacak. Kapıdan uzaklaştığı an senin anın.	Светлов выйдет покурить. Как только отойдёт от двери — твой момент.
+Liman müdür yardımcısı Can Aydın, kaçak sevkiyatların kayıtlarını siliyor. Binadan sadece sigara molalarında çıkıyor.\n\nKapıdan çıktığında fırsatı kaçırma: alarm verilirse binaya kapanır ve görev başarısız olur.	Замначальника порта Яков Светлов стирает записи о контрабандных поставках. Из здания выходит только на перекуры.\n\nКогда выйдет, не упусти шанс: если поднимут тревогу, он запрётся в здании, и контракт провален.
+Hedef bina içindeyken bekle. Kapıdan çıkınca sigara içtiği noktada sabit durur — nefesini tut ve kafasına nişan al.	Пока цель в здании — жди. Выйдя, он стоит неподвижно на месте для курения — задержи дыхание и целься в голову.
+Can Aydın	Яков Светлов
+Müdür Yardımcısı	Замначальника
+Mavi polo tişört, siyah pantolon. Sigara molasında dışarı çıkar.	Синяя рубашка-поло, чёрные брюки. Выходит на перекур.
+Can Aydın'ı binaya geri girmeden vur	Сними Якова Светлова, пока он не вернулся в здание
+Alarm verdirme	Не допусти тревоги
+Hedefi kafadan vur	Попади цели в голову
+KONTEYNER TAKASI	ОБМЕН У КОНТЕЙНЕРОВ
+Konteyner sahası	Контейнерная площадка
+Kuzgun limana giriyor. Takas yeri çatıdan görünmüyor — onu dışarı çekmen gerekecek.	Ворон въезжает в порт. С крыши места обмена не видно — придётся его выманить.
+Kuzgun lakaplı kaçakçı Tarık Bal arabasıyla limana gelecek ve konteynerlerin arasında bir alıcıyla buluşacak. Takas bitince arabasına binip gidecek.\n\nTakas yeri çatıdan görünmüyor. Ya yürürken vur ya da onu açığa çıkar: arabasının alarmı ya da yakınına düşen bir kurşun. İkinci kez ürkerse arabasına koşar.	Контрабандист Тимур Белых по кличке Ворон приедет в порт на машине и встретится с покупателем среди контейнеров. После обмена сядет в машину и уедет.\n\nС крыши места обмена не видно. Либо стреляй, пока он идёт, либо выманивай: сигнализацией его машины или пулей рядом с ним. Если спугнёшь его второй раз — побежит к машине.
+Hedef görünmüyorsa yakınına ateş et: sese bakmak için açığa çıkar. Arabasını vurursan alarm çalar, kontrol etmeye gelir.	Если цель не видна, выстрели рядом: она выглянет на звук. Попадёшь в её машину — сработает сигнализация, и она придёт проверить.
+Tarık konteynerlerin arasında, buradan görünmüyor. Arabasına ateş et: alarm çalınca kontrol etmeye gelir. Ya da ara yolun açık kısmına ateş et, sese bakmak için oraya yürür.	Тимур среди контейнеров, отсюда его не видно. Стреляй в его машину: когда завоет сигнализация, он придёт проверить. Или выстрели в открытый участок проезда — он пойдёт туда на звук.
+Arabasında — limana geliyor	В машине — едет в порт
+Hedef arabasıyla kaçtı	Цель уехала на машине
+Takas bitti — hedef arabasına dönüyor!	Обмен закончен — цель возвращается к машине!
+Takasın bitmesine	До конца обмена
+Hedefin arabası kapıdan girdi	Машина цели въехала в ворота
+Araç alarmı çalıyor!	Сработала автосигнализация!
+Tarık Bal	Тимур Белых
+Gri tişört, kot pantolon, kırmızı bere. Kolları dövmeli.	Серая футболка, джинсы, красная шапка. Руки в татуировках.
+Kuzgun'u takas bitmeden etkisiz hale getir	Нейтрализуй Ворона до конца обмена
+En fazla 3 atış	Не больше 3 выстрелов
+GECE NÖBETİ	НОЧНОЙ ДОЗОР
+Depolar ve gözetleme kulesi	Склады и наблюдательная вышка
+Rico ve adamları ateşin başında. Kuledeki gözcü her şeyi görür — önce onu düşün.	Рико и его люди у костра. Наблюдатель на вышке видит всё — сначала подумай о нём.
+Paralı asker Rico Vargas ve adamları depoları koruyor. Gece soğuğunda ateş varilinin başında toplanıyorlar.\n\nKuledeki gözcü cesetleri görürse alarm verir. Önce onu susturmak işini kolaylaştırır.	Наёмник Рико Варгас и его люди охраняют склады. Ночной холод сгоняет их к бочке с огнём.\n\nЕсли наблюдатель на вышке увидит тела, поднимет тревогу. Сначала заставь замолчать его — так будет проще.
+Ateşin yanındaki kırmızı yakıt bidonu tek atışta patlar ve yanındakileri götürür — ama yanlarındaki bekçi de ölür (sivil kayıp, yıldız kaybı) ve patlama sessiz iş primini yakar. Temiz iş için Rico'yu doğrudan vur.	Красная канистра с топливом у огня взрывается с одного выстрела и уносит всех рядом — но заодно погибнет и сторож (жертва среди гражданских, минус звезда), а взрыв сожжёт бонус за тихую работу. Для чистой работы стреляй прямо в Рико.
+Rico Vargas	Рико Варгас
+Paralı Asker	Наёмник
+Kel ve sakallı. Taktik yelek, kırmızı tişört.	Лысый, с бородой. Тактический жилет, красная футболка.
+Rico Vargas'ı etkisiz hale getir	Нейтрализуй Рико Варгаса
+Bekçiye zarar verme	Не причини вреда сторожу
+DEPODAKİ KÖSTEBEK	КРОТ НА СКЛАДЕ
+A deposu yükleme alanı	Погрузочная зона склада А
+Köstebek kasa taşıyanlardan biri. Masumları vurma: önce tara.	Крот — один из грузчиков с ящиками. Не стреляй в невиновных: сначала проверь.
+Depoda çalışan Kerim, örgütün sevkiyat bilgilerini rakiplere satıyor. Diğer işçilerle birlikte kasa taşıyor.\n\nİşçiler masum: hedefi kıyafetinden tanı ve ateş etmeden önce mutlaka tara.	Клим, работник склада, продаёт данные о поставках организации конкурентам. Он таскает ящики вместе с другими рабочими.\n\nРабочие ни при чём: узнай цель по одежде и обязательно проверь перед выстрелом.
+Hareket eden hedefi vururken kurşunun uçuş süresini hesaba kat: yürüdüğü yönün biraz önüne nişan al.	Стреляя по движущейся цели, учитывай время полёта пули: целься чуть впереди по ходу её движения.
+Kerim Usta	Клим Ковалёв
+Köstebek	Крот
+Kırmızı kazak, siyah pantolon, bere. Kasa taşıyor.	Красный свитер, чёрные брюки, шапка. Таскает ящики.
+Köstebeği bul ve etkisiz hale getir	Найди и нейтрализуй крота
+Sivillere zarar verme	Не причини вреда гражданским
+RIHTIM KAÇAĞI	БЕГЛЕЦ НА ПРИЧАЛЕ
+Rıhtım ve iskele	Причал и пирс
+Tilki belgeleri teslim edip tekneye koşacak. Tekneyi vurursan yaya kalır.	Лис передаст документы и побежит к лодке. Попадёшь в лодку — останется без транспорта.
+Tilki lakaplı Deniz Kara, çalınan belgeleri rıhtımda bir adama teslim edecek. Ardından iskeledeki sürat teknesiyle kaçacak.\n\nTekneye binerse onu kaybederiz. Hareketli hedefe önden nişan al.	Данила Чернов по кличке Лис передаст украденные документы человеку на причале. Потом попытается уйти на катере от пирса.\n\nЕсли сядет в катер — мы его потеряем. По движущейся цели бери упреждение.
+300 metrede kurşun yaklaşık 0,4 saniye uçar. Koşan hedefte nişanı yaklaşık bir gövde önüne al. İskeledeki sürat teknesini önceden vurursan motoru çalışmaz: tekneyle kaçamaz, iskeleden koşmak zorunda kalır.	На 300 метрах пуля летит около 0,4 секунды. По бегущей цели бери упреждение примерно на один корпус. Если заранее попадёшь в катер у пирса, мотор не заведётся: уплыть не выйдет, придётся бежать по пирсу.
+Tekne çalışmıyor — hedef iskeleden kaçıyor!	Катер не заводится — цель убегает по пирсу!
+Tekne vuruldu — motor çalışmıyor, tekneyle kaçamaz!	Катер подбит — мотор не работает, на нём не уйти!
+Deniz Kara	Данила Чернов
+Kahverengi kapüşonlu, kasket, koyu pantolon.	Коричневая толстовка с капюшоном, кепка, тёмные брюки.
+Tilki'yi tekneyle kaçmadan durdur	Останови Лиса, пока он не уплыл на катере
+Önce teknesini vur	Сначала подбей катер
+KAPTAN KÖŞKÜ	РУБКА
+Meridian Star köprüüstü	Мостик Meridian Star
+Kaptan köprüüstünün kanadına çıkacak. Uzun atış, sert rüzgar — rüzgar okuna bak.	Капитан выйдет на крыло мостика. Дальний выстрел, сильный ветер — смотри на стрелку ветра.
+Meridian Star'ın kaptanı Orhan Demir, örgütün silah yükünü teslim etmeden limandan ayrılmak üzere. Köprüüstünün açık kanadına çıkıyor.\n\nMesafe uzun ve rüzgar sert. Kaçırırsan köşke kapanır.	Капитан Meridian Star Олег Железнов собирается покинуть порт, не сдав груз оружия организации. Он выходит на открытое крыло мостика.\n\nДистанция большая, ветер сильный. Промахнёшься — запрётся в рубке.
+Uzun mesafede kurşun düşer. Nişan yardımı açıksa dürbündeki kırmızı nokta kurşunun gideceği yeri gösterir.	На большой дистанции пуля снижается. Если помощь в прицеливании включена, красная точка в оптике показывает, куда попадёт пуля.
+Orhan Demir	Олег Железнов
+Yeşil mont, kot pantolon. Köprüüstü kanadında.	Зелёная куртка, джинсы. На крыле мостика.
+Kaptan Orhan Demir'i köşke kapanmadan vur	Сними капитана Олега Железнова, пока он не заперся в рубке
+YAT PARTİSİ	ВЕЧЕРИНКА НА ЯХТЕ
+İskeledeki yat	Яхта у пирса
+Kral'ın partisi. Beyaz smokinli iki adam var — bıyıklı ve gözlüklü olan bizim adam.	Вечеринка Крауса. Там двое в белых смокингах — наш тот, что с усами и в очках.
+Örgütün başı Viktor Kral yatında kutlama yapıyor. Korumaları her yerde.\n\nKonuklardan biri de beyaz smokin giymiş: taramadan ateş etme. Kral bir süre sonra iskeleden ayrılıp depolara yürüyecek.	Глава организации Виктор Краус празднует на своей яхте. Его охрана повсюду.\n\nОдин из гостей тоже в белом смокинге: не стреляй, не проверив. Через какое-то время Краус сойдёт с пирса и пойдёт к складам.
+Gerçek hedef bıyıklı ve güneş gözlüklü. Emin değilsen nişangahı üzerinde tut ve kimlik kartını oku.	Настоящая цель — с усами и в солнечных очках. Если не уверен, держи на нём прицел и прочитай его карточку.
+Kral'ın ayrılmasına	До ухода Крауса
+Viktor Kral	Виктор Краус
+Örgüt Lideri	Глава организации
+Beyaz smokin, papyon. Bıyıklı ve güneş gözlüklü.	Белый смокинг, бабочка. Усы и солнечные очки.
+Viktor Kral'ı yattan ayrılmadan etkisiz hale getir	Нейтрализуй Виктора Крауса, пока он не покинул яхту
+Konuklara zarar verme	Не причини вреда гостям
+Korumalara dokunma	Не трогай охрану
+Giriş kapısı ve yönetim binası	Въездные ворота и здание управления
+Ayten Şahin bugün örgüte karşı ifade verecek. Polis onu ofise götürüyor. Kalabalıkta iki tetikçi var.	Сегодня Анна Кречетова даст показания против организации. Полиция везёт её в офис. В толпе двое киллеров.
+Gümrük memuru Ayten Şahin, örgütün rüşvet ağına karşı tanıklık edecek. Polis onu sabah liman yönetim binasına getiriyor.\n\nÖrgüt iki tetikçi yolladı: işçi kılığında kalabalığa karışmışlar. Herkesi dürbünle tara — silahlılar kimlik kartında görünür. Ayten binaya girene kadar hayatta kalmalı.\n\nÖrgüt yalnız gelmedi: gözetleme kulesinde dürbünlü bir gözcü, kapının iki yanında silahlı adamları var. Yerini bulurlarsa sana ateş ederler.	Таможенница Анна Кречетова выступит свидетелем против коррупционной сети организации. Утром полиция привезёт её в здание управления порта.\n\nОрганизация послала двух киллеров: они затерялись в толпе под видом рабочих. Проверь всех через оптику — вооружённых видно по карточке. Анна должна дожить до входа в здание.\n\nОрганизация пришла не одна: на наблюдательной вышке наблюдатель с биноклем, по обе стороны ворот — вооружённые люди. Если найдут твою позицию, откроют огонь.
+Tetikçi silah çekince işaretçisinin etrafındaki kırmızı halka dolmadan vur. Kolundan vurursan silahını düşürür. Kuledeki gözcünün dürbünü sana dönünce eğil (SİPER) ya da önce onu indir.	Когда киллер достаёт оружие, стреляй, пока не заполнилось красное кольцо вокруг его метки. Попадёшь в руку — выронит оружие. Когда бинокль наблюдателя на вышке повернётся к тебе, пригнись (УКРЫТИЕ) или сними его первым.
+Termal dürbün kalabalıkta işe yarar	В толпе пригодится тепловизор
+Ayten Şahin	Анна Кречетова
+Bej trençkot — polis eşliğinde	Бежевый тренч — в сопровождении полиции
+Tanığı ofise kadar koru	Защищай свидетельницу до самого офиса
+Bilinmeyen İşçi	Неизвестный рабочий
+Temizlikçi kılığında — silahlı	Под видом уборщика — вооружён
+İşçi kılığında — silahlı	Под видом рабочего — вооружён
+Tetikçileri durdur	Останови киллеров
+Tetikçileri durdur  	Останови киллеров  
+Kulede dürbünlü biri var. Dürbünü sana döndüğünde eğil — seni görürse telsizle herkese bildirir.	На вышке кто-то с биноклем. Когда бинокль повернётся к тебе — пригнись: заметит — сообщит всем по рации.
+Polis arabasında — yolda	В полицейской машине — в пути
+Tanık arabadan indi, kapıya yürüyor. Gözünü dört aç.	Свидетельница вышла из машины и идёт к воротам. Смотри в оба.
+POLİS	ПОЛИЦИЯ
+Silah! Arkamda kal, eğil!	Оружие! За мной, пригнись!
+Herkesi tara. Kartında SİLAHLI yazan adam bizim adamımız değil.	Проверь всех. Тот, у кого в карточке ВООРУЖЁН, — не наш человек.
+Bej trençkot, kahverengi saç. Polis memuruyla yürüyor.	Бежевый тренч, каштановые волосы. Идёт с полицейским.
+Tanığı ofise girene kadar hayatta tut	Сохрани свидетельнице жизнь, пока она не войдёт в офис
+Kalabalıktaki iki tetikçiyi bul ve durdur (bonus)	Найди и останови двух киллеров в толпе (бонус)
+İki tetikçiyi de silah çekmeden durdur	Останови обоих киллеров, пока они не достали оружие
+KURYE	КУРЬЕР
+Kurye çantayla depodan çıkacak. Müşteri onu canlı istiyor: bacağından vur, gerisini ekip halleder.	Курьер выйдет со склада с сумкой. Заказчику он нужен живым: стреляй в ногу, остальное сделает группа.
+Emre Doğan, örgütün banka hesaplarını taşıyan kurye. Birazdan A deposundan çıkıp arabasına yürüyecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, yere düşsün. Ekibimiz arabayla gelip onu alacak. Öldürürsen bilgi kaybolur. Dikkat: örgüt, kuryesinin konuşmasındansa ölmesini tercih eder — korumaları ona silah çekecek, depodaki adamları da dışarı çıkıp onu susturmaya çalışacak.	Егор Соколов — курьер, который возит банковские данные организации. Скоро он выйдет со склада А и пойдёт к машине.\n\nЗаказчику он нужен ЖИВЫМ: стреляй в ногу, чтобы он упал. Наша группа подъедет на машине и заберёт его. Убьёшь — информация пропадёт. Осторожно: организация предпочтёт, чтобы курьер умер, а не заговорил, — его охрана направит на него оружие, а люди со склада выйдут, чтобы заставить его замолчать.
+Bacağından vurulan yere düşer. Korumalar onu susturmak için silah çekerse kırmızı halka dolmadan indir — kolundan vurursan silahını düşürür. Iskalarsan kurye arabasına koşar.	Раненный в ногу падает. Если охрана направит на него оружие, сними её, пока не заполнилось красное кольцо, — попадёшь в руку, оружие выпадет. Промахнёшься — курьер побежит к машине.
+Kurye arabasıyla kaçtı	Курьер уехал на машине
+Ekip gelene kadar kuryeyi hayatta tut	Сохрани курьеру жизнь до прибытия группы
+Kurye dışarıda. Bacağına nişan al.	Курьер снаружи. Целься в ногу.
+Depodaki Adam	Человек со склада
+Depodan silahlı biri çıktı — kuryeye gidiyor!	Со склада вышел вооружённый — идёт к курьеру!
+Yol temiz — ekip gaza bastı, geliyorlar!	Путь свободен — группа дала газу, едут!
+Ekip kuryeyi aldı!	Группа забрала курьера!
+Ekibin gelmesine	До прибытия группы
+Kurye yerde! Ekip yolda — 	Курьер на земле! Группа в пути — 
+ saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	 сек. Люди организации попытаются заставить его замолчать — и со склада тоже выйдут!
+Emre Doğan	Егор Соколов
+Mavi polo tişört, siyah pantolon. Elinde siyah bir çanta.	Синяя рубашка-поло, чёрные брюки. В руке чёрная сумка.
+Ekip gelene kadar onu silahlı adamlardan koru	Защищай его от стрелков до прибытия группы
+Kuryeyi canlı teslim et	Доставь курьера живым
+İlk atışta bacağından vur	Попади в ногу с первого выстрела
+Kimse kuryeye nişan alamasın	Никто не должен взять курьера на прицел
+KARARTMA	БЛЭКАУТ
+Merkez saha — gece sevkiyatı	Центральная площадка — ночная отгрузка
+Kartal sevkiyatı bizzat denetliyor. Işıklar onun lehine — ama elektrik panosu direğin dibinde.	Орёл лично следит за отгрузкой. Свет на его стороне — но электрощит у подножия мачты.
+Silah tüccarı Hakan Er, namıdiğer Kartal, gece yarısı limanın merkez sahasında bir sevkiyatı denetliyor. Etrafı aydınlık ve korumalarla dolu.\n\nIşık direğinin dibindeki elektrik panosunu vurursan bütün liman karanlığa gömülür: korumalar kör kalır, ama Kartal da arabasına yürür. Gece görüşü dürbünü bu iş için sende.	Торговец оружием Глеб Ершов по прозвищу Орёл в полночь следит за отгрузкой на центральной площадке порта. Вокруг светло и полно охраны.\n\nПопадёшь в электрощит у основания мачты освещения — весь порт погрузится во тьму: охрана ослепнет, но и Орёл пойдёт к машине. Прицел ночного видения для этой работы у тебя.
+Gece görüşünü dürbündeki göz tuşuyla aç. Karanlıkta korumalar yakından geçmedikçe cesetleri göremez. Kartal arabasına binerse kaçar.	Включи ночное видение кнопкой с глазом в оптике. В темноте охрана не заметит тела, если не пройдёт совсем рядом. Если Орёл сядет в машину — уйдёт.
+Kartal arabasıyla kaçtı	Орёл уехал на машине
+Kartal'ı etkisiz hale getir	Нейтрализуй Орла
+Kartal arabasına yürüyor!	Орёл идёт к машине!
+Sevkiyatın bitmesine	До конца отгрузки
+KARARTMA — liman karanlığa gömüldü	БЛЭКАУТ — порт погрузился во тьму
+Işıklar gitti! Gece görüşünü aç — Kartal arabasına gidiyor!	Свет погас! Включай ночное видение — Орёл идёт к машине!
+Hakan Er	Глеб Ершов
+Lacivert takım, kırmızı kravat, gözlük. Sevkiyatı denetliyor.	Тёмно-синий костюм, красный галстук, очки. Следит за отгрузкой.
+Silah tüccarı Kartal'ı etkisiz hale getir	Нейтрализуй торговца оружием Орла
+İstersen önce elektrik panosunu vurup limanı karart	Можно сначала попасть в электрощит и обесточить порт
+Işıkları söndür ve karanlıkta vur	Погаси свет и стреляй в темноте
+İĞNE	ДРОТИК
+Rıhtım — Meridian Star iskelesi	Причал — пирс Meridian Star
+Kimyager gemiye binmeden onu uyut. Kimse ölmeyecek — bu iş temiz olmalı.	Усыпи Химика, пока она не поднялась на борт. Никто не умрёт — работа должна быть чистой.
+Dr. Selin Aras, örgütün sentetik uyuşturucu laboratuvarını yöneten kimyager. Şafak sökmeden iki korumasıyla rıhtım boyunca yürüyüp Meridian Star'a binecek.\n\nİstihbarat onu canlı istiyor. Sana yedi uyuşturucu iğne veriyoruz: kimyageri bayılt. Korumaları da bayıltırsan ekibimiz tekneyle gelip onu sessizce alır. Korumalar — ya da gemiden inen biri — baygın kadına ulaşırsa onu gemiye taşırlar.	Доктор Ирина Аргунова — химик, руководящая лабораторией синтетических наркотиков организации. До рассвета она с двумя телохранителями пройдёт по причалу и поднимется на Meridian Star.\n\nРазведке она нужна живой. Даём тебе семь транквилизаторов: усыпи химика. Усыпишь и охрану — наша группа подойдёт на лодке и тихо её заберёт. Если охрана — или кто-то с корабля — доберётся до женщины без сознания, её унесут на борт.
+Mermi seçici tuşuyla UYUŞTURUCU İĞNE'ye geç. İğne yavaş uçar ve çok düşer: kırmızı nokta isabet yerini gösterir. Önce korumaları bayıltmak işi kolaylaştırır.	Переключись кнопкой выбора патронов на ТРАНКВИЛИЗАТОР. Дротик летит медленно и сильно снижается: красная точка показывает место попадания. Если сначала усыпить охрану, будет проще.
+Kimyager gemiye bindi	Химик поднялась на борт
+Kimyageri uyuşturucu iğneyle bayılt	Усыпи химика транквилизатором
+Ekip tekneyle gelene kadar onu korumalardan uzak tut	Не подпускай к ней охрану, пока группа не подойдёт на лодке
+Meridian Star'ın adamı — kimyageri gemiye taşımak isteyecek	Человек с Meridian Star — попытается унести химика на борт
+Ekip kimyageri tekneye aldı!	Группа забрала химика в лодку!
+Teknenin gelmesine	До подхода лодки
+Gemiden iki kişi iniyor — kimyagere gidiyorlar!	С корабля сходят двое — идут к химику!
+Herkes yerde. Tekne hızlanıyor!	Все лежат. Лодка набирает ход!
+Korumalar temiz. Tekne geliyor — 	Охрана снята. Лодка идёт — 
+ saniye.	 сек.
+İğne tuttu! Korumaları durdur, sonra ekibi gönderiyorum.	Дротик сработал! Останови охрану, потом отправлю группу.
+Koruma kimyagere ulaştı — onu taşıyacak!	Охранник добрался до химика — сейчас унесёт!
+Mürettebat kimyagere ulaştı — onu kaldırıyorlar!	Экипаж добрался до химика — поднимают её!
+Kimyageri gemiye taşıdılar	Химика унесли на борт
+Dr. Selin Aras	Доктор Ирина Аргунова
+Siyah mont, sarı saç. İki korumayla yürüyor.	Чёрная куртка, светлые волосы. Идёт с двумя телохранителями.
+Korumaları durdur, ekip onu tekneyle alsın	Останови охрану, чтобы группа забрала её на лодку
+Kimyageri canlı teslim et	Доставь химика живой
+Kimseyi öldürme	Никого не убивай
+Önce korumaları bayılt	Сначала усыпи охрану
+CAM KULE	СТЕКЛЯННАЯ БАШНЯ
+Kordon Plaza — 11. kat	Приморье Плаза — 11-й этаж
+Defne Aksoy hâlâ ofiste. Cam mermiyi durdurmaz — ama kırıldığı an içerideki herkes duyar.	Дарья Акимова всё ещё в офисе. Стекло пулю не остановит — но, когда оно разобьётся, услышат все внутри.
+Liman ağı çöktü ama paranın aktığı yer hâlâ ayakta: Baran Holding. Finans direktörü Defne Aksoy, örgütün kirli parasını aklıyor ve bu gece hesapları yurtdışına taşıyacak.\n\nKordon Plaza'nın 11. katında, ışıkları yanan ofiste tek başına çalışıyor. Katta bir güvenlik görevlisi devriye geziyor. Saat 22:42'de asansörle iniyor: ondan önce bitir.	Портовая сеть рухнула, но то место, куда текут деньги, ещё стоит: Громов Холдинг. Финансовый директор Дарья Акимова отмывает грязные деньги организации и этой ночью выведет счета за границу.\n\nОна одна работает в освещённом офисе на 11-м этаже Приморье Плаза. По этажу ходит охранник. В 22:42 она спустится на лифте: успей до этого.
+Cam mermiyi yavaşlatır ama durdurmaz. İlk atışta cam kırılır ve içeridekiler sesi duyar: Defne kırık cama bakmaya gelir, ikinci kez ürkerse asansöre koşar.	Стекло замедляет пулю, но не останавливает. Первым выстрелом стекло разобьётся, и внутри услышат: Дарья подойдёт посмотреть на разбитое окно, а если спугнёшь её второй раз — побежит к лифту.
+Defne masaların arkasında, görünmüyor. Ofisin camına yakın bir yere ateş et: kırılan camı görmeye pencereye gelir.	Дарья за столами, её не видно. Выстрели рядом со стеклом офиса: она подойдёт к окну посмотреть на разбитое стекло.
+Defne asansöre bindi	Дарья села в лифт
+Asansöre inmesine	До спуска на лифте
+Defne çantasını aldı — asansöre yürüyor!	Дарья взяла сумку — идёт к лифту!
+Katta bir güvenlik görevlisi var. Cesedi görürse alarm verir, Defne de kaçar.	На этаже охранник. Увидит тело — поднимет тревогу, и Дарья сбежит.
+Pencereye her gelişinde birkaç saniye durup şehre bakıyor. Sabırlı ol.	Каждый раз у окна она на несколько секунд замирает и смотрит на город. Наберись терпения.
+Defne Aksoy	Дарья Акимова
+Siyah ceket, mavi etek, kızıl saç, gözlük. Kordon Plaza 11. kat.	Чёрный жакет, синяя юбка, рыжие волосы, очки. Приморье Плаза, 11-й этаж.
+Defne Aksoy'u asansöre binmeden etkisiz hale getir	Нейтрализуй Дарью Акимову, пока она не села в лифт
+TRAMVAY	ТРАМВАЙ
+Saat Kulesi tramvay durağı	Трамвайная остановка «Часовая башня»
+Postacı defteri tramvayla şehirden çıkaracak. 19:06 tramvayı durağa girdiğinde iş biter.	Почтальон вывезет книгу из города на трамвае. Когда трамвай 19:06 подойдёт к остановке, всё будет кончено.
+Mert Tunç, nam-ı diğer Postacı, Baran'ın rüşvet defterini taşıyor: kime ne ödendiyse hepsi orada. Kordon'dan yürüyüp Saat Kulesi durağında tramvay bekleyecek.\n\nDurak kalabalık. Postacı'ya çok benzeyen bir yolcu da orada: kapüşonlu, kasketli. Ateş etmeden önce tara. Tramvaya binerse onu kaybederiz.	Максим Тучков по прозвищу Почтальон везёт книгу взяток Громова: там всё — кому и сколько заплачено. Он пройдёт пешком от Приморской набережной и будет ждать трамвай на остановке «Часовая башня».\n\nНа остановке людно. Там же пассажир, очень похожий на Почтальона: в капюшоне и кепке. Проверь, прежде чем стрелять. Сядет в трамвай — мы его потеряем.
+Yürüyen hedefe biraz önden nişan al. Durakta bekleyenlerden biri Postacı'ya çok benziyor: nişangahı üzerinde tut, kimlik kartını oku.	По идущей цели бери небольшое упреждение. Один из ждущих на остановке очень похож на Почтальона: держи на нём прицел и прочитай карточку.
+Postacı kaçtı	Почтальон сбежал
+Hedef değil — Postacı'ya benzeyen bir yolcu	Не цель — пассажир, похожий на Почтальона
+Tramvayın gelmesine	До прибытия трамвая
+Tramvay yola çıktı. Durağa girdiği an Postacı biner.	Трамвай в пути. Как только он подойдёт к остановке, Почтальон сядет.
+Tramvay durakta — herkes biniyor!	Трамвай на остановке — все садятся!
+Postacı tramvaya bindi	Почтальон сел в трамвай
+Postacı Kordon'dan durağa yürüyor. Durakta ona benzeyen biri var — önce tara.	Почтальон идёт от Приморской набережной к остановке. На остановке есть похожий на него человек — сначала проверь.
+Mert Tunç	Максим Тучков
+Postacı	Почтальон
+Koyu kapüşonlu, gri kasket, kot pantolon. Durağa yürüyor.	Тёмная толстовка с капюшоном, серая кепка, джинсы. Идёт к остановке.
+Postacı'yı tramvaya binmeden etkisiz hale getir	Нейтрализуй Почтальона, пока он не сел в трамвай
+Postacı'yı yürürken vur	Сними Почтальона на ходу
+Yolculara zarar verme	Не причини вреда пассажирам
+GALA	ГАЛА
+Devlet Opera ve Balesi	Государственный театр оперы и балета
+Aydemir'in dublörü önden gelir. Limuzinden inen adama inanma — önce tara.	Первым приезжает двойник Амосова. Не верь человеку из лимузина — сначала проверь.
+Armatör Cevdet Aydemir, Baran'ın gemilerinin sahibi. Bu gece operanın sezon açılışında: kırmızı halı, fotoğrafçılar, polis.\n\nAydemir kalabalığa asla önce kendisi çıkmaz: limuzinden önce dublörü iner. Gerçek Aydemir birkaç dakika sonra siyah bir sedanla gelir, eşiyle halıda poz verir ve içeri girer. Perde arasında balkona çıkacağı biliniyor.	Судовладелец Вадим Амосов — хозяин кораблей Громова. Этой ночью он на открытии сезона в опере: красная дорожка, фотографы, полиция.\n\nАмосов никогда не выходит к толпе первым: из лимузина сначала выходит двойник. Настоящий Амосов приезжает через несколько минут на чёрном седане, позирует с женой на дорожке и проходит внутрь. Известно, что в антракте он выйдет на балкон.
+Flaşlar patlarken dürbünde parlama olur, panik yapma. Dublörü vurursan herkes kaçar ve gerçek Aydemir'in arabası durmadan geçer.	Когда сверкают вспышки, в оптике бликует — не паникуй. Попадёшь в двойника — все разбегутся, и машина настоящего Амосова проедет не останавливаясь.
+Dikkat: limuzinden inen adam Aydemir'in dublörü olabilir	Внимание: человек из лимузина может оказаться двойником Амосова
+DUBLÖR — bu Aydemir değil!	ДВОЙНИК — это не Амосов!
+Sedanda — operaya geliyor	В седане — едет в оперу
+Aydemir operaya kaçtı	Амосов скрылся в опере
+Aydemir salona döndü — fırsat kaçtı	Амосов вернулся в зал — шанс упущен
+Aydemir balkona çıktı!	Амосов вышел на балкон!
+CANLI  ·  OPERA GİRİŞİ	ПРЯМОЙ ЭФИР  ·  ВХОД В ОПЕРУ
+Siyah bir sedan bulvara girdi, operaya geliyor. Kim olduğunu taramadan ateş etme.	Чёрный седан свернул на бульвар, едет к опере. Не стреляй, не проверив, кто это.
+Aydemir'in arabası durmadan geçti	Машина Амосова проехала не останавливаясь
+İçeri giren dublördü. Asıl adam birazdan geliyor — sabır.	Внутрь вошёл двойник. Настоящий скоро приедет — терпение.
+Cevdet Aydemir	Вадим Амосов
+Armatör	Судовладелец
+Kır saç, bıyık, gri smokin ve papyon. Eşi kırmızı elbiseli.	Седые волосы, усы, серый смокинг и бабочка. Жена в красном платье.
+Cevdet Aydemir'i gala gecesinde etkisiz hale getir	Нейтрализуй Вадима Амосова в вечер гала
+Kırmızı halıda vur	Попади на красной дорожке
+Dublöre ve davetlilere dokunma	Не трогай двойника и гостей
+MİTİNG	МИТИНГ
+Saat Kulesi Meydanı	Площадь Часовой башни
+Başsavcı bugün Baran hakkında iddianameyi açıklıyor. Onu öldürmek isteyen tek kişi değiliz bu sefer — onu korumak bizim işimiz.	Сегодня главный прокурор оглашает обвинение против Громова. На этот раз её хотим убить не мы одни — наша работа её защитить.
+Başsavcı Nermin Arslan, meydandaki halk buluşmasında Baran'a açılan davayı anlatacak. Baran onu konuşturmamak için iki kişi tuttu: meydanı yukarıdan gören bir keskin nişancı ve kalabalığa karışmış silahlı biri.\n\nNişancıyı önce bul. Dikkat: bir atış yaparsan namlu alevini görür ve sana döner. Savcı konuşmasını bitirip sahneden inene kadar hayatta kalmalı.	Главный прокурор Наталья Львова на встрече с горожанами на площади расскажет о деле против Громова. Чтобы она не заговорила, Громов нанял двоих: снайпера, который видит площадь сверху, и вооружённого человека в толпе.\n\nСначала найди снайпера. Осторожно: как только выстрелишь, он увидит вспышку и развернётся к тебе. Прокурор должна остаться в живых, пока не закончит речь и не сойдёт со сцены.
+Keskin nişancının dürbünü güneşi yakaladıkça parlar. Sana nişan alırsa kırmızı halka dolmadan onu indir. Kalabalıktaki adam silah çekince kolundan vurursan silahını düşürür.	Оптика снайпера бликует, когда ловит солнце. Если он целится в тебя, сними его, пока не заполнилось красное кольцо. Когда человек в толпе достанет оружие, попади ему в руку — он его выронит.
+Susturuculu tüfekle nişancı seni daha geç fark eder	С винтовкой с глушителем снайпер заметит тебя позже
+İstihbarat: meydanı yukarıdan gören bir nişancı ve kalabalıkta silahlı biri var	Разведка: снайпер, видящий площадь сверху, и вооружённый в толпе
+Nermin Arslan	Наталья Львова
+BAŞSAVCI	ПРОКУРОР
+Başsavcı — konuşması bitene kadar koru	Главный прокурор — защищай до конца речи
+Başsavcıyı konuşması bitene kadar koru	Защищай главного прокурора до конца её речи
+Kuledeki Nişancı	Снайпер на башне
+Siyah gömlek, güneş gözlüğü — saat kulesinin çan katında	Чёрная рубашка, солнечные очки — на колокольном ярусе часовой башни
+Kalabalıktaki Adam	Человек в толпе
+Siyah kapüşonlu, kırmızı bere, sakallı	Чёрная толстовка с капюшоном, красная шапка, борода
+Nişancıyı ve silahlıyı durdur	Останови снайпера и стрелка
+Nişancıyı ve silahlıyı durdur  	Останови снайпера и стрелка  
+Kalabalıkta biri öne doğru itiliyor — silahı var!	Кто-то в толпе протискивается вперёд — у него оружие!
+Bir dürbün parladı! Savcıya nişan alıyorlar — bul onu!	Блик оптики! В прокурора целятся — найди его!
+Kuledeki nişancı seni vurdu	Тебя подстрелил снайпер с башни
+Meydanı tepeden gören her yere bak. Bir nişancı varsa dürbünü güneşte parlar.	Осмотри все места, откуда видно площадь сверху. Если там снайпер, его оптика блеснёт на солнце.
+Başsavcı	Главный прокурор
+Gri takım, küt kesim saç. Sahnede, kürsüde konuşuyor.	Серый костюм, короткое каре. На сцене, говорит с трибуны.
+Nişancıyı ve kalabalıktaki silahlıyı bul ve durdur (bonus)	Найди и останови снайпера и стрелка в толпе (бонус)
+Başsavcıyı koru	Защити главного прокурора
+Kimse nişan alamadan ikisini de durdur	Останови обоих, пока никто не прицелился
+Kalabalığa zarar verme	Не причини вреда толпе
+İSKELE	ПРИСТАНЬ
+Kordon vapur iskelesi	Паромная пристань на Приморской набережной
+Muhasebeci sabah vapurundan inecek. Müşteri onu canlı istiyor: bacağından.	Бухгалтер сойдёт с утреннего парома. Заказчику он нужен живым: стреляй в ногу.
+Ertan Koç, Baran'ın bütün hesaplarını bilen muhasebeci. Sabah vapuruyla şehre geliyor, iskeleden yürüyüp taksiye binecek ve havalimanına gidecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, taksi durağında bekleyen ekibimiz koşup onu alsın. Baran da onu izletiyor: muhasebeci yere düştüğü an susturmak için birini gönderecek.	Эдуард Козлов — бухгалтер, знающий все счета Громова. Он приплывает в город утренним паромом, пройдёт по пристани, сядет в такси и поедет в аэропорт.\n\nЗаказчику он нужен ЖИВЫМ: стреляй в ногу, чтобы наша группа у стоянки такси подбежала и забрала его. Громов тоже за ним следит: как только бухгалтер упадёт, он пошлёт кого-нибудь заставить его замолчать.
+Vapurdan inen kalabalıkta herkesi tara. Muhasebeci yere düşünce Baran'ın adamı motosikletle promenattan gelir: silah çekmeden önce onu durdur.	Проверь всех в толпе, сходящей с парома. Когда бухгалтер упадёт, человек Громова примчится по набережной на мотоцикле: останови его, пока он не достал оружие.
+Muhasebeci taksiyle kaçtı	Бухгалтер уехал на такси
+Muhasebeciyi BACAĞINDAN vur — ölmemeli	Стреляй бухгалтеру В НОГУ — он не должен погибнуть
+Vapurda — iskeleye yanaşıyor	На пароме — подходит к пристани
+CANLI  ·  VAPUR İSKELESİ	ПРЯМОЙ ЭФИР  ·  ПАРОМНАЯ ПРИСТАНЬ
+Gri tişört, kırmızı bere — Baran'ın tetikçisi	Серая футболка, красная шапка — киллер Громова
+Bekleyen Adam	Ждущий
+Gri ceket — tramvay durağında, silahlı	Серый пиджак — на трамвайной остановке, вооружён
+Baran'ın adamlarını durdur	Останови людей Громова
+Baran'ın adamlarını durdur  	Останови людей Громова  
+Ekibin ulaşmasına	До прибытия группы
+Muhasebeci yerde! Ekip koşuyor — 	Бухгалтер на земле! Группа бежит — 
+ saniye. Baran'ın adamı da yolda!	 сек. Человек Громова тоже в пути!
+Tramvay durağındaki gri ceketli de Baran'ın adamı — muhasebeciye gidiyor!	Тот, что в сером пиджаке на трамвайной остановке, тоже человек Громова — идёт к бухгалтеру!
+Tehlike geçti — ekip koşuyor!	Опасность миновала — группа бежит!
+Ekip muhasebeciyi aldı!	Группа забрала бухгалтера!
+Vapur yanaşıyor. Muhasebeci elinde siyah bir evrak çantasıyla inecek.	Паром причаливает. Бухгалтер сойдёт с чёрным портфелем в руке.
+Ertan Koç	Эдуард Козлов
+Kahverengi deri mont, kot pantolon, gözlük. Elinde siyah evrak çantası.	Коричневая кожаная куртка, джинсы, очки. В руке чёрный портфель.
+Ekip gelene kadar onu Baran'ın adamlarından koru	Защищай его от людей Громова до прибытия группы
+Muhasebeciyi canlı teslim et	Доставь бухгалтера живым
+Baran'ın adamları nişan alamasın	Люди Громова не должны взять его на прицел
+YAĞMUR	ДОЖДЬ
+Saat Kulesi Meydanı — çeşme	Площадь Часовой башни — фонтан
+ÇİFT HEDEF	ДВЕ ЦЕЛИ
+İkisi de şemsiye altında. Biri düştüğü an öteki kaçar — ikinci atışın hazır olsun.	Оба под зонтами. Как только один упадёт, второй побежит — держи второй выстрел наготове.
+Gazeteci Selin Ay'ı öldüren tetikçi Erol Kaya, nam-ı diğer Çakal, bu gece parasını alacak. Parayı getiren, cinayet dosyasını kapatan Komiser Tuncay Er.\n\nYağmurda, çeşmenin başında buluşacaklar. İkisi de bu işin bedelini ödeyecek. Biri vurulduğu an öteki aracına koşar: Komiser'in arabası Plaza Sokak'ta, Çakal'ın motosikleti meydanın köşesinde. Sana yarı otomatik bir tüfek ve termal dürbün veriyoruz.	Киллер Евгений Шилов по прозвищу Шакал, убивший журналистку Ольгу Лунёву, этой ночью получит свои деньги. Деньги везёт комиссар Николай Ерёмин, закрывший дело об убийстве.\n\nОни встретятся под дождём у фонтана. За эту работу заплатят оба. Как только одного подстрелят, второй побежит к своему транспорту: машина комиссара в Пассажном переулке, мотоцикл Шакала на углу площади. Даём тебе полуавтоматическую винтовку и тепловизор.
+Şemsiyeler yukarıdan bakınca başı saklar ama kurşunu durdurmaz. Termal dürbün yağmurda vücut ısısını gösterir. Yarı otomatik tüfekle sürgü çekmeden ikinci atışı yaparsın.	Сверху зонты скрывают голову, но пулю не останавливают. Тепловизор показывает тепло тела под дождём. Полуавтоматом второй выстрел делается без передёргивания затвора.
+Ödünç: FIRTINA DMR (yarı otomatik) ve termal dürbün	Выдано: ШТОРМ DMR (полуавтомат) и тепловизор
+Komiser arabasıyla kaçtı	Комиссар уехал на машине
+Çakal motosikletle kaçtı	Шакал умчался на мотоцикле
+Komiser çeşmenin başında bekliyor. Çakal meydanın güneyinden geliyor — kırmızı şemsiyeli.	Комиссар ждёт у фонтана. Шакал идёт с юга площади — с красным зонтом.
+Biri düştüğü an öteki koşar. İkisini de aynı anda görebileceğin yeri bekle.	Как только один упадёт, второй побежит. Жди момента, когда оба будут в поле зрения.
+Erol Kaya	Евгений Шилов
+Çakal	Шакал
+Siyah kapüşonlu, kırmızı bere, sakallı. Kırmızı şemsiye.	Чёрная толстовка с капюшоном, красная шапка, борода. Красный зонт.
+Tuncay Er	Николай Ерёмин
+Lacivert polo, kep, bıyıklı. Siyah şemsiye.	Тёмно-синее поло, кепи, усы. Чёрный зонт.
+Çakal'ı etkisiz hale getir	Нейтрализуй Шакала
+Komiser Tuncay Er'i etkisiz hale getir	Нейтрализуй комиссара Николая Ерёмина
+İkisini 4 saniye içinde vur	Сними обоих за 4 секунды
+İkisini de kafadan vur	Обоих — в голову
+HELİPAD	ВЕРТОЛЁТКА
+Palas Oteli çatısı	Крыша отеля «Империал»
+Demirel'i almaya bir helikopter geliyor. Kapısı kapandığı an iş biter.	За Дементьевым летит вертолёт. Как только закроется дверь — всё кончено.
+Tolga Demirel, eski özel kuvvetler subayı, Baran'ın güvenlik şefi. Sana ve ekibimize karşı yürütülen her şeyi o planlıyor. Bu akşam Palas Oteli'nin çatısından helikopterle şehirden çıkacak.\n\nHelikopter piste indikten sonra Demirel iki korumasıyla çatı kapısından çıkıp yürüyecek. Mesafe uzun ve çatıda rüzgar sert. Helikopterin motorunu önceden vurursan yerde kalır: Demirel binaya geri döner — ama o yürüyüş açıkta geçer.	Роман Дементьев, бывший офицер спецназа, начальник охраны Громова. Всё, что делается против тебя и нашей группы, планирует он. Этим вечером он улетит из города на вертолёте с крыши отеля «Империал».\n\nКогда вертолёт сядет на площадку, Дементьев с двумя телохранителями выйдет из двери на крышу и пойдёт к нему. Дистанция большая, на крыше сильный ветер. Если заранее попадёшь в двигатель вертолёта, тот не взлетит: Дементьев вернётся в здание — но путь его пройдёт по открытому месту.
+Uzun atışta rüzgar okuna ve kurşun düşüşüne dikkat. Helikopterin gövdesine iki isabet motoru durdurur; patlayıcı mermi tek atışta yeter.	На дальнем выстреле следи за стрелкой ветра и снижением пули. Два попадания в корпус вертолёта остановят двигатель; разрывному хватит одного.
+Otelin çatısının batı köşesinde dürbünlü biri var. Dürbün sana dönünce eğil — ya da önce onu indir.	В западном углу крыши отеля человек с биноклем. Когда бинокль повернётся к тебе — пригнись или сними его первым.
+Binada — çatıya çıkacak	В здании — поднимется на крышу
+Demirel helikopterle kaçtı	Дементьев улетел на вертолёте
+Demirel çatıya çıktı!	Дементьев вышел на крышу!
+Demirel binaya geri döndü	Дементьев вернулся в здание
+Motor durdu — helikopter yerde kaldı!	Двигатель встал — вертолёт не взлетит!
+Güzel! Helikopter gitmiyor. Demirel binaya dönecek — yürürken yakala!	Отлично! Вертолёт никуда не летит. Дементьев пойдёт обратно в здание — лови его на ходу!
+CANLI  ·  PALAS HELİPADI	ПРЯМОЙ ЭФИР  ·  ВЕРТОЛЁТКА ОТЕЛЯ «ИМПЕРИАЛ»
+Helikopter denizden geliyor. Demirel inişten sonra çatı kapısından çıkacak.	Вертолёт летит со стороны моря. После посадки Дементьев выйдет из двери на крышу.
+Tolga Demirel	Роман Дементьев
+Güvenlik Şefi	Начальник охраны
+Kel, sakallı, güneş gözlüklü. Siyah kruvaze takım.	Лысый, с бородой, в солнечных очках. Чёрный двубортный костюм.
+Tolga Demirel'i helikoptere binmeden etkisiz hale getir	Нейтрализуй Романа Дементьева, пока он не сел в вертолёт
+Helikopteri havalanmadan yere çak	Не дай вертолёту взлететь
+SON PERDE	ПОСЛЕДНИЙ АКТ
+Palas Oteli — çatı katı	Отель «Империал» — пентхаус
+Baran biliyor. Çatıda bir nişancısı, bir projektörü ve bekleyen bir helikopteri var. Bu gece bitiyor.	Громов знает. На крыше у него снайпер, прожектор и вертолёт наготове. Этой ночью всё закончится.
+Kenan Baran. Limandaki kaçakçılık, kirli para, satın alınmış polisler, susturulan tanıklar: hepsinin arkasındaki adam. Bu gece Palas Oteli'nin çatı katında, cam duvarların ardında küçük bir parti veriyor.\n\nBaran bizi bekliyor. Çatıda projektörle damları tarayan bir adam ve bir keskin nişancı var: ışık seni bulursa nişancı sana döner. Ateş edersen Baran merdivenden çatıya, bekleyen helikoptere koşar. Bu son iş — temiz bitir.	Аркадий Громов. Контрабанда в порту, грязные деньги, купленные полицейские, заставленные замолчать свидетели: за всем этим стоит он. Этой ночью он устраивает небольшую вечеринку в пентхаусе отеля «Империал», за стеклянными стенами.\n\nГромов нас ждёт. На крыше человек с прожектором, который обшаривает крыши, и снайпер: если свет найдёт тебя, снайпер развернётся к тебе. Выстрелишь — Громов побежит по лестнице на крышу, к ждущему вертолёту. Это последняя работа — закончи чисто.
+Önce çatıdaki nişancıyı bul: dürbünü yeşil parlar. Projektör ışığı üzerine gelince nişancı sana nişan alır. Cam duvarlar mermiyi durdurmaz.	Сначала найди снайпера на крыше: его оптика светится зелёным. Когда на тебя упадёт свет прожектора, снайпер возьмёт тебя на прицел. Стеклянные стены пулю не остановят.
+Çatıda projektör ve bir karşı nişancı var — ışık seni bulmadan onu bul	На крыше прожектор и вражеский снайпер — найди его, пока свет не нашёл тебя
+Kenan Baran'ı etkisiz hale getir	Нейтрализуй Аркадия Громова
+Baran helikopterle kaçtı	Громов улетел на вертолёте
+Palas'ın çatısında, korkuluğun arkasında	На крыше «Империала», за ограждением
+PROJEKTÖR ÜZERİNDE — GÖRÜLDÜN!	ПРОЖЕКТОР НА ТЕБЕ — ТЫ ЗАМЕЧЕН!
+Projektör damları tarıyor, sana yaklaşıyor! Işık seni bulmadan nişancıyı indir.	Прожектор обшаривает крыши, он всё ближе! Сними снайпера, пока свет не нашёл тебя.
+Baran binaya geri döndü	Громов вернулся в здание
+Merdivende — çatıya çıkıyor	На лестнице — поднимается на крышу
+Baran çatıya kaçıyor — helikoptere!	Громов бежит на крышу — к вертолёту!
+Helikopter yerde kaldı!	Вертолёт не взлетит!
+BARAN	ГРОМОВ
+Biliyorum oradasın, tetikçi. Bu camların ardında bana dokunamazsın.	Я знаю, что ты там, наёмник. За этим стеклом тебе меня не достать.
+Telsizini dinliyoruz. Çatıda projektör ve bir nişancı var — önce onu bul.	Мы слушаем их рацию. На крыше прожектор и снайпер — сначала найди его.
+Baran düştü. Bitti... Şehir artık nefes alabilir.	Громов пал. Всё кончено... Теперь город сможет дышать.
+Kenan Baran	Аркадий Громов
+Gümüş saç ve sakal, koyu takım, kırmızı kravat.	Серебристые волосы и борода, тёмный костюм, красный галстук.
+Çatıdaki nişancı sana nişan alamasın	Не дай снайперу на крыше взять тебя на прицел
+Davetlilere zarar verme	Не причини вреда гостям
+Buluşmanın bitmesine	До конца встречи
+Buluşma başladı	Встреча началась
+Kurşun siperine çarptı — nişancı başını kaldırmanı bekliyor	Пуля попала в укрытие — снайпер ждёт, когда ты поднимешь голову
+Iskaladı — nişancı yeniden nişan alıyor	Промазал — снайпер снова целится
+Nişancı yine aşağıya nişan alıyor!	Снайпер снова целится вниз!
+Seni gördü! Ateş etmeden onu indir — ya da siperine eğil!	Он тебя видит! Сними его, пока он не выстрелил, — или пригнись за укрытие!
+2 sözleşme tamamla	Выполни 2 контракта
+3 kafadan vuruş yap	Сделай 3 выстрела в голову
+250 m'den uzak bir isabet	Попадание с дистанции больше 250 m
+Alarm vermeden bir iş bitir	Выполни работу без тревоги
+S derecesi al	Получи ранг S
+5 yıldız topla	Собери 5 звёзд
+2 zırhlı adamı sustur	Сними 2 бронированных
+VETERAN olarak bir iş bitir	Выполни работу как ВЕТЕРАН
+Sivillere dokunmadan 2 iş bitir	Выполни 2 работы, не задев гражданских
+Dürbün, nefes tutma ve ilk atış.	Оптика, задержка дыхания и первый выстрел.
+MENZİL ayarı: uzak hedefte mermi düşer, sarı çizgilerle tut.	Настройка ДИСТАНЦИИ: на дальней цели пуля снижается, бери по жёлтым меткам.
+Dikkat dağıtma: yakınına düşen kurşun ya da araba alarmı hedefi siperden çıkarır.	Отвлечение: пуля рядом или автосигнализация выманят цель из укрытия.
+Gece ve gözcü: önce seni görebilecek olanı düşün.	Ночь и наблюдатель: сначала думай о том, кто может тебя заметить.
+Hedefi kendin bul. İsabet noktası artık sadece nefes tutarken görünür.	Найди цель сам. Точка попадания теперь видна, только пока задерживаешь дыхание.
+Hareketli hedef: yürüyüşüne göre önden nişan al.	Движущаяся цель: бери упреждение по ходу движения.
+Uzun atış ve sert rüzgâr: rüzgâr panelindeki mil değerine göre kaydır.	Дальний выстрел и сильный ветер: смещай прицел по значению в милах на панели ветра.
+Koruma: kalabalıktaki tetikçileri bul, tanık yaşasın.	Защита: найди киллеров в толпе, свидетель должен выжить.
+Canlı yakala: bacaktan vur, öldürme.	Взять живым: стреляй в ногу, не убивай.
+Karanlık: ışığı kesmek korumaları kör eder.	Темнота: отключи свет — охрана ослепнет.
+Uyuşturucu iğne: kimse ölmeyecek.	Транквилизатор: никто не умрёт.
+Şehir: isabet noktası yok. Iskalarsan hedef kaçar; iş bitince yerin biliniyorsa çıkış var.	Город: точки попадания нет. Промахнёшься — цель сбежит; если после работы тебя засекли, путь отхода есть.
+Dublör: yüze iyi bak, yanlış kişiyi vurursan iş biter.	Двойник: смотри внимательно на лицо, попадёшь не в того — работе конец.
+Karşı nişancı: önce o seni bulmasın.	Вражеский снайпер: не дай ему найти тебя первым.
+Çift hedef: biri düşünce öteki kaçar, ikinci atış hazır olsun.	Две цели: когда одна падает, другая бежит — держи второй выстрел наготове.
+Zaman penceresi: helikopterin kapısı kapanınca iş biter.	Окно по времени: закроется дверь вертолёта — работе конец.
+Dağ: rüzgâr sert ve değişken. Paneldeki yön ve gücü izle, dindiği anı bekle.	Горы: ветер сильный и переменчивый. Следи за направлением и силой на панели, жди, когда стихнет.
+Kaza: kurşun değil, çığ.	Несчастный случай: не пуля, а лавина.
+Tipi: termal dürbün olmadan göremezsin.	Метель: без тепловизора ничего не увидишь.
+Ses örtüsü: havai fişek patlarken atış duyulmaz.	Звуковое прикрытие: под грохот салюта выстрела не слышно.
+HAFİF	ЛЁГКИЙ
+ORTA	СРЕДНИЙ
+SERT	ЖЁСТКИЙ
+FIRTINA	ШТОРМ
+LİMAN	ПОРТ
+Konteyner limanı	Контейнерный порт
+Kaçakçılar, silah tüccarları ve rüşvet ağı. Her şey limanda başladı.	Контрабандисты, торговцы оружием и сеть взяток. Всё началось в порту.
+Liman kuruluyor	Порт загружается
+ŞEHİR MERKEZİ	ЦЕНТР ГОРОДА
+ŞEHİR OPERASYONU	ОПЕРАЦИЯ «ГОРОД»
+Örgütün parası ve koruyucuları şehirde. Opera, gökdelen, otel — ve deniz kıyısında bir meydan.	Деньги организации и её покровители — в городе. Опера, небоскрёб, отель — и площадь у моря.
+Şehir kuruluyor	Город загружается
+Liman'da 6. görevi bitir	Выполни 6-й контракт в порту
+KARTAL TEPE	ОРЛИНАЯ ГОРА
+DAĞ OPERASYONU	ОПЕРАЦИЯ «ГОРЫ»
+Kartal Tepe Kayak Merkezi	Горнолыжный курорт «Орлиная Гора»
+Örgütün konseyi karlı bir dağ otelinde toplanıyor. Teleferik, dağ evleri, donmuş göl — ve tipi.	Совет организации собирается в заснеженном горном отеле. Канатка, шале, замёрзшее озеро — и метель.
+Dağ kuruluyor	Горы загружаются
+Şehirde 16. görevi bitir	Выполни 16-й контракт в городе
+Başlatılıyor	Запуск
+Hazırlanıyor	Подготовка
+Hazır	Готово
+Ceset suya gömüldü — kimse bulamayacak	Тело ушло под воду — никто не найдёт
++%{0} BONUS	+{0}% БОНУС
+Bu paket için {0} elmas gerekiyor, sende {1} var.	Для этого набора нужно {0} крист., а у тебя {1}.
+{0} kuşanıldı. Cephanelikte seni bekliyor.	{0}: экипировано. Ждёт тебя в арсенале.
+{0} satın alım geri yüklendi.	Восстановлено покупок: {0}.
+Bugün {0} / {1} hakkın kaldı	Осталось сегодня: {0} / {1}
+{0}. GÜN	{0}-Й ДЕНЬ
+{0} Z. DELİCİ	{0} БРОНЕБОЙНЫХ
+TAKTİK HARİTA  ·  GÖREV {0}  ·  {1}	ТАКТИЧЕСКАЯ КАРТА  ·  КОНТРАКТ {0}  ·  {1}
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     <color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#46C8F2>●</color> Огневые позиции     <color=#FF4545>●</color> Зона цели     <color=#FFFFFF>- -</color> Известные маршруты     Кольца: каждые 100 m от основной позиции     Вверх: направление обзора с основной позиции
+ZORLUK  {0}/10	СЛОЖНОСТЬ  {0}/10
+Bu iş {0} olmadan yapılamaz. Cephaneliğe git?	Для этой работы нужно: {0}. Перейти в арсенал?
+Bu sözleşme için önerilen güç {0}, {1} şu an {2}.\nGeliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	Рекомендуемая мощь для этого контракта — {0}, у {1} сейчас {2}.\nМожно попробовать и без улучшений, но с бронированными и дальними целями будет тяжело.
+<b><color=#E8B04A>YENİ:</color></b> {0}\n{1}	<b><color=#E8B04A>НОВОЕ:</color></b> {0}\n{1}
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n{0}	<b><color=#FFB21E>ВЕТЕРАН:</color></b> без точки попадания, ветер сильнее и порывистее, винтовку сильнее водит, цели не отмечаются. Награда ×1,5.\n{0}
+BÖLÜM {0}	ГЛАВА {0}
+GÖREV {0}  ·  {1}	КОНТРАКТ {0}  ·  {1}
+TÜFEK:  {0}   <size=26><color={1}>GÜÇ {2}</color><color=#6B7682>  /  önerilen {3}</color></size>	ВИНТОВКА:  {0}   <size=26><color={1}>МОЩЬ {2}</color><color=#6B7682>  /  реком. {3}</color></size>
+   ·   Verilen: {0}	   ·   Выдано: {0}
+GÖREV {0} · {1}	КОНТРАКТ {0} · {1}
+Baran'ın kasası: {0}	Сейф Громова: {0}
++{0} ELMAS	+{0} КРИСТАЛЛОВ
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.{0}	Контракт не выполнен — оплаты нет.\nМожно взяться за ту же работу снова; что пошло не так — смотри выше.{0}
+Bu iş için önerilen güç {0}, senin tüfeğin {1}. Geliştir ya da {2} hemen güçlen.	Рекомендуемая мощь для этой работы — {0}, у твоей винтовки — {1}. Улучши её или {2} — и стань сильнее прямо сейчас.
++{0} TP	+{0} ОП
+TELAFİ +{0}	КОМПЕНСАЦИЯ +{0}
+GÖREV {0}	КОНТРАКТ {0}
+{0}Rüzgâr {1} m/s   ·   {2}\nZORLUK {3}/10{4}	{0}Ветер {1} m/s   ·   {2}\nСЛОЖНОСТЬ {3}/10{4}
+Önerilen güç <b>{0}</b>   ·   Tüfeğin <color={1}><b>{2}</b></color>	Рекомендуемая мощь <b>{0}</b>   ·   Твоя винтовка <color={1}><b>{2}</b></color>
+Yenisi {0} sa {1} dk sonra	Новый через {0} ч {1} мин
+{0} · {1}  —  VETERAN kurallarıyla	{0} · {1}  —  по правилам ВЕТЕРАНА
+Güç {0} / {1}	Мощь {0} / {1}
+Görev aralarındaki reklamları {0} karşılığında sonsuza dek kaldır. Hediye: {1} elmas.	Убери рекламу между контрактами навсегда за {0}. В подарок: {1} крист.
+{0} için {1} elmas gerekiyor, sende {2} var.	Для «{0}» нужно {1} крист., а у тебя {2}.
+{0} {1} elmasla hemen senin olsun mu?	{0} за {1} крист. — забрать прямо сейчас?
+SEVİYE {0} GEREKLİ	НУЖЕН УРОВЕНЬ {0}
+Son kademe (elmasla) {0}. seviyede açılır. Sözleşmelerden tecrübe kazan.	Последняя ступень (за кристаллы) открывается на уровне {0}. Набирай опыт в контрактах.
+Bu geliştirme için {0} eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.\nBugün {1} hakkın var.	Для этого улучшения не хватает {0}. Посмотри короткое видео — недостающие деньги добавятся, и улучшение пройдёт сразу.\nПопыток на сегодня: {1}.
+Son kademe {0} elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	Последняя ступень стоит {0} крист. Купи кристаллы в магазине или собери в ежедневных наградах.
+Bu geliştirme {0}. Sözleşmelerden para kazan ya da mağazaya bak.	Это улучшение стоит {0}. Заработай в контрактах или загляни в магазин.
+GÜÇ <color=#FFB21E>{0}</color>   ·   {1}	МОЩЬ <color=#FFB21E>{0}</color>   ·   {1}
+{0}   ·   {1} ★ ile açılır	{0}   ·   открывается за {1} ★
+{0}  <color=#46C8F2>EN ÜST</color>	{0}  <color=#46C8F2>МАКС.</color>
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> {0}. kademe ya da zırh delici mermi gerekir.	Чтобы пробить корпус бронированных, нужен <color=#FFB21E>УРОН</color> {0}-й ступени или бронебойные патроны.
+SATIN AL   {0}	КУПИТЬ   {0}
+{0} ★ YA DA   	{0} ★ ИЛИ   
+{0} ELMASLA AL	ЗА {0} КРИСТ.
+{0} yıldızla açılır	Открывается за {0} ★
+SATIN AL  {0}	КУПИТЬ  {0}
+YÜKSELT  {0}	УЛУЧШИТЬ  {0}
+YER DEĞİŞTİRİYORSUN\n<size=30>{0}  ·  {1} sn</size>	СМЕНА ПОЗИЦИИ\n<size=30>{0}  ·  {1} с</size>
+KURŞUN KAMERASI  ·  {0}	КАМЕРА ПУЛИ  ·  {0}
+“{0}” — sözleşme hedefi	“{0}” — цель контракта
+Yaralı — {0}	Ранен — {0}
+KEŞİF  ·  {0} / {1} tehdit tarandı	РАЗВЕДКА  ·  проверено угроз: {0} / {1}
+{0},{1} mil	{0},{1} мил
+TELSİZ  {0},{1} sn	РАЦИЯ  {0},{1} с
+Yıldız kaçtı: {0}	Звезда упущена: {0}
+SÖZLEŞME {0}  ·  {1}{2}	КОНТРАКТ {0}  ·  {1}{2}
+{0}  <size=24><color=#A3AEB9>·  SEVİYE {1}</color></size>	{0}  <size=24><color=#A3AEB9>·  УРОВЕНЬ {1}</color></size>
+{0} / {1} TP	{0} / {1} ОП
+{0}   ·   SEVİYE {1}	{0}   ·   УРОВЕНЬ {1}
+AÇILDI:  {0}	ОТКРЫТО:  {0}
+ÖDÜLLÜ TEST REKLAMI  ·  {0}	ТЕСТ. РЕКЛАМА С НАГРАДОЙ  ·  {0}
+TEST REKLAMI  ·  her {0} görevde bir	ТЕСТОВАЯ РЕКЛАМА  ·  раз в {0} контр.
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	У тебя нет имени. Армия три года назад записала тебя в погибшие. КОНТРОЛЬ нашёл тебя в военном госпитале и сделал одно предложение: разрушь контрабандную сеть в порту — и твоё прошлое сотрут.\n\nКаждый контракт — это имя. Каждое имя — путь к следующему.
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\nBu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	Порт пал, но деньги продолжают течь. Последний номер в телефоне Виктора Крауса ведёт в Приморье Плаза: Громов Холдинг.\n\nНа этот раз цели в костюмах. В толпе, за стеклянными стенами, рядом с полицией.
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	Файлы из сейфа Громова дают пять имён: Совет. Пять человек, которые годами кормили и прикрывали Громова, каждый год проводят новогоднюю неделю на Орлиной Горе.\n\nСреди файлов есть ещё одна подпись. Знакомая подпись.
+Vuruldun — {0}	Ты ранен — {0}
+Üç tetikçiyi de durdur  {0}/3	Останови всех троих киллеров  {0}/3
+{0} fişek	{0} патр.
+Bu açıdan {0} görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	С этой позиции {0} не видно. Перейди на другое место кнопкой СМЕНИТЬ ПОЗИЦИЮ.
+{0} silahlı adam mevzi alıyor — yuvanı arıyorlar!	Вооружённых занимают позиции: {0} — ищут тебя!
+Etkisiz hale getir: {0}	Нейтрализуй: {0}
+{0} öldürüldü	{0} — убит
+İsabet — {0} atış daha	Попадание — ещё {0} выстр.
+YENİ HEDEF: {0}	НОВАЯ ЦЕЛЬ: {0}
+SİLAHLI ADAM BULUNDU: {0}	ОБНАРУЖЕН СТРЕЛОК: {0}
+HEDEF DOĞRULANDI: {0}	ЦЕЛЬ ПОДТВЕРЖДЕНА: {0}
+KİMLİK DOĞRULANDI: {0}	ЛИЧНОСТЬ ПОДТВЕРЖДЕНА: {0}
+YENİ YER: {0}	НОВАЯ ПОЗИЦИЯ: {0}
+Dron bölgeyi taradı — {0} kişi tanımlandı	Дрон просканировал зону — опознано: {0} чел.
+{0} öldü!	{0} убит!
+{0} hedef kaldı	Осталось целей: {0}
+{0} yaralandı — artık yürüyemiyor	{0} ранен — больше не может идти
+{0} bayıldı — güvenli yere ulaşamaz	{0} без сознания — до укрытия не доберётся
+ISKALADIN — {0} KAÇIYOR!	ПРОМАХ — {0} УБЕГАЕТ!
+Sana ateş edenleri sustur  ·  {0} kaldı	Заставь замолчать тех, кто стреляет по тебе  ·  осталось {0}
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — {0} silahlı var, hepsini sustur. Gerekirse siper al.	Цель снята, но твоя позиция раскрыта. Никто не должен сесть тебе на хвост — вооружённых: {0}, убери всех. Если надо — укройся.
+Yıldız hedefleri  ×{0}	Цели на звёзды  ×{0}
+Uzak atış  ·  {0} m	Дальний выстрел  ·  {0} m
+Keşif  ·  {0}/{1} tehdit	Разведка  ·  {0}/{1} угр.
+Sivil kaybı  ×{0}	Жертвы среди гражданских  ×{0}
+Yaralı sivil  ×{0}	Раненые гражданские  ×{0}
+Tekrar oynanış  ×%{0}	Повторное прохождение  ×{0}%
+Tetikçileri durdur  {0}/2	Останови киллеров  {0}/2
+Kurye yerde! Ekip yolda — {0} saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	Курьер на земле! Группа в пути — {0} сек. Люди организации попытаются заставить его замолчать — и со склада тоже выйдут!
+Korumalar temiz. Tekne geliyor — {0} saniye.	Охрана снята. Лодка идёт — {0} сек.
+Nişancıyı ve silahlıyı durdur  {0}/2	Останови снайпера и стрелка  {0}/2
+Baran'ın adamlarını durdur  {0}/2	Останови людей Громова  {0}/2
+Muhasebeci yerde! Ekip koşuyor — {0} saniye. Baran'ın adamı da yolda!	Бухгалтер на земле! Группа бежит — {0} сек. Человек Громова тоже в пути!
+{0} ELMAS	{0} КРИСТАЛЛОВ
+Kimyager: {0}	Химик: {0}
+Toplam: {0}	Итого: {0}
+SV {0}	УР. {0}
+Hedef: {0}{1}	Цель: {0}{1}
+HEDEF:  {0}	ЦЕЛЬ:  {0}
+{0} vuruldu!	{0} подстрелен!
+Kullanım Koşulları (EULA)	Условия использования (EULA)
+Gizlilik Politikası	Политика конфиденциальности
+Oyunu beğendin mi?	Понравилась игра?
+PUANLA	ОЦЕНИТЬ
+BURAYA	СЮДА
+Önce dürbünü aç.	Сначала прильни к оптике.
+EĞİTİM	ОБУЧЕНИЕ
+Yakınlaştır: soldaki kaydırıcıyı yukarı it ya da iki parmakla ekranı aç.	Увеличь кратность: сдвинь ползунок слева вверх или разведи два пальца на экране.
+Halka boşalmadan ateş et: nefes biterse nişan titrer.	Стреляй, пока кольцо не опустеет: когда дыхание кончится, прицел задрожит.
+Kırmızı nokta merminin ineceği yeri gösterir.	Красная точка показывает, куда ляжет пуля.
+Kırmızı halka: bu adam sana nişan alıyor!	Красное кольцо: он целится в тебя!
+Halka dolmadan onu vur ya da SİPER'e eğil.	Сними его, пока кольцо не заполнится, или нырни в УКРЫТИЕ.
+Vuruluyorsun! SİPER tuşuna bas: duvarın arkasına eğil.	В тебя попадают! Жми УКРЫТИЕ: пригнись за стеной.
+Siperde can yenilenir.	В укрытии здоровье восстанавливается.
+Ateş kesilince dürbünle doğrul ve karşılık ver: önce sana nişan alanı vur.	Когда огонь стихнет, поднимись и ответь огнём через оптику: сначала сними того, кто целится в тебя.
+Hedef {0} m uzakta. Mermi yol boyunca düşer.	До цели {0} m. В полёте пуля снижается.
+Kırmızı nokta merminin ineceği yer: nişangahın {0} cm altında. Kafaya nişan alırsan ıskalarsın.	Пуля ляжет в красную точку: на {0} cm ниже прицела. Если прицелишься в голову, промажешь.
+MENZİL'i hedefin mesafesine getir: + tuşuna bas.	Выставь ДИСТАНЦИЮ до цели: жми +.
+MENZİL'i hedefin mesafesine getir: − tuşuna bas.	Выставь ДИСТАНЦИЮ до цели: жми −.
+MENZİL {0} m  ·  hedef {1} m	ДИСТАНЦИЯ {0} m  ·  цель {1} m
+Tam ayar! Nokta nişangaha döndü.	Идеально! Точка снова в центре прицела.
+Uzak hedefte önce mesafeyi oku, MENZİL'i ona getir, sonra ateş et.	На дальней цели сначала узнай расстояние, выставь по нему ДИСТАНЦИЮ, потом стреляй.
+Hedef yürüyor: mermi oraya varana kadar o da ilerler.	Цель идёт и успеет сместиться, пока летит пуля.
+Nişangahı yürüdüğü yöne, mavi halkanın üzerine al.	Наведи прицел вперёд по ходу движения, на синее кольцо.
+İşte bu! Önünde kal ve ateş et.	Вот так! Держи упреждение и стреляй.
+Koşan adamda pay daha büyük, duran adamda hiç yok.	По бегущему упреждение больше, по стоящему его нет совсем.
+Rüzgâr mermiyi yana iter. Yönü ve gücü bu panelde.	Ветер сносит пулю в сторону. Направление и сила ветра на этой панели.
+Bak: rüzgâr mermiyi {0} cm sağa götürüyor.	Смотри: ветер сносит пулю на {0} cm вправо.
+Bak: rüzgâr mermiyi {0} cm sola götürüyor.	Смотри: ветер сносит пулю на {0} cm влево.
+Kırmızı nokta merminin ineceği yer.	Пуля ляжет в красную точку.
+Rüzgâra karşı tut: nişangahı {0} mil sola kaydır.	Бери поправку на ветер: сдвинь прицел на {0} мил влево.
+Rüzgâra karşı tut: nişangahı {0} mil sağa kaydır.	Бери поправку на ветер: сдвинь прицел на {0} мил вправо.
+Sarı noktalar 1 mil aralıklı. Kırmızı nokta hedefe gelince ateş et.	Между жёлтыми точками 1 мил. Стреляй, когда красная точка ляжет на цель.
+Tam üstünde! Şimdi ateş et.	Точно на цели! Теперь стреляй.
+Rüzgâr dinip artar: ateşten önce paneldeki değere bir daha bak.	Ветер то стихает, то крепчает: перед выстрелом ещё раз сверься с панелью.
+Bu işte kimse ölmeyecek: bu tuşla İĞNE'ye geç.	На этом деле никто не умрёт: переключись этой кнопкой на ДРОТИК.
+Mermi seçici: her basış bir sonraki türü takar.	Выбор патронов: каждое нажатие заряжает следующий тип.
+İğne yavaş uçar ve çok düşer: biraz yukarı nişan al.	Дротик летит медленно и сильно снижается: целься чуть выше.
+Kırmızı nokta iğnenin ineceği yeri gösterir.	Красная точка показывает, куда попадёт дротик.
+Zırhlı adam! Gövdesine mermi işlemez.	На нём броня! В корпус пуля не берёт.
+Bu tuşla ZIRH DELİCİ'ye geç ya da kafasına nişan al.	Переключись этой кнопкой на БРОНЕБОЙНЫЕ или целься в голову.
+Kafasına nişan al. Zırh delici mermiyi cephanelikten alabilirsin.	Целься в голову. Бронебойные патроны можно взять в арсенале.
+Yerin belli oldu. YER DEĞİŞTİR: yeni yerde seni kimse bilmez.	Тебя засекли. СМЕНИТЬ ПОЗИЦИЮ: на новом месте о тебе никто не знает.
+Taşınırken dünya durmaz: hedef kaçmadan dön.	Пока ты перебираешься, мир не стоит на месте: вернись, пока цель не ушла.
+Bu yüz dosyadakiyle aynıysa İŞARETLE — HEDEF BU.	Если это лицо совпадает с досье, жми ОТМЕТИТЬ — ЭТО ЦЕЛЬ.
+Emin değilsen basma: yanlış kişiyi vurmak işi bitirir.	Если не уверен, не жми: попадёшь не в того, и работе конец.
+Karanlıkta gece görüşü kullan: bu tuşla modu değiştir.	В темноте используй НОЧНОЕ ВИДЕНИЕ: переключай режим этой кнопкой.
+Termal dürbünde insanlar beyaz parlar: sis ve kar arkasında bile.	В тепловизоре люди светятся белым: даже сквозь туман и снег.
+DRON'u gönder: bölgeyi tarar, tehditleri işaretler.	Запусти ДРОН: он просканирует зону и отметит угрозы.
+Her sözleşmede bir kez.	Один раз за контракт.
+Son anda kıpırdadı. Nişanı tazele, tekrar dene.	Он дёрнулся в последний миг. Прицелься заново и попробуй ещё раз.
+Siperine takıldı. Açığa çıkmasını bekle ya da başka açıdan dene.	Пуля ушла в укрытие. Жди, пока он высунется, или попробуй под другим углом.
+Iska: {0} cm alçak.	Промах: на {0} cm ниже.
+Iska: {0} cm yüksek.	Промах: на {0} cm выше.
+Iska: {0} cm solda.	Промах: на {0} cm левее.
+Iska: {0} cm sağda.	Промах: на {0} cm правее.
+Mermi düştü: hedef {0} m, MENZİL {1}. MENZİL'i hedefin mesafesine getir.	Пуля просела: цель {0} m, ДИСТАНЦИЯ {1}. Выставь ДИСТАНЦИЮ до цели.
+Fazla yüksek: hedef {0} m, MENZİL {1}. MENZİL'i düşür.	Слишком высоко: цель {0} m, ДИСТАНЦИЯ {1}. Убавь ДИСТАНЦИЮ.
+Arkasından geçti: yürüdüğü yöne daha önden nişan al.	Пуля прошла позади него: бери больше упреждения по ходу движения.
+Önünden geçti: payı biraz azalt.	Пуля прошла перед ним: бери чуть меньше упреждения.
+Rüzgâr sağa itti: biraz sola tut.	Снесло ветром вправо: бери чуть левее.
+Rüzgâr sola itti: biraz sağa tut.	Снесло ветром влево: бери чуть правее.
+Nefesini tut: nişan sabitlenince ateş et.	Задержи дыхание: стреляй, когда прицел замрёт.
+Nişangahı vücudun ortasına al.	Целься в центр корпуса.
+Sabır: hedef dışarı çıkana kadar bekle, nefesini tut ve kafaya nişan al.	Терпение: жди, пока цель выйдет, задержи дыхание и целься в голову.
+MENZİL ayarı: uzak hedefte mermi düşer. Dikkat dağıtma: yakına düşen kurşun hedefi açığa çıkarır.	Настройка ДИСТАНЦИИ: на дальней цели пуля снижается. Отвлечение: пуля рядом выманит цель из укрытия.
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.{0}	Магазин сейчас недоступен. Проверь подключение к интернету и попробуй чуть позже.{0}
+GEÇ	ПРОПУСК
+Yer seviyesi — siper arkası	Уровень земли — за укрытием
+Alçak mevzi — yakın çatı	Низкая позиция — ближняя крыша
+Orta yükseklik	Средняя высота
+Hedeflerle aynı seviyede ve yakın. Net atış, ama seni de çabuk görürler.	Близко, на уровне целей. Чистые выстрелы, но и тебя быстро заметят.
+Birkaç kat yukarıda: yakın ve geniş açı.	Несколько этажей вверх: близко и с широким обзором.
+Sahaya yukarıdan ama yakından bakar.	Смотрит на район сверху, но с близкого расстояния.
+Dil  ·  Language	Язык  ·  Language

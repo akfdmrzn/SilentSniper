@@ -1,0 +1,26 @@
+{
+ "id": "demirel",
+ "gender": "m",
+ "tris": 24627,
+ "height": 1.88,
+ "materials": [
+  {
+   "name": "demirel_opaque",
+   "albedo": "demirel_albedo.jpg",
+   "normal": "demirel_normal.jpg",
+   "ms": "demirel_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "demirel",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

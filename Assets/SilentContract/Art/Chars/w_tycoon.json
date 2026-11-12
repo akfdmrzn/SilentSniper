@@ -1,0 +1,26 @@
+{
+ "id": "w_tycoon",
+ "gender": "m",
+ "tris": 24900,
+ "height": 1.8,
+ "materials": [
+  {
+   "name": "w_tycoon_opaque",
+   "albedo": "w_tycoon_albedo.jpg",
+   "normal": "w_tycoon_normal.jpg",
+   "ms": "w_tycoon_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "w_tycoon",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

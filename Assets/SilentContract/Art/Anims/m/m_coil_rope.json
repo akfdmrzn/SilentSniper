@@ -1,0 +1,12 @@
+{
+ "name": "m_coil_rope",
+ "frames": 361,
+ "fps": 30,
+ "length": 12.0,
+ "loop": true,
+ "speed": 0.0,
+ "source": "62_21.bvh",
+ "tags": [
+  "work"
+ ]
+}

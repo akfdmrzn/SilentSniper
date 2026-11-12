@@ -1,0 +1,16 @@
+{
+ "name": "m_dance2",
+ "frames": 211,
+ "fps": 30,
+ "length": 7.0,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Not_Your_Mom.glb",
+ "tags": [
+  "dance"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

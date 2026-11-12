@@ -1,0 +1,213 @@
+{
+ "id": "sc_c_nest_hotel",
+ "category": "struct",
+ "tris": 13310,
+ "tris_src": 13310,
+ "size": [
+  36.16,
+  47.2,
+  32.53
+ ],
+ "center": [
+  0.0,
+  23.6,
+  0.735
+ ],
+ "materials": [
+  {
+   "name": "shared__wall_ms_light3",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.49,
+   "albedo": "shared__wall_ms_light3_albedo.jpg",
+   "normal": "shared__wall_ms_light3_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "wall_ms_light3",
+   "window": false
+  },
+  {
+   "name": "shared__win_hotel",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__win_hotel_albedo.png",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "win_hotel",
+   "window": true
+  },
+  {
+   "name": "shared__frame_dark",
+   "color": [
+    0.07,
+    0.075,
+    0.08,
+    1.0
+   ],
+   "metallic": 0.6,
+   "smoothness": 0.6,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "frame_dark",
+   "window": false
+  },
+  {
+   "name": "shared__win_shop",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__win_shop_albedo.jpg",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "win_shop",
+   "window": true
+  },
+  {
+   "name": "shared__emit_signs",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__emit_signs_albedo.jpg",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "emit_signs",
+   "window": false,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "shared__awnings",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__awnings_albedo.jpg",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "awnings",
+   "window": false
+  },
+  {
+   "name": "shared__trim_stone",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.49,
+   "albedo": "shared__trim_stone_albedo.jpg",
+   "normal": "shared__trim_stone_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "trim_stone",
+   "window": false
+  },
+  {
+   "name": "shared__nest_deck",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.004,
+   "smoothness": 0.455,
+   "albedo": "shared__nest_deck_albedo.jpg",
+   "normal": "shared__nest_deck_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "nest_deck",
+   "window": false
+  },
+  {
+   "name": "shared__parapet_cap",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.001,
+   "smoothness": 0.453,
+   "albedo": "shared__parapet_cap_albedo.jpg",
+   "normal": "shared__parapet_cap_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "parapet_cap",
+   "window": false
+  },
+  {
+   "name": "shared__emit_sign_limanpalas",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__emit_sign_limanpalas_albedo.png",
+   "normal": null,
+   "ms": null,
+   "cutout": true,
+   "double_sided": true,
+   "src": "emit_sign_limanpalas",
+   "window": false,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "lods": 1,
+ "collider": "mesh",
+ "static": true,
+ "credit": "",
+ "tags": []
+}

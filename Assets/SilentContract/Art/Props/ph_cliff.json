@@ -1,0 +1,39 @@
+{
+ "id": "ph_cliff",
+ "category": "terrain",
+ "tris": 8999,
+ "tris_src": 461824,
+ "size": [
+  91.98,
+  10.326,
+  10.967
+ ],
+ "center": [
+  0.0,
+  5.163,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_cliff__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_cliff_m0_albedo.jpg",
+   "normal": "ph_cliff_m0_normal.jpg",
+   "ms": "ph_cliff_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 3,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

@@ -1,0 +1,113 @@
+{
+ "id": "sc_watchtower",
+ "category": "structure",
+ "tris": 1060,
+ "tris_src": 1060,
+ "size": [
+  3.86,
+  10.428,
+  3.905
+ ],
+ "center": [
+  0.0,
+  5.214,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "sc_watchtower__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.174,
+   "albedo": "sc_watchtower_m0_albedo.jpg",
+   "normal": "sc_watchtower_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "tw_steel",
+   "window": false
+  },
+  {
+   "name": "sc_watchtower__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sc_watchtower_m1_albedo.jpg",
+   "normal": "sc_watchtower_m1_normal.jpg",
+   "ms": "sc_watchtower_m1_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "tw_wood",
+   "window": false
+  },
+  {
+   "name": "sc_watchtower__m2",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.197,
+   "smoothness": 0.475,
+   "albedo": "sc_watchtower_m2_albedo.jpg",
+   "normal": "sc_watchtower_m2_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "tw_cabin",
+   "window": false
+  },
+  {
+   "name": "sc_watchtower__m3",
+   "color": [
+    0.06,
+    0.08,
+    0.1,
+    1.0
+   ],
+   "metallic": 0.7,
+   "smoothness": 0.9,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "tw_glass",
+   "window": false
+  },
+  {
+   "name": "sc_watchtower__m4",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.06,
+   "albedo": "sc_watchtower_m4_albedo.jpg",
+   "normal": "sc_watchtower_m4_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "tw_roof",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Silent Contract (procedural, Poly Haven CC0 textures)",
+ "tags": []
+}

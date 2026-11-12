@@ -1,0 +1,41 @@
+{
+ "id": "ai_hot_tub",
+ "category": "prop",
+ "tris": 2400,
+ "tris_src": 5684,
+ "size": [
+  2.293,
+  1.238,
+  2.681
+ ],
+ "center": [
+  0.0,
+  0.619,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_hot_tub__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ai_hot_tub_m0_albedo.jpg",
+   "normal": "ai_hot_tub_m0_normal.jpg",
+   "ms": "ai_hot_tub_m0_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 2,
+ "collider": "none",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

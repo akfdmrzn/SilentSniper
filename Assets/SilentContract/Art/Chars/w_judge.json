@@ -1,0 +1,26 @@
+{
+ "id": "w_judge",
+ "gender": "m",
+ "tris": 25020,
+ "height": 1.8,
+ "materials": [
+  {
+   "name": "w_judge_opaque",
+   "albedo": "w_judge_albedo.jpg",
+   "normal": "w_judge_normal.jpg",
+   "ms": "w_judge_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "w_judge",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

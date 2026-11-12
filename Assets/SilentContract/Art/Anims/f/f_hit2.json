@@ -1,0 +1,16 @@
+{
+ "name": "f_hit2",
+ "frames": 36,
+ "fps": 30,
+ "length": 1.1667,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Hit_Reaction_1.glb",
+ "tags": [
+  "hit"
+ ],
+ "offset": [
+  0.0003,
+  0.0007
+ ]
+}

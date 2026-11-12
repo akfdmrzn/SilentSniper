@@ -1,0 +1,41 @@
+{
+ "id": "ai_snowcat",
+ "category": "prop",
+ "tris": 8000,
+ "tris_src": 21185,
+ "size": [
+  4.637,
+  3.519,
+  8.592
+ ],
+ "center": [
+  0.0,
+  1.76,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_snowcat__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.005,
+   "smoothness": 0.635,
+   "albedo": "ai_snowcat_m0_albedo.jpg",
+   "normal": "ai_snowcat_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 2,
+ "collider": "box",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

@@ -1,0 +1,26 @@
+{
+ "id": "gala_m2",
+ "gender": "m",
+ "tris": 24444,
+ "height": 1.79,
+ "materials": [
+  {
+   "name": "gala_m2_opaque",
+   "albedo": "gala_m2_albedo.jpg",
+   "normal": "gala_m2_normal.jpg",
+   "ms": "gala_m2_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "gala_m2",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

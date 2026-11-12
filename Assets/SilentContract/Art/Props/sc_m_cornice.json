@@ -1,0 +1,41 @@
+{
+ "id": "sc_m_cornice",
+ "category": "struct",
+ "tris": 352,
+ "tris_src": 352,
+ "size": [
+  108.279,
+  45.928,
+  30.5
+ ],
+ "center": [
+  286.369,
+  80.474,
+  167.356
+ ],
+ "materials": [
+  {
+   "name": "shared__mtn_roof_snow",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.195,
+   "albedo": "shared__mtn_roof_snow_albedo.jpg",
+   "normal": "shared__mtn_roof_snow_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_roof_snow",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "mesh",
+ "static": true,
+ "credit": "",
+ "tags": []
+}

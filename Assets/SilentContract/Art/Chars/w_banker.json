@@ -1,0 +1,26 @@
+{
+ "id": "w_banker",
+ "gender": "m",
+ "tris": 24519,
+ "height": 1.84,
+ "materials": [
+  {
+   "name": "w_banker_opaque",
+   "albedo": "w_banker_albedo.jpg",
+   "normal": "w_banker_normal.jpg",
+   "ms": "w_banker_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "w_banker",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

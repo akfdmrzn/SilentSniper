@@ -1,0 +1,26 @@
+{
+ "id": "gala_f",
+ "gender": "f",
+ "tris": 17589,
+ "height": 1.7,
+ "materials": [
+  {
+   "name": "gala_f_opaque",
+   "albedo": "gala_f_albedo.jpg",
+   "normal": "gala_f_normal.jpg",
+   "ms": "gala_f_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "gala_f",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

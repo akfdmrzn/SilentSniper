@@ -1,0 +1,12 @@
+{
+ "name": "m_walk_confident",
+ "frames": 41,
+ "fps": 30,
+ "length": 1.3333,
+ "loop": true,
+ "speed": 1.0663,
+ "source": "82_09.bvh",
+ "tags": [
+  "walk"
+ ]
+}

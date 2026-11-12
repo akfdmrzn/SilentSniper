@@ -1,0 +1,12 @@
+{
+ "name": "f_run",
+ "frames": 24,
+ "fps": 30,
+ "length": 0.7667,
+ "loop": true,
+ "speed": 2.9389,
+ "source": "35_22.bvh",
+ "tags": [
+  "run"
+ ]
+}

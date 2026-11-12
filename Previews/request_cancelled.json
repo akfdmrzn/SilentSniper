@@ -1,0 +1,218 @@
+{
+ "id": "store1",
+ "width": 2868,
+ "height": 1320,
+ "quality": 2,
+ "shots": [
+  {
+   "name": "h_sunset_rifle",
+   "location": "harbor",
+   "preset": "sunset",
+   "view": "look",
+   "yaw": 0,
+   "pitch": -7,
+   "fov": 55,
+   "rifle": true,
+   "npcs": true
+  },
+  {
+   "name": "h_night_rifle",
+   "location": "harbor",
+   "preset": "night",
+   "view": "look",
+   "yaw": 0,
+   "pitch": -7,
+   "fov": 55,
+   "rifle": true,
+   "npcs": true
+  },
+  {
+   "name": "m3_f55",
+   "mission": "m3",
+   "view": "player",
+   "fov": 55,
+   "wait": 3.0,
+   "rifle": true
+  },
+  {
+   "name": "m3_f14",
+   "mission": "m3",
+   "view": "player",
+   "fov": 14,
+   "wait": 3.0,
+   "rifle": false
+  },
+  {
+   "name": "m6_f16",
+   "mission": "m6",
+   "view": "player",
+   "fov": 16,
+   "wait": 3.0,
+   "rifle": false
+  },
+  {
+   "name": "m7_f14",
+   "mission": "m7",
+   "view": "player",
+   "fov": 14,
+   "wait": 3.0,
+   "rifle": false
+  },
+  {
+   "name": "m8_f55",
+   "mission": "m8",
+   "view": "player",
+   "fov": 55,
+   "wait": 3.0,
+   "rifle": true
+  },
+  {
+   "name": "m8_f12",
+   "mission": "m8",
+   "view": "player",
+   "fov": 12,
+   "wait": 3.0,
+   "rifle": false
+  },
+  {
+   "name": "c_night_rifle",
+   "location": "city",
+   "preset": "night",
+   "view": "look",
+   "yaw": 0,
+   "pitch": -12,
+   "fov": 60,
+   "rifle": true,
+   "npcs": false
+  },
+  {
+   "name": "c_rain_rifle",
+   "location": "city",
+   "preset": "rain_night",
+   "view": "look",
+   "yaw": 0,
+   "pitch": -12,
+   "fov": 60,
+   "rifle": true,
+   "npcs": false
+  },
+  {
+   "name": "m13_f14",
+   "mission": "m13",
+   "view": "player",
+   "fov": 14,
+   "wait": 3.0,
+   "rifle": false
+  },
+  {
+   "name": "m15_f55",
+   "mission": "m15",
+   "view": "player",
+   "fov": 55,
+   "wait": 3.0,
+   "rifle": true
+  },
+  {
+   "name": "m15_f12",
+   "mission": "m15",
+   "view": "player",
+   "fov": 12,
+   "wait": 3.0,
+   "rifle": false
+  },
+  {
+   "name": "m16_f14",
+   "mission": "m16",
+   "view": "player",
+   "fov": 14,
+   "wait": 3.0,
+   "rifle": false
+  },
+  {
+   "name": "m19_f55",
+   "mission": "m19",
+   "view": "player",
+   "fov": 55,
+   "wait": 3.0,
+   "rifle": true
+  },
+  {
+   "name": "m19_f14",
+   "mission": "m19",
+   "view": "player",
+   "fov": 14,
+   "wait": 3.0,
+   "rifle": false
+  },
+  {
+   "name": "mt_sunset_rifle",
+   "location": "mountain",
+   "preset": "snow_sunset",
+   "view": "look",
+   "yaw": 0,
+   "pitch": -8,
+   "fov": 58,
+   "rifle": true,
+   "npcs": false
+  },
+  {
+   "name": "mt_blizzard_rifle",
+   "location": "mountain",
+   "preset": "blizzard",
+   "view": "look",
+   "yaw": 0,
+   "pitch": -8,
+   "fov": 58,
+   "rifle": true,
+   "npcs": false
+  },
+  {
+   "name": "m21_f55",
+   "mission": "m21",
+   "view": "player",
+   "fov": 55,
+   "wait": 3.0,
+   "rifle": true
+  },
+  {
+   "name": "m21_f18",
+   "mission": "m21",
+   "view": "player",
+   "fov": 18,
+   "wait": 3.0,
+   "rifle": false
+  },
+  {
+   "name": "m22_f10",
+   "mission": "m22",
+   "view": "player",
+   "fov": 10,
+   "wait": 3.0,
+   "rifle": false
+  },
+  {
+   "name": "m24_f16",
+   "mission": "m24",
+   "view": "player",
+   "fov": 16,
+   "wait": 3.0,
+   "rifle": false
+  },
+  {
+   "name": "m28_f55",
+   "mission": "m28",
+   "view": "player",
+   "fov": 55,
+   "wait": 3.0,
+   "rifle": true
+  },
+  {
+   "name": "m28_f14",
+   "mission": "m28",
+   "view": "player",
+   "fov": 14,
+   "wait": 3.0,
+   "rifle": false
+  }
+ ]
+}

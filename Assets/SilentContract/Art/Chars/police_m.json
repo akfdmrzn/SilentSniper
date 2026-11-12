@@ -1,0 +1,26 @@
+{
+ "id": "police_m",
+ "gender": "m",
+ "tris": 24870,
+ "height": 1.83,
+ "materials": [
+  {
+   "name": "police_m_opaque",
+   "albedo": "police_m_albedo.jpg",
+   "normal": "police_m_normal.jpg",
+   "ms": "police_m_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "police_m",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

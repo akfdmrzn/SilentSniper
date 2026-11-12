@@ -1,0 +1,12 @@
+{
+ "name": "m_pull_gun",
+ "frames": 103,
+ "fps": 30,
+ "length": 3.4,
+ "loop": false,
+ "speed": 0.0,
+ "source": "139_05.bvh",
+ "tags": [
+  "guard"
+ ]
+}

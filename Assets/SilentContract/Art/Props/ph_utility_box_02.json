@@ -1,0 +1,39 @@
+{
+ "id": "ph_utility_box_02",
+ "category": "prop",
+ "tris": 1000,
+ "tris_src": 6268,
+ "size": [
+  0.92,
+  1.12,
+  0.432
+ ],
+ "center": [
+  0.0,
+  0.56,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_utility_box_02__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_utility_box_02_m0_albedo.jpg",
+   "normal": "ph_utility_box_02_m0_normal.jpg",
+   "ms": "ph_utility_box_02_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

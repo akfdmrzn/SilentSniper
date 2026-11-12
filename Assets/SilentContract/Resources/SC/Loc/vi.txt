@@ -1,0 +1,1383 @@
+SİPER	ẨN NẤP
+Sana ateş ediyorlar! SİPER tuşuyla eğil — ateş kesilince doğrul ve kırmızı işaretli nişancıları indir. Yaraların birkaç saniye sonra iyileşir.	Chúng đang bắn bạn! Nhấn nút ẨN NẤP để cúi xuống — khi tiếng súng ngừng, đứng dậy và hạ các xạ thủ được đánh dấu đỏ. Vết thương sẽ lành sau vài giây.
+YERİN TESPİT EDİLDİ — SANA ATEŞ EDECEKLER!	BỊ LỘ VỊ TRÍ — CHÚNG SẼ BẮN BẠN!
+DOĞRUL	ĐỨNG DẬY
+YERİN TESPİT EDİLDİ	BỊ LỘ VỊ TRÍ
+GÖZCÜ SENİ ARIYOR	TRINH SÁT ĐANG TÌM BẠN
+YERİNİ ARIYORLAR	CHÚNG ĐANG TÌM BẠN
+DİKKAT ÇEKİYORSUN	BẠN ĐANG GÂY CHÚ Ý
+Her atış yerini biraz daha belli eder (susturucu daha az). Göz dolarsa yerin tespit edilir ve silahlı adamlar sana ateş eder.	Mỗi phát bắn làm lộ vị trí thêm một chút (ít hơn nếu có giảm thanh). Khi thanh mắt đầy, vị trí bị lộ và bọn có súng sẽ bắn bạn.
+Bir gözcü dürbünle damları tarıyor: dürbün parlaması sana dönerken eğil ya da önce onu indir.	Một trinh sát đang dùng ống nhòm quét các mái nhà: cúi xuống khi tia lóe ống nhòm quay về phía bạn, hoặc hạ hắn trước.
+MAĞAZA	CỬA HÀNG
+TEKLİFLER	ƯU ĐÃI
+SİLAH PAKETLERİ	GÓI VŨ KHÍ
+ELMAS	KIM CƯƠNG
+NAKİT	TIỀN MẶT
+SATIN ALIMLARI GERİ YÜKLE	KHÔI PHỤC GIAO DỊCH
+ÜCRETSİZ ELMAS	KIM CƯƠNG FREE
+İZLE	XEM
+GECE	ĐÊM
+TERMAL	NHIỆT
+ BONUS	 THƯỞNG
+ELMAS YETMİYOR	THIẾU KIM CƯƠNG
+Bu paket için 	Gói này cần 
+ elmas gerekiyor, sende 	 kim cương, bạn chỉ có 
+ var.	 thôi.
+ELMAS AL	MUA KIM CƯƠNG
+PAKET HAZIR	GÓI ĐÃ SẴN SÀNG
+Tüfek	Súng trường
+ kuşanıldı. Cephanelikte seni bekliyor.	 đã được trang bị. Nó đang chờ bạn trong kho vũ khí.
+CEPHANELİK	KHO VŨ KHÍ
+TAMAM	OK
+SATIN ALINAMADI	MUA THẤT BẠI
+KAPAT	ĐÓNG
+GERİ YÜKLEME	KHÔI PHỤC
+ satın alım geri yüklendi.	 giao dịch đã được khôi phục.
+Geri yüklenecek satın alım bulunamadı.	Không tìm thấy giao dịch nào để khôi phục.
+ALINDI	ĐÃ NHẬN
+Bugün 	Hôm nay còn 
+ hakkın kaldı	 lượt
+Şu an video yok	Hiện chưa có video
+TEST SÜRÜMÜ: satın almalar ücretsiz tamamlanır, reklamlar yer tutucudur. Gerçek fiyatlar App Store'dan gelir.	BẢN THỬ NGHIỆM: giao dịch được hoàn tất miễn phí, quảng cáo chỉ là mẫu. Giá thật lấy từ App Store.
+GÜNLÜK ÖDÜL	THƯỞNG HẰNG NGÀY
+Her gün gel, ödülün büyüsün. 7. gün büyük ödül.	Ghé mỗi ngày để phần thưởng lớn dần. Ngày 7 có phần thưởng lớn.
+. GÜN	· NGÀY
+ ELMAS	 KIM CƯƠNG
+ Z. DELİCİ	 XUYÊN GIÁP
+2× AL	NHẬN 2×
+TOPLA	NHẬN
+VAZGEÇ	HỦY
+Dürbünde nişangahı birinin üzerinde tutarak kimliğini tara — masumları vurma.	Trong ống ngắm, giữ tâm ngắm trên một người để quét danh tính — đừng bắn người vô tội.
+Nefesini tutarken nişangah sabitlenir, ama nefes çubuğu biterse titreme artar.	Khi nín thở, tâm ngắm sẽ ổn định, nhưng nếu thanh hơi thở cạn, tay sẽ run nhiều hơn.
+Uzak mesafede kurşun düşer ve rüzgarla kayar. Kırmızı nokta isabet noktasını gösterir.	Ở cự ly xa, đạn sẽ rơi và bị gió đẩy lệch. Chấm đỏ cho biết điểm chạm.
+Bir koruma telsize uzanırsa birkaç saniyen var: onu durdurursan alarm verilmez.	Nếu một vệ sĩ với lấy bộ đàm, bạn có vài giây: hạ hắn kịp thì báo động sẽ không vang lên.
+Kafadan vuruşlar ve sivil kayıpsız görevler daha fazla yıldız ve para kazandırır.	Bắn vào đầu và không làm hại dân thường sẽ cho thêm sao và tiền.
+Zırhlı adamların gövdesi kurşun tutar: kafaya nişan al ya da tüfeğinin HASAR'ını geliştir.	Thân của kẻ mặc giáp chịu được đạn: hãy ngắm vào đầu hoặc nâng SÁT THƯƠNG của súng.
+Iskalama sessiz kalmaz: ikinci boş atış silahlıları yuvana yollar.	Bắn trượt không hề im lặng: phát hụt thứ hai sẽ dẫn bọn có súng tới chỗ nấp của bạn.
+Görev, sana ateş eden son silahlı susunca biter. Önce en yakındakini sustur.	Hợp đồng kết thúc khi tay súng cuối cùng đang bắn bạn bị hạ. Hãy hạ kẻ gần nhất trước.
+Cephanelikte her tüfeğin beş hattı var: en üst kademe elmasla açılır.	Trong kho vũ khí, mỗi khẩu súng có năm nhánh nâng cấp: bậc cao nhất mở bằng kim cương.
+Günün sözleşmesi iki kat para ve elmas öder — her gün yenisi gelir.	Hợp đồng trong ngày trả gấp đôi tiền và kim cương — mỗi ngày có hợp đồng mới.
+LİMAN OPERASYONU	CHIẾN DỊCH CẢNG
+TAKTİK HARİTA  ·  GÖREV 	BẢN ĐỒ CHIẾN THUẬT  ·  HỢP ĐỒNG 
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     	<color=#46C8F2>●</color> Vị trí bắn     <color=#FF4545>●</color> Khu vực mục tiêu     
+<color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#FFFFFF>- -</color> Lộ trình đã biết     Vòng tròn: cách nhau 100 m từ chỗ nấp chính     Phía trên: hướng nhìn của chỗ nấp chính
+ZORLUK  	ĐỘ KHÓ  
+HARİTA	BẢN ĐỒ
+HEDEF DOSYASI	HỒ SƠ MỤC TIÊU
+SUİKAST	ÁM SÁT
+TANIMA	NHẬN DẠNG
+BRİFİNG	BẢN TIN
+GÖREV	HỢP ĐỒNG
+YILDIZ HEDEFLERİ	MỤC TIÊU SAO
+DEĞİŞTİR	ĐỔI
+BAŞLA	BẮT ĐẦU
+EKİPMAN GEREKLİ	CẦN TRANG BỊ
+Bu iş 	Không thể làm việc này nếu thiếu 
+ ve 	 và 
+ olmadan yapılamaz. Cephaneliğe git?	 . Đến kho vũ khí?
+TÜFEĞİN ZAYIF KALABİLİR	SÚNG CÓ THỂ QUÁ YẾU
+Bu sözleşme için önerilen güç 	Sức mạnh đề xuất cho hợp đồng này là 
+ şu an 	 hiện là 
+Geliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	Bạn có thể thử mà không cần nâng cấp, nhưng kẻ mặc giáp và mục tiêu ở xa sẽ rất khó.
+GELİŞTİR	NÂNG CẤP
+YİNE DE BAŞLA	VẪN BẮT ĐẦU
+ZIRHLI HEDEFLER	MỤC TIÊU MẶC GIÁP
+Bu işte zırhlı silahlılar var; tüfeğinin mermisi gövdeden geçmez.\nKısa bir video izle, 3 zırh delici mermi senin olsun.	Việc này có tay súng mặc giáp; đạn của bạn không xuyên qua thân chúng.\nXem một video ngắn để nhận 3 viên đạn xuyên giáp.
+İZLE  +3 MERMİ	XEM  +3 ĐẠN
+GÜNÜN İŞİ ×2	VIỆC TRONG NGÀY ×2
+<b><color=#E8B04A>YENİ:</color></b> 	<b><color=#E8B04A>MỚI:</color></b> 
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n	<b><color=#FFB21E>VETERAN:</color></b> không có điểm chạm, gió mạnh và thất thường hơn, súng rung nhiều hơn, mục tiêu không được đánh dấu. Thưởng ×1,5.\n
+NEREDEN ATEŞ EDECEKSİN?	BẮN TỪ ĐÂU?
+Her yerin artısı eksisi var. Görev sırasında iki kez yer değiştirebilirsin.	Mỗi vị trí đều có ưu và nhược điểm. Trong hợp đồng, bạn được đổi vị trí hai lần.
+GERİ	QUAY LẠI
+DEVAM	TIẾP TỤC
+BÖLÜM 	CHƯƠNG 
+KORUMA	BẢO VỆ
+CANLI YAKALA	BẮT SỐNG
+SABOTAJ	PHÁ HOẠI
+YARALA	GÂY THƯƠNG
+GÖREV 	HỢP ĐỒNG 
+KORUNACAK KİŞİ	NGƯỜI CẦN BẢO VỆ
+HEDEF DOSYASI  ·  CANLI	HỒ SƠ MỤC TIÊU  ·  BẮT SỐNG
+•  Hedefi etkisiz hale getir	•  Vô hiệu hóa mục tiêu
+TÜFEK:  	SÚNG:  
+>GÜÇ 	>SỨC MẠNH 
+</color><color=#6B7682>  /  önerilen 	</color><color=#6B7682>  /  đề xuất 
+Bu iş için verildi	Được cấp cho việc này
+   ·   Verilen: 	   ·   Được cấp: 
+   ·   <color=#FF8A2B>Zırhlı silahlılar: kafaya nişan al, HASAR geliştir ya da zırh delici al</color>	   ·   <color=#FF8A2B>Tay súng mặc giáp: ngắm vào đầu, nâng SÁT THƯƠNG hoặc mua đạn xuyên giáp</color>
+AYARLAR	CÀI ĐẶT
+Nişan hassasiyeti	Độ nhạy ngắm
+Kolay nişan (3. yıldız alınmaz)	Ngắm dễ (không nhận được sao thứ 3)
+Kurşun kamerası (son hedefte ağır çekim)	Camera theo đạn (quay chậm ở mục tiêu cuối)
+Titreşim	Rung
+Ses seviyesi	Âm lượng
+İlerleme	Tiến trình
+İLERLEMEYİ SIFIRLA	XÓA TIẾN TRÌNH
+İlerleme sıfırlansın mı?	Xóa tiến trình?
+Tüm yıldızlar, para ve geliştirmeler silinecek (satın aldıkların ve elmasların kalır). Bu işlem geri alınamaz.	Toàn bộ sao, tiền và nâng cấp sẽ bị xóa (các món đã mua và kim cương vẫn được giữ). Không thể hoàn tác.
+SIFIRLA	XÓA
+Satın alımlar ve gizlilik	Giao dịch và quyền riêng tư
+GERİ YÜKLE	KHÔI PHỤC
+GİZLİLİK	RIÊNG TƯ
+Grafik kalitesi	Chất lượng đồ họa
+PERFORMANS	HIỆU NĂNG
+DENGELİ	CÂN BẰNG
+KALİTE	CHẤT LƯỢNG
+KAYNAKLAR VE LİSANSLAR	NGUỒN VÀ GIẤY PHÉP
+Henüz dosyada bir şey yok. İlk sözleşmeyi tamamla.	Hồ sơ vẫn còn trống. Hãy hoàn thành hợp đồng đầu tiên.
+<size=40><color=#E8B04A><b>BÖLÜM 	<size=40><color=#E8B04A><b>CHƯƠNG 
+<b>SON</b>\n	<b>KẾT</b>\n
+Disk KONTROL'de. Kurul'un koltukları yeniden doluyor.	Chiếc đĩa nằm trong tay CONTROL. Ghế của Hội đồng lại đang được lấp đầy.
+Disk savcıda. KONTROL'ün kapısına polis dayandı.	Chiếc đĩa nằm trong tay công tố viên. Cảnh sát đã ập tới cửa nhà CONTROL.
+DAVA DOSYASI	HỒ SƠ VỤ ÁN
+DURAKLATILDI	TẠM DỪNG
+DEVAM ET	TIẾP TỤC
+YENİDEN BAŞLAT	CHƠI LẠI
+GÖREVDEN ÇIK	BỎ HỢP ĐỒNG
+Görevden çıkılsın mı?	Bỏ hợp đồng này?
+Bu görevdeki ilerlemen kaybolacak.	Tiến độ trong hợp đồng này sẽ mất.
+ÇIK	THOÁT
+DERECE	XẾP HẠNG
+YENİ YILDIZ	SAO MỚI
+ATIŞ	PHÁT BẮN
+En uzun atış	Phát bắn xa nhất
+Kafadan vuruş	Bắn vào đầu
+Süre	Thời gian
+İsabet	Độ chính xác
+KAZANÇ DÖKÜMÜ	CHI TIẾT THU NHẬP
+KAZANÇ	THU NHẬP
+2× KAZANÇ	2× THU NHẬP
+MENÜ	MENU
+TEKRAR	CHƠI LẠI
+SONRAKİ GÖREV	TIẾP THEO
+İSTİHBARAT	TÌNH BÁO
+SON	KẾT
+YİNE KİMSESİZ	LẠI CÔ ĐỘC
+KENDİ SEÇİMİN	LỰA CHỌN CỦA BẠN
+Kimyager: 	Nhà Hóa Học: 
+KONTROL'ün hücresinde kayboldu.	biến mất trong phòng giam của CONTROL.
+savcılığa ifade verdi; Baran davası onunla başladı.	đã khai với công tố; vụ án Khang bắt đầu từ hắn.
+Baran'ın kasası: 	Két sắt của Khang: 
+para sende, KONTROL bunu biliyor.	tiền ở chỗ bạn, và CONTROL biết điều đó.
+dosyaların kopyası Başsavcı Arslan'da.	bản sao hồ sơ nằm trong tay Tổng Công tố Dung.
+Kurul: beş koltuk boşaldı.	Hội đồng: năm chiếc ghế đã trống.
+KONTROL: yerinde. Yeni bir isim arıyor.	CONTROL: vẫn tại vị. Đang tìm một cái tên mới.
+KONTROL: kapısında polis.	CONTROL: cảnh sát trước cửa.
+Toplam: 	Tổng: 
+GÖREV TAMAMLANDI	HOÀN THÀNH
+GÖREV BAŞARISIZ	THẤT BẠI
+  <color=#FFB21E>REKOR</color>	  <color=#FFB21E>KỶ LỤC</color>
+ÖNCEDEN	TRƯỚC ĐÓ
+KOLAY NİŞAN	NGẮM DỄ
+Günün sözleşmesi  ·  elmas	Hợp đồng trong ngày  ·  kim cương
+İlk S derecesi  ·  elmas	Hạng S đầu tiên  ·  kim cương
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.	Hợp đồng chưa hoàn thành — không được trả tiền.\nBạn có thể nhận lại việc này; xem phía trên để biết điều gì đã sai.
+\nKısa bir videoyla ücretin bir kısmını telafi alabilirsin.	\nXem một video ngắn để nhận lại một phần tiền công.
+TEKRAR DENE	THỬ LẠI
+TÜFEĞİN ZORLANIYOR	SÚNG ĐANG QUÁ SỨC
+Bu iş için önerilen güç 	Sức mạnh đề xuất cho việc này là 
+, senin tüfeğin 	, súng của bạn là 
+. Geliştir ya da 	. Hãy nâng cấp hoặc 
+bir silah paketiyle	dùng một gói vũ khí
+ hemen güçlen.	 để mạnh lên ngay.
+GÜÇLEN	TĂNG SỨC MẠNH
+ TP	 XP
+TELAFİ +	BỒI THƯỜNG +
+GÖREVLER	HỢP ĐỒNG
+ANA YUVA	CHỖ NẤP CHÍNH
+<color=#36D47C>●</color> Tamamlandı    <color=#FFB21E>●</color> Sıradaki    <color=#6B7682>●</color> Kilitli	<color=#36D47C>●</color> Hoàn thành    <color=#FFB21E>●</color> Tiếp theo    <color=#6B7682>●</color> Đã khóa
+BRİFİNGE GİT	ĐẾN BẢN TIN
+Rüzgâr 	Gió 
+\nZORLUK 	\nĐỘ KHÓ 
+   ·   <color=#FF8A2B>ZIRHLI DÜŞMAN</color>	   ·   <color=#FF8A2B>KẺ ĐỊCH MẶC GIÁP</color>
+Önerilen güç <b>	Sức mạnh đề xuất <b>
+</b>   ·   Tüfeğin <color=	</b>   ·   Súng của bạn <color=
+Önceki görevi tamamla	Hoàn thành hợp đồng trước
+OYNA	CHƠI
+  ·  TEST MODU: tüm bölümler açık	  ·  CHẾ ĐỘ THỬ: mở mọi chương
+  ·  Tek oyunculu keskin nişancı	  ·  Bắn tỉa một người chơi
+TEST MODU	CHẾ ĐỘ THỬ
+Tüm haritalar ve görevler şu an açık. Normal ilerlemeye dönülsün mü?	Mọi bản đồ và hợp đồng hiện đang mở. Quay về tiến trình bình thường?
+Test için bütün haritalar ve görevler açılsın mı? (Ayarlardan ilerleme sıfırlanmaz.)	Mở tất cả bản đồ và hợp đồng để thử nghiệm? (Tiến trình trong Cài đặt không bị xóa.)
+AÇ	MỞ
+KAYNAKLAR	NGUỒN
+SIRADAKİ SÖZLEŞME	HỢP ĐỒNG TIẾP
+GÜÇ	SỨC MẠNH
+GÜNLÜK GÖREVLER	NHIỆM VỤ NGÀY
+GÜNÜN SÖZLEŞMESİ  ·  TAMAM	HỢP ĐỒNG TRONG NGÀY  ·  XONG
+GÜNÜN SÖZLEŞMESİ  ·  ×2 ÖDÜL  +10 ELMAS	HỢP ĐỒNG TRONG NGÀY  ·  ×2 THƯỞNG  +10 KIM CƯƠNG
+Yenisi 	Mới sau 
+ sa 	 giờ 
+ dk sonra	 phút
+  —  VETERAN kurallarıyla	  —  theo luật VETERAN
+Güç 	Sức mạnh 
+Başlangıç paketi	Gói khởi đầu
+Ücretsiz elmas	Kim cương miễn phí
+Elmas · Nakit	Kim cương · Tiền mặt
+ dosya	 hồ sơ
+REKLAMLARDAN SIKILDIN MI?	CHÁN QUẢNG CÁO RỒI?
+Görev aralarındaki reklamları 	Chỉ với 
+ karşılığında sonsuza dek kaldır. Hediye: 	 là gỡ vĩnh viễn quảng cáo giữa các hợp đồng. Quà tặng: 
+ elmas.	 kim cương.
+REKLAMSIZ OL	BỎ QUẢNG CÁO
+ŞİMDİ DEĞİL	ĐỂ SAU
+TÜFEKLER	SÚNG TRƯỜNG
+EKİPMAN	TRANG BỊ
+MÜHİMMAT	ĐẠN DƯỢC
+BECERİLER	KỸ NĂNG
+Çevirmek için sürükle	Kéo để xoay
+ için 	 cần 
+HEMEN AL	MUA NGAY
+ elmasla hemen senin olsun mu?	 kim cương — sở hữu ngay?
+AL	MUA
+SEVİYE 	CẦN CẤP 
+ GEREKLİ	 TRỞ LÊN
+Son kademe (elmasla) 	Bậc cuối (kim cương) mở ở cấp 
+. seviyede açılır. Sözleşmelerden tecrübe kazan.	. Hãy kiếm kinh nghiệm từ các hợp đồng.
+AZ KALDI	SẮP ĐỦ RỒI
+Bu geliştirme için 	Nâng cấp này còn thiếu 
+ eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.	 nữa. Xem một video ngắn để bù phần tiền thiếu và nâng cấp ngay.
+\nBugün 	\nHôm nay bạn còn 
+ hakkın var.	 lượt.
+İZLE VE GELİŞTİR	XEM ĐỂ NÂNG CẤP
+PARA YETMİYOR	THIẾU TIỀN
+Son kademe 	Bậc cuối giá 
+ elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	 kim cương. Bạn có thể mua kim cương ở cửa hàng hoặc tích lũy từ thưởng hằng ngày.
+Bu geliştirme 	Nâng cấp này giá 
+. Sözleşmelerden para kazan ya da mağazaya bak.	. Hãy kiếm tiền từ các hợp đồng hoặc ghé cửa hàng.
+GÜÇ <color=#FFB21E>	SỨC MẠNH <color=#FFB21E>
+<color=#36D47C>KUŞANILDI</color>	<color=#36D47C>ĐÃ TRANG BỊ</color>
+SAHİP	ĐÃ CÓ
+ ★ ile açılır	 ★ để mở khóa
+Yarı otomatik	Bán tự động
+Sürgülü	Khóa nòng trượt
+   ·   Susturuculu	   ·   Có giảm thanh
+   ·   Duvar deler	   ·   Xuyên tường
+   ·   Siper deler	   ·   Xuyên vật chắn
+  <color=#46C8F2>EN ÜST</color>	  <color=#46C8F2>CAO NHẤT</color>
+SV 	CẤP 
+Satın aldığında beş hatta geliştirebilirsin. En üst kademe <color=#46C8F2>elmasla</color>.	Sau khi mua, bạn có thể nâng cấp theo năm nhánh. Bậc cao nhất cần <color=#46C8F2>kim cương</color>.
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> 	Để xuyên thân kẻ mặc giáp, cần <color=#FFB21E>SÁT THƯƠNG</color> bậc 
+. kademe ya da zırh delici mermi gerekir.	, hoặc đạn xuyên giáp.
+Bu tüfek zırhlı gövdeyi deler.	Khẩu súng này xuyên được thân mặc giáp.
+KUŞANILDI	ĐÃ TRANG BỊ
+KUŞAN	TRANG BỊ
+SATIN AL   	MUA   
+ ★ YA DA   	 ★ HOẶC   
+ ELMASLA AL	 KIM CƯƠNG
+SAHİPSİN	ĐÃ SỞ HỮU
+Görevlerde otomatik takılı	Tự động mang theo khi làm hợp đồng
+ yıldızla açılır	 sao để mở khóa
+SATIN AL  	MUA  
+KİLİTLİ	ĐÃ KHÓA
+ adetlik paket	 viên mỗi gói
+SABİT NİŞAN	NGẮM VỮNG
+Dürbündeki el titremesi her kademede %17 azalır.	Mỗi bậc giảm 17% độ rung tay khi dùng ống ngắm.
+NEFES KONTROLÜ	KIỂM SOÁT HƠI THỞ
+Nefesini daha uzun tutarsın: nişangah daha uzun sabit kalır.	Nín thở lâu hơn: tâm ngắm ổn định lâu hơn.
+SOĞUKKANLILIK	BÌNH TĨNH
+Ateş altında ve yaralıyken titreme her kademede %25 azalır.	Mỗi bậc giảm 25% độ rung khi bị bắn và khi bị thương.
+ sn	 giây
+MAKSİMUM	TỐI ĐA
+YÜKSELT  	NÂNG CẤP  
+BURAYA ATEŞ ET	BẮN VÀO ĐÂY
+DRON	DRONE
+İŞARETLE — HEDEF BU	ĐÁNH DẤU — ĐÚNG HẮN
+YER DEĞİŞTİR	ĐỔI VỊ TRÍ
+NEFES	NÍN THỞ
+MENZİL	TẦM BẮN
+Geçmek için dokun	Chạm để bỏ qua
+Hedef: 	Mục tiêu: 
+Taşınırken dünya durmaz. Yeni yerde seni kimse bilmez.	Thế giới không dừng lại khi bạn di chuyển. Ở chỗ mới, không ai biết bạn ở đâu.
+YER DEĞİŞTİRİYORSUN\n<size=30>	ĐANG ĐỔI VỊ TRÍ\n<size=30>
+ sn</size>	 giây</size>
+DOSYA	HỒ SƠ
+ARANIYOR	ĐANG TÌM
+ETKİSİZ	ĐÃ HẠ
+KAÇTI	ĐÃ TRỐN
+DOĞRULANDI	ĐÃ XÁC NHẬN
+BEKLE…	CHỜ…
+NORMAL	THƯỜNG
+KURŞUN KAMERASI  ·  	CAMERA THEO ĐẠN  ·  
+GECE GÖRÜŞÜ	NHÌN ĐÊM
+KAFA	ĐẦU
+KOL	TAY
+BACAK	CHÂN
+KARIN	BỤNG
+GÖVDE	THÂN
+Kimliği belirsiz	Chưa rõ danh tính
+HEDEF DEĞİL	KHÔNG PHẢI MỤC TIÊU
+TARANDI	ĐÃ QUÉT
+Masum — ateş etme	Vô tội — đừng bắn
+Dosyadaki yüzle karşılaştır — emin olunca İŞARETLE	So với khuôn mặt trong hồ sơ — chắc chắn rồi hãy ĐÁNH DẤU
+SİLAHLI	CÓ SÚNG
+BAYGIN	BẤT TỈNH
+YERDE	GỤC NGÃ
+Koru — ona bir şey olmamalı	Bảo vệ — không được để người này gặp chuyện
+Silahlı — sivil kılığında	Có súng — cải trang thường dân
+Sözleşme hedefi	Mục tiêu hợp đồng
+” — sözleşme hedefi	” — mục tiêu hợp đồng
+Silahlı — vurulabilir	Có súng — có thể bắn
+Yaralı — 	Bị thương — 
+!  NİŞAN ALIYOR	!  ĐANG NGẮM
+!  SANA ATEŞ EDİYOR	!  ĐANG BẮN BẠN
+GÖZCÜ	TRINH SÁT
+Öldürüldü	Đã bị giết
+Kaçıyor — güvenli yere	Đang chạy — tới nơi an toàn
+Güvende — gözün üzerinde olsun	An toàn — tiếp tục để mắt
+Kimliği doğrulanmadı — dosyadaki yüzü bul	Chưa xác nhận danh tính — tìm khuôn mặt trong hồ sơ
+Görüş dışında — bekle	Ngoài tầm nhìn — chờ đã
+Baygın	Bất tỉnh
+İğne isabet etti — bayılıyor	Kim tiêm trúng — đang ngất dần
+Yerde — sürünüyor	Gục ngã — đang bò
+NİŞAN ALIYOR — HEMEN VUR!	ĐANG NGẮM — BẮN NGAY!
+KAÇIYOR!	ĐANG CHẠY TRỐN!
+Sese doğru bakıyor — fırsat!	Đang nhìn về phía tiếng động — thời cơ!
+Siperin arkasında — dikkatini dağıt	Sau vật chắn — hãy đánh lạc hướng
+Kalabalıkta — herkesi dürbünle tara	Giữa đám đông — quét từng người bằng ống ngắm
+Yaralı	Bị thương
+Kimlik doğrulandı	Đã xác nhận danh tính
+Kimliği taranmadı — dürbünle tara	Chưa quét danh tính — quét bằng ống ngắm
+HEDEF:  	MỤC TIÊU:  
+Sözleşme tamamlandı	Hợp đồng hoàn thành
+Etkisiz hale getir: 	Vô hiệu hóa: 
+Ateş et: devre dışı bırak	Bắn: vô hiệu hóa
+Devam ediyor	Đang tiến hành
+BONUS  ·  	THƯỞNG  ·  
+KEŞİF  ·  	TRINH SÁT  ·  
+ tehdit tarandı	 mối đe dọa đã quét
+Fırsat penceresi	Thời cơ
+Bayraklara bak	Nhìn những lá cờ
+Rüzgar yok	Không có gió
+Sağa esiyor »	Gió thổi sang phải »
+« Sola esiyor	« Gió thổi sang trái
+Karşıdan	Gió ngược
+« Sola tut 	« Ngắm lệch trái 
+Sağa tut » 	Ngắm lệch phải » 
+ALARM	BÁO ĐỘNG
+TELSİZ  	BỘ ĐÀM  
+DOLDURULUYOR	ĐANG NẠP ĐẠN
+STANDART	TIÊU CHUẨN
+Yıldız kaçtı: 	Mất sao: 
+SÖZLEŞME 	HỢP ĐỒNG 
+Kalabalıkta silahlı adam(lar) var — kimliği bilinmiyor	Có (những) kẻ cầm súng trong đám đông — chưa rõ danh tính
+Hedef bu bölgede — dosyadaki yüzü bul, emin olunca İŞARETLE	Mục tiêu ở khu vực này — tìm khuôn mặt trong hồ sơ, chắc chắn rồi hãy ĐÁNH DẤU
+HEDEF	MỤC TIÊU
+KORU	BẢO VỆ
+Ekranı parmağınla sürükleyerek etrafa bak.	Kéo ngón tay trên màn hình để nhìn xung quanh.
+Sağdaki dürbün tuşuna dokunarak dürbünü aç.	Chạm nút ống ngắm bên phải để mở ống ngắm.
+Kırmızı işaret hedefi gösterir. Nişangahı hedefin üzerine getir.	Dấu đỏ chỉ mục tiêu. Đưa tâm ngắm lên mục tiêu.
+Nişangahı kişinin üzerinde tut: kimliği taranıyor…	Giữ tâm ngắm trên người đó: đang quét danh tính…
+Soldaki NEFES tuşuna basılı tut: nişan sabitlenir.	Giữ nút NÍN THỞ bên trái: tâm ngắm sẽ ổn định.
+Hazır! Büyük kırmızı tuşla ateş et.	Sẵn sàng! Bắn bằng nút đỏ lớn.
+  <size=24><color=#A3AEB9>·  SEVİYE 	  <size=24><color=#A3AEB9>·  CẤP 
+SEVİYE ATLADIN!	LÊN CẤP!
+2× TOPLA	NHẬN 2×
+   ·   SEVİYE 	   ·   CẤP 
+AÇILDI:  	ĐÃ MỞ:  
+GÜN BATIMI	HOÀNG HÔN
+GÜNDÜZ	BAN NGÀY
+YAĞMURLU	TRỜI MƯA
+YAĞMURLU GECE	ĐÊM MƯA
+KARLI GÜN	NGÀY TUYẾT
+DAĞDA GÜN BATIMI	HOÀNG HÔN TRÊN NÚI
+KARLI GECE	ĐÊM TUYẾT
+TİPİ	BÃO TUYẾT
+VİDEO YOK	KHÔNG CÓ VIDEO
+Şu an gösterilecek video yok. Biraz sonra tekrar dene.	Hiện không có video để phát. Hãy thử lại sau ít phút.
+ÖDÜLLÜ TEST REKLAMI  ·  	QUẢNG CÁO THỬ CÓ THƯỞNG  ·  
+TEST REKLAMI  ·  her 	QUẢNG CÁO THỬ  ·  cứ 
+ görevde bir	 hợp đồng một lần
+Reklam sonunda ödül verilir	Xem hết quảng cáo để nhận thưởng
+Reklamsız paketle bu ekran kalkar	Gói bỏ quảng cáo sẽ gỡ màn hình này
+AVUÇ DOLUSU	MỘT NẮM
+KESE	TÚI NHỎ
+EN POPÜLER	PHỔ BIẾN NHẤT
+SANDIK	RƯƠNG
+KASA	KÉT SẮT
+EN İYİ DEĞER	ĐÁNG GIÁ NHẤT
+HAZİNE	KHO BÁU
+ZARF	PHONG BÌ
+ÇANTA	TÚI XÁCH
+%15 FAZLA	THÊM 15%
+VALİZ	VALI
+%33 FAZLA	THÊM 33%
+%54 FAZLA	THÊM 54%
+BAŞLANGIÇ PAKETİ	GÓI KHỞI ĐẦU
+500 elmas, $10.000 ve 10 zırh delici mermi. Sadece bir kez.	500 kim cương, $10.000 và 10 viên đạn xuyên giáp. Chỉ một lần.
+%80 İNDİRİM	GIẢM 80%
+REKLAMSIZ	BỎ QUẢNG CÁO
+Görev aralarındaki reklamlar sonsuza dek kalkar. Ödüllü videolar istersen açık kalır. Hediye: 100 elmas.	Gỡ vĩnh viễn quảng cáo giữa các hợp đồng. Video có thưởng vẫn dùng được nếu bạn muốn. Quà tặng: 100 kim cương.
+GÖLGE OPERASYON	CHIẾN DỊCH BÓNG ĐÊM
+Susturuculu GÖLGE SR-7 hemen senin: bütün hatları 3. kademede. Gece görüşü ve 150 elmas.	Khẩu BÓNG ĐÊM SR-7 có giảm thanh về tay ngay: mọi nhánh ở bậc 3. Kèm nhìn đêm và 150 kim cương.
+EN ÇOK SATAN	BÁN CHẠY NHẤT
+TİTAN PAKETİ	GÓI TITAN
+Efsane TİTAN .50: zırhı ve camı deler. Termal dürbün, 400 elmas ve 20 zırh delici mermi.	TITAN .50 huyền thoại: xuyên giáp và xuyên kính. Ống ngắm nhiệt, 400 kim cương và 20 viên đạn xuyên giáp.
+EFSANE	HUYỀN THOẠI
+Bu paket zaten alındı.	Bạn đã mua gói này rồi.
+Elmasın yetmiyor.	Không đủ kim cương.
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.	Cửa hàng hiện chưa mở. Hãy kiểm tra kết nối Internet rồi thử lại sau.
+LİMAN — KRAL'IN AĞI	CẢNG — MẠNG LƯỚI CỦA KAREL
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: 	Bạn không có tên. Ba năm trước, quân đội đã ghi bạn là đã chết. CONTROL tìm thấy bạn trong một bệnh viện quân đội và đưa ra đúng một lời đề nghị: 
+limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	triệt phá đường dây buôn lậu ở cảng, quá khứ của bạn sẽ được xóa sạch.\n\nMỗi hợp đồng là một cái tên. Mỗi cái tên là con đường dẫn tới cái tên tiếp theo.
+ŞEHİR — BARAN HOLDİNG	THÀNH PHỐ — KHANG HOLDING
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\n	Cảng đã sụp, nhưng tiền vẫn tiếp tục chảy. Số cuối cùng trong điện thoại của Victor Karel dẫn tới Duyên Hải Plaza: Tập đoàn Thế Khang.\n\n
+Bu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	Lần này mục tiêu mặc com-lê. Giữa đám đông, sau những bức tường kính, ngay cạnh cảnh sát.
+KARTAL TEPE — KURUL	ĐỈNH ƯNG — HỘI ĐỒNG
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını 	Hồ sơ lấy từ két sắt của Khang cho ra năm cái tên: Hội đồng. Năm kẻ đã nuôi dưỡng và che chở Khang suốt nhiều năm, năm nào cũng nghỉ tuần lễ năm mới 
+her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	ở Đỉnh Ưng.\n\nGiữa đống hồ sơ còn một chữ ký nữa. Một chữ ký quen thuộc.
+Selim Kaya'nın cebinden çıkan rüşvet makbuzlarında tek bir imza var: liman yönetiminden C. Aydın.	Biên lai hối lộ trong túi Võ Đình Sang chỉ có một chữ ký: M.C. Cường từ ban quản lý cảng.
+Can Aydın'ın sildiği kayıtlar kurtarıldı. Gelecek sevkiyatın alıcısı: Kuzgun lakaplı Tarık Bal.	Dữ liệu Mai Chí Cường đã xóa được khôi phục. Người nhận lô hàng kế tiếp: Đỗ Văn Tú, biệt danh Quạ.
+Kuzgun'un arabasındaki çanta boş değil: depoları koruyan paralı askerlerin maaş listesi. Başlarında Rico Vargas.	Chiếc túi trong xe của Quạ không hề trống: bảng lương của đám lính đánh thuê canh giữ các nhà kho. Cầm đầu là Rico Vargas.
+Rico'nun telsizinde bir uyarı: "Depoda köstebek var." Örgüt de kendi içinde birini arıyor.	Bộ đàm của Rico có một lời cảnh báo: "Trong kho có chuột chũi." Tổ chức cũng đang truy tìm kẻ phản bội trong nội bộ.
+Köstebek Kerim'in sattığı bilgi bir teslimata işaret ediyor: Tilki çalınan belgeleri rıhtımdan kaçıracak.	Thông tin Chuột Chũi Kiên bán ra chỉ tới một vụ giao hàng: Cáo sẽ tuồn tài liệu bị đánh cắp ra khỏi bến tàu.
+Tilki'nin belgeleri bir gemi manifestosu: Meridian Star'ın ambarında örgütün silah yükü var.	Tài liệu của Cáo là một bản kê khai hàng hóa: trong khoang tàu Meridian Star có lô vũ khí của tổ chức.
+Kaptan Demir'in seyir defterinde tek bir isim tekrar ediyor: yükün sahibi Viktor Kral.	Trong nhật ký hải trình của Thuyền trưởng Lộc chỉ lặp lại một cái tên: chủ lô hàng là Victor Karel.
+Kral düştü. Telefonundaki son arama Kordon Plaza'ya: Baran Holding. Ama örgüt hâlâ nefes alıyor — ve bir tanığı susturmak istiyor.	Karel đã ngã. Cuộc gọi cuối trong điện thoại hắn là tới Duyên Hải Plaza: Tập đoàn Thế Khang. Nhưng tổ chức vẫn còn thở — và muốn bịt miệng một nhân chứng.
+Ayten Şahin ifadesini verdi. Örgütün para kuryesi Emre Doğan şehirden kaçmaya hazırlanıyor.	Phạm Thị Hạnh đã khai. Kẻ vận chuyển tiền của tổ chức, Hà Minh Tuấn, đang chuẩn bị trốn khỏi thành phố.
+Kuryenin çantasındaki hesaplar bir kimyagere ödeme gösteriyor: Dr. Selin Aras.	Sổ sách trong túi của kẻ vận chuyển cho thấy khoản thanh toán cho một nhà hóa học: Tiến sĩ Lâm Bích Ngọc.
+Kartal karanlıkta kaldı. Silah sevkiyatının parası bir laboratuvara gidiyor: Meridian Star'ın ambarı.	Đại Bàng đã chìm vào bóng tối. Tiền của lô vũ khí đang chảy về một phòng thí nghiệm: khoang tàu Meridian Star.
+Dr. Aras konuştu: laboratuvarın asıl sahibi Baran Holding. Liman bitti; sırada şehir var.	Tiến sĩ Ngọc đã khai: chủ thật sự của phòng thí nghiệm là Tập đoàn Thế Khang. Cảng đã xong; tiếp theo là thành phố.
+Defne Aksoy'un ekranında son işlem: Baran'ın rüşvet defteri Postacı'ya teslim edildi.	Giao dịch cuối trên màn hình của Cao Phương Thảo: sổ hối lộ của Khang đã được giao cho Người Đưa Thư.
+Rüşvet defteri ele geçti. Sayfalardan biri gemilerin sahibine ayrılmış: Cevdet Aydemir.	Sổ hối lộ đã vào tay ta. Một trang dành riêng cho chủ những con tàu: Tôn Gia Bảo.
+Aydemir'in balkonda bıraktığı telefon: Baran, Başsavcı Nermin Arslan'ı susturmak için iki kişi tutmuş.	Chiếc điện thoại Bảo để quên ngoài ban công: Khang đã thuê hai kẻ để bịt miệng Tổng Công tố Trần Mỹ Dung.
+Savcı konuşmasını bitirdi. Tetikçinin cebinden bir not çıktı: "Muhasebeci konuşmadan işini bitir." Baran'ın muhasebecisi her şeyi biliyor — onu canlı istiyoruz.	Công tố viên đã phát biểu xong. Trong túi tên sát thủ có một mẩu giấy: "Xử lý trước khi tay kế toán kịp khai." Kế toán của Khang biết mọi thứ — ta cần hắn còn sống.
+Muhasebeci Koç'un hesapları gazeteci Selin Ay'ın cinayetine ödeme gösteriyor. Tetikçi Çakal, dosyayı kapatan bir komiser.	Sổ sách của kế toán Thuận cho thấy khoản thanh toán cho vụ sát hại nhà báo Đặng Kim Ngân. Sát thủ Chó Rừng là một ủy viên cảnh sát đã ém hồ sơ.
+Çakal'ın motosikletinde Baran'ın güvenlik şefinin numarası: Tolga Demirel. Bize karşı her hamleyi o planlamış.	Trên xe máy của Chó Rừng có số điện thoại của trưởng an ninh Khang: Quách Thành Vũ. Mọi đòn đánh vào chúng ta đều do hắn lên kế hoạch.
+Demirel'in tabletinde senin kullandığın bütün atış noktaları var — hepsi işten önce kaydedilmiş. Bunları ona kim verdi? Dosyanın üstünde tek harf: "K."	Máy tính bảng của Vũ chứa mọi vị trí bắn bạn từng dùng — tất cả được ghi lại trước khi bạn ra tay. Ai đã đưa cho hắn? Trên hồ sơ chỉ có một chữ cái: "K."
+Baran'ın son mesajı yarım kaldı: "KONTROL'e söyle, anlaşma hâlâ geçerli…" Dosyalar Kartal Tepe'yi ve beş ismi gösteriyor: Kurul.	Tin nhắn cuối của Khang bị bỏ dở: "Nói với CONTROL, thỏa thuận vẫn còn hiệu lực…" Hồ sơ chỉ tới Đỉnh Ưng và năm cái tên: Hội đồng.
+Banker Kurt'un tableti Kurul'un ödeme defterine bağlanıyor. Her ödemenin altında aynı onay kodu: KONTROL.	Máy tính bảng của chủ ngân hàng Phong kết nối tới sổ chi của Hội đồng. Dưới mỗi khoản chi là cùng một mã phê duyệt: CONTROL.
+Hakim Oral'ın kasasında Baran davalarının kararları — duruşmalardan önce yazılmış. Biri de senin eski birliğine ait.	Trong két của Thẩm phán Khiêm là các bản án vụ Khang — được viết trước cả phiên tòa. Một bản liên quan tới đơn vị cũ của bạn.
+Müteahhit Tan'ın telefonunda Kurul'un kuryesinin rotası: şifreli diskle vadiyi geçecek.	Điện thoại của nhà thầu Tín có lộ trình của kẻ vận chuyển của Hội đồng: hắn sẽ băng qua thung lũng cùng một ổ đĩa mã hóa.
+Kuryenin diski açıldı: Kurul'un bütün ödemeleri — ve KONTROL'e yapılan aylık ödemeler. Bize iş verenler, Kurul'un kendi temizlikçileri.	Ổ đĩa của kẻ vận chuyển đã được mở: mọi khoản chi của Hội đồng — và khoản trả hằng tháng cho CONTROL. Kẻ giao việc cho ta chính là đội dọn dẹp của Hội đồng.
+Bülent Er'in konvoyundaki evraklar: Kurul'a karşı açılan her soruşturmayı KONTROL'ün talimatıyla kapatmış.	Giấy tờ trong đoàn xe của Triệu Quốc Dũng: hắn đã đóng mọi cuộc điều tra nhắm vào Hội đồng theo lệnh của CONTROL.
+Elif Demir yaşıyor ve yarın konuşacak. Tetikçileri tutan adamın adı onun dosyasında: Orhan Sezer, Kurul'un temizlikçisi.	Ngô Thùy Linh còn sống và ngày mai sẽ ra làm chứng. Tên kẻ thuê sát thủ có trong hồ sơ của cô: Hoàng Kim Sơn, kẻ dọn dẹp của Hội đồng.
+Sezer'in telefonundaki son arama Patron'dan değil. KONTROL'den. Senden sonra temizlenecek kişi sendin.	Cuộc gọi cuối trong điện thoại Sơn không phải từ Ông Trùm. Mà từ CONTROL. Người bị dọn dẹp tiếp theo chính là bạn.
+Kurul bitti. Disk hâlâ sende.	Hội đồng đã sụp đổ. Ổ đĩa vẫn trong tay bạn.
+Dr. Aras baygın, tekne bekliyor. Onu kime teslim edeceksin?	Tiến sĩ Ngọc đã bất tỉnh, con thuyền đang chờ. Bạn sẽ giao cô ta cho ai?
+KONTROL'E	CHO CONTROL
+Kimyager KONTROL'ün hücresine gitti. Ondan bir daha haber alınmadı.	Nhà Hóa Học bị đưa vào phòng giam của CONTROL. Từ đó không ai nghe tin về cô ta nữa.
+SAVCILIĞA	CHO CÔNG TỐ
+Kimyager savcılığa bırakıldı. İfadesi Baran'a açılan davanın ilk delili oldu.	Nhà Hóa Học được giao cho viện công tố. Lời khai của cô ta trở thành bằng chứng đầu tiên trong vụ án chống lại Khang.
+Baran'ın kasası açık: dosyalar ve iki milyon avro. Ne yapacaksın?	Két sắt của Khang đã mở: hồ sơ và hai triệu euro. Bạn sẽ làm gì?
+PARAYI AL	LẤY TIỀN
+Parayı aldın (+20.000). KONTROL'e sadece dosyaları gönderdin.	Bạn đã lấy tiền (+20.000). Bạn chỉ gửi hồ sơ cho CONTROL.
+DOKUNMA	ĐỪNG ĐỤNG
+Parayı bıraktın. Dosyaların kopyasını Başsavcı Arslan'a yolladın.	Bạn để lại tiền. Bạn gửi bản sao hồ sơ cho Tổng Công tố Dung.
+Kurul'un bütün ödemeleri ve KONTROL'ün imzası bu diskte. Kime vereceksin?	Mọi khoản chi của Hội đồng và chữ ký của CONTROL đều nằm trong ổ đĩa này. Bạn sẽ đưa cho ai?
+Diski KONTROL'e verdin. Ertesi sabah Kurul'un boş koltukları dolmaya başladı — yeni isimlerle. Sözleşme tamam; sen yine kimsesin.	Bạn đưa ổ đĩa cho CONTROL. Sáng hôm sau, những chiếc ghế trống của Hội đồng bắt đầu được lấp đầy — bằng những cái tên mới. Hợp đồng hoàn tất; bạn lại chẳng là ai cả.
+SAVCIYA	CHO CÔNG TỐ
+Diski Başsavcı Nermin Arslan'a bıraktın. Bir hafta sonra KONTROL'ün kapısına polis dayandı. Adın yine yok — ama bu sefer kendi seçimin.	Bạn để ổ đĩa lại cho Tổng Công tố Trần Mỹ Dung. Một tuần sau, cảnh sát ập tới cửa nhà CONTROL. Bạn vẫn không có tên — nhưng lần này là do bạn chọn.
+ Kimyagerin ifadesi davayı ayakta tutuyor.	 Lời khai của Nhà Hóa Học giữ cho vụ án đứng vững.
+ Baran'ın parasını aldığını KONTROL biliyor.	 CONTROL biết bạn đã lấy tiền của Khang.
+Seni kaybettiler — ama nişancı yuvasını arıyorlar	Chúng mất dấu bạn — nhưng vẫn đang tìm ổ bắn tỉa
+Vuruldun — 	Bạn bị bắn — 
+Vuruldun — yerin tespit edildi	Bạn bị bắn — vị trí đã bị lộ
+ÇAYLAK	TẬP SỰ
+TETİKÇİ	SÁT THỦ
+NİŞANCI	XẠ THỦ
+KESKİN NİŞANCI	BẮN TỈA
+GÖLGE	BÓNG ĐÊM
+HAYALET	BÓNG MA
+Günün sözleşmesi	Hợp đồng trong ngày
+Elmasla son geliştirme kademeleri	Bậc nâng cấp cuối bằng kim cương
+Efsane rütbe yolu	Con đường quân hàm huyền thoại
+TELEFERİK	CÁP TREO
+Kartal Tepe teleferiği	Cáp treo Đỉnh Ưng
+Sinan Kurt zirvedeki kahvaltıya teleferikle çıkacak. Kabin zirve istasyonuna varırsa onu kaybederiz.	Nghiêm Tấn Phong sẽ đi cáp treo lên ăn sáng trên đỉnh. Nếu cabin tới ga đỉnh, ta sẽ mất hắn.
+Baran'ın dosyaları bizi Kartal Tepe'ye getirdi. Kurul — Baran'ı yıllarca besleyen ve koruyan beş kişi — yılbaşı haftasını her yıl burada geçiriyor.\n\nİlki Sinan Kurt, Kurul'un bankeri. Kayak barında kahvesini bitirince iki korumasıyla teleferiğe binip zirvedeki restorana çıkacak. Kabin hattın sonuna varırsa onu kaybederiz.	Hồ sơ của Khang đưa ta tới Đỉnh Ưng. Hội đồng — năm kẻ đã nuôi dưỡng và che chở Khang suốt nhiều năm — năm nào cũng nghỉ tuần lễ năm mới ở đây.\n\nKẻ đầu tiên là Nghiêm Tấn Phong, chủ ngân hàng của Hội đồng. Uống xong cà phê ở quán bar trượt tuyết, hắn sẽ cùng hai vệ sĩ lên cáp treo tới nhà hàng trên đỉnh. Nếu cabin tới cuối tuyến, ta sẽ mất hắn.
+Kabin camı mermiyi durdurmaz; yukarı çıkan kabine biraz önden ve yukarıdan nişan al. İstasyonun yanındaki motor dairesine iki atış hattı durdurur: kabinler sallanır, içindekiler çömelir.	Kính cabin không cản được đạn; hãy ngắm hơi đón trước và cao hơn cabin đang đi lên. Hai phát vào phòng động cơ cạnh nhà ga sẽ làm tuyến dừng lại: cabin chao đảo, người bên trong phải cúi xuống.
+Uzun menzil: kabin 250 metreden 1 kilometreye kadar uzaklaşır	Tầm xa: cabin rời xa từ 250 mét tới 1 kilômét
+Teleferik motoru: istasyonun batısındaki beton kulübe	Động cơ cáp treo: chòi bê tông phía tây nhà ga
+Sinan Kurt istasyona kaçtı	Nghiêm Tấn Phong đã chạy vào nhà ga
+KONTROL	CONTROL
+Platformdalar. Sıradaki kabine binecekler.	Chúng đang ở sân ga. Chúng sẽ lên cabin kế tiếp.
+Kabine bindiler — yukarı çıkıyorlar	Chúng đã lên cabin — đang đi lên
+Zirve istasyonuna	Tới ga đỉnh
+Sinan Kurt zirve istasyonuna vardı	Nghiêm Tấn Phong đã tới ga đỉnh
+Teleferik durdu — kabinler sallanıyor!	Cáp treo dừng lại — các cabin đang chao đảo!
+Teknisyenler hattı yeniden çalıştırdı! Kabin yine hareket ediyor.	Kỹ thuật viên đã cho tuyến chạy lại! Cabin lại di chuyển.
+Kayak barında, korumalarıyla kahve içiyor. Platforma çıkınca sıradaki kabine binecek.	Đang uống cà phê cùng vệ sĩ ở quán bar trượt tuyết. Lên sân ga xong, hắn sẽ vào cabin kế tiếp.
+Hat saatte 18 kilometre gidiyor. Kabin uzaklaştıkça mermi düşüşü artar — hesabını yap.	Tuyến chạy 18 kilômét mỗi giờ. Cabin càng xa, đạn rơi càng nhiều — hãy tính toán kỹ.
+Sinan Kurt	Nghiêm Tấn Phong
+Uzun gri palto, gözlük, kır saç. İki korumasıyla.	Áo khoác dài màu xám, kính, tóc hoa râm. Đi cùng hai vệ sĩ.
+Sinan Kurt'u zirve istasyonuna varmadan etkisiz hale getir	Vô hiệu hóa Nghiêm Tấn Phong trước khi hắn tới ga đỉnh
+Teleferik motorunu durdurabilirsin (isteğe bağlı)	Bạn có thể dừng động cơ cáp treo (không bắt buộc)
+Sözleşmeyi tamamla	Hoàn thành hợp đồng
+Kabin hareket halindeyken vur	Bắn khi cabin đang di chuyển
+En fazla iki atış	Tối đa hai phát bắn
+ŞÖMİNE	LÒ SƯỞI
+Doğu yamacı — cam villa	Sườn đông — biệt thự kính
+Hakim Ferit Oral şöminenin başında. Villanın bütün ön cephesi cam — ve cam kırıldığı an içeridekiler anlar.	Thẩm phán Bùi Đình Khiêm đang ngồi bên lò sưởi. Cả mặt tiền biệt thự là kính — và ngay khi kính vỡ, người bên trong sẽ biết.
+Ferit Oral, Baran'ın her davasını düşüren hakim. Yıllardır Kurul'un yargıdaki adamı. Bu gece doğu yamacındaki cam villasında eşiyle.\n\nDışarıda, terasta bir koruma dolaşıyor; aşağıda araçta bir şoför bekliyor. Hakim 23:25'te yatmaya gidecek. Eşi odadayken ateş edersen tanık kalır.	Bùi Đình Khiêm là thẩm phán đã bác bỏ mọi vụ án của Khang. Người của Hội đồng trong ngành tư pháp suốt nhiều năm. Đêm nay hắn ở cùng vợ trong biệt thự kính trên sườn đông.\n\nBên ngoài, một vệ sĩ đi tuần trên sân hiên; phía dưới, một tài xế chờ trong xe. Thẩm phán sẽ đi ngủ lúc 23:25. Nếu bắn khi vợ hắn ở trong phòng, sẽ có nhân chứng.
+İlk mermi camı kırar ve sesi içeridekileri ürkütür: ilk atışın öldürücü olsun. Hakim zaman zaman cama gelip vadiye bakıyor — en açık an o.	Phát đầu tiên sẽ làm vỡ kính và tiếng động sẽ khiến người bên trong hoảng sợ: phát đầu phải là phát chí mạng. Thỉnh thoảng thẩm phán ra sát cửa kính ngắm thung lũng — đó là lúc lộ nhất.
+Hakim bölmenin arkasında. Cama ya da şömineye geri gelmesini bekle.	Thẩm phán đang ở sau vách ngăn. Chờ hắn quay lại chỗ cửa kính hoặc lò sưởi.
+Hakim yatak odasına kilitlendi	Thẩm phán đã khóa mình trong phòng ngủ
+Hakimin yatmasına	Tới giờ thẩm phán đi ngủ
+Hakim yatak odasına gidiyor!	Thẩm phán đang vào phòng ngủ!
+Hakim yatmaya gitti	Thẩm phán đã đi ngủ
+Cam ön cephe vadiye bakıyor. Hakim kanepede, eşi masanın başında.	Mặt tiền kính nhìn ra thung lũng. Thẩm phán trên sofa, vợ hắn ngồi bên bàn.
+Eşi arada bir öbür odalara geçiyor. O sırada vurursan kimse bir şey görmez.	Vợ hắn thỉnh thoảng sang phòng khác. Bắn lúc đó thì không ai thấy gì.
+Yolun aşağısındaki adamın elinde gece dürbünü var. Dürbün sana dönünce eğil.	Gã đàn ông dưới đường cầm ống nhòm nhìn đêm. Khi ống nhòm quay về phía bạn, hãy cúi xuống.
+Ferit Oral	Bùi Đình Khiêm
+Beyaz balıkçı yaka kazak, gözlük, beyaz saç. Cam villada.	Áo len cổ lọ trắng, kính, tóc bạc trắng. Trong biệt thự kính.
+Hakim Ferit Oral'ı yatmaya gitmeden etkisiz hale getir	Vô hiệu hóa Thẩm phán Bùi Đình Khiêm trước khi hắn đi ngủ
+Tanık bırakma: eşi odadayken ateş etme	Không để lại nhân chứng: đừng bắn khi vợ hắn ở trong phòng
+Camın ardından tek atış	Một phát xuyên kính
+JAKUZİ	BỒN NƯỚC NÓNG
+Kartal Dağ Oteli — spa terası	Khách sạn Núi Ưng — sân hiên spa
+Selim Tan gün batımında jakuzide. Buhar onu bir saklıyor, bir gösteriyor — pencereni bekle.	Hứa Quang Tín đang ngâm bồn nước nóng lúc hoàng hôn. Hơi nước lúc che lúc lộ hắn — hãy chờ thời cơ.
+Selim Tan, Baran'ın limandaki depolarını, Kurul'un kara parayla yükselen bütün otellerini inşa eden müteahhit.\n\nOtelin spa terasında, jakuzide gün batımını izliyor. Kapıda bir koruması, yanında bir arkadaşı var; garson şampanya getirecek. Sudan çıktığında içeri girer.\n\nKoruma kapıdan dürbünle yamaçları tarıyor. Selim'in dibinde durduğu için onu vurmak Selim'i ürkütür: dürbün sana döndüğünde eğil.	Hứa Quang Tín là nhà thầu đã xây các nhà kho của Khang ở cảng và mọi khách sạn mọc lên nhờ tiền bẩn của Hội đồng.\n\nHắn đang ngắm hoàng hôn trong bồn nước nóng trên sân hiên spa của khách sạn. Một vệ sĩ đứng ở cửa, một người bạn ngồi cạnh; bồi bàn sẽ mang sâm panh tới. Ra khỏi nước là hắn vào trong.\n\nVệ sĩ ở cửa đang dùng ống nhòm quét các sườn dốc. Hắn đứng sát Tín nên bắn hắn sẽ làm Tín hoảng: khi ống nhòm quay về phía bạn, hãy cúi xuống.
+Suyun üstünde yalnızca başı ve omuzları görünüyor. Buhar yoğunlaştığında hedef kaybolur, açıldığında birkaç saniyelik pencere doğar. Sudan çıkıp kapıya yürürken bütün boyuyla açıktadır — ama yalnızca birkaç saniye.	Trên mặt nước chỉ thấy đầu và vai hắn. Khi hơi nước dày lên, mục tiêu biến mất; khi tan đi, bạn có vài giây cơ hội. Lúc ra khỏi nước đi về phía cửa, cả người hắn lộ ra — nhưng chỉ trong vài giây.
+Selim Tan otele girdi	Hứa Quang Tín đã vào khách sạn
+Selim sudan çıkıyor — kapıya yürüyor!	Tín đang ra khỏi nước — đi về phía cửa!
+Sudan çıkmasına	Tới lúc hắn ra khỏi nước
+Buhar bazen tamamen kapatıyor. Sabret: açıldığı an tek bir temiz atış yeter.	Có lúc hơi nước che kín hoàn toàn. Kiên nhẫn: chỉ cần một phát gọn gàng lúc nó tan.
+Kapıdaki koruma dürbünle yamaçları tarıyor. Onu vurursan Selim içeri kaçar: dürbün sana dönünce eğil.	Vệ sĩ ở cửa đang dùng ống nhòm quét các sườn dốc. Bắn hắn thì Tín sẽ chạy vào trong: khi ống nhòm quay về phía bạn, hãy cúi xuống.
+Selim Tan	Hứa Quang Tín
+Müteahhit	Nhà Thầu
+Kalın yapılı, sakallı, koyu saç. Jakuzide.	Vóc người to, có râu, tóc sẫm. Trong bồn nước nóng.
+Selim Tan'ı içeri girmeden etkisiz hale getir	Vô hiệu hóa Hứa Quang Tín trước khi hắn vào trong
+Kafadan vur	Bắn vào đầu
+Buharın içinden vur	Bắn xuyên hơi nước
+KAR MOTORU	XE TRƯỢT TUYẾT
+Vadi tabanı — batı yamacı	Đáy thung lũng — sườn tây
+Kurye Kurul'un defterini kar motoruyla dağa kaçıracak. Ölmemeli: defterin şifresi onda.	Kẻ vận chuyển sẽ mang sổ sách của Hội đồng lên núi bằng xe trượt tuyết. Hắn không được chết: chỉ hắn biết mật mã của sổ.
+Doğan Aksu, Kurul'un kuryesi. Bütün ödemelerin kaydı olan şifreli disk onda. Birazdan otelden çıkıp kar motoruyla vadiyi geçecek ve batı yamacından ormana girecek.\n\nOnu CANLI istiyoruz. Önce motoru durdur — motor bloğuna iki atış — sonra kaçmaya çalışırsa bacağından vur. Ekibimiz ratrakla gelip onu alacak.\n\nKurul onu bizim almamıza izin vermez: kurye düşünce spadan adamları çıkıp onu susturmaya gelecek. Ratrak gelene kadar onları durdur.	Lưu Đức Nam là kẻ vận chuyển của Hội đồng. Hắn giữ ổ đĩa mã hóa ghi lại mọi khoản chi. Lát nữa hắn sẽ rời khách sạn, lái xe trượt tuyết băng qua thung lũng và vào rừng từ sườn tây.\n\nTa cần hắn SỐNG. Trước tiên hãy làm hỏng xe — hai phát vào khối động cơ — rồi nếu hắn tìm cách chạy, bắn vào chân. Đội của ta sẽ tới bằng xe ủi tuyết để đón hắn.\n\nHội đồng sẽ không để ta bắt hắn: khi kẻ vận chuyển gục xuống, người của chúng sẽ từ spa kéo ra để bịt miệng hắn. Hãy chặn chúng cho tới khi xe ủi tuyết tới.
+Kar motoru saatte 25 kilometreyle gidiyor: biraz önden nişan al. Sürücüye isabet edersen ölebilir; motor bloğu sürücünün önünde, hedefin altında. Motor durunca kurye en yakın dağ evine koşar: içeri girmeden bacağından vur.	Xe trượt tuyết chạy 25 kilômét mỗi giờ: hãy ngắm hơi đón trước. Trúng người lái thì hắn có thể chết; khối động cơ nằm trước người lái, bên dưới mục tiêu. Khi động cơ dừng, kẻ vận chuyển sẽ chạy tới căn nhà gỗ gần nhất: bắn vào chân trước khi hắn vào trong.
+Kurye bir dağ evine saklandı	Kẻ vận chuyển đã trốn vào một căn nhà gỗ
+Kuryeyi BACAĞINDAN vur — ölmemeli	Bắn vào CHÂN kẻ vận chuyển — hắn không được chết
+Ekip gelene kadar onu hayatta tut	Giữ hắn sống cho tới khi đội tới
+Kar motoru çalışmıyor — kurye koşarak kaçıyor!	Xe trượt tuyết không chạy — kẻ vận chuyển đang bỏ chạy!
+Kurye ormana girdi	Kẻ vận chuyển đã vào rừng
+Kurye kar motorunda — vadiyi geçiyor!	Kẻ vận chuyển đang trên xe trượt tuyết — băng qua thung lũng!
+Motor durdu — kurye koşarak kaçıyor!	Động cơ đã dừng — kẻ vận chuyển đang bỏ chạy!
+Ratrakın ulaşmasına	Tới lúc xe ủi tuyết tới
+Spadan silahlı biri çıktı — kuryeye gidiyor!	Một tay súng từ spa đi ra — đang tiến tới kẻ vận chuyển!
+Etraf temiz — ratrak tam gaz geliyor!	Đã an toàn — xe ủi tuyết đang lao tới!
+Kurye uyudu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	Kẻ vận chuyển đã ngất! Xe ủi tuyết đã lên đường — người của Hội đồng sẽ từ spa kéo ra, đừng để chúng lại gần hắn.
+Bacağından vuruldu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	Đã bắn trúng chân! Xe ủi tuyết đã lên đường — người của Hội đồng sẽ từ spa kéo ra, đừng để chúng lại gần hắn.
+Ekip kuryeyi aldı	Đội đã đón được kẻ vận chuyển
+Otelin spa kapısından çıkacak. Kar motoru otoparkın doğu ucunda.	Hắn sẽ ra từ cửa spa của khách sạn. Xe trượt tuyết ở đầu phía đông bãi đỗ xe.
+Doğan Aksu	Lưu Đức Nam
+Koyu yeşil kapüşonlu, gri bere, kargo pantolon. Kar motorunda.	Áo hoodie xanh rêu sẫm, mũ len xám, quần túi hộp. Trên xe trượt tuyết.
+Önce kar motorunu durdurabilirsin (motor bloğu: 2 atış)	Có thể làm hỏng xe trượt tuyết trước (khối động cơ: 2 phát)
+Kuryeyi canlı yakala	Bắt sống kẻ vận chuyển
+En fazla beş atış	Tối đa năm phát bắn
+Kurul'un adamları nişan alamasın	Không để người của Hội đồng kịp ngắm bắn
+ÇIĞ	TUYẾT LỞ
+Batı yolu — çığ yamacı	Đường phía tây — sườn tuyết lở
+KAZA	TAI NẠN
+Bülent Er'in konvoyu batı yolundan gelecek. Kaza gibi görünmeli: yamaçta bir çığ patlayıcısı var.	Đoàn xe của Triệu Quốc Dũng sẽ tới từ đường phía tây. Phải trông như tai nạn: trên sườn dốc có một khối thuốc nổ gây tuyết lở.
+Bülent Er, emniyet istihbaratının başında ve Kurul'un maaş bordrosunda. Baran'a karşı açılan her soruşturmayı o kapattırdı. Bu sabah iki araçlık konvoyla batı yolundan otele geliyor.\n\nBir emniyet müdürünün kurşunla ölmesi ülkeyi ayağa kaldırır. Kaza olmalı: yolun üstündeki yamaçta çığ kontrol patlayıcısı var. Onu doğru anda vurursan yamaç kopar ve yolu örter. Bülent ikinci araçta.	Triệu Quốc Dũng đứng đầu cơ quan tình báo cảnh sát và có tên trong bảng lương của Hội đồng. Hắn đã cho đóng mọi cuộc điều tra nhắm vào Khang. Sáng nay hắn tới khách sạn bằng đoàn hai xe theo đường phía tây.\n\nMột giám đốc cảnh sát chết vì trúng đạn sẽ khiến cả nước dậy sóng. Phải là tai nạn: trên sườn dốc phía trên đường có thuốc nổ kiểm soát tuyết lở. Bắn trúng nó đúng lúc, sườn dốc sẽ sạt xuống và vùi lấp con đường. Dũng ở xe thứ hai.
+Çığ yola altı saniyede iner: sayaç altıya indiğinde patlayıcıyı vur. Erken vurursan konvoy kar yığınının önünde durur, geç kalırsan geçip gider; o zaman Bülent'i doğrudan vurmak zorundasın — ama kaza süsü gider.	Tuyết lở mất sáu giây để xuống tới đường: bắn thuốc nổ khi đồng hồ đếm xuống sáu. Bắn sớm thì đoàn xe dừng trước đống tuyết, bắn muộn thì chúng đi qua mất; khi đó bạn buộc phải bắn thẳng Dũng — nhưng sẽ không còn giống tai nạn.
+Çığ kontrol patlayıcısı: yolun üstündeki yamacın tepesinde, sarı tank	Thuốc nổ kiểm soát tuyết lở: trên đỉnh sườn dốc phía trên đường, bình màu vàng
+İkinci araçta — batı yolundan geliyor	Ở xe thứ hai — đang tới từ đường phía tây
+Bülent Er otele girdi	Triệu Quốc Dũng đã vào khách sạn
+Yamaç koptu — çığ yola iniyor!	Sườn dốc sạt rồi — tuyết lở đang đổ xuống đường!
+Konvoy otele vardı — Bülent arabadan iniyor!	Đoàn xe đã tới khách sạn — Dũng đang xuống xe!
+Konvoyun yamaca ulaşmasına	Tới lúc đoàn xe tới sườn dốc
+Konvoy batı yolunda. Yamacın altındaki virajdan geçecekler.	Đoàn xe đang trên đường phía tây. Chúng sẽ qua khúc cua dưới chân sườn dốc.
+Çığ yolu kapattı, konvoy durdu. Bülent araçtan indi — kaza olmadı ama fırsat bu.	Tuyết lở chặn đường, đoàn xe dừng lại. Dũng đã xuống xe — không thành tai nạn, nhưng đây là thời cơ.
+Çığ boşa gitti! Konvoy otele devam ediyor — Bülent arabadan inince fırsatın var.	Tuyết lở vô ích! Đoàn xe tiếp tục tới khách sạn — khi Dũng xuống xe, bạn sẽ có cơ hội.
+Tepedeki adam kayak devriyesi, patlayıcıyı kontrol ediyor. O oradayken tetikleme.	Người trên đỉnh dốc là tuần tra trượt tuyết, đang kiểm tra thuốc nổ. Đừng kích nổ khi anh ta còn ở đó.
+Çığ yamaçtan yola altı saniyede iner. Sayaç altıya indiği an patlayıcıyı vur.	Tuyết lở mất sáu giây để từ sườn dốc xuống tới đường. Bắn thuốc nổ ngay khi đồng hồ đếm xuống sáu.
+Bülent Er	Triệu Quốc Dũng
+Emniyet İstihbaratı	Tình báo Cảnh sát
+İkinci araçta. Lacivert palto, şapka, gözlük.	Ở xe thứ hai. Áo khoác xanh đậm, mũ, kính.
+Bülent Er'i etkisiz hale getir — kaza gibi görünmeli	Vô hiệu hóa Triệu Quốc Dũng — phải trông như tai nạn
+Kaza süsü ver: çığla	Ngụy tạo tai nạn: bằng tuyết lở
+Çığ devriyesine zarar verme	Không làm hại tuần tra tuyết lở
+KAYAK HOCASI	HLV TRƯỢT TUYẾT
+Acemi pisti	Đường trượt cho người mới
+Elif Demir yarın mahkemede Kurul'a karşı tanıklık edecek. Bugün onu öldürmeye üç kişi geliyor.	Ngày mai Ngô Thùy Linh sẽ ra tòa làm chứng chống lại Hội đồng. Hôm nay có ba kẻ đến giết cô.
+Kayak hocası Elif Demir, geçen kış teleferik makinisti Hasan Usta'nın Kurul'un adamlarınca öldürülüşünü gördü. Yarın mahkemede tanıklık edecek; Kurul onu bugün susturmak istiyor.\n\nElif acemi pistinde ders veriyor. Üç tetikçi var: istasyonun çatısında bir nişancı, otelden yürüyerek gelen biri ve kar motoruyla gelecek biri. Jandarma 11:33'te geliyor. O zamana kadar onu hayatta tut.	Huấn luyện viên trượt tuyết Ngô Thùy Linh đã chứng kiến người của Hội đồng sát hại thợ vận hành cáp treo Lê Văn Hòa vào mùa đông năm ngoái. Ngày mai cô sẽ ra tòa làm chứng; Hội đồng muốn bịt miệng cô ngay hôm nay.\n\nLinh đang dạy trên đường trượt cho người mới. Có ba sát thủ: một xạ thủ trên mái nhà ga, một kẻ đi bộ từ khách sạn tới và một kẻ sẽ tới bằng xe trượt tuyết. Hiến binh sẽ tới lúc 11:33. Đến lúc đó, hãy giữ cô ấy sống.
+Nişancıyı önce bul: teleferik istasyonunun düz çatısında, kar kadar beyaz. Ateş ettiğin an namlu alevini görür ve sana döner. Silah çeken birini kolundan vurursan silahını düşürür.	Tìm xạ thủ trước: trên mái bằng của nhà ga cáp treo, trắng như tuyết. Ngay khi bạn nổ súng, hắn sẽ thấy ánh lửa đầu nòng và quay về phía bạn. Bắn vào tay kẻ rút súng sẽ khiến hắn đánh rơi vũ khí.
+Susturucu nişancının seni görmesini geciktirir	Giảm thanh khiến xạ thủ chậm phát hiện ra bạn hơn
+İstihbarat: üç tetikçi — biri yüksekte	Tình báo: ba sát thủ — một kẻ ở trên cao
+Elif Demir	Ngô Thùy Linh
+TANIK	NHÂN CHỨNG
+Kayak hocası — koru	HLV trượt tuyết — bảo vệ
+Elif'i jandarma gelene kadar koru	Bảo vệ Linh cho tới khi hiến binh tới
+Çatıdaki Nişancı	Xạ Thủ Trên Mái
+Haki yeşil palto, kalpak — teleferik istasyonunun çatısında	Áo khoác xanh kaki, mũ lông — trên mái nhà ga cáp treo
+İstasyonun çatısında biri doğruldu — Elif'e nişan alıyor!	Có kẻ đứng dậy trên mái nhà ga — đang ngắm vào Linh!
+Çatıdaki nişancı seni vurdu	Xạ thủ trên mái đã bắn trúng bạn
+Yürüyen Adam	Kẻ Đi Bộ
+Siyah kapüşonlu, siyah bere, sakallı	Áo hoodie đen, mũ len đen, có râu
+Kar Motorlu Adam	Kẻ Lái Xe Trượt Tuyết
+Gri kapüşonlu, siyah bere, spor gözlük — kar motorunda	Áo hoodie xám, mũ len đen, kính thể thao — trên xe trượt tuyết
+Doğudan bir kar motoru geliyor, hızlı!	Có xe trượt tuyết tới từ phía đông, rất nhanh!
+Kar motorlu indi — Elif'e koşuyor!	Kẻ lái xe trượt tuyết đã xuống xe — đang chạy về phía Linh!
+Üç tetikçiyi de durdur	Chặn cả ba sát thủ
+Üç tetikçiyi de durdur  	Chặn cả ba sát thủ  
+Jandarmanın gelmesine	Tới lúc hiến binh tới
+Jandarma geldi — Elif güvende	Hiến binh đã tới — Linh an toàn
+Üç tetikçi var. Yüksekteki önce: istasyonun çatısını tara.	Có ba sát thủ. Kẻ trên cao trước: hãy quét mái nhà ga.
+Tanık	Nhân chứng
+Kırmızı mont, beyaz bere, at kuyruğu. Acemi pistinde ders veriyor.	Áo khoác đỏ, mũ len trắng, tóc đuôi ngựa. Đang dạy trên đường trượt cho người mới.
+Elif Demir'i jandarma gelene kadar koru	Bảo vệ Ngô Thùy Linh cho tới khi hiến binh tới
+Üç tetikçiyi bul ve durdur (bonus)	Tìm và chặn ba sát thủ (thưởng)
+Tanığı koru	Bảo vệ nhân chứng
+Nişancıyı nişan alamadan durdur	Chặn xạ thủ trước khi hắn kịp ngắm
+Öğrencilere zarar verme	Không làm hại các học viên
+Köy — tipi altında	Ngôi làng — giữa bão tuyết
+Orhan Sezer tipiyi fırsat bilip ratrakla dağı aşacak. Göz gözü görmüyor — termal dürbün hazır olsun.	Hoàng Kim Sơn sẽ nhân lúc bão tuyết lái xe ủi tuyết vượt núi. Không nhìn thấy gì — hãy chuẩn bị ống ngắm nhiệt.
+Orhan Sezer, Kurul'un temizlikçisi: tanıkları ortadan kaldıran, delilleri yok eden adam. Elif'e gönderilen tetikçileri o tutmuştu. Tipiyi fırsat bilip ratrakla dağı aşacak; zirvenin ötesinde bir helikopter bekliyor.\n\nOtelden çıkıp köyü yürüyerek geçecek ve istasyonun yanındaki ratraka binecek. Kar fırtınasında 200 metrenin ötesi görünmüyor; termal dürbün vücut ısısını sisin içinden gösterir. Rüzgar çok sert.	Hoàng Kim Sơn là kẻ dọn dẹp của Hội đồng: kẻ thủ tiêu nhân chứng, xóa sạch bằng chứng. Chính hắn đã thuê đám sát thủ nhắm vào Linh. Hắn sẽ nhân lúc bão tuyết lái xe ủi tuyết vượt núi; phía bên kia đỉnh có trực thăng đang chờ.\n\nHắn sẽ rời khách sạn, đi bộ qua làng rồi lên chiếc xe ủi tuyết cạnh nhà ga. Trong bão tuyết, không thấy gì quá 200 mét; ống ngắm nhiệt sẽ hiện thân nhiệt xuyên qua màn sương. Gió rất mạnh.
+Termal dürbün herkesi beyaz gösterir: tarayıp kimliği oku. Rüzgar saatte 30 kilometreden fazla esiyor; nişanı rüzgarın geldiği yöne kaydır.	Ống ngắm nhiệt hiển thị mọi người đều màu trắng: hãy quét để đọc danh tính. Gió thổi hơn 30 kilômét mỗi giờ; hãy ngắm lệch về phía gió thổi tới.
+Termal dürbün şart	Bắt buộc có ống ngắm nhiệt
+Orhan istasyona kaçtı	Sơn đã chạy vào nhà ga
+Ratrak hareket etti — dağa tırmanıyor!	Xe ủi tuyết đã chạy — đang leo lên núi!
+Ratrakın sırtı aşmasına	Tới lúc xe ủi tuyết vượt sống núi
+Ratrak sırtı aştı	Xe ủi tuyết đã vượt sống núi
+Görüş 200 metrenin altında. Termal dürbünle sıcak noktaları ara, sonra kimliği tara.	Tầm nhìn dưới 200 mét. Dùng ống ngắm nhiệt tìm các điểm nóng, rồi quét danh tính.
+Rüzgar doğudan sert esiyor. Uzak atışta mermi metrelerce sürüklenir.	Gió đông thổi mạnh. Bắn xa thì đạn sẽ bị đẩy lệch hàng mét.
+Orhan Sezer	Hoàng Kim Sơn
+Temizlikçi	Kẻ Dọn Dẹp
+Lacivert uzun palto, kalpak, gözlük. İki korumasıyla.	Áo khoác dài xanh đậm, mũ lông, kính. Đi cùng hai vệ sĩ.
+Orhan Sezer'i ratrak sırtı aşmadan etkisiz hale getir	Vô hiệu hóa Hoàng Kim Sơn trước khi xe ủi tuyết vượt sống núi
+Tek atış	Một phát duy nhất
+Termal dürbün kullanmadan	Không dùng ống ngắm nhiệt
+ZİRVE	ĐỈNH NÚI
+Kartal Dağ Oteli — yılbaşı gecesi	Khách sạn Núi Ưng — đêm giao thừa
+Gece yarısı havai fişekler başlayınca vadi gürültüyle dolacak. Patlamalar senin silahının sesini yutar.	Khi pháo hoa bắt đầu lúc nửa đêm, thung lũng sẽ ngập tiếng ồn. Tiếng nổ sẽ nuốt trọn tiếng súng của bạn.
+Kurul'dan geriye bir kişi kaldı: Nedim Kurt — Patron. Baran'ı yaratan, yıllarca ayakta tutan ve her şeyin hesabını tutan adam.\n\nYılbaşı gecesi otelin önündeki terasta misafirleriyle. Gece yarısı gölün üstünde havai fişek gösterisi var: Patron izlemek için terasın ucuna yürüyecek. Patlamalar yankılanırken atılan bir kurşunu kimse duymaz. Gösteri bitince içeri girer — bir daha çıkmaz.\n\nPatron tedbirli: güvenlik şefi terasın önünden gece dürbünüyle yamaçları tarıyor. Seni görürse korumalar yerini öğrenir.	Hội đồng chỉ còn lại một người: Nghiêm Đức Thọ — Ông Trùm. Kẻ đã tạo ra Khang, giữ hắn đứng vững nhiều năm và nắm sổ sách của mọi thứ.\n\nĐêm giao thừa, hắn ở cùng khách khứa trên sân hiên trước khách sạn. Nửa đêm có màn pháo hoa trên mặt hồ: Ông Trùm sẽ ra mép sân hiên để xem. Khi tiếng nổ vang vọng, không ai nghe thấy một phát súng. Màn trình diễn kết thúc là hắn vào trong — và không ra nữa.\n\nÔng Trùm rất cẩn trọng: trưởng an ninh đứng trước sân hiên dùng ống nhòm nhìn đêm quét các sườn dốc. Nếu hắn thấy bạn, đám vệ sĩ sẽ biết vị trí của bạn.
+Havai fişek patlamasının sesi yuvaya ulaştığı an tetiğe bas: o anki atışı kimse duymaz. Patron'un iki koruması var; kalabalığın içinde ateş etme. Güvenlik şefinin dürbünü sana dönünce eğil (SİPER).	Bóp cò đúng lúc tiếng pháo hoa vọng tới ổ bắn: không ai nghe thấy phát súng đó. Ông Trùm có hai vệ sĩ; đừng bắn vào đám đông. Khi ống nhòm của trưởng an ninh quay về phía bạn, hãy cúi xuống (ẨN NẤP).
+Gece yarısı: göl üstünde havai fişek	Nửa đêm: pháo hoa trên mặt hồ
+Patron içeri girdi	Ông Trùm đã vào trong
+Gece yarısına	Tới nửa đêm
+MİSAFİRLER	KHÁCH MỜI
+On! Dokuz! Sekiz! Yedi...	Mười! Chín! Tám! Bảy...
+Mutlu yıllar! — havai fişekler başladı	Chúc mừng năm mới! — pháo hoa đã bắt đầu
+Gösterinin bitmesine	Tới lúc màn pháo hoa kết thúc
+Gösteri bitti — Patron içeri dönüyor!	Pháo hoa đã kết thúc — Ông Trùm đang quay vào trong!
+Kalabalığın ortasında. Gece yarısı gösteriyi izlemek için terasın ucuna yürüyecek.	Giữa đám đông. Nửa đêm, hắn sẽ ra mép sân hiên để xem pháo hoa.
+Patlamanın sesi sana ulaştığı an ateş et — o anki atışı kimse duymaz.	Bắn đúng lúc tiếng nổ vọng tới bạn — không ai nghe thấy phát súng đó.
+Gece dürbünüyle yamaçları tarıyor — seni görürse yerini bildirir	Đang dùng ống nhòm nhìn đêm quét các sườn dốc — thấy bạn là hắn báo vị trí
+Terasın önünde gece dürbünlü biri var: Patron'un güvenlik şefi. Dürbün sana dönünce eğil — gece yarısından önce atış sesi duyulur.	Trước sân hiên có kẻ cầm ống nhòm nhìn đêm: trưởng an ninh của Ông Trùm. Khi ống nhòm quay về phía bạn, hãy cúi xuống — trước nửa đêm, tiếng súng sẽ bị nghe thấy.
+Nedim Kurt	Nghiêm Đức Thọ
+Beyaz smokin ceket, papyon, kır sakal. Otel terasında.	Áo vest tuxedo trắng, nơ bướm, râu hoa râm. Trên sân hiên khách sạn.
+Nedim Kurt'u gösteri bitmeden etkisiz hale getir	Vô hiệu hóa Nghiêm Đức Thọ trước khi pháo hoa kết thúc
+Kurul'u bitir	Kết liễu Hội đồng
+Her atışı havai fişeklerin sesine gizle	Giấu mọi phát bắn trong tiếng pháo hoa
+Balıkçı	Ngư Phủ
+KARTAL K-98	ĐẠI BÀNG K-98
+Güvenilir sürgülü tüfek. Her suikastçının ilk ortağı.	Súng khóa nòng trượt đáng tin cậy. Bạn đồng hành đầu tiên của mọi sát thủ.
+GÖLGE SR-7	BÓNG ĐÊM SR-7
+7.62×51 susturuculu	7.62×51 có giảm thanh
+Entegre susturucu: atış sesi duyulmaz, mermi daha yavaş gider. Gizli işler için.	Giảm thanh tích hợp: không nghe thấy tiếng súng, đạn bay chậm hơn. Dành cho việc kín đáo.
+FIRTINA DMR	BÃO TỐ DMR
+7.62×51 yarı otomatik	7.62×51 bán tự động
+Yarı otomatik: sürgü çekmeden peş peşe ateş. Kaçan ve kalabalık hedefler için.	Bán tự động: bắn liên tiếp không cần kéo khóa nòng. Cho mục tiêu đang chạy và đám đông.
+ATMACA .338 LR	DIỀU HÂU .338 LR
+Uzun menzil: yüksek namlu çıkış hızı, az düşüş, 20× dürbün. İnce siperleri deler.	Tầm xa: sơ tốc đầu nòng cao, đạn ít rơi, ống ngắm 20×. Xuyên vật chắn mỏng.
+TİTAN .50	TITAN .50
+Anti-materyel tüfek: duvar, araç kapısı ve motor bloğu deler. Her isabet öldürür.	Súng chống vật liệu: xuyên tường, cửa xe và khối động cơ. Trúng là chết.
+Dürbüne takılır: karanlıkta her şeyi yeşil ışıkta görürsün.	Gắn vào ống ngắm: trong bóng tối bạn thấy mọi thứ dưới ánh sáng xanh lục.
+TERMAL DÜRBÜN	ỐNG NGẮM NHIỆT
+İnsan vücudu beyaz parlar: sis, karanlık ve kalabalıkta hedefi bul.	Thân người phát sáng trắng: tìm mục tiêu trong sương mù, bóng tối và đám đông.
+KEŞİF DRONU	DRONE TRINH SÁT
+Görev başına bir kez: bölgedeki herkesi 15 saniye işaretler ve kimliklerini tarar.	Mỗi hợp đồng một lần: đánh dấu mọi người trong khu vực trong 15 giây và quét danh tính.
+Sınırsız.	Không giới hạn.
+ZIRH DELİCİ	XUYÊN GIÁP
+İnce siperleri, araç kapılarını ve camları delip geçer.	Xuyên qua vật chắn mỏng, cửa xe và kính.
+UYUŞTURUCU İĞNE	ĐẠN GÂY MÊ
+Öldürmez, bayıltır. Sessizdir ama yavaştır: çok düşer.	Không giết, chỉ làm bất tỉnh. Im lặng nhưng chậm: rơi rất nhiều.
+PATLAYICI	ĐẠN NỔ
+Çarptığı yerde patlar: araçları ve jeneratörleri tek atışta durdurur.	Phát nổ khi va chạm: hạ xe cộ và máy phát điện chỉ bằng một phát.
+HASAR	SÁT THƯƠNG
+DÜRBÜN	ỐNG NGẮM
+DENGE	ĐỘ VỮNG
+ŞARJÖR	BĂNG ĐẠN
+HIZ	TỐC ĐỘ
+Daha ağır mermi: zırhlı gövdeyi deler, kurşun daha hızlı ve düz gider.	Đạn nặng hơn: xuyên thân mặc giáp, bay nhanh và thẳng hơn.
+Dürbünün en büyük yakınlaştırması artar.	Tăng độ phóng đại tối đa của ống ngắm.
+Dürbündeki sallantı ve geri tepme azalır.	Giảm độ rung và độ giật trong ống ngắm.
+Şarjöre daha çok fişek sığar.	Băng đạn chứa được nhiều viên hơn.
+Sürgü ve şarjör değişimi hızlanır.	Kéo khóa nòng và thay băng đạn nhanh hơn.
+YAYGIN	PHỔ THÔNG
+NADİR	HIẾM
+EPİK	SỬ THI
+ fişek	 viên
+Bu açıdan 	Từ góc này không thấy 
+ görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	 đâu. Dùng ĐỔI VỊ TRÍ để sang chỗ khác.
+Bundan sonra hedef işaretli gelmez. Dürbüne gir: sağdaki DOSYA'daki yüzü kalabalıkta bul, kişiyi tara, emin olunca İŞARETLE. Yanlış kişiyi vurursan sözleşme iptal.	Từ giờ mục tiêu sẽ không được đánh dấu sẵn. Vào ống ngắm: tìm trong đám đông khuôn mặt trong HỒ SƠ bên phải, quét người đó, chắc chắn rồi hãy ĐÁNH DẤU. Bắn nhầm người là hợp đồng bị hủy.
+Uzak hedefte mermi düşer. Sol alttaki MENZİL ile dürbünü hedefin mesafesine ayarla (telemetre dürbünün altında) ya da sarı çizgilerden tut: 2 = 200 m, 3 = 300 m.	Ở mục tiêu xa, đạn sẽ rơi. Dùng TẦM BẮN ở góc dưới bên trái để chỉnh ống ngắm theo khoảng cách tới mục tiêu (máy đo xa ở dưới ống ngắm) hoặc ngắm theo vạch vàng: 2 = 200 m, 3 = 300 m.
+Bundan sonra isabet noktası sadece NEFES tutarken görünür. Nefesini doğru ana sakla.	Từ giờ điểm chạm chỉ hiện khi đang NÍN THỞ. Hãy để dành hơi thở cho đúng lúc.
+Şehirde isabet noktası yok. Menzili ayarla, rüzgâr panelindeki yöne göre sarı noktalardan (1 nokta = 1 mil) tut.	Trong thành phố không có điểm chạm. Chỉnh tầm bắn, rồi ngắm theo các chấm vàng (1 chấm = 1 mil) dựa vào hướng trên bảng gió.
+Dağda rüzgâr sert ve değişken; paneldeki ok ve güç anlık değişir. Okun yönünü ve gücünü izle, rüzgârın dindiği anı bekle.	Trên núi, gió mạnh và thất thường; mũi tên và cường độ trên bảng thay đổi liên tục. Theo dõi hướng và cường độ của mũi tên, chờ lúc gió lặng.
+Alarm engellendi	Đã chặn báo động
+Son 10 saniye!	10 giây cuối!
+Süre doldu	Hết giờ
+Takviye — mevzi alıp yuvana ateş edecek	Quân tiếp viện — sẽ vào vị trí và bắn vào ổ của bạn
+ silahlı adam mevzi alıyor — yuvanı arıyorlar!	 tay súng đang vào vị trí — chúng đang tìm ổ của bạn!
+Alarm çaldı, takviye geliyor. Başını eğik tut, önce silahlıları sustur.	Báo động đã vang, quân tiếp viện đang tới. Cúi thấp đầu, hạ bọn có súng trước.
+Hedef düştü ama adamları seni arıyor. Siper al ya da silahlıları sustur — sonra çık.	Mục tiêu đã gục nhưng người của hắn đang tìm bạn. Hãy ẩn nấp hoặc hạ bọn có súng — rồi rút lui.
+Iskalaman dikkat çekti — silahlılar dışarı çıkıyor. Siper al, sonra işini bitir.	Phát trượt đã gây chú ý — bọn có súng đang kéo ra. Ẩn nấp, rồi hoàn thành việc của bạn.
+İŞÇİ	CÔNG NHÂN
+SİVİL	DÂN THƯỜNG
+Hedef saklandı	Mục tiêu đã ẩn nấp
+Hedef kaçtı	Mục tiêu đã trốn thoát
+Silahlı adam kaçtı	Tay súng đã trốn thoát
+Hedef öldü — onu canlı istiyorduk	Mục tiêu đã chết — ta cần hắn còn sống
+Korunan kişi	Người được bảo vệ
+ öldürüldü	 đã bị giết
+İsabet — 	Trúng — còn 
+ atış daha	 phát nữa
+Görev başarısız	Hợp đồng thất bại
+YENİ HEDEF: 	MỤC TIÊU MỚI: 
+  ·  DÜELLO	  ·  ĐẤU SÚNG
+  ·  SON ANDA	  ·  PHÚT CHÓT
+  ·  SİPERİN İÇİNDEN	  ·  XUYÊN VẬT CHẮN
+  ·  CAMIN İÇİNDEN	  ·  XUYÊN KÍNH
+  ·  HAREKETLİ HEDEF	  ·  MỤC TIÊU DI ĐỘNG
+ZIRH DURDURDU — kafaya nişan al, zırh delici kullan ya da HASAR geliştir	GIÁP ĐÃ CHẶN — ngắm vào đầu, dùng đạn xuyên giáp hoặc nâng SÁT THƯƠNG
+SİLAHLI ADAM BULUNDU: 	PHÁT HIỆN TAY SÚNG: 
+HEDEF DOĞRULANDI: 	ĐÃ XÁC NHẬN MỤC TIÊU: 
+Hedef değil — masum konuk	Không phải mục tiêu — khách vô tội
+Üç yanlış teşhis — sözleşme iptal	Ba lần nhận dạng sai — hợp đồng bị hủy
+KONTROL: O değildi — masum birini vurdun!	CONTROL: Không phải hắn — bạn đã bắn một người vô tội!
+KONTROL: Yine yanlış kişi. Bir daha olursa iptal.	CONTROL: Lại sai người. Thêm lần nữa là hủy.
+KİMLİK DOĞRULANDI: 	ĐÃ XÁC NHẬN DANH TÍNH: 
+KONTROL: Hayır, o değil. Dosyaya tekrar bak.	CONTROL: Không, không phải hắn. Xem lại hồ sơ đi.
+KONTROL: O da değil. Bir daha yanılırsan iptal.	CONTROL: Cũng không phải. Sai thêm lần nữa là hủy.
+YENİ YER: 	VỊ TRÍ MỚI: 
+Dron bölgeyi taradı — 	Drone đã quét khu vực — 
+ kişi tanımlandı	 người đã được nhận dạng
+Dron silahlı birini işaretledi!	Drone đã đánh dấu một tay súng!
+ vuruldu!	 đã trúng đạn!
+SUİKASTÇI ETKİSİZ — KAFADAN	ĐÃ HẠ SÁT THỦ — VÀO ĐẦU
+SUİKASTÇI ETKİSİZ	ĐÃ HẠ SÁT THỦ
+KAFADAN VURUŞ — HEDEF ETKİSİZ	BẮN VÀO ĐẦU — ĐÃ HẠ MỤC TIÊU
+HEDEF ETKİSİZ	ĐÃ HẠ MỤC TIÊU
+ öldü!	 đã chết!
+Koruma etkisiz — kafadan	Đã hạ vệ sĩ — vào đầu
+Koruma etkisiz	Đã hạ vệ sĩ
+Yanlış kişi — o bir dublördü	Sai người — đó là kẻ đóng thế
+Yanlış kişi — masum birini vurdun	Sai người — bạn đã bắn một người vô tội
+Çok fazla sivil kayıp	Quá nhiều dân thường thương vong
+SİVİL KAYIP! Bir daha olursa görev iptal.	DÂN THƯỜNG THƯƠNG VONG! Thêm lần nữa là hủy hợp đồng.
+ hedef kaldı	 mục tiêu còn lại
+Yanlış yer — BACAĞINDAN vurmalısın	Sai chỗ — phải bắn vào CHÂN
+Yanlış yer — KOLUNDAN vurmalısın	Sai chỗ — phải bắn vào TAY
+ yaralandı — artık yürüyemiyor	 bị thương — không thể đi được nữa
+Silahını düşürdü!	Hắn đã đánh rơi súng!
+HEDEF YERE DÜŞTÜ	MỤC TIÊU ĐÃ GỤC
+HEDEF YARALANDI	MỤC TIÊU BỊ THƯƠNG
+Koruma yaralandı — hâlâ telsize uzanabilir	Vệ sĩ bị thương — vẫn có thể với lấy bộ đàm
+Masum biri yaralandı!	Một người vô tội bị thương!
+ bayıldı — güvenli yere ulaşamaz	 đã bất tỉnh — không thể tới nơi an toàn
+İĞNE İSABET — hedef birkaç saniyede bayılacak	KIM TIÊM TRÚNG — mục tiêu sẽ ngất sau vài giây
+Koruma bayılıyor	Vệ sĩ đang ngất dần
+Masum birini bayılttın	Bạn đã làm một người vô tội bất tỉnh
+KARŞI NİŞANCI SANA NİŞAN ALDI — ÖNCE SEN VUR!	XẠ THỦ ĐỊCH ĐANG NGẮM BẠN — BẮN TRƯỚC ĐI!
+SİLAHLI ADAM NİŞAN ALIYOR — ŞİMDİ VUR!	TAY SÚNG ĐANG NGẮM — BẮN NGAY!
+GÖZCÜ SENİ GÖRDÜ!	TRINH SÁT ĐÃ THẤY BẠN!
+GÖZCÜ SENİ GÖRDÜ — telsize uzanıyor, onu durdur!	TRINH SÁT ĐÃ THẤY BẠN — hắn đang với bộ đàm, chặn hắn lại!
+Koruma telsize uzanıyor — onu durdur!	Vệ sĩ đang với lấy bộ đàm — chặn hắn lại!
+GÖZCÜ YERİNİ BİLDİRDİ!	TRINH SÁT ĐÃ BÁO VỊ TRÍ CỦA BẠN!
+ALARM VERİLDİ — HEDEF KAÇIYOR	BÁO ĐỘNG ĐÃ VANG — MỤC TIÊU ĐANG CHẠY
+Hedef tedirgin oldu ve kaçıyor!	Mục tiêu hoảng sợ và đang bỏ chạy!
+Hedef saklandığı yerden çıkmadı	Mục tiêu không rời chỗ ẩn nấp
+Hedef içeri saklandı — bekle, bakmak için tekrar çıkabilir	Mục tiêu đã trốn vào trong — chờ đã, hắn có thể ra ngoài xem lần nữa
+Hedef kapıda göründü — şimdi!	Mục tiêu đã xuất hiện ở cửa — ngay bây giờ!
+Hedef siperin arkasında, görünmüyor. Yakınına ateş et: sesi duyunca bakmak için açığa çıkar. Bir daha ateş edersen kaçar — o sırada vur.	Mục tiêu đang ở sau vật chắn, không nhìn thấy. Bắn gần chỗ hắn: nghe tiếng động, hắn sẽ ló ra xem. Bắn thêm lần nữa thì hắn chạy — hãy bắn đúng lúc đó.
+ISKALADIN — 	TRƯỢT — 
+ KAÇIYOR!	 ĐANG CHẠY TRỐN!
+Iskaladın — biri ürktü ve kaçıyor!	Bắn trượt — có kẻ hoảng sợ và đang bỏ chạy!
+Sana ateş edenleri sustur	Hạ những kẻ đang bắn bạn
+Sana ateş edenleri sustur  ·  	Hạ những kẻ đang bắn bạn  ·  
+ kaldı	 còn lại
+HEDEF TAMAM — AMA SENİ BULDULAR: SİLAHLILARI SUSTUR	XONG MỤC TIÊU — NHƯNG CHÚNG ĐÃ THẤY BẠN: HẠ BỌN CÓ SÚNG
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — 	Mục tiêu đã gục nhưng vị trí của bạn đã lộ. Đừng để ai bám theo — còn 
+ silahlı var, hepsini sustur. Gerekirse siper al.	 tay súng, hạ hết chúng. Cần thì hãy ẩn nấp.
+Kalan silahlılar geri çekildi	Các tay súng còn lại đã rút lui
+BÖLGE TEMİZ — GÖREV TAMAM	KHU VỰC AN TOÀN — XONG HỢP ĐỒNG
+Sözleşme ücreti	Tiền hợp đồng
+Yıldız hedefleri  ×	Mục tiêu sao  ×
+Sessiz iş — alarm yok	Việc êm — không báo động
+Uzak atış  ·  	Phát bắn xa  ·  
+Keşif  ·  	Trinh sát  ·  
+ tehdit	 mối đe dọa
+Sivil kaybı  ×	Dân thường thương vong  ×
+Yaralı sivil  ×	Dân thường bị thương  ×
+Tekrar oynanış  ×%	Chơi lại  ×%
+Günün sözleşmesi (+%33: ücretin 2 katı)	Hợp đồng trong ngày (+33%: gấp 2 tiền công)
+GÜMRÜK KAPISI	CỔNG HẢI QUAN
+Liman giriş kapısı	Cổng vào cảng
+Selim Kaya kapıda denetimde. Kimliğini tara, sonra işini bitir.	Võ Đình Sang đang kiểm tra ở cổng. Quét danh tính, rồi kết thúc hắn.
+Gümrük müdürü Selim Kaya, rüşvet karşılığında kaçakçılara liman kapısını açıyor. Her sabah kapıdaki güvenlik noktasını denetliyor.\n\nKapıdan ayrılmadan onu etkisiz hale getir. Alarm verilirse otoparktaki aracına koşar.	Giám đốc hải quan Võ Đình Sang nhận hối lộ để mở cổng cảng cho bọn buôn lậu. Sáng nào hắn cũng đi kiểm tra trạm an ninh ở cổng.\n\nHãy vô hiệu hóa hắn trước khi hắn rời cổng. Nếu báo động vang lên, hắn sẽ chạy ra xe ở bãi đỗ.
+Dürbünü aç ve nişangahı birinin üzerinde tut: kimliği otomatik taranır. Kırmızı işaret hedefi gösterir.	Mở ống ngắm và giữ tâm ngắm trên một người: danh tính sẽ được quét tự động. Dấu đỏ chỉ mục tiêu.
+Selim Kaya	Võ Đình Sang
+Gümrük Müdürü	Giám Đốc Hải Quan
+Lacivert takım elbise, kırmızı kravat, gözlük.	Com-lê xanh đậm, cà vạt đỏ, kính.
+Gümrük müdürü Selim Kaya'yı etkisiz hale getir	Vô hiệu hóa giám đốc hải quan Võ Đình Sang
+LİMAN OFİSİ	VĂN PHÒNG CẢNG
+Liman yönetim binası	Tòa nhà ban quản lý cảng
+Aydın sigara için dışarı çıkacak. Kapıdan uzaklaştığı an senin anın.	Cường sẽ ra ngoài hút thuốc. Khi hắn rời xa cửa, đó là lúc của bạn.
+Liman müdür yardımcısı Can Aydın, kaçak sevkiyatların kayıtlarını siliyor. Binadan sadece sigara molalarında çıkıyor.\n\nKapıdan çıktığında fırsatı kaçırma: alarm verilirse binaya kapanır ve görev başarısız olur.	Phó giám đốc cảng Mai Chí Cường đang xóa hồ sơ các chuyến hàng lậu. Hắn chỉ ra khỏi tòa nhà vào giờ nghỉ hút thuốc.\n\nĐừng bỏ lỡ thời cơ khi hắn bước ra: nếu báo động vang lên, hắn sẽ đóng cửa trốn trong tòa nhà và hợp đồng thất bại.
+Hedef bina içindeyken bekle. Kapıdan çıkınca sigara içtiği noktada sabit durur — nefesini tut ve kafasına nişan al.	Chờ khi mục tiêu còn trong tòa nhà. Ra khỏi cửa, hắn sẽ đứng yên ở chỗ hút thuốc — nín thở và ngắm vào đầu.
+Can Aydın	Mai Chí Cường
+Müdür Yardımcısı	Phó Giám Đốc
+Mavi polo tişört, siyah pantolon. Sigara molasında dışarı çıkar.	Áo polo xanh dương, quần đen. Ra ngoài vào giờ nghỉ hút thuốc.
+Can Aydın'ı binaya geri girmeden vur	Bắn Mai Chí Cường trước khi hắn quay vào tòa nhà
+Alarm verdirme	Không để báo động vang lên
+Hedefi kafadan vur	Bắn vào đầu mục tiêu
+KONTEYNER TAKASI	GIAO DỊCH CONTAINER
+Konteyner sahası	Bãi container
+Kuzgun limana giriyor. Takas yeri çatıdan görünmüyor — onu dışarı çekmen gerekecek.	Quạ đang vào cảng. Từ mái nhà không thấy chỗ giao dịch — bạn sẽ phải dụ hắn ra.
+Kuzgun lakaplı kaçakçı Tarık Bal arabasıyla limana gelecek ve konteynerlerin arasında bir alıcıyla buluşacak. Takas bitince arabasına binip gidecek.\n\nTakas yeri çatıdan görünmüyor. Ya yürürken vur ya da onu açığa çıkar: arabasının alarmı ya da yakınına düşen bir kurşun. İkinci kez ürkerse arabasına koşar.	Tên buôn lậu Đỗ Văn Tú, biệt danh Quạ, sẽ lái xe tới cảng và gặp một người mua giữa các container. Giao dịch xong, hắn sẽ lên xe rời đi.\n\nTừ mái nhà không thấy chỗ giao dịch. Hoặc bắn khi hắn đang đi bộ, hoặc dụ hắn ra chỗ trống: còi báo động xe hắn hoặc một viên đạn rơi gần hắn. Hoảng thêm lần nữa là hắn chạy ra xe.
+Hedef görünmüyorsa yakınına ateş et: sese bakmak için açığa çıkar. Arabasını vurursan alarm çalar, kontrol etmeye gelir.	Nếu không thấy mục tiêu, hãy bắn gần chỗ hắn: hắn sẽ ló ra xem tiếng động. Bắn vào xe hắn thì còi báo động kêu, hắn sẽ tới kiểm tra.
+Tarık konteynerlerin arasında, buradan görünmüyor. Arabasına ateş et: alarm çalınca kontrol etmeye gelir. Ya da ara yolun açık kısmına ateş et, sese bakmak için oraya yürür.	Tú ở giữa các container, từ đây không thấy được. Bắn vào xe hắn: còi báo động kêu, hắn sẽ tới kiểm tra. Hoặc bắn vào đoạn trống của lối đi, hắn sẽ đi tới đó xem tiếng động.
+Arabasında — limana geliyor	Trên xe — đang tới cảng
+Hedef arabasıyla kaçtı	Mục tiêu đã lái xe trốn thoát
+Takas bitti — hedef arabasına dönüyor!	Giao dịch xong — mục tiêu đang quay lại xe!
+Takasın bitmesine	Tới lúc giao dịch xong
+Hedefin arabası kapıdan girdi	Xe của mục tiêu đã qua cổng
+Araç alarmı çalıyor!	Còi báo động xe đang kêu!
+Tarık Bal	Đỗ Văn Tú
+Gri tişört, kot pantolon, kırmızı bere. Kolları dövmeli.	Áo phông xám, quần jean, mũ len đỏ. Tay có hình xăm.
+Kuzgun'u takas bitmeden etkisiz hale getir	Vô hiệu hóa Quạ trước khi giao dịch kết thúc
+En fazla 3 atış	Tối đa 3 phát bắn
+GECE NÖBETİ	CANH ĐÊM
+Depolar ve gözetleme kulesi	Nhà kho và tháp canh
+Rico ve adamları ateşin başında. Kuledeki gözcü her şeyi görür — önce onu düşün.	Rico và đồng bọn đang ngồi quanh đống lửa. Trinh sát trên tháp thấy hết mọi thứ — hãy tính tới hắn trước.
+Paralı asker Rico Vargas ve adamları depoları koruyor. Gece soğuğunda ateş varilinin başında toplanıyorlar.\n\nKuledeki gözcü cesetleri görürse alarm verir. Önce onu susturmak işini kolaylaştırır.	Lính đánh thuê Rico Vargas và đồng bọn đang canh giữ các nhà kho. Trong cái lạnh ban đêm, chúng tụ tập quanh thùng lửa.\n\nNếu trinh sát trên tháp thấy xác chết, hắn sẽ báo động. Hạ hắn trước sẽ giúp bạn dễ dàng hơn.
+Ateşin yanındaki kırmızı yakıt bidonu tek atışta patlar ve yanındakileri götürür — ama yanlarındaki bekçi de ölür (sivil kayıp, yıldız kaybı) ve patlama sessiz iş primini yakar. Temiz iş için Rico'yu doğrudan vur.	Can nhiên liệu màu đỏ cạnh đống lửa sẽ nổ chỉ với một phát và cuốn theo những kẻ đứng gần — nhưng người gác cạnh chúng cũng sẽ chết (dân thường thương vong, mất sao) và vụ nổ làm mất thưởng việc êm. Muốn sạch sẽ thì bắn thẳng Rico.
+Paralı Asker	Lính Đánh Thuê
+Kel ve sakallı. Taktik yelek, kırmızı tişört.	Đầu trọc, có râu. Áo giáp chiến thuật, áo phông đỏ.
+Rico Vargas'ı etkisiz hale getir	Vô hiệu hóa Rico Vargas
+Bekçiye zarar verme	Không làm hại người gác
+DEPODAKİ KÖSTEBEK	CHUỘT CHŨI TRONG KHO
+A deposu yükleme alanı	Khu bốc dỡ kho A
+Köstebek kasa taşıyanlardan biri. Masumları vurma: önce tara.	Chuột Chũi là một trong những người khuân thùng. Đừng bắn người vô tội: quét trước đã.
+Depoda çalışan Kerim, örgütün sevkiyat bilgilerini rakiplere satıyor. Diğer işçilerle birlikte kasa taşıyor.\n\nİşçiler masum: hedefi kıyafetinden tanı ve ateş etmeden önce mutlaka tara.	Kiên, người làm trong kho, đang bán thông tin vận chuyển của tổ chức cho đối thủ. Hắn khuân thùng cùng những công nhân khác.\n\nCác công nhân đều vô tội: nhận ra mục tiêu qua quần áo và nhất định phải quét trước khi bắn.
+Hareket eden hedefi vururken kurşunun uçuş süresini hesaba kat: yürüdüğü yönün biraz önüne nişan al.	Khi bắn mục tiêu đang di chuyển, hãy tính thời gian bay của đạn: ngắm hơi đón trước theo hướng hắn đi.
+Kerim Usta	Đào Văn Kiên
+Köstebek	Chuột Chũi
+Kırmızı kazak, siyah pantolon, bere. Kasa taşıyor.	Áo len đỏ, quần đen, mũ len. Đang khuân thùng.
+Köstebeği bul ve etkisiz hale getir	Tìm và vô hiệu hóa Chuột Chũi
+Sivillere zarar verme	Không làm hại dân thường
+RIHTIM KAÇAĞI	TẨU THOÁT Ở BẾN
+Rıhtım ve iskele	Bến tàu và cầu cảng
+Tilki belgeleri teslim edip tekneye koşacak. Tekneyi vurursan yaya kalır.	Cáo sẽ giao tài liệu rồi chạy ra thuyền. Bắn hỏng thuyền thì hắn phải chạy bộ.
+Tilki lakaplı Deniz Kara, çalınan belgeleri rıhtımda bir adama teslim edecek. Ardından iskeledeki sürat teknesiyle kaçacak.\n\nTekneye binerse onu kaybederiz. Hareketli hedefe önden nişan al.	Phan Minh Hải, biệt danh Cáo, sẽ giao tài liệu bị đánh cắp cho một người ở bến tàu. Sau đó hắn sẽ tẩu thoát bằng xuồng cao tốc ở cầu cảng.\n\nNếu hắn lên được xuồng, ta sẽ mất hắn. Ngắm đón trước mục tiêu di động.
+300 metrede kurşun yaklaşık 0,4 saniye uçar. Koşan hedefte nişanı yaklaşık bir gövde önüne al. İskeledeki sürat teknesini önceden vurursan motoru çalışmaz: tekneyle kaçamaz, iskeleden koşmak zorunda kalır.	Ở 300 mét, đạn bay mất khoảng 0,4 giây. Với mục tiêu đang chạy, hãy ngắm đón trước khoảng một thân người. Nếu bắn xuồng cao tốc ở cầu cảng trước, động cơ sẽ hỏng: hắn không thể trốn bằng xuồng, buộc phải chạy dọc cầu cảng.
+Tekne çalışmıyor — hedef iskeleden kaçıyor!	Xuồng không nổ máy — mục tiêu đang chạy dọc cầu cảng!
+Tekne vuruldu — motor çalışmıyor, tekneyle kaçamaz!	Đã bắn trúng xuồng — động cơ hỏng, hắn không thể trốn bằng xuồng!
+Deniz Kara	Phan Minh Hải
+Kahverengi kapüşonlu, kasket, koyu pantolon.	Áo hoodie nâu, mũ lưỡi trai, quần sẫm màu.
+Tilki'yi tekneyle kaçmadan durdur	Chặn Cáo trước khi hắn trốn bằng xuồng
+Önce teknesini vur	Bắn xuồng của hắn trước
+KAPTAN KÖŞKÜ	BUỒNG LÁI
+Meridian Star köprüüstü	Đài chỉ huy tàu Meridian Star
+Kaptan köprüüstünün kanadına çıkacak. Uzun atış, sert rüzgar — rüzgar okuna bak.	Thuyền trưởng sẽ ra cánh đài chỉ huy. Bắn xa, gió mạnh — hãy nhìn mũi tên gió.
+Meridian Star'ın kaptanı Orhan Demir, örgütün silah yükünü teslim etmeden limandan ayrılmak üzere. Köprüüstünün açık kanadına çıkıyor.\n\nMesafe uzun ve rüzgar sert. Kaçırırsan köşke kapanır.	Thuyền trưởng tàu Meridian Star, Ngô Hữu Lộc, sắp rời cảng mà không giao lô vũ khí của tổ chức. Hắn đang bước ra cánh hở của đài chỉ huy.\n\nKhoảng cách xa và gió mạnh. Bắn trượt là hắn trốn vào buồng lái.
+Uzun mesafede kurşun düşer. Nişan yardımı açıksa dürbündeki kırmızı nokta kurşunun gideceği yeri gösterir.	Ở cự ly xa, đạn sẽ rơi. Nếu bật hỗ trợ ngắm, chấm đỏ trong ống ngắm cho biết nơi đạn sẽ tới.
+Orhan Demir	Ngô Hữu Lộc
+Yeşil mont, kot pantolon. Köprüüstü kanadında.	Áo khoác xanh lá, quần jean. Ở cánh đài chỉ huy.
+Kaptan Orhan Demir'i köşke kapanmadan vur	Bắn Thuyền trưởng Ngô Hữu Lộc trước khi hắn trốn vào buồng lái
+YAT PARTİSİ	TIỆC DU THUYỀN
+İskeledeki yat	Du thuyền ở cầu cảng
+Kral'ın partisi. Beyaz smokinli iki adam var — bıyıklı ve gözlüklü olan bizim adam.	Tiệc của Karel. Có hai người mặc tuxedo trắng — kẻ có ria mép và đeo kính là người ta cần.
+Örgütün başı Viktor Kral yatında kutlama yapıyor. Korumaları her yerde.\n\nKonuklardan biri de beyaz smokin giymiş: taramadan ateş etme. Kral bir süre sonra iskeleden ayrılıp depolara yürüyecek.	Thủ lĩnh tổ chức Victor Karel đang ăn mừng trên du thuyền. Vệ sĩ của hắn ở khắp nơi.\n\nMột vị khách cũng mặc tuxedo trắng: đừng bắn khi chưa quét. Một lúc sau, Karel sẽ rời cầu cảng đi bộ về phía nhà kho.
+Gerçek hedef bıyıklı ve güneş gözlüklü. Emin değilsen nişangahı üzerinde tut ve kimlik kartını oku.	Mục tiêu thật có ria mép và đeo kính râm. Nếu không chắc, hãy giữ tâm ngắm trên người đó và đọc thẻ danh tính.
+Kral'ın ayrılmasına	Tới lúc Karel rời đi
+Viktor Kral	Victor Karel
+Örgüt Lideri	Thủ Lĩnh Tổ Chức
+Beyaz smokin, papyon. Bıyıklı ve güneş gözlüklü.	Tuxedo trắng, nơ bướm. Có ria mép, đeo kính râm.
+Viktor Kral'ı yattan ayrılmadan etkisiz hale getir	Vô hiệu hóa Victor Karel trước khi hắn rời du thuyền
+Konuklara zarar verme	Không làm hại khách mời
+Korumalara dokunma	Không đụng tới vệ sĩ
+Giriş kapısı ve yönetim binası	Cổng vào và tòa nhà ban quản lý
+Ayten Şahin bugün örgüte karşı ifade verecek. Polis onu ofise götürüyor. Kalabalıkta iki tetikçi var.	Hôm nay Phạm Thị Hạnh sẽ khai chống lại tổ chức. Cảnh sát đang đưa cô tới văn phòng. Trong đám đông có hai sát thủ.
+Gümrük memuru Ayten Şahin, örgütün rüşvet ağına karşı tanıklık edecek. Polis onu sabah liman yönetim binasına getiriyor.\n\nÖrgüt iki tetikçi yolladı: işçi kılığında kalabalığa karışmışlar. Herkesi dürbünle tara — silahlılar kimlik kartında görünür. Ayten binaya girene kadar hayatta kalmalı.\n\nÖrgüt yalnız gelmedi: gözetleme kulesinde dürbünlü bir gözcü, kapının iki yanında silahlı adamları var. Yerini bulurlarsa sana ateş ederler.	Nhân viên hải quan Phạm Thị Hạnh sẽ làm chứng chống lại mạng lưới hối lộ của tổ chức. Sáng nay cảnh sát đưa cô tới tòa nhà ban quản lý cảng.\n\nTổ chức đã cử hai sát thủ: chúng cải trang thành công nhân, trà trộn vào đám đông. Quét từng người bằng ống ngắm — kẻ có súng sẽ hiện trên thẻ danh tính. Hạnh phải sống cho tới khi vào được tòa nhà.\n\nTổ chức không đến một mình: trên tháp canh có trinh sát cầm ống nhòm, hai bên cổng có tay súng. Nếu chúng tìm ra vị trí của bạn, chúng sẽ nổ súng.
+Tetikçi silah çekince işaretçisinin etrafındaki kırmızı halka dolmadan vur. Kolundan vurursan silahını düşürür. Kuledeki gözcünün dürbünü sana dönünce eğil (SİPER) ya da önce onu indir.	Khi sát thủ rút súng, hãy bắn trước khi vòng đỏ quanh dấu của hắn đầy. Bắn vào tay sẽ khiến hắn đánh rơi súng. Khi ống nhòm của trinh sát trên tháp quay về phía bạn, hãy cúi xuống (ẨN NẤP) hoặc hạ hắn trước.
+Termal dürbün kalabalıkta işe yarar	Ống ngắm nhiệt rất hữu ích giữa đám đông
+Ayten Şahin	Phạm Thị Hạnh
+Bej trençkot — polis eşliğinde	Áo trench coat màu be — có cảnh sát hộ tống
+Tanığı ofise kadar koru	Bảo vệ nhân chứng tới tận văn phòng
+Bilinmeyen İşçi	Công Nhân Lạ Mặt
+Temizlikçi kılığında — silahlı	Cải trang lao công — có súng
+İşçi kılığında — silahlı	Cải trang công nhân — có súng
+Tetikçileri durdur	Chặn các sát thủ
+Tetikçileri durdur  	Chặn các sát thủ  
+Kulede dürbünlü biri var. Dürbünü sana döndüğünde eğil — seni görürse telsizle herkese bildirir.	Trên tháp có kẻ cầm ống nhòm. Khi ống nhòm quay về phía bạn, hãy cúi xuống — nếu thấy bạn, hắn sẽ báo cho tất cả qua bộ đàm.
+Polis arabasında — yolda	Trên xe cảnh sát — đang trên đường
+Tanık arabadan indi, kapıya yürüyor. Gözünü dört aç.	Nhân chứng đã xuống xe, đang đi về phía cổng. Hãy để mắt thật kỹ.
+POLİS	CẢNH SÁT
+Silah! Arkamda kal, eğil!	Có súng! Ở sau tôi, cúi xuống!
+Herkesi tara. Kartında SİLAHLI yazan adam bizim adamımız değil.	Quét tất cả. Kẻ có thẻ ghi CÓ SÚNG không phải người của ta.
+Bej trençkot, kahverengi saç. Polis memuruyla yürüyor.	Áo trench coat màu be, tóc nâu. Đi cùng một cảnh sát.
+Tanığı ofise girene kadar hayatta tut	Giữ nhân chứng sống cho tới khi cô vào văn phòng
+Kalabalıktaki iki tetikçiyi bul ve durdur (bonus)	Tìm và chặn hai sát thủ trong đám đông (thưởng)
+İki tetikçiyi de silah çekmeden durdur	Chặn cả hai sát thủ trước khi chúng rút súng
+KURYE	KẺ VẬN CHUYỂN
+Kurye çantayla depodan çıkacak. Müşteri onu canlı istiyor: bacağından vur, gerisini ekip halleder.	Kẻ vận chuyển sẽ mang túi rời nhà kho. Khách hàng muốn hắn còn sống: bắn vào chân, phần còn lại để đội lo.
+Emre Doğan, örgütün banka hesaplarını taşıyan kurye. Birazdan A deposundan çıkıp arabasına yürüyecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, yere düşsün. Ekibimiz arabayla gelip onu alacak. Öldürürsen bilgi kaybolur. Dikkat: örgüt, kuryesinin konuşmasındansa ölmesini tercih eder — korumaları ona silah çekecek, depodaki adamları da dışarı çıkıp onu susturmaya çalışacak.	Hà Minh Tuấn là kẻ vận chuyển nắm tài khoản ngân hàng của tổ chức. Lát nữa hắn sẽ rời kho A và đi bộ ra xe.\n\nKhách hàng muốn hắn SỐNG: bắn vào chân cho hắn gục xuống. Đội của ta sẽ lái xe tới đón hắn. Giết hắn là mất thông tin. Cẩn thận: tổ chức thà để kẻ vận chuyển chết còn hơn để hắn khai — vệ sĩ sẽ rút súng nhắm vào hắn, người trong kho cũng sẽ kéo ra để bịt miệng hắn.
+Bacağından vurulan yere düşer. Korumalar onu susturmak için silah çekerse kırmızı halka dolmadan indir — kolundan vurursan silahını düşürür. Iskalarsan kurye arabasına koşar.	Bị bắn vào chân là gục ngay. Nếu vệ sĩ rút súng định bịt miệng hắn, hạ chúng trước khi vòng đỏ đầy — bắn vào tay sẽ khiến chúng đánh rơi súng. Bắn trượt thì kẻ vận chuyển sẽ chạy ra xe.
+Kurye arabasıyla kaçtı	Kẻ vận chuyển đã lái xe trốn thoát
+Ekip gelene kadar kuryeyi hayatta tut	Giữ kẻ vận chuyển sống cho tới khi đội tới
+Kurye dışarıda. Bacağına nişan al.	Kẻ vận chuyển đã ra ngoài. Ngắm vào chân.
+Depodaki Adam	Gã Trong Kho
+Depodan silahlı biri çıktı — kuryeye gidiyor!	Một tay súng từ trong kho đi ra — đang tiến tới kẻ vận chuyển!
+Yol temiz — ekip gaza bastı, geliyorlar!	Đường thông rồi — đội đã nhấn ga, đang tới!
+Ekip kuryeyi aldı!	Đội đã đón được kẻ vận chuyển!
+Ekibin gelmesine	Tới lúc đội tới
+Kurye yerde! Ekip yolda — 	Kẻ vận chuyển đã gục! Đội đang tới — 
+ saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	 giây. Người của tổ chức sẽ tìm cách bịt miệng hắn, cả từ trong kho cũng sẽ kéo ra!
+Emre Doğan	Hà Minh Tuấn
+Mavi polo tişört, siyah pantolon. Elinde siyah bir çanta.	Áo polo xanh dương, quần đen. Tay cầm một chiếc túi đen.
+Ekip gelene kadar onu silahlı adamlardan koru	Bảo vệ hắn khỏi các tay súng cho tới khi đội tới
+Kuryeyi canlı teslim et	Giao nộp kẻ vận chuyển còn sống
+İlk atışta bacağından vur	Bắn vào chân ngay phát đầu
+Kimse kuryeye nişan alamasın	Không để ai kịp ngắm vào kẻ vận chuyển
+KARARTMA	MẤT ĐIỆN
+Merkez saha — gece sevkiyatı	Khu trung tâm — chuyến hàng đêm
+Kartal sevkiyatı bizzat denetliyor. Işıklar onun lehine — ama elektrik panosu direğin dibinde.	Đại Bàng đích thân giám sát chuyến hàng. Ánh đèn đang có lợi cho hắn — nhưng tủ điện nằm ngay chân cột đèn.
+Silah tüccarı Hakan Er, namıdiğer Kartal, gece yarısı limanın merkez sahasında bir sevkiyatı denetliyor. Etrafı aydınlık ve korumalarla dolu.\n\nIşık direğinin dibindeki elektrik panosunu vurursan bütün liman karanlığa gömülür: korumalar kör kalır, ama Kartal da arabasına yürür. Gece görüşü dürbünü bu iş için sende.	Tay buôn vũ khí Triệu Quang Huy, biệt danh Đại Bàng, đang giám sát một chuyến hàng lúc nửa đêm ở khu trung tâm của cảng. Xung quanh sáng đèn và đầy vệ sĩ.\n\nNếu bắn tủ điện ở chân cột đèn, cả cảng sẽ chìm trong bóng tối: vệ sĩ sẽ bị mù, nhưng Đại Bàng cũng sẽ đi ra xe. Lần này bạn được cấp ống ngắm nhìn đêm.
+Gece görüşünü dürbündeki göz tuşuyla aç. Karanlıkta korumalar yakından geçmedikçe cesetleri göremez. Kartal arabasına binerse kaçar.	Bật nhìn đêm bằng nút hình con mắt trên ống ngắm. Trong bóng tối, vệ sĩ không thấy xác chết trừ khi đi ngang qua gần. Nếu Đại Bàng lên xe, hắn sẽ thoát.
+Kartal arabasıyla kaçtı	Đại Bàng đã lái xe trốn thoát
+Kartal'ı etkisiz hale getir	Vô hiệu hóa Đại Bàng
+Kartal arabasına yürüyor!	Đại Bàng đang đi ra xe!
+Sevkiyatın bitmesine	Tới lúc chuyến hàng xong
+KARARTMA — liman karanlığa gömüldü	MẤT ĐIỆN — cảng đã chìm trong bóng tối
+Işıklar gitti! Gece görüşünü aç — Kartal arabasına gidiyor!	Mất đèn rồi! Bật nhìn đêm lên — Đại Bàng đang đi ra xe!
+Hakan Er	Triệu Quang Huy
+Lacivert takım, kırmızı kravat, gözlük. Sevkiyatı denetliyor.	Com-lê xanh đậm, cà vạt đỏ, kính. Đang giám sát chuyến hàng.
+Silah tüccarı Kartal'ı etkisiz hale getir	Vô hiệu hóa tay buôn vũ khí Đại Bàng
+İstersen önce elektrik panosunu vurup limanı karart	Nếu muốn, hãy bắn tủ điện trước để cảng mất điện
+Işıkları söndür ve karanlıkta vur	Tắt đèn và bắn trong bóng tối
+İĞNE	KIM TIÊM
+Rıhtım — Meridian Star iskelesi	Bến tàu — cầu cảng Meridian Star
+Kimyager gemiye binmeden onu uyut. Kimse ölmeyecek — bu iş temiz olmalı.	Hãy làm Nhà Hóa Học ngất trước khi cô ta lên tàu. Không ai được chết — việc này phải sạch.
+Dr. Selin Aras, örgütün sentetik uyuşturucu laboratuvarını yöneten kimyager. Şafak sökmeden iki korumasıyla rıhtım boyunca yürüyüp Meridian Star'a binecek.\n\nİstihbarat onu canlı istiyor. Sana yedi uyuşturucu iğne veriyoruz: kimyageri bayılt. Korumaları da bayıltırsan ekibimiz tekneyle gelip onu sessizce alır. Korumalar — ya da gemiden inen biri — baygın kadına ulaşırsa onu gemiye taşırlar.	Tiến sĩ Lâm Bích Ngọc là nhà hóa học điều hành phòng thí nghiệm ma túy tổng hợp của tổ chức. Trước bình minh, cô ta sẽ cùng hai vệ sĩ đi dọc bến tàu và lên tàu Meridian Star.\n\nTình báo muốn cô ta còn sống. Ta giao cho bạn bảy mũi kim gây mê: hãy làm nhà hóa học bất tỉnh. Nếu bạn cũng hạ gục các vệ sĩ, đội của ta sẽ tới bằng thuyền và lặng lẽ đưa cô ta đi. Nếu vệ sĩ — hoặc người từ trên tàu xuống — tới được chỗ cô ta, chúng sẽ khiêng cô ta lên tàu.
+Mermi seçici tuşuyla UYUŞTURUCU İĞNE'ye geç. İğne yavaş uçar ve çok düşer: kırmızı nokta isabet yerini gösterir. Önce korumaları bayıltmak işi kolaylaştırır.	Chuyển sang ĐẠN GÂY MÊ bằng nút chọn đạn. Kim tiêm bay chậm và rơi nhiều: chấm đỏ cho biết điểm chạm. Làm vệ sĩ ngất trước sẽ dễ hơn.
+Kimyager gemiye bindi	Nhà Hóa Học đã lên tàu
+Kimyageri uyuşturucu iğneyle bayılt	Làm Nhà Hóa Học bất tỉnh bằng kim gây mê
+Ekip tekneyle gelene kadar onu korumalardan uzak tut	Giữ vệ sĩ tránh xa cô ta cho tới khi đội tới bằng thuyền
+Meridian Star'ın adamı — kimyageri gemiye taşımak isteyecek	Người của Meridian Star — sẽ tìm cách khiêng Nhà Hóa Học lên tàu
+Ekip kimyageri tekneye aldı!	Đội đã đưa Nhà Hóa Học lên thuyền!
+Teknenin gelmesine	Tới lúc thuyền tới
+Gemiden iki kişi iniyor — kimyagere gidiyorlar!	Hai người đang xuống tàu — tiến về phía Nhà Hóa Học!
+Herkes yerde. Tekne hızlanıyor!	Tất cả đã gục. Thuyền đang tăng tốc!
+Korumalar temiz. Tekne geliyor — 	Vệ sĩ đã xong. Thuyền đang tới — 
+ saniye.	 giây.
+İğne tuttu! Korumaları durdur, sonra ekibi gönderiyorum.	Kim tiêm đã trúng! Chặn đám vệ sĩ, rồi tôi sẽ cho đội tới.
+Koruma kimyagere ulaştı — onu taşıyacak!	Vệ sĩ đã tới chỗ Nhà Hóa Học — hắn sẽ khiêng cô ta đi!
+Mürettebat kimyagere ulaştı — onu kaldırıyorlar!	Thủy thủ đã tới chỗ Nhà Hóa Học — chúng đang nhấc cô ta lên!
+Kimyageri gemiye taşıdılar	Chúng đã khiêng Nhà Hóa Học lên tàu
+Dr. Selin Aras	Tiến sĩ Lâm Bích Ngọc
+Siyah mont, sarı saç. İki korumayla yürüyor.	Áo khoác đen, tóc vàng. Đi cùng hai vệ sĩ.
+Korumaları durdur, ekip onu tekneyle alsın	Chặn vệ sĩ để đội đón cô ta bằng thuyền
+Kimyageri canlı teslim et	Giao nộp Nhà Hóa Học còn sống
+Kimseyi öldürme	Không giết ai cả
+Önce korumaları bayılt	Làm vệ sĩ ngất trước
+CAM KULE	THÁP KÍNH
+Kordon Plaza — 11. kat	Duyên Hải Plaza — tầng 11
+Defne Aksoy hâlâ ofiste. Cam mermiyi durdurmaz — ama kırıldığı an içerideki herkes duyar.	Cao Phương Thảo vẫn còn ở văn phòng. Kính không cản được đạn — nhưng khi kính vỡ, mọi người bên trong đều nghe thấy.
+Liman ağı çöktü ama paranın aktığı yer hâlâ ayakta: Baran Holding. Finans direktörü Defne Aksoy, örgütün kirli parasını aklıyor ve bu gece hesapları yurtdışına taşıyacak.\n\nKordon Plaza'nın 11. katında, ışıkları yanan ofiste tek başına çalışıyor. Katta bir güvenlik görevlisi devriye geziyor. Saat 22:42'de asansörle iniyor: ondan önce bitir.	Mạng lưới ở cảng đã sụp nhưng nơi dòng tiền đổ về vẫn đứng vững: Tập đoàn Thế Khang. Giám đốc tài chính Cao Phương Thảo đang rửa tiền bẩn cho tổ chức và đêm nay sẽ chuyển các tài khoản ra nước ngoài.\n\nCô ta làm việc một mình trong văn phòng còn sáng đèn ở tầng 11 Duyên Hải Plaza. Một nhân viên bảo vệ đi tuần trên tầng. Lúc 22:42 cô ta sẽ đi thang máy xuống: hãy xong việc trước đó.
+Cam mermiyi yavaşlatır ama durdurmaz. İlk atışta cam kırılır ve içeridekiler sesi duyar: Defne kırık cama bakmaya gelir, ikinci kez ürkerse asansöre koşar.	Kính làm đạn chậm lại nhưng không cản được. Phát đầu sẽ làm vỡ kính và người bên trong nghe thấy: Thảo sẽ tới xem tấm kính vỡ, hoảng thêm lần nữa là cô ta chạy tới thang máy.
+Defne masaların arkasında, görünmüyor. Ofisin camına yakın bir yere ateş et: kırılan camı görmeye pencereye gelir.	Thảo ở sau dãy bàn, không thấy được. Bắn vào chỗ gần cửa kính văn phòng: cô ta sẽ ra cửa sổ xem tấm kính vỡ.
+Defne asansöre bindi	Thảo đã vào thang máy
+Asansöre inmesine	Tới lúc cô ta xuống thang máy
+Defne çantasını aldı — asansöre yürüyor!	Thảo đã cầm túi — đang đi tới thang máy!
+Katta bir güvenlik görevlisi var. Cesedi görürse alarm verir, Defne de kaçar.	Trên tầng có một nhân viên bảo vệ. Nếu thấy xác, hắn sẽ báo động và Thảo sẽ trốn thoát.
+Pencereye her gelişinde birkaç saniye durup şehre bakıyor. Sabırlı ol.	Mỗi lần ra cửa sổ, cô ta đứng lại vài giây nhìn thành phố. Hãy kiên nhẫn.
+Defne Aksoy	Cao Phương Thảo
+Siyah ceket, mavi etek, kızıl saç, gözlük. Kordon Plaza 11. kat.	Áo vest đen, váy xanh, tóc đỏ, kính. Tầng 11 Duyên Hải Plaza.
+Defne Aksoy'u asansöre binmeden etkisiz hale getir	Vô hiệu hóa Cao Phương Thảo trước khi cô ta vào thang máy
+TRAMVAY	XE ĐIỆN
+Saat Kulesi tramvay durağı	Trạm xe điện Tháp Đồng Hồ
+Postacı defteri tramvayla şehirden çıkaracak. 19:06 tramvayı durağa girdiğinde iş biter.	Người Đưa Thư sẽ mang cuốn sổ ra khỏi thành phố bằng xe điện. Khi chuyến 19:06 vào trạm là hết cơ hội.
+Mert Tunç, nam-ı diğer Postacı, Baran'ın rüşvet defterini taşıyor: kime ne ödendiyse hepsi orada. Kordon'dan yürüyüp Saat Kulesi durağında tramvay bekleyecek.\n\nDurak kalabalık. Postacı'ya çok benzeyen bir yolcu da orada: kapüşonlu, kasketli. Ateş etmeden önce tara. Tramvaya binerse onu kaybederiz.	Lý Minh Khoa, biệt danh Người Đưa Thư, đang mang sổ hối lộ của Khang: ai được trả bao nhiêu đều ghi cả trong đó. Hắn sẽ đi bộ từ bờ kè Duyên Hải và chờ xe điện ở trạm Tháp Đồng Hồ.\n\nTrạm rất đông. Ở đó còn có một hành khách rất giống Người Đưa Thư: áo hoodie, mũ lưỡi trai. Hãy quét trước khi bắn. Nếu hắn lên được xe điện, ta sẽ mất hắn.
+Yürüyen hedefe biraz önden nişan al. Durakta bekleyenlerden biri Postacı'ya çok benziyor: nişangahı üzerinde tut, kimlik kartını oku.	Ngắm hơi đón trước mục tiêu đang đi bộ. Một người đang chờ ở trạm rất giống Người Đưa Thư: giữ tâm ngắm trên người đó và đọc thẻ danh tính.
+Postacı kaçtı	Người Đưa Thư đã trốn thoát
+Hedef değil — Postacı'ya benzeyen bir yolcu	Không phải mục tiêu — một hành khách giống Người Đưa Thư
+Tramvayın gelmesine	Tới lúc xe điện tới
+Tramvay yola çıktı. Durağa girdiği an Postacı biner.	Xe điện đã khởi hành. Khi nó vào trạm, Người Đưa Thư sẽ lên xe.
+Tramvay durakta — herkes biniyor!	Xe điện đã vào trạm — mọi người đang lên xe!
+Postacı tramvaya bindi	Người Đưa Thư đã lên xe điện
+Postacı Kordon'dan durağa yürüyor. Durakta ona benzeyen biri var — önce tara.	Người Đưa Thư đang đi bộ từ bờ kè Duyên Hải tới trạm. Ở trạm có người giống hắn — quét trước đã.
+Mert Tunç	Lý Minh Khoa
+Postacı	Người Đưa Thư
+Koyu kapüşonlu, gri kasket, kot pantolon. Durağa yürüyor.	Áo hoodie sẫm màu, mũ lưỡi trai xám, quần jean. Đang đi bộ tới trạm.
+Postacı'yı tramvaya binmeden etkisiz hale getir	Vô hiệu hóa Người Đưa Thư trước khi hắn lên xe điện
+Postacı'yı yürürken vur	Bắn Người Đưa Thư khi hắn đang đi bộ
+Yolculara zarar verme	Không làm hại hành khách
+GALA	DẠ TIỆC
+Devlet Opera ve Balesi	Nhà hát Opera và Ballet Quốc gia
+Aydemir'in dublörü önden gelir. Limuzinden inen adama inanma — önce tara.	Kẻ đóng thế của Bảo sẽ tới trước. Đừng tin gã bước xuống từ limousine — quét trước đã.
+Armatör Cevdet Aydemir, Baran'ın gemilerinin sahibi. Bu gece operanın sezon açılışında: kırmızı halı, fotoğrafçılar, polis.\n\nAydemir kalabalığa asla önce kendisi çıkmaz: limuzinden önce dublörü iner. Gerçek Aydemir birkaç dakika sonra siyah bir sedanla gelir, eşiyle halıda poz verir ve içeri girer. Perde arasında balkona çıkacağı biliniyor.	Chủ tàu Tôn Gia Bảo là kẻ sở hữu các con tàu của Khang. Đêm nay hắn dự buổi khai mạc mùa diễn ở nhà hát opera: thảm đỏ, phóng viên ảnh, cảnh sát.\n\nBảo không bao giờ là người đầu tiên bước ra trước đám đông: kẻ đóng thế sẽ xuống limousine trước. Bảo thật sẽ tới vài phút sau bằng một chiếc sedan đen, tạo dáng trên thảm đỏ cùng vợ rồi vào trong. Ai cũng biết giờ giải lao hắn sẽ ra ban công.
+Flaşlar patlarken dürbünde parlama olur, panik yapma. Dublörü vurursan herkes kaçar ve gerçek Aydemir'in arabası durmadan geçer.	Khi đèn flash lóe, ống ngắm sẽ bị chói, đừng hoảng. Nếu bắn kẻ đóng thế, mọi người sẽ chạy tán loạn và xe của Bảo thật sẽ đi thẳng không dừng.
+Dikkat: limuzinden inen adam Aydemir'in dublörü olabilir	Chú ý: kẻ bước xuống limousine có thể là người đóng thế của Bảo
+DUBLÖR — bu Aydemir değil!	ĐÓNG THẾ — đây không phải Bảo!
+Sedanda — operaya geliyor	Trên chiếc sedan — đang tới nhà hát
+Aydemir operaya kaçtı	Bảo đã trốn vào nhà hát
+Aydemir salona döndü — fırsat kaçtı	Bảo đã quay lại khán phòng — lỡ mất thời cơ
+Aydemir balkona çıktı!	Bảo đã ra ban công!
+CANLI  ·  OPERA GİRİŞİ	TRỰC TIẾP  ·  CỬA NHÀ HÁT
+Siyah bir sedan bulvara girdi, operaya geliyor. Kim olduğunu taramadan ateş etme.	Một chiếc sedan đen đã vào đại lộ, đang tới nhà hát. Đừng bắn khi chưa quét xem là ai.
+Aydemir'in arabası durmadan geçti	Xe của Bảo đã đi thẳng không dừng
+İçeri giren dublördü. Asıl adam birazdan geliyor — sabır.	Kẻ vừa vào trong là người đóng thế. Kẻ thật sắp tới — kiên nhẫn.
+Cevdet Aydemir	Tôn Gia Bảo
+Armatör	Chủ Tàu
+Kır saç, bıyık, gri smokin ve papyon. Eşi kırmızı elbiseli.	Tóc hoa râm, ria mép, tuxedo xám và nơ bướm. Vợ hắn mặc váy đỏ.
+Cevdet Aydemir'i gala gecesinde etkisiz hale getir	Vô hiệu hóa Tôn Gia Bảo trong đêm dạ tiệc
+Kırmızı halıda vur	Bắn trên thảm đỏ
+Dublöre ve davetlilere dokunma	Không đụng tới kẻ đóng thế và khách mời
+MİTİNG	MÍT TINH
+Saat Kulesi Meydanı	Quảng trường Tháp Đồng Hồ
+Başsavcı bugün Baran hakkında iddianameyi açıklıyor. Onu öldürmek isteyen tek kişi değiliz bu sefer — onu korumak bizim işimiz.	Hôm nay Tổng Công tố sẽ công bố cáo trạng về Khang. Lần này ta không phải kẻ duy nhất muốn bà ấy chết — việc của ta là bảo vệ bà ấy.
+Başsavcı Nermin Arslan, meydandaki halk buluşmasında Baran'a açılan davayı anlatacak. Baran onu konuşturmamak için iki kişi tuttu: meydanı yukarıdan gören bir keskin nişancı ve kalabalığa karışmış silahlı biri.\n\nNişancıyı önce bul. Dikkat: bir atış yaparsan namlu alevini görür ve sana döner. Savcı konuşmasını bitirip sahneden inene kadar hayatta kalmalı.	Tổng Công tố Trần Mỹ Dung sẽ trình bày vụ án chống lại Khang trong buổi gặp gỡ người dân ở quảng trường. Khang đã thuê hai kẻ để bịt miệng bà: một xạ thủ bắn tỉa nhìn xuống quảng trường từ trên cao và một tay súng trà trộn vào đám đông.\n\nTìm xạ thủ trước. Cẩn thận: nếu bạn nổ súng, hắn sẽ thấy ánh lửa đầu nòng và quay về phía bạn. Công tố viên phải sống cho tới khi phát biểu xong và rời sân khấu.
+Keskin nişancının dürbünü güneşi yakaladıkça parlar. Sana nişan alırsa kırmızı halka dolmadan onu indir. Kalabalıktaki adam silah çekince kolundan vurursan silahını düşürür.	Ống ngắm của xạ thủ sẽ lóe lên khi bắt ánh mặt trời. Nếu hắn ngắm vào bạn, hạ hắn trước khi vòng đỏ đầy. Khi gã trong đám đông rút súng, bắn vào tay sẽ khiến hắn đánh rơi súng.
+Susturuculu tüfekle nişancı seni daha geç fark eder	Dùng súng có giảm thanh, xạ thủ sẽ phát hiện bạn chậm hơn
+İstihbarat: meydanı yukarıdan gören bir nişancı ve kalabalıkta silahlı biri var	Tình báo: có một xạ thủ nhìn xuống quảng trường từ trên cao và một tay súng trong đám đông
+Nermin Arslan	Trần Mỹ Dung
+BAŞSAVCI	TỔNG CÔNG TỐ
+Başsavcı — konuşması bitene kadar koru	Tổng Công tố — bảo vệ tới khi phát biểu xong
+Başsavcıyı konuşması bitene kadar koru	Bảo vệ Tổng Công tố cho tới khi bà phát biểu xong
+Kuledeki Nişancı	Xạ Thủ Trên Tháp
+Siyah gömlek, güneş gözlüğü — saat kulesinin çan katında	Áo sơ mi đen, kính râm — ở tầng chuông của tháp đồng hồ
+Kalabalıktaki Adam	Gã Trong Đám Đông
+Siyah kapüşonlu, kırmızı bere, sakallı	Áo hoodie đen, mũ len đỏ, có râu
+Nişancıyı ve silahlıyı durdur	Chặn xạ thủ và tay súng
+Nişancıyı ve silahlıyı durdur  	Chặn xạ thủ và tay súng  
+Kalabalıkta biri öne doğru itiliyor — silahı var!	Có kẻ đang chen lên phía trước đám đông — hắn có súng!
+Bir dürbün parladı! Savcıya nişan alıyorlar — bul onu!	Ống ngắm vừa lóe! Chúng đang ngắm vào công tố viên — tìm ra hắn!
+Kuledeki nişancı seni vurdu	Xạ thủ trên tháp đã bắn trúng bạn
+Meydanı tepeden gören her yere bak. Bir nişancı varsa dürbünü güneşte parlar.	Hãy nhìn mọi chỗ có thể nhìn xuống quảng trường từ trên cao. Nếu có xạ thủ, ống ngắm của hắn sẽ lóe dưới nắng.
+Başsavcı	Tổng Công tố
+Gri takım, küt kesim saç. Sahnede, kürsüde konuşuyor.	Com-lê xám, tóc cắt ngắn ngang. Đang phát biểu trên bục ở sân khấu.
+Nişancıyı ve kalabalıktaki silahlıyı bul ve durdur (bonus)	Tìm và chặn xạ thủ cùng tay súng trong đám đông (thưởng)
+Başsavcıyı koru	Bảo vệ Tổng Công tố
+Kimse nişan alamadan ikisini de durdur	Chặn cả hai trước khi ai kịp ngắm bắn
+Kalabalığa zarar verme	Không làm hại đám đông
+İSKELE	BẾN PHÀ
+Kordon vapur iskelesi	Bến phà Duyên Hải
+Muhasebeci sabah vapurundan inecek. Müşteri onu canlı istiyor: bacağından.	Tay kế toán sẽ xuống từ chuyến phà buổi sáng. Khách hàng muốn hắn còn sống: bắn vào chân.
+Ertan Koç, Baran'ın bütün hesaplarını bilen muhasebeci. Sabah vapuruyla şehre geliyor, iskeleden yürüyüp taksiye binecek ve havalimanına gidecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, taksi durağında bekleyen ekibimiz koşup onu alsın. Baran da onu izletiyor: muhasebeci yere düştüğü an susturmak için birini gönderecek.	Kiều Văn Thuận là kế toán nắm mọi tài khoản của Khang. Hắn tới thành phố bằng chuyến phà buổi sáng, sẽ đi bộ từ bến lên taxi để ra sân bay.\n\nKhách hàng muốn hắn SỐNG: bắn vào chân, để đội của ta đang chờ ở bến taxi chạy tới đón hắn. Khang cũng đang cho người theo dõi hắn: ngay khi tay kế toán gục xuống, Khang sẽ cử người tới bịt miệng hắn.
+Vapurdan inen kalabalıkta herkesi tara. Muhasebeci yere düşünce Baran'ın adamı motosikletle promenattan gelir: silah çekmeden önce onu durdur.	Quét mọi người trong dòng người xuống phà. Khi tay kế toán gục, người của Khang sẽ chạy xe máy tới từ đường dạo bộ ven biển: hãy chặn hắn trước khi hắn rút súng.
+Muhasebeci taksiyle kaçtı	Tay kế toán đã trốn bằng taxi
+Muhasebeciyi BACAĞINDAN vur — ölmemeli	Bắn vào CHÂN tay kế toán — hắn không được chết
+Vapurda — iskeleye yanaşıyor	Trên phà — đang cập bến
+CANLI  ·  VAPUR İSKELESİ	TRỰC TIẾP  ·  BẾN PHÀ
+Gri tişört, kırmızı bere — Baran'ın tetikçisi	Áo phông xám, mũ len đỏ — sát thủ của Khang
+Bekleyen Adam	Gã Đứng Chờ
+Gri ceket — tramvay durağında, silahlı	Áo khoác xám — ở trạm xe điện, có súng
+Baran'ın adamlarını durdur	Chặn người của Khang
+Baran'ın adamlarını durdur  	Chặn người của Khang  
+Ekibin ulaşmasına	Tới lúc đội tới nơi
+Muhasebeci yerde! Ekip koşuyor — 	Tay kế toán đã gục! Đội đang chạy tới — 
+ saniye. Baran'ın adamı da yolda!	 giây. Người của Khang cũng đang tới!
+Tramvay durağındaki gri ceketli de Baran'ın adamı — muhasebeciye gidiyor!	Gã áo khoác xám ở trạm xe điện cũng là người của Khang — hắn đang tiến tới tay kế toán!
+Tehlike geçti — ekip koşuyor!	Hết nguy hiểm — đội đang chạy tới!
+Ekip muhasebeciyi aldı!	Đội đã đón được tay kế toán!
+Vapur yanaşıyor. Muhasebeci elinde siyah bir evrak çantasıyla inecek.	Phà đang cập bến. Tay kế toán sẽ xuống, tay cầm một chiếc cặp tài liệu màu đen.
+Ertan Koç	Kiều Văn Thuận
+Kahverengi deri mont, kot pantolon, gözlük. Elinde siyah evrak çantası.	Áo khoác da nâu, quần jean, kính. Tay cầm cặp tài liệu màu đen.
+Ekip gelene kadar onu Baran'ın adamlarından koru	Bảo vệ hắn khỏi người của Khang cho tới khi đội tới
+Muhasebeciyi canlı teslim et	Giao nộp tay kế toán còn sống
+Baran'ın adamları nişan alamasın	Không để người của Khang kịp ngắm bắn
+YAĞMUR	MƯA
+Saat Kulesi Meydanı — çeşme	Quảng trường Tháp Đồng Hồ — đài phun nước
+ÇİFT HEDEF	MỤC TIÊU KÉP
+İkisi de şemsiye altında. Biri düştüğü an öteki kaçar — ikinci atışın hazır olsun.	Cả hai đều đứng dưới ô. Một kẻ gục là kẻ kia chạy — hãy sẵn sàng phát thứ hai.
+Gazeteci Selin Ay'ı öldüren tetikçi Erol Kaya, nam-ı diğer Çakal, bu gece parasını alacak. Parayı getiren, cinayet dosyasını kapatan Komiser Tuncay Er.\n\nYağmurda, çeşmenin başında buluşacaklar. İkisi de bu işin bedelini ödeyecek. Biri vurulduğu an öteki aracına koşar: Komiser'in arabası Plaza Sokak'ta, Çakal'ın motosikleti meydanın köşesinde. Sana yarı otomatik bir tüfek ve termal dürbün veriyoruz.	Võ Văn Khánh, biệt danh Chó Rừng, sát thủ đã giết nhà báo Đặng Kim Ngân, đêm nay sẽ nhận tiền. Người mang tiền tới là Ủy viên Triệu Văn Thắng, kẻ đã ém hồ sơ vụ án mạng.\n\nChúng sẽ gặp nhau dưới mưa, bên đài phun nước. Cả hai đều phải trả giá cho việc này. Một kẻ trúng đạn là kẻ kia chạy về xe: xe của Ủy viên ở phố Hàng Lụa, xe máy của Chó Rừng ở góc quảng trường. Ta giao cho bạn một khẩu súng bán tự động và ống ngắm nhiệt.
+Şemsiyeler yukarıdan bakınca başı saklar ama kurşunu durdurmaz. Termal dürbün yağmurda vücut ısısını gösterir. Yarı otomatik tüfekle sürgü çekmeden ikinci atışı yaparsın.	Nhìn từ trên cao, ô che mất đầu chúng nhưng không cản được đạn. Ống ngắm nhiệt hiển thị thân nhiệt trong mưa. Với súng bán tự động, bạn bắn phát thứ hai không cần kéo khóa nòng.
+Ödünç: FIRTINA DMR (yarı otomatik) ve termal dürbün	Cho mượn: BÃO TỐ DMR (bán tự động) và ống ngắm nhiệt
+Komiser arabasıyla kaçtı	Ủy viên đã lái xe trốn thoát
+Çakal motosikletle kaçtı	Chó Rừng đã trốn bằng xe máy
+Komiser çeşmenin başında bekliyor. Çakal meydanın güneyinden geliyor — kırmızı şemsiyeli.	Ủy viên đang chờ bên đài phun nước. Chó Rừng tới từ phía nam quảng trường — cầm ô đỏ.
+Biri düştüğü an öteki koşar. İkisini de aynı anda görebileceğin yeri bekle.	Một kẻ gục là kẻ kia chạy. Hãy chờ lúc thấy được cả hai cùng lúc.
+Erol Kaya	Võ Văn Khánh
+Çakal	Chó Rừng
+Siyah kapüşonlu, kırmızı bere, sakallı. Kırmızı şemsiye.	Áo hoodie đen, mũ len đỏ, có râu. Ô đỏ.
+Tuncay Er	Triệu Văn Thắng
+Lacivert polo, kep, bıyıklı. Siyah şemsiye.	Áo polo xanh đậm, mũ lưỡi trai, có ria mép. Ô đen.
+Çakal'ı etkisiz hale getir	Vô hiệu hóa Chó Rừng
+Komiser Tuncay Er'i etkisiz hale getir	Vô hiệu hóa Ủy viên Triệu Văn Thắng
+İkisini 4 saniye içinde vur	Bắn cả hai trong vòng 4 giây
+İkisini de kafadan vur	Bắn cả hai vào đầu
+HELİPAD	SÂN ĐỖ TRỰC THĂNG
+Palas Oteli çatısı	Sân thượng khách sạn Hoàng Gia
+Demirel'i almaya bir helikopter geliyor. Kapısı kapandığı an iş biter.	Một chiếc trực thăng đang tới đón Vũ. Cửa nó đóng lại là hết cơ hội.
+Tolga Demirel, eski özel kuvvetler subayı, Baran'ın güvenlik şefi. Sana ve ekibimize karşı yürütülen her şeyi o planlıyor. Bu akşam Palas Oteli'nin çatısından helikopterle şehirden çıkacak.\n\nHelikopter piste indikten sonra Demirel iki korumasıyla çatı kapısından çıkıp yürüyecek. Mesafe uzun ve çatıda rüzgar sert. Helikopterin motorunu önceden vurursan yerde kalır: Demirel binaya geri döner — ama o yürüyüş açıkta geçer.	Quách Thành Vũ, cựu sĩ quan đặc nhiệm, trưởng an ninh của Khang. Hắn lên kế hoạch cho mọi động thái nhắm vào bạn và đội của ta. Tối nay hắn sẽ rời thành phố bằng trực thăng từ sân thượng khách sạn Hoàng Gia.\n\nSau khi trực thăng hạ cánh, Vũ cùng hai vệ sĩ sẽ bước ra từ cửa sân thượng. Khoảng cách xa và gió trên sân thượng rất mạnh. Nếu bắn động cơ trực thăng trước, nó sẽ không cất cánh được: Vũ sẽ quay vào tòa nhà — nhưng quãng đường đó hoàn toàn lộ thiên.
+Uzun atışta rüzgar okuna ve kurşun düşüşüne dikkat. Helikopterin gövdesine iki isabet motoru durdurur; patlayıcı mermi tek atışta yeter.	Khi bắn xa, chú ý mũi tên gió và độ rơi của đạn. Hai phát trúng thân trực thăng sẽ làm động cơ ngừng; đạn nổ chỉ cần một phát.
+Otelin çatısının batı köşesinde dürbünlü biri var. Dürbün sana dönünce eğil — ya da önce onu indir.	Ở góc tây sân thượng khách sạn có kẻ cầm ống nhòm. Khi ống nhòm quay về phía bạn, hãy cúi xuống — hoặc hạ hắn trước.
+Binada — çatıya çıkacak	Trong tòa nhà — sẽ lên sân thượng
+Demirel helikopterle kaçtı	Vũ đã trốn bằng trực thăng
+Demirel çatıya çıktı!	Vũ đã lên sân thượng!
+Demirel binaya geri döndü	Vũ đã quay vào tòa nhà
+Motor durdu — helikopter yerde kaldı!	Động cơ đã dừng — trực thăng không cất cánh được!
+Güzel! Helikopter gitmiyor. Demirel binaya dönecek — yürürken yakala!	Tốt lắm! Trực thăng không đi được. Vũ sẽ quay vào tòa nhà — hạ hắn khi hắn đang đi!
+CANLI  ·  PALAS HELİPADI	TRỰC TIẾP  ·  SÂN ĐỖ KHÁCH SẠN HOÀNG GIA
+Helikopter denizden geliyor. Demirel inişten sonra çatı kapısından çıkacak.	Trực thăng đang tới từ phía biển. Sau khi hạ cánh, Vũ sẽ bước ra từ cửa sân thượng.
+Tolga Demirel	Quách Thành Vũ
+Güvenlik Şefi	Trưởng An Ninh
+Kel, sakallı, güneş gözlüklü. Siyah kruvaze takım.	Đầu trọc, có râu, đeo kính râm. Com-lê đen hai hàng khuy.
+Tolga Demirel'i helikoptere binmeden etkisiz hale getir	Vô hiệu hóa Quách Thành Vũ trước khi hắn lên trực thăng
+Helikopteri havalanmadan yere çak	Hạ trực thăng trước khi nó cất cánh
+SON PERDE	MÀN CUỐI
+Palas Oteli — çatı katı	Khách sạn Hoàng Gia — tầng áp mái
+Baran biliyor. Çatıda bir nişancısı, bir projektörü ve bekleyen bir helikopteri var. Bu gece bitiyor.	Khang đã biết. Hắn có một xạ thủ, một đèn pha trên sân thượng và một chiếc trực thăng đang chờ. Đêm nay mọi chuyện kết thúc.
+Kenan Baran. Limandaki kaçakçılık, kirli para, satın alınmış polisler, susturulan tanıklar: hepsinin arkasındaki adam. Bu gece Palas Oteli'nin çatı katında, cam duvarların ardında küçük bir parti veriyor.\n\nBaran bizi bekliyor. Çatıda projektörle damları tarayan bir adam ve bir keskin nişancı var: ışık seni bulursa nişancı sana döner. Ateş edersen Baran merdivenden çatıya, bekleyen helikoptere koşar. Bu son iş — temiz bitir.	Lã Thế Khang. Buôn lậu ở cảng, tiền bẩn, cảnh sát bị mua chuộc, nhân chứng bị bịt miệng: hắn đứng sau tất cả. Đêm nay hắn tổ chức một bữa tiệc nhỏ ở tầng áp mái khách sạn Hoàng Gia, sau những bức tường kính.\n\nKhang đang chờ ta. Trên sân thượng có một gã dùng đèn pha quét các mái nhà và một xạ thủ bắn tỉa: nếu ánh đèn tìm thấy bạn, xạ thủ sẽ quay về phía bạn. Nếu bạn nổ súng, Khang sẽ chạy theo cầu thang lên sân thượng, tới chiếc trực thăng đang chờ. Đây là việc cuối — hãy kết thúc gọn gàng.
+Önce çatıdaki nişancıyı bul: dürbünü yeşil parlar. Projektör ışığı üzerine gelince nişancı sana nişan alır. Cam duvarlar mermiyi durdurmaz.	Tìm xạ thủ trên sân thượng trước: ống ngắm của hắn lóe xanh lục. Khi đèn pha chiếu vào bạn, xạ thủ sẽ ngắm vào bạn. Tường kính không cản được đạn.
+Çatıda projektör ve bir karşı nişancı var — ışık seni bulmadan onu bul	Trên sân thượng có đèn pha và một xạ thủ địch — tìm hắn trước khi ánh đèn tìm thấy bạn
+Kenan Baran'ı etkisiz hale getir	Vô hiệu hóa Lã Thế Khang
+Baran helikopterle kaçtı	Khang đã trốn bằng trực thăng
+Palas'ın çatısında, korkuluğun arkasında	Trên sân thượng khách sạn Hoàng Gia, sau lan can
+PROJEKTÖR ÜZERİNDE — GÖRÜLDÜN!	ĐÈN PHA CHIẾU TRÚNG — BẠN BỊ LỘ!
+Projektör damları tarıyor, sana yaklaşıyor! Işık seni bulmadan nişancıyı indir.	Đèn pha đang quét các mái nhà, tiến gần bạn! Hạ xạ thủ trước khi ánh đèn tìm thấy bạn.
+Baran binaya geri döndü	Khang đã quay vào tòa nhà
+Merdivende — çatıya çıkıyor	Trên cầu thang — đang lên sân thượng
+Baran çatıya kaçıyor — helikoptere!	Khang đang chạy lên sân thượng — tới trực thăng!
+Helikopter yerde kaldı!	Trực thăng không cất cánh được!
+BARAN	KHANG
+Biliyorum oradasın, tetikçi. Bu camların ardında bana dokunamazsın.	Tao biết mày ở đó, sát thủ. Sau lớp kính này, mày không đụng được tới tao đâu.
+Telsizini dinliyoruz. Çatıda projektör ve bir nişancı var — önce onu bul.	Ta đang nghe lén bộ đàm của chúng. Trên sân thượng có đèn pha và một xạ thủ — tìm hắn trước.
+Baran düştü. Bitti... Şehir artık nefes alabilir.	Khang đã gục. Xong rồi... Thành phố giờ có thể thở được.
+Kenan Baran	Lã Thế Khang
+Gümüş saç ve sakal, koyu takım, kırmızı kravat.	Tóc và râu bạc, com-lê sẫm màu, cà vạt đỏ.
+Çatıdaki nişancı sana nişan alamasın	Không để xạ thủ trên sân thượng kịp ngắm vào bạn
+Davetlilere zarar verme	Không làm hại khách mời
+Buluşmanın bitmesine	Tới lúc cuộc gặp kết thúc
+Buluşma başladı	Cuộc gặp đã bắt đầu
+Kurşun siperine çarptı — nişancı başını kaldırmanı bekliyor	Đạn trúng vật chắn của bạn — xạ thủ đang chờ bạn ngóc đầu lên
+Iskaladı — nişancı yeniden nişan alıyor	Hắn bắn trượt — xạ thủ đang ngắm lại
+Nişancı yine aşağıya nişan alıyor!	Xạ thủ lại đang ngắm xuống dưới!
+Seni gördü! Ateş etmeden onu indir — ya da siperine eğil!	Hắn đã thấy bạn! Hạ hắn trước khi hắn bắn — hoặc cúi xuống sau vật chắn!
+2 sözleşme tamamla	Hoàn thành 2 hợp đồng
+3 kafadan vuruş yap	Bắn trúng đầu 3 lần
+250 m'den uzak bir isabet	Một phát trúng xa hơn 250 m
+Alarm vermeden bir iş bitir	Xong một việc mà không có báo động
+S derecesi al	Đạt hạng S
+5 yıldız topla	Thu thập 5 sao
+2 zırhlı adamı sustur	Hạ 2 kẻ mặc giáp
+VETERAN olarak bir iş bitir	Xong một việc ở chế độ VETERAN
+Sivillere dokunmadan 2 iş bitir	Xong 2 việc mà không làm hại dân thường
+Dürbün, nefes tutma ve ilk atış.	Ống ngắm, nín thở và phát bắn đầu tiên.
+MENZİL ayarı: uzak hedefte mermi düşer, sarı çizgilerle tut.	Chỉnh TẦM BẮN: ở mục tiêu xa, đạn sẽ rơi, hãy ngắm theo vạch vàng.
+Dikkat dağıtma: yakınına düşen kurşun ya da araba alarmı hedefi siperden çıkarır.	Đánh lạc hướng: viên đạn rơi gần hoặc còi báo động xe sẽ khiến mục tiêu rời chỗ nấp.
+Gece ve gözcü: önce seni görebilecek olanı düşün.	Đêm và trinh sát: hãy tính tới kẻ có thể thấy bạn trước.
+Hedefi kendin bul. İsabet noktası artık sadece nefes tutarken görünür.	Tự tìm mục tiêu. Điểm chạm giờ chỉ hiện khi nín thở.
+Hareketli hedef: yürüyüşüne göre önden nişan al.	Mục tiêu di động: ngắm đón trước theo bước đi của hắn.
+Uzun atış ve sert rüzgâr: rüzgâr panelindeki mil değerine göre kaydır.	Bắn xa và gió mạnh: ngắm lệch theo giá trị mil trên bảng gió.
+Koruma: kalabalıktaki tetikçileri bul, tanık yaşasın.	Bảo vệ: tìm sát thủ trong đám đông, giữ nhân chứng sống.
+Canlı yakala: bacaktan vur, öldürme.	Bắt sống: bắn vào chân, đừng giết.
+Karanlık: ışığı kesmek korumaları kör eder.	Bóng tối: cắt điện sẽ làm vệ sĩ bị mù.
+Uyuşturucu iğne: kimse ölmeyecek.	Kim gây mê: không ai được chết.
+Şehir: isabet noktası yok. Iskalarsan hedef kaçar; iş bitince yerin biliniyorsa çıkış var.	Thành phố: không có điểm chạm. Bắn trượt là mục tiêu chạy; xong việc mà vị trí đã lộ thì vẫn còn đường rút.
+Dublör: yüze iyi bak, yanlış kişiyi vurursan iş biter.	Kẻ đóng thế: nhìn kỹ khuôn mặt, bắn nhầm người là hỏng việc.
+Karşı nişancı: önce o seni bulmasın.	Xạ thủ địch: đừng để hắn tìm ra bạn trước.
+Çift hedef: biri düşünce öteki kaçar, ikinci atış hazır olsun.	Mục tiêu kép: một kẻ gục là kẻ kia chạy, hãy sẵn sàng phát thứ hai.
+Zaman penceresi: helikopterin kapısı kapanınca iş biter.	Khung thời gian: cửa trực thăng đóng lại là hỏng việc.
+Dağ: rüzgâr sert ve değişken. Paneldeki yön ve gücü izle, dindiği anı bekle.	Núi: gió mạnh và thất thường. Theo dõi hướng và cường độ trên bảng, chờ lúc gió lặng.
+Kaza: kurşun değil, çığ.	Tai nạn: không phải đạn, mà là tuyết lở.
+Tipi: termal dürbün olmadan göremezsin.	Bão tuyết: không có ống ngắm nhiệt thì không thấy gì.
+Ses örtüsü: havai fişek patlarken atış duyulmaz.	Che tiếng súng: khi pháo hoa nổ, không ai nghe thấy phát bắn.
+HAFİF	NHẸ
+ORTA	VỪA
+SERT	MẠNH
+FIRTINA	BÃO
+LİMAN	CẢNG
+Konteyner limanı	Cảng container
+Kaçakçılar, silah tüccarları ve rüşvet ağı. Her şey limanda başladı.	Bọn buôn lậu, lái súng và mạng lưới hối lộ. Mọi chuyện bắt đầu ở cảng.
+Liman kuruluyor	Đang dựng cảng
+ŞEHİR MERKEZİ	TRUNG TÂM THÀNH PHỐ
+ŞEHİR OPERASYONU	CHIẾN DỊCH THÀNH PHỐ
+Örgütün parası ve koruyucuları şehirde. Opera, gökdelen, otel — ve deniz kıyısında bir meydan.	Tiền và những kẻ bảo kê của tổ chức nằm ở thành phố. Nhà hát opera, tòa chọc trời, khách sạn — và một quảng trường bên bờ biển.
+Şehir kuruluyor	Đang dựng thành phố
+Liman'da 6. görevi bitir	Hoàn thành hợp đồng 6 ở Cảng
+KARTAL TEPE	ĐỈNH ƯNG
+DAĞ OPERASYONU	CHIẾN DỊCH NÚI
+Kartal Tepe Kayak Merkezi	Khu trượt tuyết Đỉnh Ưng
+Örgütün konseyi karlı bir dağ otelinde toplanıyor. Teleferik, dağ evleri, donmuş göl — ve tipi.	Hội đồng của tổ chức nhóm họp trong một khách sạn trên núi tuyết. Cáp treo, nhà gỗ, hồ đóng băng — và bão tuyết.
+Dağ kuruluyor	Đang dựng núi
+Şehirde 16. görevi bitir	Hoàn thành hợp đồng 16 ở Thành phố
+Başlatılıyor	Đang khởi động
+Hazırlanıyor	Đang chuẩn bị
+Hazır	Sẵn sàng
+Ceset suya gömüldü — kimse bulamayacak	Xác chìm xuống nước — sẽ không ai tìm thấy
++%{0} BONUS	+{0}% THƯỞNG
+Bu paket için {0} elmas gerekiyor, sende {1} var.	Gói này cần {0} kim cương, bạn chỉ có {1}.
+{0} kuşanıldı. Cephanelikte seni bekliyor.	{0} đã được trang bị. Nó đang chờ bạn trong kho vũ khí.
+{0} satın alım geri yüklendi.	Đã khôi phục {0} giao dịch.
+Bugün {0} / {1} hakkın kaldı	Hôm nay còn {0} / {1} lượt
+{0}. GÜN	NGÀY {0}
+{0} Z. DELİCİ	{0} XUYÊN GIÁP
+TAKTİK HARİTA  ·  GÖREV {0}  ·  {1}	BẢN ĐỒ CHIẾN THUẬT  ·  HỢP ĐỒNG {0}  ·  {1}
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     <color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#46C8F2>●</color> Vị trí bắn     <color=#FF4545>●</color> Khu vực mục tiêu     <color=#FFFFFF>- -</color> Lộ trình đã biết     Vòng tròn: cách nhau 100 m từ chỗ nấp chính     Phía trên: hướng nhìn của chỗ nấp chính
+ZORLUK  {0}/10	ĐỘ KHÓ  {0}/10
+Bu iş {0} olmadan yapılamaz. Cephaneliğe git?	Không thể làm việc này nếu thiếu {0}. Đến kho vũ khí?
+Bu sözleşme için önerilen güç {0}, {1} şu an {2}.\nGeliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	Sức mạnh đề xuất cho hợp đồng này là {0}, {1} hiện là {2}.\nBạn có thể thử mà không cần nâng cấp, nhưng kẻ mặc giáp và mục tiêu ở xa sẽ rất khó.
+<b><color=#E8B04A>YENİ:</color></b> {0}\n{1}	<b><color=#E8B04A>MỚI:</color></b> {0}\n{1}
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n{0}	<b><color=#FFB21E>VETERAN:</color></b> không có điểm chạm, gió mạnh và thất thường hơn, súng rung nhiều hơn, mục tiêu không được đánh dấu. Thưởng ×1,5.\n{0}
+BÖLÜM {0}	CHƯƠNG {0}
+GÖREV {0}  ·  {1}	HỢP ĐỒNG {0}  ·  {1}
+TÜFEK:  {0}   <size=26><color={1}>GÜÇ {2}</color><color=#6B7682>  /  önerilen {3}</color></size>	SÚNG:  {0}   <size=26><color={1}>SỨC MẠNH {2}</color><color=#6B7682>  /  đề xuất {3}</color></size>
+   ·   Verilen: {0}	   ·   Được cấp: {0}
+GÖREV {0} · {1}	HỢP ĐỒNG {0} · {1}
+Baran'ın kasası: {0}	Két sắt của Khang: {0}
++{0} ELMAS	+{0} KIM CƯƠNG
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.{0}	Hợp đồng chưa hoàn thành — không được trả tiền.\nBạn có thể nhận lại việc này; xem phía trên để biết điều gì đã sai.{0}
+Bu iş için önerilen güç {0}, senin tüfeğin {1}. Geliştir ya da {2} hemen güçlen.	Sức mạnh đề xuất cho việc này là {0}, súng của bạn là {1}. Hãy nâng cấp hoặc {2} để mạnh lên ngay.
++{0} TP	+{0} XP
+TELAFİ +{0}	BỒI THƯỜNG +{0}
+GÖREV {0}	HỢP ĐỒNG {0}
+{0}Rüzgâr {1} m/s   ·   {2}\nZORLUK {3}/10{4}	{0}Gió {1} m/s   ·   {2}\nĐỘ KHÓ {3}/10{4}
+Önerilen güç <b>{0}</b>   ·   Tüfeğin <color={1}><b>{2}</b></color>	Sức mạnh đề xuất <b>{0}</b>   ·   Súng của bạn <color={1}><b>{2}</b></color>
+Yenisi {0} sa {1} dk sonra	Mới sau {0} giờ {1} phút
+{0} · {1}  —  VETERAN kurallarıyla	{0} · {1}  —  theo luật VETERAN
+Güç {0} / {1}	Sức mạnh {0} / {1}
+Görev aralarındaki reklamları {0} karşılığında sonsuza dek kaldır. Hediye: {1} elmas.	Chỉ với {0} là gỡ vĩnh viễn quảng cáo giữa các hợp đồng. Quà tặng: {1} kim cương.
+{0} için {1} elmas gerekiyor, sende {2} var.	{0} cần {1} kim cương, bạn chỉ có {2}.
+{0} {1} elmasla hemen senin olsun mu?	Sở hữu ngay {0} với {1} kim cương?
+SEVİYE {0} GEREKLİ	CẦN CẤP {0}
+Son kademe (elmasla) {0}. seviyede açılır. Sözleşmelerden tecrübe kazan.	Bậc cuối (kim cương) mở ở cấp {0}. Hãy kiếm kinh nghiệm từ các hợp đồng.
+Bu geliştirme için {0} eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.\nBugün {1} hakkın var.	Nâng cấp này còn thiếu {0}. Xem một video ngắn để bù phần tiền thiếu và nâng cấp ngay.\nHôm nay bạn còn {1} lượt.
+Son kademe {0} elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	Bậc cuối giá {0} kim cương. Bạn có thể mua kim cương ở cửa hàng hoặc tích lũy từ thưởng hằng ngày.
+Bu geliştirme {0}. Sözleşmelerden para kazan ya da mağazaya bak.	Nâng cấp này giá {0}. Hãy kiếm tiền từ các hợp đồng hoặc ghé cửa hàng.
+GÜÇ <color=#FFB21E>{0}</color>   ·   {1}	SỨC MẠNH <color=#FFB21E>{0}</color>   ·   {1}
+{0}   ·   {1} ★ ile açılır	{0}   ·   mở khóa với {1} ★
+{0}  <color=#46C8F2>EN ÜST</color>	{0}  <color=#46C8F2>CAO NHẤT</color>
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> {0}. kademe ya da zırh delici mermi gerekir.	Để xuyên thân kẻ mặc giáp, cần <color=#FFB21E>SÁT THƯƠNG</color> bậc {0} hoặc đạn xuyên giáp.
+SATIN AL   {0}	MUA   {0}
+{0} ★ YA DA   	{0} ★ HOẶC   
+{0} ELMASLA AL	{0} KIM CƯƠNG
+{0} yıldızla açılır	Mở khóa với {0} sao
+SATIN AL  {0}	MUA  {0}
+YÜKSELT  {0}	NÂNG CẤP  {0}
+YER DEĞİŞTİRİYORSUN\n<size=30>{0}  ·  {1} sn</size>	ĐANG ĐỔI VỊ TRÍ\n<size=30>{0}  ·  {1} giây</size>
+KURŞUN KAMERASI  ·  {0}	CAMERA THEO ĐẠN  ·  {0}
+“{0}” — sözleşme hedefi	“{0}” — mục tiêu hợp đồng
+Yaralı — {0}	Bị thương — {0}
+KEŞİF  ·  {0} / {1} tehdit tarandı	TRINH SÁT  ·  đã quét {0} / {1} mối đe dọa
+TELSİZ  {0},{1} sn	BỘ ĐÀM  {0},{1} giây
+Yıldız kaçtı: {0}	Mất sao: {0}
+SÖZLEŞME {0}  ·  {1}{2}	HỢP ĐỒNG {0}  ·  {1}{2}
+{0}  <size=24><color=#A3AEB9>·  SEVİYE {1}</color></size>	{0}  <size=24><color=#A3AEB9>·  CẤP {1}</color></size>
+{0} / {1} TP	{0} / {1} XP
+{0}   ·   SEVİYE {1}	{0}   ·   CẤP {1}
+AÇILDI:  {0}	ĐÃ MỞ:  {0}
+ÖDÜLLÜ TEST REKLAMI  ·  {0}	QUẢNG CÁO THỬ CÓ THƯỞNG  ·  {0}
+TEST REKLAMI  ·  her {0} görevde bir	QUẢNG CÁO THỬ  ·  cứ {0} hợp đồng một lần
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	Bạn không có tên. Ba năm trước, quân đội đã ghi bạn là đã chết. CONTROL tìm thấy bạn trong một bệnh viện quân đội và đưa ra đúng một lời đề nghị: triệt phá đường dây buôn lậu ở cảng, quá khứ của bạn sẽ được xóa sạch.\n\nMỗi hợp đồng là một cái tên. Mỗi cái tên là con đường dẫn tới cái tên tiếp theo.
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\nBu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	Cảng đã sụp, nhưng tiền vẫn tiếp tục chảy. Số cuối cùng trong điện thoại của Victor Karel dẫn tới Duyên Hải Plaza: Tập đoàn Thế Khang.\n\nLần này mục tiêu mặc com-lê. Giữa đám đông, sau những bức tường kính, ngay cạnh cảnh sát.
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	Hồ sơ lấy từ két sắt của Khang cho ra năm cái tên: Hội đồng. Năm kẻ đã nuôi dưỡng và che chở Khang suốt nhiều năm, năm nào cũng nghỉ tuần lễ năm mới ở Đỉnh Ưng.\n\nGiữa đống hồ sơ còn một chữ ký nữa. Một chữ ký quen thuộc.
+Vuruldun — {0}	Bạn bị bắn — {0}
+Üç tetikçiyi de durdur  {0}/3	Chặn cả ba sát thủ  {0}/3
+{0} fişek	{0} viên
+Bu açıdan {0} görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	Từ góc này không thấy {0}. Dùng ĐỔI VỊ TRÍ để sang chỗ khác.
+{0} silahlı adam mevzi alıyor — yuvanı arıyorlar!	{0} tay súng đang vào vị trí — chúng đang tìm ổ của bạn!
+Etkisiz hale getir: {0}	Vô hiệu hóa: {0}
+{0} öldürüldü	{0} đã bị giết
+İsabet — {0} atış daha	Trúng — còn {0} phát nữa
+YENİ HEDEF: {0}	MỤC TIÊU MỚI: {0}
+SİLAHLI ADAM BULUNDU: {0}	PHÁT HIỆN TAY SÚNG: {0}
+HEDEF DOĞRULANDI: {0}	ĐÃ XÁC NHẬN MỤC TIÊU: {0}
+KİMLİK DOĞRULANDI: {0}	ĐÃ XÁC NHẬN DANH TÍNH: {0}
+YENİ YER: {0}	VỊ TRÍ MỚI: {0}
+Dron bölgeyi taradı — {0} kişi tanımlandı	Drone đã quét khu vực — đã nhận dạng {0} người
+{0} öldü!	{0} đã chết!
+{0} hedef kaldı	Còn {0} mục tiêu
+{0} yaralandı — artık yürüyemiyor	{0} bị thương — không thể đi được nữa
+{0} bayıldı — güvenli yere ulaşamaz	{0} đã bất tỉnh — không thể tới nơi an toàn
+ISKALADIN — {0} KAÇIYOR!	TRƯỢT — {0} ĐANG CHẠY TRỐN!
+Sana ateş edenleri sustur  ·  {0} kaldı	Hạ những kẻ đang bắn bạn  ·  còn {0}
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — {0} silahlı var, hepsini sustur. Gerekirse siper al.	Mục tiêu đã gục nhưng vị trí của bạn đã lộ. Đừng để ai bám theo — còn {0} tay súng, hạ hết chúng. Cần thì hãy ẩn nấp.
+Yıldız hedefleri  ×{0}	Mục tiêu sao  ×{0}
+Uzak atış  ·  {0} m	Phát bắn xa  ·  {0} m
+Keşif  ·  {0}/{1} tehdit	Trinh sát  ·  {0}/{1} mối đe dọa
+Sivil kaybı  ×{0}	Dân thường thương vong  ×{0}
+Yaralı sivil  ×{0}	Dân thường bị thương  ×{0}
+Tekrar oynanış  ×%{0}	Chơi lại  ×{0}%
+Tetikçileri durdur  {0}/2	Chặn các sát thủ  {0}/2
+Kurye yerde! Ekip yolda — {0} saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	Kẻ vận chuyển đã gục! Đội đang tới — {0} giây. Người của tổ chức sẽ tìm cách bịt miệng hắn, cả từ trong kho cũng sẽ kéo ra!
+Korumalar temiz. Tekne geliyor — {0} saniye.	Vệ sĩ đã xong. Thuyền đang tới — {0} giây.
+Nişancıyı ve silahlıyı durdur  {0}/2	Chặn xạ thủ và tay súng  {0}/2
+Baran'ın adamlarını durdur  {0}/2	Chặn người của Khang  {0}/2
+Muhasebeci yerde! Ekip koşuyor — {0} saniye. Baran'ın adamı da yolda!	Tay kế toán đã gục! Đội đang chạy tới — {0} giây. Người của Khang cũng đang tới!
+{0} ELMAS	{0} KIM CƯƠNG
+Kimyager: {0}	Nhà Hóa Học: {0}
+Toplam: {0}	Tổng: {0}
+SV {0}	CẤP {0}
+Hedef: {0}{1}	Mục tiêu: {0}{1}
+HEDEF:  {0}	MỤC TIÊU:  {0}
+{0} vuruldu!	{0} đã trúng đạn!
+Kullanım Koşulları (EULA)	Điều khoản sử dụng (EULA)
+Gizlilik Politikası	Chính sách quyền riêng tư
+Oyunu beğendin mi?	Bạn thích trò chơi chứ?
+PUANLA	ĐÁNH GIÁ
+BURAYA	VÀO ĐÂY
+Önce dürbünü aç.	Mở ống ngắm trước đã.
+EĞİTİM	HUẤN LUYỆN
+Yakınlaştır: soldaki kaydırıcıyı yukarı it ya da iki parmakla ekranı aç.	Phóng to: đẩy thanh trượt bên trái lên, hoặc dùng hai ngón tay kéo giãn màn hình.
+Halka boşalmadan ateş et: nefes biterse nişan titrer.	Bắn trước khi vòng tròn cạn: hết hơi là tâm ngắm sẽ rung.
+Kırmızı nokta merminin ineceği yeri gösterir.	Chấm đỏ cho biết điểm đạn sẽ chạm.
+Kırmızı halka: bu adam sana nişan alıyor!	Vòng đỏ: gã này đang ngắm bạn!
+Halka dolmadan onu vur ya da SİPER'e eğil.	Hạ hắn trước khi vòng đầy, hoặc ẨN NẤP ngay.
+Vuruluyorsun! SİPER tuşuna bas: duvarın arkasına eğil.	Bạn đang trúng đạn! Nhấn ẨN NẤP: cúi xuống sau bức tường.
+Siperde can yenilenir.	Khi ẩn nấp, máu sẽ hồi lại.
+Ateş kesilince dürbünle doğrul ve karşılık ver: önce sana nişan alanı vur.	Khi tiếng súng ngừng, nhổm dậy, ngắm và bắn trả: hạ kẻ đang ngắm bạn trước.
+Hedef {0} m uzakta. Mermi yol boyunca düşer.	Mục tiêu cách {0} m. Đạn sẽ rơi dần trên đường bay.
+Kırmızı nokta merminin ineceği yer: nişangahın {0} cm altında. Kafaya nişan alırsan ıskalarsın.	Chấm đỏ là điểm đạn sẽ chạm: thấp hơn tâm ngắm {0} cm. Ngắm vào đầu là trượt.
+MENZİL'i hedefin mesafesine getir: + tuşuna bas.	Chỉnh TẦM BẮN theo khoảng cách tới mục tiêu: nhấn +.
+MENZİL'i hedefin mesafesine getir: − tuşuna bas.	Chỉnh TẦM BẮN theo khoảng cách tới mục tiêu: nhấn −.
+MENZİL {0} m  ·  hedef {1} m	TẦM BẮN {0} m  ·  mục tiêu {1} m
+Tam ayar! Nokta nişangaha döndü.	Chuẩn rồi! Chấm đã về giữa tâm ngắm.
+Uzak hedefte önce mesafeyi oku, MENZİL'i ona getir, sonra ateş et.	Với mục tiêu xa, đọc khoảng cách trước, chỉnh TẦM BẮN theo đó, rồi mới bắn.
+Hedef yürüyor: mermi oraya varana kadar o da ilerler.	Mục tiêu đang đi: đến lúc đạn tới nơi, hắn đã đi thêm một đoạn.
+Nişangahı yürüdüğü yöne, mavi halkanın üzerine al.	Đưa tâm ngắm về phía hắn đang đi, lên vòng xanh dương.
+İşte bu! Önünde kal ve ateş et.	Đúng rồi! Giữ tâm ngắm phía trước hắn và bắn.
+Koşan adamda pay daha büyük, duran adamda hiç yok.	Kẻ đang chạy cần đón trước nhiều hơn, kẻ đứng yên thì không cần.
+Rüzgâr mermiyi yana iter. Yönü ve gücü bu panelde.	Gió đẩy đạn lệch sang bên. Hướng và cường độ gió ở bảng này.
+Bak: rüzgâr mermiyi {0} cm sağa götürüyor.	Nhìn này: gió đang đẩy đạn lệch {0} cm sang phải.
+Bak: rüzgâr mermiyi {0} cm sola götürüyor.	Nhìn này: gió đang đẩy đạn lệch {0} cm sang trái.
+Kırmızı nokta merminin ineceği yer.	Chấm đỏ là điểm đạn sẽ chạm.
+Rüzgâra karşı tut: nişangahı {0} mil sola kaydır.	Ngắm bù gió: dời tâm ngắm {0} mil sang trái.
+Rüzgâra karşı tut: nişangahı {0} mil sağa kaydır.	Ngắm bù gió: dời tâm ngắm {0} mil sang phải.
+Sarı noktalar 1 mil aralıklı. Kırmızı nokta hedefe gelince ateş et.	Các chấm vàng cách nhau 1 mil. Bắn khi chấm đỏ nằm trên mục tiêu.
+Tam üstünde! Şimdi ateş et.	Ngay trên mục tiêu! Bắn đi.
+Rüzgâr dinip artar: ateşten önce paneldeki değere bir daha bak.	Gió lúc lặng lúc mạnh: trước khi bắn, xem lại giá trị trên bảng gió.
+Bu işte kimse ölmeyecek: bu tuşla İĞNE'ye geç.	Việc này không ai được chết: nhấn nút này để chuyển sang KIM TIÊM.
+Mermi seçici: her basış bir sonraki türü takar.	Chọn đạn: mỗi lần nhấn sẽ nạp loại kế tiếp.
+İğne yavaş uçar ve çok düşer: biraz yukarı nişan al.	Kim tiêm bay chậm và rơi nhiều: ngắm cao lên một chút.
+Kırmızı nokta iğnenin ineceği yeri gösterir.	Chấm đỏ cho biết điểm kim tiêm sẽ chạm.
+Zırhlı adam! Gövdesine mermi işlemez.	Kẻ mặc giáp! Đạn không xuyên qua thân hắn.
+Bu tuşla ZIRH DELİCİ'ye geç ya da kafasına nişan al.	Nhấn nút này để chuyển sang XUYÊN GIÁP, hoặc ngắm vào đầu hắn.
+Kafasına nişan al. Zırh delici mermiyi cephanelikten alabilirsin.	Ngắm vào đầu hắn. Bạn có thể mua đạn xuyên giáp ở kho vũ khí.
+Yerin belli oldu. YER DEĞİŞTİR: yeni yerde seni kimse bilmez.	Bạn đã bị lộ. ĐỔI VỊ TRÍ: ở chỗ mới, không ai biết bạn ở đâu.
+Taşınırken dünya durmaz: hedef kaçmadan dön.	Thế giới không dừng lại khi bạn di chuyển: quay lại trước khi mục tiêu trốn mất.
+Bu yüz dosyadakiyle aynıysa İŞARETLE — HEDEF BU.	Nếu khuôn mặt này khớp với hồ sơ, nhấn ĐÁNH DẤU — ĐÚNG HẮN.
+Emin değilsen basma: yanlış kişiyi vurmak işi bitirir.	Không chắc thì đừng nhấn: bắn nhầm người là hỏng việc.
+Karanlıkta gece görüşü kullan: bu tuşla modu değiştir.	Trời tối thì dùng NHÌN ĐÊM: nhấn nút này để đổi chế độ.
+Termal dürbünde insanlar beyaz parlar: sis ve kar arkasında bile.	Trong ống ngắm nhiệt, người phát sáng trắng: ngay cả sau màn sương và tuyết.
+DRON'u gönder: bölgeyi tarar, tehditleri işaretler.	Thả DRONE: nó quét khu vực và đánh dấu các mối đe dọa.
+Her sözleşmede bir kez.	Mỗi hợp đồng một lần.
+Son anda kıpırdadı. Nişanı tazele, tekrar dene.	Hắn nhúc nhích vào phút chót. Ngắm lại rồi thử lần nữa.
+Siperine takıldı. Açığa çıkmasını bekle ya da başka açıdan dene.	Đạn vướng vật chắn. Chờ hắn ló ra, hoặc thử góc khác.
+Iska: {0} cm alçak.	Trượt: thấp {0} cm.
+Iska: {0} cm yüksek.	Trượt: cao {0} cm.
+Iska: {0} cm solda.	Trượt: lệch trái {0} cm.
+Iska: {0} cm sağda.	Trượt: lệch phải {0} cm.
+Mermi düştü: hedef {0} m, MENZİL {1}. MENZİL'i hedefin mesafesine getir.	Đạn rơi thấp: mục tiêu {0} m, TẦM BẮN {1}. Chỉnh TẦM BẮN theo khoảng cách tới mục tiêu.
+Fazla yüksek: hedef {0} m, MENZİL {1}. MENZİL'i düşür.	Quá cao: mục tiêu {0} m, TẦM BẮN {1}. Giảm TẦM BẮN xuống.
+Arkasından geçti: yürüdüğü yöne daha önden nişan al.	Đạn đi sau lưng hắn: ngắm đón trước xa hơn theo hướng hắn đi.
+Önünden geçti: payı biraz azalt.	Đạn đi trước mặt hắn: đón trước ít lại một chút.
+Rüzgâr sağa itti: biraz sola tut.	Gió đẩy sang phải: ngắm lệch trái một chút.
+Rüzgâr sola itti: biraz sağa tut.	Gió đẩy sang trái: ngắm lệch phải một chút.
+Nefesini tut: nişan sabitlenince ateş et.	Nín thở: bắn khi tâm ngắm ổn định.
+Nişangahı vücudun ortasına al.	Đưa tâm ngắm vào giữa thân người.
+Sabır: hedef dışarı çıkana kadar bekle, nefesini tut ve kafaya nişan al.	Kiên nhẫn: chờ mục tiêu bước ra, nín thở và ngắm vào đầu.
+MENZİL ayarı: uzak hedefte mermi düşer. Dikkat dağıtma: yakına düşen kurşun hedefi açığa çıkarır.	Chỉnh TẦM BẮN: ở mục tiêu xa, đạn sẽ rơi. Đánh lạc hướng: viên đạn rơi gần sẽ khiến mục tiêu lộ diện.
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.{0}	Cửa hàng hiện chưa mở. Hãy kiểm tra kết nối Internet rồi thử lại sau.{0}
+GEÇ	BỎ QUA
+Yer seviyesi — siper arkası	Mặt đất — sau chỗ nấp
+Alçak mevzi — yakın çatı	Vị trí thấp — mái nhà gần
+Orta yükseklik	Độ cao trung bình
+Hedeflerle aynı seviyede ve yakın. Net atış, ama seni de çabuk görürler.	Ở gần, ngang tầm mục tiêu. Bắn rõ, nhưng chúng cũng phát hiện bạn nhanh.
+Birkaç kat yukarıda: yakın ve geniş açı.	Cao vài tầng: gần và tầm nhìn rộng.
+Sahaya yukarıdan ama yakından bakar.	Nhìn xuống khu vực từ trên cao, nhưng ở cự ly gần.
+Dil  ·  Language	Ngôn ngữ  ·  Language

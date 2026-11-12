@@ -1,0 +1,26 @@
+{
+ "id": "smuggler",
+ "gender": "m",
+ "tris": 24842,
+ "height": 1.8,
+ "materials": [
+  {
+   "name": "smuggler_opaque",
+   "albedo": "smuggler_albedo.jpg",
+   "normal": "smuggler_normal.jpg",
+   "ms": "smuggler_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "smuggler",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

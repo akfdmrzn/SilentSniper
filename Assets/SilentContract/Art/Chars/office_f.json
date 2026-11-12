@@ -1,0 +1,26 @@
+{
+ "id": "office_f",
+ "gender": "f",
+ "tris": 24876,
+ "height": 1.66,
+ "materials": [
+  {
+   "name": "office_f_opaque",
+   "albedo": "office_f_albedo.jpg",
+   "normal": "office_f_normal.jpg",
+   "ms": "office_f_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "office_f",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

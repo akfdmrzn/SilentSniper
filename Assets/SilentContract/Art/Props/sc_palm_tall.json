@@ -1,0 +1,59 @@
+{
+ "id": "sc_palm_tall",
+ "category": "prop",
+ "tris": 1234,
+ "tris_src": 1234,
+ "size": [
+  5.7,
+  14.685,
+  5.626
+ ],
+ "center": [
+  0.288,
+  7.041,
+  0.221
+ ],
+ "materials": [
+  {
+   "name": "shared__bark_palm",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__bark_palm_albedo.jpg",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "bark_palm",
+   "window": false
+  },
+  {
+   "name": "shared__foliage_palm",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__foliage_palm_albedo.png",
+   "normal": null,
+   "ms": null,
+   "cutout": true,
+   "double_sided": true,
+   "src": "foliage_palm",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "",
+ "tags": []
+}

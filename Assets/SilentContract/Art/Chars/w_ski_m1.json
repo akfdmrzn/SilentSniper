@@ -1,0 +1,26 @@
+{
+ "id": "w_ski_m1",
+ "gender": "m",
+ "tris": 17620,
+ "height": 1.8,
+ "materials": [
+  {
+   "name": "w_ski_m1_opaque",
+   "albedo": "w_ski_m1_albedo.jpg",
+   "normal": "w_ski_m1_normal.jpg",
+   "ms": "w_ski_m1_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "w_ski_m1",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

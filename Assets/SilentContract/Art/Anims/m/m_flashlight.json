@@ -1,0 +1,12 @@
+{
+ "name": "m_flashlight",
+ "frames": 103,
+ "fps": 30,
+ "length": 3.4,
+ "loop": true,
+ "speed": 0.0,
+ "source": "77_05.bvh",
+ "tags": [
+  "guard"
+ ]
+}

@@ -1,0 +1,1143 @@
+{
+ "id": "sr_forklift",
+ "category": "prop",
+ "tris": 6999,
+ "tris_src": 997893,
+ "size": [
+  1.157,
+  3.227,
+  2.525
+ ],
+ "center": [
+  0.0,
+  0.55,
+  -0.024
+ ],
+ "materials": [
+  {
+   "name": "sr_forklift__m0",
+   "color": [
+    0.0091,
+    0.0056,
+    0.5395,
+    1.0
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": null,
+   "normal": "sr_forklift_m0_normal.jpg",
+   "ms": "sr_forklift_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m1_albedo.jpg",
+   "normal": "sr_forklift_m1_normal.jpg",
+   "ms": "sr_forklift_m1_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m2",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m2_albedo.jpg",
+   "normal": "sr_forklift_m2_normal.jpg",
+   "ms": "sr_forklift_m2_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m3",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.845,
+   "albedo": "sr_forklift_m3_albedo.jpg",
+   "normal": "sr_forklift_m3_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m4",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m4_albedo.jpg",
+   "normal": "sr_forklift_m4_normal.jpg",
+   "ms": "sr_forklift_m4_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m5",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m5_albedo.jpg",
+   "normal": "sr_forklift_m5_normal.jpg",
+   "ms": "sr_forklift_m5_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m6",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m6_albedo.jpg",
+   "normal": "sr_forklift_m6_normal.jpg",
+   "ms": "sr_forklift_m6_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m7",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m7_albedo.jpg",
+   "normal": "sr_forklift_m7_normal.jpg",
+   "ms": "sr_forklift_m7_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m8",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m8_albedo.jpg",
+   "normal": "sr_forklift_m8_normal.jpg",
+   "ms": "sr_forklift_m8_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m9",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m9_albedo.jpg",
+   "normal": "sr_forklift_m9_normal.jpg",
+   "ms": "sr_forklift_m9_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m10",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m10_albedo.jpg",
+   "normal": "sr_forklift_m10_normal.jpg",
+   "ms": "sr_forklift_m10_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m11",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m11_albedo.jpg",
+   "normal": "sr_forklift_m11_normal.jpg",
+   "ms": "sr_forklift_m11_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m12",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m12_albedo.jpg",
+   "normal": "sr_forklift_m12_normal.jpg",
+   "ms": "sr_forklift_m12_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m13",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m13_albedo.jpg",
+   "normal": "sr_forklift_m13_normal.jpg",
+   "ms": "sr_forklift_m13_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m14",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m14_albedo.jpg",
+   "normal": "sr_forklift_m14_normal.jpg",
+   "ms": "sr_forklift_m14_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m15",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m15_albedo.jpg",
+   "normal": "sr_forklift_m15_normal.jpg",
+   "ms": "sr_forklift_m15_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m16",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m16_albedo.jpg",
+   "normal": "sr_forklift_m16_normal.jpg",
+   "ms": "sr_forklift_m16_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m17",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m17_albedo.jpg",
+   "normal": "sr_forklift_m17_normal.jpg",
+   "ms": "sr_forklift_m17_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m18",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m18_albedo.jpg",
+   "normal": "sr_forklift_m18_normal.jpg",
+   "ms": "sr_forklift_m18_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m19",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m19_albedo.jpg",
+   "normal": "sr_forklift_m19_normal.jpg",
+   "ms": "sr_forklift_m19_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m20",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m20_albedo.jpg",
+   "normal": "sr_forklift_m20_normal.jpg",
+   "ms": "sr_forklift_m20_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m21",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m21_albedo.jpg",
+   "normal": "sr_forklift_m21_normal.jpg",
+   "ms": "sr_forklift_m21_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m22",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m22_albedo.jpg",
+   "normal": "sr_forklift_m22_normal.jpg",
+   "ms": "sr_forklift_m22_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m23",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m23_albedo.jpg",
+   "normal": "sr_forklift_m23_normal.jpg",
+   "ms": "sr_forklift_m23_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m24",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m24_albedo.jpg",
+   "normal": "sr_forklift_m24_normal.jpg",
+   "ms": "sr_forklift_m24_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m25",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m25_albedo.jpg",
+   "normal": "sr_forklift_m25_normal.jpg",
+   "ms": "sr_forklift_m25_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m26",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m26_albedo.jpg",
+   "normal": "sr_forklift_m26_normal.jpg",
+   "ms": "sr_forklift_m26_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m27",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m27_albedo.jpg",
+   "normal": "sr_forklift_m27_normal.jpg",
+   "ms": "sr_forklift_m27_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m28",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m28_albedo.jpg",
+   "normal": "sr_forklift_m28_normal.jpg",
+   "ms": "sr_forklift_m28_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m29",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m29_albedo.jpg",
+   "normal": "sr_forklift_m29_normal.jpg",
+   "ms": "sr_forklift_m29_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m30",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m30_albedo.jpg",
+   "normal": "sr_forklift_m30_normal.jpg",
+   "ms": "sr_forklift_m30_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m31",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m31_albedo.jpg",
+   "normal": "sr_forklift_m31_normal.jpg",
+   "ms": "sr_forklift_m31_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m32",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m32_albedo.jpg",
+   "normal": "sr_forklift_m32_normal.jpg",
+   "ms": "sr_forklift_m32_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m33",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m33_albedo.jpg",
+   "normal": "sr_forklift_m33_normal.jpg",
+   "ms": "sr_forklift_m33_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m34",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m34_albedo.jpg",
+   "normal": "sr_forklift_m34_normal.jpg",
+   "ms": "sr_forklift_m34_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m35",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m35_albedo.jpg",
+   "normal": "sr_forklift_m35_normal.jpg",
+   "ms": "sr_forklift_m35_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m36",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m36_albedo.jpg",
+   "normal": "sr_forklift_m36_normal.jpg",
+   "ms": "sr_forklift_m36_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m37",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m37_albedo.jpg",
+   "normal": "sr_forklift_m37_normal.jpg",
+   "ms": "sr_forklift_m37_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m38",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m38_albedo.jpg",
+   "normal": "sr_forklift_m38_normal.jpg",
+   "ms": "sr_forklift_m38_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m39",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.845,
+   "albedo": "sr_forklift_m39_albedo.jpg",
+   "normal": "sr_forklift_m39_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m40",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m40_albedo.jpg",
+   "normal": "sr_forklift_m40_normal.jpg",
+   "ms": "sr_forklift_m40_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m41",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m41_albedo.jpg",
+   "normal": "sr_forklift_m41_normal.jpg",
+   "ms": "sr_forklift_m41_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m42",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m42_albedo.jpg",
+   "normal": "sr_forklift_m42_normal.jpg",
+   "ms": "sr_forklift_m42_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m43",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m43_albedo.jpg",
+   "normal": "sr_forklift_m43_normal.jpg",
+   "ms": "sr_forklift_m43_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m44",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m44_albedo.jpg",
+   "normal": "sr_forklift_m44_normal.jpg",
+   "ms": "sr_forklift_m44_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m45",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m45_albedo.jpg",
+   "normal": "sr_forklift_m45_normal.jpg",
+   "ms": "sr_forklift_m45_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m46",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m46_albedo.jpg",
+   "normal": "sr_forklift_m46_normal.jpg",
+   "ms": "sr_forklift_m46_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m47",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m47_albedo.jpg",
+   "normal": "sr_forklift_m47_normal.jpg",
+   "ms": "sr_forklift_m47_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m48",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m48_albedo.jpg",
+   "normal": "sr_forklift_m48_normal.jpg",
+   "ms": "sr_forklift_m48_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m49",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m49_albedo.jpg",
+   "normal": "sr_forklift_m49_normal.jpg",
+   "ms": "sr_forklift_m49_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m50",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m50_albedo.jpg",
+   "normal": "sr_forklift_m50_normal.jpg",
+   "ms": "sr_forklift_m50_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m51",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m51_albedo.jpg",
+   "normal": "sr_forklift_m51_normal.jpg",
+   "ms": "sr_forklift_m51_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m52",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m52_albedo.jpg",
+   "normal": "sr_forklift_m52_normal.jpg",
+   "ms": "sr_forklift_m52_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m53",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m53_albedo.jpg",
+   "normal": "sr_forklift_m53_normal.jpg",
+   "ms": "sr_forklift_m53_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m54",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m54_albedo.jpg",
+   "normal": "sr_forklift_m54_normal.jpg",
+   "ms": "sr_forklift_m54_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m55",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m55_albedo.jpg",
+   "normal": "sr_forklift_m55_normal.jpg",
+   "ms": "sr_forklift_m55_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m56",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m56_albedo.jpg",
+   "normal": "sr_forklift_m56_normal.jpg",
+   "ms": "sr_forklift_m56_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m57",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m57_albedo.jpg",
+   "normal": "sr_forklift_m57_normal.jpg",
+   "ms": "sr_forklift_m57_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m58",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m58_albedo.jpg",
+   "normal": "sr_forklift_m58_normal.jpg",
+   "ms": "sr_forklift_m58_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m59",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m59_albedo.jpg",
+   "normal": "sr_forklift_m59_normal.jpg",
+   "ms": "sr_forklift_m59_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m60",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m60_albedo.jpg",
+   "normal": "sr_forklift_m60_normal.jpg",
+   "ms": "sr_forklift_m60_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m61",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m61_albedo.jpg",
+   "normal": "sr_forklift_m61_normal.jpg",
+   "ms": "sr_forklift_m61_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m62",
+   "color": [
+    0.0091,
+    0.0056,
+    0.5395,
+    1.0
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": null,
+   "normal": "sr_forklift_m62_normal.jpg",
+   "ms": "sr_forklift_m62_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m63",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m63_albedo.jpg",
+   "normal": "sr_forklift_m63_normal.jpg",
+   "ms": "sr_forklift_m63_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m64",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m64_albedo.jpg",
+   "normal": "sr_forklift_m64_normal.jpg",
+   "ms": "sr_forklift_m64_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m65",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m65_albedo.jpg",
+   "normal": "sr_forklift_m65_normal.jpg",
+   "ms": "sr_forklift_m65_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m66",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m66_albedo.jpg",
+   "normal": "sr_forklift_m66_normal.jpg",
+   "ms": "sr_forklift_m66_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m67",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m67_albedo.jpg",
+   "normal": "sr_forklift_m67_normal.jpg",
+   "ms": "sr_forklift_m67_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m68",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m68_albedo.jpg",
+   "normal": "sr_forklift_m68_normal.jpg",
+   "ms": "sr_forklift_m68_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_forklift__m69",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_forklift_m69_albedo.jpg",
+   "normal": "sr_forklift_m69_normal.jpg",
+   "ms": "sr_forklift_m69_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 3,
+ "collider": "box",
+ "static": false,
+ "credit": "NVIDIA SimReady (CC-BY 4.0)",
+ "tags": []
+}

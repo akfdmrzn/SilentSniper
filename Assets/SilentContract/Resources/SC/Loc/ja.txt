@@ -1,0 +1,1391 @@
+SİPER	遮蔽
+Sana ateş ediyorlar! SİPER tuşuyla eğil — ateş kesilince doğrul ve kırmızı işaretli nişancıları indir. Yaraların birkaç saniye sonra iyileşir.	撃たれています！遮蔽ボタンで身を隠し、射撃が止んだら起き上がって赤くマークされた射手を倒してください。傷は数秒で回復します。
+YERİN TESPİT EDİLDİ — SANA ATEŞ EDECEKLER!	位置がバレた — 撃ってくるぞ！
+DOĞRUL	起き上がる
+YERİN TESPİT EDİLDİ	位置がバレた
+GÖZCÜ SENİ ARIYOR	見張りが捜索中
+YERİNİ ARIYORLAR	位置を探られている
+DİKKAT ÇEKİYORSUN	注意を引いている
+Her atış yerini biraz daha belli eder (susturucu daha az). Göz dolarsa yerin tespit edilir ve silahlı adamlar sana ateş eder.	撃つたびに位置が少しずつ割れていきます（サプレッサーなら少なめ）。目のゲージが満タンになると位置が特定され、武装した男たちが撃ってきます。
+Bir gözcü dürbünle damları tarıyor: dürbün parlaması sana dönerken eğil ya da önce onu indir.	見張りが双眼鏡で屋上を探っています。レンズの反射がこちらを向いたら身を隠すか、先に見張りを倒してください。
+MAĞAZA	ショップ
+TEKLİFLER	オファー
+SİLAH PAKETLERİ	武器パック
+ELMAS	ジェム
+NAKİT	資金
+SATIN ALIMLARI GERİ YÜKLE	購入を復元
+ÜCRETSİZ ELMAS	無料ジェム
+İZLE	視聴
+GECE	暗視
+TERMAL	サーマル
+ BONUS	 ボーナス
+ELMAS YETMİYOR	ジェム不足
+Bu paket için 	このパックには 
+ elmas gerekiyor, sende 	 ジェムが必要です。所持数は 
+ var.	 です。
+ELMAS AL	ジェム購入
+PAKET HAZIR	パック準備完了
+Tüfek	ライフル
+ kuşanıldı. Cephanelikte seni bekliyor.	 を装備しました。武器庫で待っています。
+CEPHANELİK	武器庫
+TAMAM	OK
+SATIN ALINAMADI	購入失敗
+KAPAT	閉じる
+GERİ YÜKLEME	復元
+ satın alım geri yüklendi.	 件の購入を復元しました。
+Geri yüklenecek satın alım bulunamadı.	復元できる購入が見つかりません。
+ALINDI	購入済み
+Bugün 	本日残り 
+ hakkın kaldı	 回
+Şu an video yok	現在動画はありません
+TEST SÜRÜMÜ: satın almalar ücretsiz tamamlanır, reklamlar yer tutucudur. Gerçek fiyatlar App Store'dan gelir.	テスト版：購入は無料で完了し、広告はダミーです。実際の価格はApp Storeから取得されます。
+GÜNLÜK ÖDÜL	デイリー報酬
+Her gün gel, ödülün büyüsün. 7. gün büyük ödül.	毎日ログインして報酬を増やそう。7日目は大きな報酬。
+. GÜN	日目
+ ELMAS	 ジェム
+ Z. DELİCİ	 徹甲弾
+2× AL	2×受取
+TOPLA	受取
+VAZGEÇ	キャンセル
+Dürbünde nişangahı birinin üzerinde tutarak kimliğini tara — masumları vurma.	スコープの照準を人物に合わせ続けて身元をスキャンしてください — 無実の人は撃たないこと。
+Nefesini tutarken nişangah sabitlenir, ama nefes çubuğu biterse titreme artar.	息を止めている間は照準が安定しますが、息ゲージが尽きると揺れが大きくなります。
+Uzak mesafede kurşun düşer ve rüzgarla kayar. Kırmızı nokta isabet noktasını gösterir.	長距離では弾が落下し、風で流されます。赤い点が着弾点を示します。
+Bir koruma telsize uzanırsa birkaç saniyen var: onu durdurursan alarm verilmez.	護衛が無線に手を伸ばしたら残りは数秒。止めれば警報は鳴りません。
+Kafadan vuruşlar ve sivil kayıpsız görevler daha fazla yıldız ve para kazandırır.	ヘッドショットと民間人の犠牲ゼロのミッションで、より多くのスターと資金を獲得できます。
+Zırhlı adamların gövdesi kurşun tutar: kafaya nişan al ya da tüfeğinin HASAR'ını geliştir.	装甲兵の胴体は弾を止めます。頭を狙うか、ライフルのダメージを強化してください。
+Iskalama sessiz kalmaz: ikinci boş atış silahlıları yuvana yollar.	外した弾は気づかれます。2発目の空振りで武装兵が狙撃位置に押し寄せます。
+Görev, sana ateş eden son silahlı susunca biter. Önce en yakındakini sustur.	ミッションは撃ってくる最後の武装兵を黙らせると終了します。まずは一番近い敵から。
+Cephanelikte her tüfeğin beş hattı var: en üst kademe elmasla açılır.	武器庫では各ライフルに5つの強化ラインがあります。最上位ティアはジェムで解放します。
+Günün sözleşmesi iki kat para ve elmas öder — her gün yenisi gelir.	本日の契約は資金とジェムが2倍 — 毎日新しい契約が届きます。
+LİMAN OPERASYONU	港湾作戦
+TAKTİK HARİTA  ·  GÖREV 	戦術マップ  ·  ミッション 
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     	<color=#46C8F2>●</color> 狙撃地点     <color=#FF4545>●</color> ターゲット区域     
+<color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#FFFFFF>- -</color> 既知のルート     リング: メイン狙撃位置から100m間隔     上方向: メイン狙撃位置の向き
+ZORLUK  	難易度  
+VETERAN	ベテラン
+HARİTA	マップ
+HEDEF DOSYASI	ターゲット資料
+SUİKAST	暗殺
+TANIMA	識別
+BRİFİNG	ブリーフィング
+GÖREV	ミッション
+YILDIZ HEDEFLERİ	スター目標
+DEĞİŞTİR	変更
+BAŞLA	開始
+EKİPMAN GEREKLİ	装備が必要
+Bu iş 	この仕事には 
+ ve 	 と 
+ olmadan yapılamaz. Cephaneliğe git?	 が必要です。武器庫へ行きますか？
+TÜFEĞİN ZAYIF KALABİLİR	ライフルの性能不足
+Bu sözleşme için önerilen güç 	この契約の推奨パワー 
+ şu an 	 ／現在 
+Geliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	強化せずに挑むこともできますが、装甲兵や遠距離のターゲットに苦戦します。
+GELİŞTİR	強化
+YİNE DE BAŞLA	このまま開始
+ZIRHLI HEDEFLER	装甲ターゲット
+Bu işte zırhlı silahlılar var; tüfeğinin mermisi gövdeden geçmez.\nKısa bir video izle, 3 zırh delici mermi senin olsun.	この仕事には装甲兵がいます。今のライフルでは胴体を貫通できません。\n短い動画を見れば徹甲弾を3発入手できます。
+İZLE  +3 MERMİ	視聴 +3発
+GÜNÜN İŞİ ×2	本日の仕事 ×2
+VETERAN ×1,5	ベテラン ×1,5
+<b><color=#E8B04A>YENİ:</color></b> 	<b><color=#E8B04A>NEW:</color></b> 
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n	<b><color=#FFB21E>ベテラン:</color></b> 着弾点表示なし、風は強く不規則、ライフルの揺れが増し、ターゲットはマークされません。報酬 ×1,5。\n
+NEREDEN ATEŞ EDECEKSİN?	どこから撃つ？
+Her yerin artısı eksisi var. Görev sırasında iki kez yer değiştirebilirsin.	どの位置にも長所と短所があります。ミッション中に2回まで移動できます。
+GERİ	戻る
+DEVAM	続行
+BÖLÜM 	チャプター 
+KORUMA	護衛
+CANLI YAKALA	生け捕り
+SABOTAJ	破壊工作
+YARALA	負傷させる
+GÖREV 	ミッション 
+KORUNACAK KİŞİ	護衛対象
+HEDEF DOSYASI  ·  CANLI	ターゲット資料  ·  生け捕り
+•  Hedefi etkisiz hale getir	•  ターゲットを無力化せよ
+TÜFEK:  	ライフル:  
+>GÜÇ 	>パワー 
+</color><color=#6B7682>  /  önerilen 	</color><color=#6B7682>  /  推奨 
+Bu iş için verildi	この仕事用に支給
+   ·   Verilen: 	   ·   支給: 
+   ·   <color=#FF8A2B>Zırhlı silahlılar: kafaya nişan al, HASAR geliştir ya da zırh delici al</color>	   ·   <color=#FF8A2B>装甲兵: 頭を狙うか、ダメージを強化するか、徹甲弾を入手</color>
+AYARLAR	設定
+Nişan hassasiyeti	照準感度
+Kolay nişan (3. yıldız alınmaz)	エイムアシスト（3つ目のスターは獲得不可）
+Kurşun kamerası (son hedefte ağır çekim)	バレットカム（最後のターゲットでスローモーション）
+Titreşim	振動
+Ses seviyesi	音量
+İlerleme	進行状況
+İLERLEMEYİ SIFIRLA	進行状況リセット
+İlerleme sıfırlansın mı?	進行状況をリセットしますか？
+Tüm yıldızlar, para ve geliştirmeler silinecek (satın aldıkların ve elmasların kalır). Bu işlem geri alınamaz.	すべてのスター、資金、強化が消去されます（購入したアイテムとジェムは残ります）。この操作は取り消せません。
+SIFIRLA	リセット
+Satın alımlar ve gizlilik	購入とプライバシー
+GERİ YÜKLE	復元
+GİZLİLİK	プライバシー
+Grafik kalitesi	グラフィック品質
+PERFORMANS	パフォーマンス
+DENGELİ	黒崎ス
+KALİTE	高画質
+KAYNAKLAR VE LİSANSLAR	クレジットとライセンス
+Henüz dosyada bir şey yok. İlk sözleşmeyi tamamla.	まだ資料は空です。最初の契約を完了してください。
+<size=40><color=#E8B04A><b>BÖLÜM 	<size=40><color=#E8B04A><b>チャプター 
+<b>SON</b>\n	<b>エンディング</b>\n
+Disk KONTROL'de. Kurul'un koltukları yeniden doluyor.	ディスクはCONTROLの手に。評議会の席は再び埋まりつつある。
+Disk savcıda. KONTROL'ün kapısına polis dayandı.	ディスクは検察官の手に。CONTROLの扉の前に警察が来た。
+DAVA DOSYASI	事件ファイル
+DURAKLATILDI	一時停止
+DEVAM ET	再開
+YENİDEN BAŞLAT	リスタート
+GÖREVDEN ÇIK	ミッション離脱
+Görevden çıkılsın mı?	ミッションを離脱しますか？
+Bu görevdeki ilerlemen kaybolacak.	このミッションの進行状況は失われます。
+ÇIK	離脱
+DERECE	ランク
+YENİ YILDIZ	新スター
+ATIŞ	ショット
+En uzun atış	最長射撃
+Kafadan vuruş	ヘッドショット
+Süre	時間
+İsabet	命中率
+KAZANÇ DÖKÜMÜ	報酬内訳
+KAZANÇ	報酬
+2× KAZANÇ	2× 報酬
+MENÜ	メニュー
+TEKRAR	もう一度
+SONRAKİ GÖREV	次のミッション
+İSTİHBARAT	情報
+SON	エンディング
+YİNE KİMSESİZ	再び孤独に
+KENDİ SEÇİMİN	自らの選択
+Kimyager: 	ケミスト: 
+KONTROL'ün hücresinde kayboldu.	CONTROLの独房で消息を絶った。
+savcılığa ifade verdi; Baran davası onunla başladı.	検察で供述した。黒崎事件は彼から始まった。
+Baran'ın kasası: 	黒崎の金庫: 
+para sende, KONTROL bunu biliyor.	金はあなたの手に。CONTROLはそれを知っている。
+dosyaların kopyası Başsavcı Arslan'da.	ファイルのコピーは獅子堂検事総長の手に。
+Kurul: beş koltuk boşaldı.	評議会: 5つの席が空いた。
+KONTROL: yerinde. Yeni bir isim arıyor.	CONTROL: 健在。新たな名前を探している。
+KONTROL: kapısında polis.	CONTROL: 扉の前に警察。
+Toplam: 	合計: 
+GÖREV TAMAMLANDI	ミッション完了
+GÖREV BAŞARISIZ	ミッション失敗
+   ·   VETERAN	   ·   ベテラン
+  <color=#FFB21E>REKOR</color>	  <color=#FFB21E>新記録</color>
+ÖNCEDEN	前回
+KOLAY NİŞAN	エイムアシスト
+Günün sözleşmesi  ·  elmas	本日の契約  ·  ジェム
+İlk S derecesi  ·  elmas	初のSランク  ·  ジェム
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.	契約未完了 — 報酬なし。\n同じ仕事に再挑戦できます。何がまずかったかは上に表示されています。
+\nKısa bir videoyla ücretin bir kısmını telafi alabilirsin.	\n短い動画を見れば報酬の一部を補償として受け取れます。
+TEKRAR DENE	再挑戦
+TÜFEĞİN ZORLANIYOR	ライフルが力不足
+Bu iş için önerilen güç 	この仕事の推奨パワーは 
+, senin tüfeğin 	、あなたのライフルは 
+. Geliştir ya da 	。強化するか 
+bir silah paketiyle	武器パック
+ hemen güçlen.	 ですぐにパワーアップしましょう。
+GÜÇLEN	パワーアップ
+ TP	 XP
+TELAFİ +	補償 +
+GÖREVLER	ミッション
+ANA YUVA	メイン狙撃位置
+<color=#36D47C>●</color> Tamamlandı    <color=#FFB21E>●</color> Sıradaki    <color=#6B7682>●</color> Kilitli	<color=#36D47C>●</color> 完了    <color=#FFB21E>●</color> 次    <color=#6B7682>●</color> ロック中
+BRİFİNGE GİT	ブリーフィングへ
+Rüzgâr 	風 
+\nZORLUK 	\n難易度 
+   ·   <color=#FF8A2B>ZIRHLI DÜŞMAN</color>	   ·   <color=#FF8A2B>装甲兵あり</color>
+Önerilen güç <b>	推奨パワー <b>
+</b>   ·   Tüfeğin <color=	</b>   ·   ライフル <color=
+Önceki görevi tamamla	前のミッションを完了してください
+OYNA	プレイ
+  ·  TEST MODU: tüm bölümler açık	  ·  テストモード: 全チャプター解放
+  ·  Tek oyunculu keskin nişancı	  ·  シングルプレイ狙撃ゲーム
+TEST MODU	テストモード
+Tüm haritalar ve görevler şu an açık. Normal ilerlemeye dönülsün mü?	現在すべてのマップとミッションが解放されています。通常の進行に戻しますか？
+Test için bütün haritalar ve görevler açılsın mı? (Ayarlardan ilerleme sıfırlanmaz.)	テスト用にすべてのマップとミッションを解放しますか？（設定の進行状況はリセットされません）
+AÇ	解放
+KAYNAKLAR	クレジット
+SIRADAKİ SÖZLEŞME	次の契約
+GÜÇ	パワー
+GÜNLÜK GÖREVLER	デイリータスク
+GÜNÜN SÖZLEŞMESİ  ·  TAMAM	本日の契約  ·  完了
+GÜNÜN SÖZLEŞMESİ  ·  ×2 ÖDÜL  +10 ELMAS	本日の契約  ·  報酬×2  +10ジェム
+Yenisi 	次の契約まで 
+ sa 	 時間 
+ dk sonra	 分
+  —  VETERAN kurallarıyla	  —  ベテランルール
+Güç 	パワー 
+Başlangıç paketi	スターターパック
+Ücretsiz elmas	無料ジェム
+Elmas · Nakit	ジェム · 資金
+ dosya	 件の資料
+REKLAMLARDAN SIKILDIN MI?	広告にうんざり？
+Görev aralarındaki reklamları 	ミッション間の広告を 
+ karşılığında sonsuza dek kaldır. Hediye: 	 で永久に削除。特典: 
+ elmas.	 ジェム。
+REKLAMSIZ OL	広告を削除
+ŞİMDİ DEĞİL	今はしない
+TÜFEKLER	ライフル
+EKİPMAN	装備
+MÜHİMMAT	弾薬
+BECERİLER	スキル
+Çevirmek için sürükle	ドラッグして回転
+ için 	 を 
+HEMEN AL	今すぐ購入
+ elmasla hemen senin olsun mu?	 ジェムで今すぐ手に入れますか？
+AL	購入
+SEVİYE 	レベル 
+ GEREKLİ	 が必要
+Son kademe (elmasla) 	最終ティア（ジェム）はレベル 
+. seviyede açılır. Sözleşmelerden tecrübe kazan.	で解放されます。契約をこなして経験を積みましょう。
+AZ KALDI	あと少し
+Bu geliştirme için 	この強化には 
+ eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.	 足りません。短い動画を見れば不足分が補われ、すぐに強化されます。
+\nBugün 	\n本日残り 
+ hakkın var.	 回。
+İZLE VE GELİŞTİR	視聴して強化
+PARA YETMİYOR	資金不足
+Son kademe 	最終ティアは 
+ elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	 ジェムです。ショップで購入するか、デイリー報酬で集めましょう。
+Bu geliştirme 	この強化には 
+. Sözleşmelerden para kazan ya da mağazaya bak.	が必要です。契約で資金を稼ぐか、ショップを見てみましょう。
+GÜÇ <color=#FFB21E>	パワー <color=#FFB21E>
+<color=#36D47C>KUŞANILDI</color>	<color=#36D47C>装備中</color>
+SAHİP	所持
+ ★ ile açılır	 ★で解放
+Yarı otomatik	セミオート
+Sürgülü	ボルトアクション
+   ·   Susturuculu	   ·   サプレッサー付き
+   ·   Duvar deler	   ·   壁を貫通
+   ·   Siper deler	   ·   遮蔽物を貫通
+  <color=#46C8F2>EN ÜST</color>	  <color=#46C8F2>最上位</color>
+SV 	Lv 
+Satın aldığında beş hatta geliştirebilirsin. En üst kademe <color=#46C8F2>elmasla</color>.	購入すると5つのラインで強化できます。最上位ティアは<color=#46C8F2>ジェム</color>で解放。
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> 	装甲兵の胴体を貫くには <color=#FFB21E>ダメージ</color> ティア 
+. kademe ya da zırh delici mermi gerekir.	、または徹甲弾が必要です。
+Bu tüfek zırhlı gövdeyi deler.	このライフルは装甲を貫通します。
+KUŞANILDI	装備中
+KUŞAN	装備
+SATIN AL   	購入   
+ ★ YA DA   	 ★ または   
+ ELMASLA AL	 ジェムで購入
+SAHİPSİN	所持済み
+Görevlerde otomatik takılı	ミッションで自動装備
+ yıldızla açılır	 スターで解放
+SATIN AL  	購入  
+KİLİTLİ	ロック中
+ adetlik paket	 発パック
+SABİT NİŞAN	照準安定
+Dürbündeki el titremesi her kademede %17 azalır.	スコープの手ブレがティアごとに17%減少します。
+NEFES KONTROLÜ	呼吸制御
+Nefesini daha uzun tutarsın: nişangah daha uzun sabit kalır.	息を長く止められます。照準がより長く安定します。
+SOĞUKKANLILIK	冷静沈着
+Ateş altında ve yaralıyken titreme her kademede %25 azalır.	被弾中や負傷時の揺れがティアごとに25%減少します。
+ sn	 秒
+MAKSİMUM	最大
+YÜKSELT  	強化  
+BURAYA ATEŞ ET	ここを撃て
+DRON	ドローン
+İŞARETLE — HEDEF BU	マーク — こいつが標的
+YER DEĞİŞTİR	移動
+NEFES	息止め
+MENZİL	距離
+Geçmek için dokun	タップでスキップ
+Hedef: 	ターゲット: 
+Taşınırken dünya durmaz. Yeni yerde seni kimse bilmez.	移動中も世界は動き続けます。新しい位置は誰にも知られていません。
+YER DEĞİŞTİRİYORSUN\n<size=30>	移動中\n<size=30>
+ sn</size>	 秒</size>
+DOSYA	資料
+ARANIYOR	捜索中
+ETKİSİZ	無力化
+KAÇTI	逃走
+DOĞRULANDI	確認済み
+BEKLE…	待て…
+NORMAL	通常
+KURŞUN KAMERASI  ·  	バレットカム  ·  
+GECE GÖRÜŞÜ	暗視
+KAFA	頭
+KOL	腕
+BACAK	脚
+KARIN	腹
+GÖVDE	胴体
+Kimliği belirsiz	身元不明
+HEDEF DEĞİL	標的ではない
+TARANDI	スキャン済み
+Masum — ateş etme	無実 — 撃つな
+Dosyadaki yüzle karşılaştır — emin olunca İŞARETLE	資料の顔と照合 — 確信したらマーク
+SİLAHLI	武装
+BAYGIN	気絶
+YERDE	ダウン
+Koru — ona bir şey olmamalı	護衛せよ — 傷つけさせるな
+Silahlı — sivil kılığında	武装 — 民間人に変装
+Sözleşme hedefi	契約ターゲット
+” — sözleşme hedefi	” — 契約ターゲット
+Silahlı — vurulabilir	武装 — 射撃可
+Yaralı — 	負傷 — 
+!  NİŞAN ALIYOR	!  狙っている
+!  SANA ATEŞ EDİYOR	!  こちらを撃っている
+GÖZCÜ	見張り
+Öldürüldü	死亡
+Kaçıyor — güvenli yere	逃走中 — 安全な場所へ
+Güvende — gözün üzerinde olsun	安全 — 目を離すな
+Kimliği doğrulanmadı — dosyadaki yüzü bul	身元未確認 — 資料の顔を探せ
+Görüş dışında — bekle	視界外 — 待て
+Baygın	気絶
+İğne isabet etti — bayılıyor	麻酔針命中 — 意識を失いつつある
+Yerde — sürünüyor	ダウン — 這っている
+NİŞAN ALIYOR — HEMEN VUR!	狙われている — すぐ撃て！
+KAÇIYOR!	逃走中！
+Sese doğru bakıyor — fırsat!	音の方を見ている — チャンスだ！
+Siperin arkasında — dikkatini dağıt	遮蔽物の陰 — 気をそらせ
+Kalabalıkta — herkesi dürbünle tara	人混みの中 — 全員をスコープでスキャンせよ
+Yaralı	負傷
+Kimlik doğrulandı	身元確認済み
+Kimliği taranmadı — dürbünle tara	身元未スキャン — スコープでスキャンせよ
+HEDEF:  	ターゲット:  
+Sözleşme tamamlandı	契約完了
+Etkisiz hale getir: 	無力化: 
+Ateş et: devre dışı bırak	射撃: 無力化せよ
+Devam ediyor	進行中
+BONUS  ·  	ボーナス  ·  
+KEŞİF  ·  	偵察  ·  
+ tehdit tarandı	 件の脅威をスキャン
+Fırsat penceresi	チャンスの時間
+Bayraklara bak	旗を見ろ
+Rüzgar yok	無風
+Sağa esiyor »	右へ吹いている »
+« Sola esiyor	« 左へ吹いている
+Karşıdan	向かい風
+« Sola tut 	« 左へ修正 
+Sağa tut » 	右へ修正 » 
+ mil	 ミル
+ALARM	警報
+TELSİZ  	無線  
+DOLDURULUYOR	装填中
+STANDART	通常弾
+Yıldız kaçtı: 	逃したスター: 
+SÖZLEŞME 	契約 
+  ·  VETERAN	  ·  ベテラン
+Kalabalıkta silahlı adam(lar) var — kimliği bilinmiyor	人混みに武装した男がいる — 身元不明
+Hedef bu bölgede — dosyadaki yüzü bul, emin olunca İŞARETLE	ターゲットはこの区域にいる — 資料の顔を探し、確信したらマーク
+HEDEF	ターゲット
+KORU	護衛
+Ekranı parmağınla sürükleyerek etrafa bak.	画面を指でドラッグして周囲を見渡してください。
+Sağdaki dürbün tuşuna dokunarak dürbünü aç.	右のスコープボタンをタップしてスコープを覗いてください。
+Kırmızı işaret hedefi gösterir. Nişangahı hedefin üzerine getir.	赤いマークがターゲットです。照準をターゲットに合わせてください。
+Nişangahı kişinin üzerinde tut: kimliği taranıyor…	照準を人物に合わせ続けてください: 身元をスキャン中…
+Soldaki NEFES tuşuna basılı tut: nişan sabitlenir.	左の息止めボタンを長押しすると照準が安定します。
+Hazır! Büyük kırmızı tuşla ateş et.	準備完了！大きな赤いボタンで撃ってください。
+  <size=24><color=#A3AEB9>·  SEVİYE 	  <size=24><color=#A3AEB9>·  レベル 
+SEVİYE ATLADIN!	レベルアップ！
+2× TOPLA	2×受取
+   ·   SEVİYE 	   ·   レベル 
+AÇILDI:  	解放:  
+GÜN BATIMI	夕暮れ
+GÜNDÜZ	昼
+YAĞMURLU	雨
+YAĞMURLU GECE	雨の夜
+KARLI GÜN	雪の日
+DAĞDA GÜN BATIMI	山の夕暮れ
+KARLI GECE	雪の夜
+TİPİ	吹雪
+VİDEO YOK	動画なし
+Şu an gösterilecek video yok. Biraz sonra tekrar dene.	現在表示できる動画がありません。しばらくしてからもう一度お試しください。
+ÖDÜLLÜ TEST REKLAMI  ·  	報酬付きテスト広告  ·  
+TEST REKLAMI  ·  her 	テスト広告  ·  
+ görevde bir	 ミッションごとに1回
+Reklam sonunda ödül verilir	広告の最後に報酬が付与されます
+Reklamsız paketle bu ekran kalkar	広告なしパックでこの画面は表示されなくなります
+AVUÇ DOLUSU	ひとつかみ
+KESE	小袋
+EN POPÜLER	一番人気
+SANDIK	宝箱
+KASA	金庫
+EN İYİ DEĞER	お得
+HAZİNE	財宝
+ZARF	封筒
+ÇANTA	バッグ
+%15 FAZLA	15%増量
+VALİZ	スーツケース
+%33 FAZLA	33%増量
+%54 FAZLA	54%増量
+BAŞLANGIÇ PAKETİ	スターターパック
+500 elmas, $10.000 ve 10 zırh delici mermi. Sadece bir kez.	500ジェム、$10.000、徹甲弾10発。1回限り。
+%80 İNDİRİM	80%オフ
+REKLAMSIZ	広告なし
+Görev aralarındaki reklamlar sonsuza dek kalkar. Ödüllü videolar istersen açık kalır. Hediye: 100 elmas.	ミッション間の広告が永久に表示されなくなります。報酬付き動画はお好みで引き続き利用できます。特典: 100ジェム。
+GÖLGE OPERASYON	シャドウ作戦
+Susturuculu GÖLGE SR-7 hemen senin: bütün hatları 3. kademede. Gece görüşü ve 150 elmas.	サプレッサー付きSHADOW SR-7を今すぐ入手：全ラインがティア3。暗視スコープと150ジェム付き。
+EN ÇOK SATAN	ベストセラー
+TİTAN PAKETİ	タイタンパック
+Efsane TİTAN .50: zırhı ve camı deler. Termal dürbün, 400 elmas ve 20 zırh delici mermi.	伝説のTITAN .50：装甲もガラスも貫通。サーマルスコープ、400ジェム、徹甲弾20発。
+EFSANE	伝説
+Bu paket zaten alındı.	このパックは購入済みです。
+Elmasın yetmiyor.	ジェムが足りません。
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.	現在ショップを利用できません。インターネット接続を確認して、しばらくしてからもう一度お試しください。
+LİMAN — KRAL'IN AĞI	港 — クラールのネットワーク
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: 	お前には名前がない。3年前、軍はお前を死亡扱いにした。CONTROLは軍病院でお前を見つけ、ひとつだけ取引を持ちかけた。 
+limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	港の密輸組織を潰せば、過去は消してやる。\n\nどの契約もひとつの名前。どの名前も、次へと続く道。
+ŞEHİR — BARAN HOLDİNG	都市 — 黒崎ホールディングス
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\n	港は崩れたが、金は流れ続けている。ヴィクトル・クラールの電話に残っていた最後の番号は潮見プラザにつながっていた。黒崎ホールディングスだ。\n\n
+Bu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	今度の標的はスーツ姿だ。人混みの中、ガラス壁の向こう、警官のそばにいる。
+KARTAL TEPE — KURUL	鷲峰高原 — 評議会
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını 	黒崎の金庫から出てきたファイルが5つの名前を示している。評議会だ。長年黒崎を養い、守ってきた5人は、年末年始の週を 
+her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	毎年鷲峰高原で過ごす。\n\nファイルの中にはもうひとつ署名があった。見覚えのある署名が。
+Selim Kaya'nın cebinden çıkan rüşvet makbuzlarında tek bir imza var: liman yönetiminden C. Aydın.	岩崎正人のポケットから出た賄賂の領収書には、ひとつの署名しかない。港湾管理局の青木。
+Can Aydın'ın sildiği kayıtlar kurtarıldı. Gelecek sevkiyatın alıcısı: Kuzgun lakaplı Tarık Bal.	青木健が消した記録が復元された。次の積荷の受取人は、通称「レイヴン」の蜂谷辰也。
+Kuzgun'un arabasındaki çanta boş değil: depoları koruyan paralı askerlerin maaş listesi. Başlarında Rico Vargas.	レイヴンの車にあったバッグは空ではなかった。倉庫を守る傭兵たちの給与リストだ。そのトップはリコ・バルガス。
+Rico'nun telsizinde bir uyarı: "Depoda köstebek var." Örgüt de kendi içinde birini arıyor.	リコの無線に警告が入っていた。「倉庫にモグラがいる」。組織も身内の誰かを探している。
+Köstebek Kerim'in sattığı bilgi bir teslimata işaret ediyor: Tilki çalınan belgeleri rıhtımdan kaçıracak.	モグラの源蔵が売った情報はある受け渡しを指している。フォックスが盗まれた書類を埠頭から持ち出す。
+Tilki'nin belgeleri bir gemi manifestosu: Meridian Star'ın ambarında örgütün silah yükü var.	フォックスの書類は船の積荷目録だった。メリディアン・スターの船倉に組織の武器が積まれている。
+Kaptan Demir'in seyir defterinde tek bir isim tekrar ediyor: yükün sahibi Viktor Kral.	鉄川船長の航海日誌に繰り返し出てくる名前はひとつ。積荷の持ち主、ヴィクトル・クラール。
+Kral düştü. Telefonundaki son arama Kordon Plaza'ya: Baran Holding. Ama örgüt hâlâ nefes alıyor — ve bir tanığı susturmak istiyor.	クラールは倒れた。電話の最後の発信先は潮見プラザ、黒崎ホールディングス。だが組織はまだ息をしている — そして証人の口を封じようとしている。
+Ayten Şahin ifadesini verdi. Örgütün para kuryesi Emre Doğan şehirden kaçmaya hazırlanıyor.	篠原綾子は証言を終えた。組織の資金運び屋鷹野翔太が街から逃げる準備をしている。
+Kuryenin çantasındaki hesaplar bir kimyagere ödeme gösteriyor: Dr. Selin Aras.	運び屋のバッグにあった帳簿は、ある化学者への支払いを示している。有沢聖子博士。
+Kartal karanlıkta kaldı. Silah sevkiyatının parası bir laboratuvara gidiyor: Meridian Star'ın ambarı.	イーグルは闇に沈んだ。武器取引の金はある研究所に流れている。メリディアン・スターの船倉だ。
+Dr. Aras konuştu: laboratuvarın asıl sahibi Baran Holding. Liman bitti; sırada şehir var.	有沢博士が口を割った。研究所の真の所有者は黒崎ホールディングス。港は片付いた。次は都市だ。
+Defne Aksoy'un ekranında son işlem: Baran'ın rüşvet defteri Postacı'ya teslim edildi.	秋山楓の画面に残っていた最後の操作：黒崎の賄賂帳簿がポストマンに渡された。
+Rüşvet defteri ele geçti. Sayfalardan biri gemilerin sahibine ayrılmış: Cevdet Aydemir.	賄賂帳簿を押さえた。そのうちの1ページは船主に割かれている。大門寛治。
+Aydemir'in balkonda bıraktığı telefon: Baran, Başsavcı Nermin Arslan'ı susturmak için iki kişi tutmuş.	大門がバルコニーに置いていった電話：黒崎は獅子堂典子検事総長を黙らせるために2人雇っていた。
+Savcı konuşmasını bitirdi. Tetikçinin cebinden bir not çıktı: "Muhasebeci konuşmadan işini bitir." Baran'ın muhasebecisi her şeyi biliyor — onu canlı istiyoruz.	検事総長は演説を終えた。殺し屋のポケットからメモが出てきた。「会計士がしゃべる前に片付けろ」。黒崎の会計士はすべてを知っている — 生きたまま押さえたい。
+Muhasebeci Koç'un hesapları gazeteci Selin Ay'ın cinayetine ödeme gösteriyor. Tetikçi Çakal, dosyayı kapatan bir komiser.	会計士小嶋の帳簿は、記者月岡沙織殺害への支払いを示している。実行犯ジャッカルは、事件をもみ消した警部だ。
+Çakal'ın motosikletinde Baran'ın güvenlik şefinin numarası: Tolga Demirel. Bize karşı her hamleyi o planlamış.	ジャッカルのバイクに黒崎の警備責任者の番号があった。柴田剛。こちらへの対抗策はすべて奴が練っていた。
+Demirel'in tabletinde senin kullandığın bütün atış noktaları var — hepsi işten önce kaydedilmiş. Bunları ona kim verdi? Dosyanın üstünde tek harf: "K."	柴田のタブレットには、お前が使ったすべての狙撃地点が入っていた — どれも仕事の前に記録されている。誰が奴に渡した？ファイルの表紙には一文字だけ。「K」。
+Baran'ın son mesajı yarım kaldı: "KONTROL'e söyle, anlaşma hâlâ geçerli…" Dosyalar Kartal Tepe'yi ve beş ismi gösteriyor: Kurul.	黒崎の最後のメッセージは途中で途切れていた。「CONTROLに伝えろ、取引はまだ有効だ…」。ファイルは鷲峰高原と5つの名前を示している。評議会だ。
+Banker Kurt'un tableti Kurul'un ödeme defterine bağlanıyor. Her ödemenin altında aynı onay kodu: KONTROL.	銀行家大神のタブレットは評議会の支払い台帳につながっている。どの支払いにも同じ承認コード：CONTROL。
+Hakim Oral'ın kasasında Baran davalarının kararları — duruşmalardan önce yazılmış. Biri de senin eski birliğine ait.	小倉判事の金庫には黒崎裁判の判決文 — 公判前に書かれたものだ。そのうちのひとつは、お前のかつての部隊に関するものだった。
+Müteahhit Tan'ın telefonunda Kurul'un kuryesinin rotası: şifreli diskle vadiyi geçecek.	建設業者丹野の電話に評議会の運び屋のルートがあった。暗号化ディスクを持って谷を越えるつもりだ。
+Kuryenin diski açıldı: Kurul'un bütün ödemeleri — ve KONTROL'e yapılan aylık ödemeler. Bize iş verenler, Kurul'un kendi temizlikçileri.	運び屋のディスクが解読された。評議会のすべての支払い — そしてCONTROLへの毎月の支払い。俺たちに仕事を回していたのは、評議会お抱えの掃除屋だった。
+Bülent Er'in konvoyundaki evraklar: Kurul'a karşı açılan her soruşturmayı KONTROL'ün talimatıyla kapatmış.	榎本浩の車列にあった書類：評議会に対する捜査はすべて、CONTROLの指示で彼が潰していた。
+Elif Demir yaşıyor ve yarın konuşacak. Tetikçileri tutan adamın adı onun dosyasında: Orhan Sezer, Kurul'un temizlikçisi.	森下恵理は生きていて、明日証言する。殺し屋を雇った男の名が彼女のファイルにある。瀬川修一、評議会の掃除屋。
+Sezer'in telefonundaki son arama Patron'dan değil. KONTROL'den. Senden sonra temizlenecek kişi sendin.	瀬川の電話の最後の着信はボスからではない。CONTROLからだ。お前の次に片付けられるのは、お前自身だった。
+Kurul bitti. Disk hâlâ sende.	評議会は終わった。ディスクはまだお前の手にある。
+Dr. Aras baygın, tekne bekliyor. Onu kime teslim edeceksin?	有沢博士は気を失い、ボートが待っている。彼女を誰に引き渡す？
+KONTROL'E	CONTROLへ
+Kimyager KONTROL'ün hücresine gitti. Ondan bir daha haber alınmadı.	ケミストはCONTROLの独房へ送られた。その後、彼女の消息は途絶えた。
+SAVCILIĞA	検察へ
+Kimyager savcılığa bırakıldı. İfadesi Baran'a açılan davanın ilk delili oldu.	ケミストは検察に引き渡された。彼女の証言は黒崎に対する訴訟の最初の証拠となった。
+Baran'ın kasası açık: dosyalar ve iki milyon avro. Ne yapacaksın?	黒崎の金庫が開いている。ファイルと200万ユーロ。どうする？
+PARAYI AL	金を取る
+Parayı aldın (+20.000). KONTROL'e sadece dosyaları gönderdin.	金を手に入れた（+20.000）。CONTROLにはファイルだけを送った。
+DOKUNMA	触れない
+Parayı bıraktın. Dosyaların kopyasını Başsavcı Arslan'a yolladın.	金には手を付けなかった。ファイルのコピーを獅子堂検事総長に送った。
+Kurul'un bütün ödemeleri ve KONTROL'ün imzası bu diskte. Kime vereceksin?	評議会のすべての支払いとCONTROLの署名がこのディスクにある。誰に渡す？
+Diski KONTROL'e verdin. Ertesi sabah Kurul'un boş koltukları dolmaya başladı — yeni isimlerle. Sözleşme tamam; sen yine kimsesin.	ディスクをCONTROLに渡した。翌朝、評議会の空席が埋まり始めた — 新しい名前で。契約は完了。お前はまた何者でもない。
+SAVCIYA	検察官へ
+Diski Başsavcı Nermin Arslan'a bıraktın. Bir hafta sonra KONTROL'ün kapısına polis dayandı. Adın yine yok — ama bu sefer kendi seçimin.	ディスクを獅子堂典子検事総長に託した。1週間後、CONTROLの扉の前に警察が来た。名前はまだない — だが今度は自分で選んだ道だ。
+ Kimyagerin ifadesi davayı ayakta tutuyor.	 ケミストの証言が裁判を支えている。
+ Baran'ın parasını aldığını KONTROL biliyor.	 黒崎の金を取ったことをCONTROLは知っている。
+Seni kaybettiler — ama nişancı yuvasını arıyorlar	見失われた — だが狙撃位置を探している
+Vuruldun — 	被弾 — 
+Vuruldun — yerin tespit edildi	被弾 — 位置がバレた
+ÇAYLAK	新米
+TETİKÇİ	殺し屋
+NİŞANCI	射手
+KESKİN NİŞANCI	狙撃手
+GÖLGE	シャドウ
+HAYALET	ゴースト
+Günün sözleşmesi	本日の契約
+Elmasla son geliştirme kademeleri	ジェムで最終強化ティア
+Efsane rütbe yolu	伝説ランクへの道
+TELEFERİK	ロープウェイ
+Kartal Tepe teleferiği	鷲峰高原ロープウェイ
+Sinan Kurt zirvedeki kahvaltıya teleferikle çıkacak. Kabin zirve istasyonuna varırsa onu kaybederiz.	大神慎一はロープウェイで山頂の朝食に向かう。ゴンドラが山頂駅に着けば見失う。
+Baran'ın dosyaları bizi Kartal Tepe'ye getirdi. Kurul — Baran'ı yıllarca besleyen ve koruyan beş kişi — yılbaşı haftasını her yıl burada geçiriyor.\n\nİlki Sinan Kurt, Kurul'un bankeri. Kayak barında kahvesini bitirince iki korumasıyla teleferiğe binip zirvedeki restorana çıkacak. Kabin hattın sonuna varırsa onu kaybederiz.	黒崎のファイルが俺たちを鷲峰高原に導いた。評議会 — 長年黒崎を養い、守ってきた5人 — は毎年年末年始の週をここで過ごす。\n\n最初は大神慎一、評議会の銀行家だ。スキーバーでコーヒーを飲み終えたら、護衛2人とロープウェイに乗り山頂のレストランへ向かう。ゴンドラが終点に着けば見失う。
+Kabin camı mermiyi durdurmaz; yukarı çıkan kabine biraz önden ve yukarıdan nişan al. İstasyonun yanındaki motor dairesine iki atış hattı durdurur: kabinler sallanır, içindekiler çömelir.	ゴンドラのガラスは弾を止めない。上っていくゴンドラには少し前方かつ上を狙え。駅横の機械室に2発撃ち込めば運行が止まる：ゴンドラが揺れ、乗客はかがみ込む。
+Uzun menzil: kabin 250 metreden 1 kilometreye kadar uzaklaşır	長距離：ゴンドラは250mから1kmまで遠ざかる
+Teleferik motoru: istasyonun batısındaki beton kulübe	ロープウェイのモーター：駅の西にあるコンクリート小屋
+Sinan Kurt istasyona kaçtı	大神慎一が駅に逃げ込んだ
+KONTROL	CONTROL
+Platformdalar. Sıradaki kabine binecekler.	ホームにいる。次のゴンドラに乗るぞ。
+Kabine bindiler — yukarı çıkıyorlar	ゴンドラに乗った — 上昇中
+Zirve istasyonuna	山頂駅到着まで
+Sinan Kurt zirve istasyonuna vardı	大神慎一が山頂駅に到着した
+Teleferik durdu — kabinler sallanıyor!	ロープウェイが停止 — ゴンドラが揺れている！
+Teknisyenler hattı yeniden çalıştırdı! Kabin yine hareket ediyor.	技術者が運行を再開した！ゴンドラが再び動き出した。
+Kayak barında, korumalarıyla kahve içiyor. Platforma çıkınca sıradaki kabine binecek.	スキーバーで護衛とコーヒーを飲んでいる。ホームに出たら次のゴンドラに乗る。
+Hat saatte 18 kilometre gidiyor. Kabin uzaklaştıkça mermi düşüşü artar — hesabını yap.	ロープウェイは時速18km。ゴンドラが遠ざかるほど弾の落下が大きくなる — 計算しろ。
+Sinan Kurt	大神慎一
+Uzun gri palto, gözlük, kır saç. İki korumasıyla.	グレーのロングコート、眼鏡、白髪交じり。護衛2人と一緒。
+Sinan Kurt'u zirve istasyonuna varmadan etkisiz hale getir	山頂駅に着く前に大神慎一を無力化せよ
+Teleferik motorunu durdurabilirsin (isteğe bağlı)	ロープウェイのモーターを止める（任意）
+Sözleşmeyi tamamla	契約を完了する
+Kabin hareket halindeyken vur	ゴンドラが動いている間に仕留める
+En fazla iki atış	2発以内
+ŞÖMİNE	暖炉
+Doğu yamacı — cam villa	東斜面 — ガラスの別荘
+Hakim Ferit Oral şöminenin başında. Villanın bütün ön cephesi cam — ve cam kırıldığı an içeridekiler anlar.	小倉文雄判事は暖炉の前にいる。別荘の正面は全面ガラス — 割れた瞬間、中の者たちが気づく。
+Ferit Oral, Baran'ın her davasını düşüren hakim. Yıllardır Kurul'un yargıdaki adamı. Bu gece doğu yamacındaki cam villasında eşiyle.\n\nDışarıda, terasta bir koruma dolaşıyor; aşağıda araçta bir şoför bekliyor. Hakim 23:25'te yatmaya gidecek. Eşi odadayken ateş edersen tanık kalır.	小倉文雄は、黒崎のあらゆる裁判を握り潰してきた判事だ。長年、評議会の司法側の手先を務めてきた。今夜は東斜面のガラスの別荘で妻と過ごしている。\n\n外ではテラスを護衛が巡回し、下の車では運転手が待機している。判事は23:25に寝室へ向かう。妻が部屋にいる時に撃てば目撃者が残る。
+İlk mermi camı kırar ve sesi içeridekileri ürkütür: ilk atışın öldürücü olsun. Hakim zaman zaman cama gelip vadiye bakıyor — en açık an o.	最初の弾がガラスを割り、その音で中の者が警戒する：初弾で確実に仕留めろ。判事は時々ガラスの前に来て谷を眺める — それが最大の好機だ。
+Hakim bölmenin arkasında. Cama ya da şömineye geri gelmesini bekle.	判事は仕切りの陰にいる。ガラスか暖炉の前に戻るのを待て。
+Hakim yatak odasına kilitlendi	判事が寝室に閉じこもった
+Hakimin yatmasına	判事の就寝まで
+Hakim yatak odasına gidiyor!	判事が寝室に向かっている！
+Hakim yatmaya gitti	判事は寝室へ去った
+Cam ön cephe vadiye bakıyor. Hakim kanepede, eşi masanın başında.	ガラス張りの正面は谷に面している。判事はソファに、妻はテーブルにいる。
+Eşi arada bir öbür odalara geçiyor. O sırada vurursan kimse bir şey görmez.	妻は時々ほかの部屋へ移る。その間に撃てば誰にも見られない。
+Yolun aşağısındaki adamın elinde gece dürbünü var. Dürbün sana dönünce eğil.	道の下にいる男は暗視双眼鏡を持っている。双眼鏡がこちらを向いたら身を隠せ。
+Ferit Oral	小倉文雄
+Beyaz balıkçı yaka kazak, gözlük, beyaz saç. Cam villada.	白いタートルネックのセーター、眼鏡、白髪。ガラスの別荘にいる。
+Hakim Ferit Oral'ı yatmaya gitmeden etkisiz hale getir	就寝前に小倉文雄判事を無力化せよ
+Tanık bırakma: eşi odadayken ateş etme	目撃者を残すな：妻が部屋にいる時は撃たない
+Camın ardından tek atış	ガラス越しの一撃
+JAKUZİ	ジャグジー
+Kartal Dağ Oteli — spa terası	鷲峰山ホテル — スパテラス
+Selim Tan gün batımında jakuzide. Buhar onu bir saklıyor, bir gösteriyor — pencereni bekle.	丹野誠司は夕暮れのジャグジーにいる。湯気が彼を隠しては見せる — チャンスを待て。
+Selim Tan, Baran'ın limandaki depolarını, Kurul'un kara parayla yükselen bütün otellerini inşa eden müteahhit.\n\nOtelin spa terasında, jakuzide gün batımını izliyor. Kapıda bir koruması, yanında bir arkadaşı var; garson şampanya getirecek. Sudan çıktığında içeri girer.\n\nKoruma kapıdan dürbünle yamaçları tarıyor. Selim'in dibinde durduğu için onu vurmak Selim'i ürkütür: dürbün sana döndüğünde eğil.	丹野誠司は、黒崎の港の倉庫や、評議会の汚れた金で建ったホテルをすべて手がけた建設業者だ。\n\nホテルのスパテラスで、ジャグジーに浸かって夕日を眺めている。入口には護衛が1人、そばには友人が1人。ウェイターがシャンパンを運んでくる。湯から上がったら中に入る。\n\n護衛は入口から双眼鏡で斜面を見張っている。丹野のすぐそばにいるため、護衛を撃てば丹野に気づかれる：双眼鏡がこちらを向いたら身を隠せ。
+Suyun üstünde yalnızca başı ve omuzları görünüyor. Buhar yoğunlaştığında hedef kaybolur, açıldığında birkaç saniyelik pencere doğar. Sudan çıkıp kapıya yürürken bütün boyuyla açıktadır — ama yalnızca birkaç saniye.	水面から見えるのは頭と肩だけ。湯気が濃くなるとターゲットは見えなくなり、晴れると数秒のチャンスが生まれる。湯から上がって入口へ歩く間は全身が無防備になる — ただし数秒だけだ。
+Selim Tan otele girdi	丹野誠司がホテルに入った
+Selim sudan çıkıyor — kapıya yürüyor!	丹野が湯から上がった — 入口へ歩いている！
+Sudan çıkmasına	湯から上がるまで
+Buhar bazen tamamen kapatıyor. Sabret: açıldığı an tek bir temiz atış yeter.	湯気で完全に見えなくなることもある。焦るな：晴れた瞬間のきれいな一発で十分だ。
+Kapıdaki koruma dürbünle yamaçları tarıyor. Onu vurursan Selim içeri kaçar: dürbün sana dönünce eğil.	入口の護衛が双眼鏡で斜面を見張っている。護衛を撃てば丹野は中に逃げ込む：双眼鏡がこちらを向いたら身を隠せ。
+Selim Tan	丹野誠司
+Müteahhit	建設業者
+Kalın yapılı, sakallı, koyu saç. Jakuzide.	がっしりした体格、ひげ、黒髪。ジャグジーにいる。
+Selim Tan'ı içeri girmeden etkisiz hale getir	中に入る前に丹野誠司を無力化せよ
+Kafadan vur	ヘッドショットで仕留める
+Buharın içinden vur	湯気越しに撃つ
+KAR MOTORU	スノーモービル
+Vadi tabanı — batı yamacı	谷底 — 西斜面
+Kurye Kurul'un defterini kar motoruyla dağa kaçıracak. Ölmemeli: defterin şifresi onda.	運び屋が評議会の台帳をスノーモービルで山へ運び出す。殺すな：台帳の暗号は奴が握っている。
+Doğan Aksu, Kurul'un kuryesi. Bütün ödemelerin kaydı olan şifreli disk onda. Birazdan otelden çıkıp kar motoruyla vadiyi geçecek ve batı yamacından ormana girecek.\n\nOnu CANLI istiyoruz. Önce motoru durdur — motor bloğuna iki atış — sonra kaçmaya çalışırsa bacağından vur. Ekibimiz ratrakla gelip onu alacak.\n\nKurul onu bizim almamıza izin vermez: kurye düşünce spadan adamları çıkıp onu susturmaya gelecek. Ratrak gelene kadar onları durdur.	白水達郎は評議会の運び屋だ。すべての支払いを記録した暗号化ディスクを持っている。まもなくホテルを出てスノーモービルで谷を越え、西斜面から森に入る。\n\n奴は生け捕りにしたい。まずスノーモービルを止めろ — エンジンブロックに2発 — その後逃げようとしたら脚を撃て。チームが圧雪車で回収に向かう。\n\n評議会は奴を渡すまいとする：運び屋が倒れればスパから男たちが口封じに出てくる。圧雪車が着くまで奴らを止めろ。
+Kar motoru saatte 25 kilometreyle gidiyor: biraz önden nişan al. Sürücüye isabet edersen ölebilir; motor bloğu sürücünün önünde, hedefin altında. Motor durunca kurye en yakın dağ evine koşar: içeri girmeden bacağından vur.	スノーモービルは時速25km：少し前方を狙え。運転手に当たれば死ぬかもしれない。エンジンブロックは運転手の前、ターゲットの下だ。エンジンが止まると運び屋は一番近い山小屋へ走る：中に入る前に脚を撃て。
+Kurye bir dağ evine saklandı	運び屋が山小屋に隠れた
+Kuryeyi BACAĞINDAN vur — ölmemeli	運び屋の脚を撃て — 殺すな
+Ekip gelene kadar onu hayatta tut	チームが着くまで奴を生かしておけ
+Kar motoru çalışmıyor — kurye koşarak kaçıyor!	スノーモービルが動かない — 運び屋が走って逃げている！
+Kurye ormana girdi	運び屋が森に入った
+Kurye kar motorunda — vadiyi geçiyor!	運び屋がスノーモービルで谷を越えている！
+Motor durdu — kurye koşarak kaçıyor!	エンジン停止 — 運び屋が走って逃げている！
+Ratrakın ulaşmasına	圧雪車の到着まで
+Spadan silahlı biri çıktı — kuryeye gidiyor!	スパから武装した男が出てきた — 運び屋に向かっている！
+Etraf temiz — ratrak tam gaz geliyor!	周囲はクリア — 圧雪車が全速で向かっている！
+Kurye uyudu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	運び屋が眠った！圧雪車が出発した — 評議会の連中がスパから出てくる、近づけるな。
+Bacağından vuruldu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	脚に命中！圧雪車が出発した — 評議会の連中がスパから出てくる、近づけるな。
+Ekip kuryeyi aldı	チームが運び屋を回収した
+Otelin spa kapısından çıkacak. Kar motoru otoparkın doğu ucunda.	ホテルのスパ出口から出てくる。スノーモービルは駐車場の東端にある。
+Doğan Aksu	白水達郎
+Koyu yeşil kapüşonlu, gri bere, kargo pantolon. Kar motorunda.	濃緑のパーカー、グレーのニット帽、カーゴパンツ。スノーモービルに乗っている。
+Önce kar motorunu durdurabilirsin (motor bloğu: 2 atış)	先にスノーモービルを止める（エンジンブロック：2発）
+Kuryeyi canlı yakala	運び屋を生け捕りにする
+En fazla beş atış	5発以内
+Kurul'un adamları nişan alamasın	評議会の連中に狙わせない
+ÇIĞ	雪崩
+Batı yolu — çığ yamacı	西の道 — 雪崩斜面
+KAZA	事故
+Bülent Er'in konvoyu batı yolundan gelecek. Kaza gibi görünmeli: yamaçta bir çığ patlayıcısı var.	榎本浩の車列が西の道からやってくる。事故に見せかけろ：斜面に雪崩用の爆薬がある。
+Bülent Er, emniyet istihbaratının başında ve Kurul'un maaş bordrosunda. Baran'a karşı açılan her soruşturmayı o kapattırdı. Bu sabah iki araçlık konvoyla batı yolundan otele geliyor.\n\nBir emniyet müdürünün kurşunla ölmesi ülkeyi ayağa kaldırır. Kaza olmalı: yolun üstündeki yamaçta çığ kontrol patlayıcısı var. Onu doğru anda vurursan yamaç kopar ve yolu örter. Bülent ikinci araçta.	榎本浩は警察情報部のトップで、評議会から金を受け取っている。黒崎に対する捜査はすべて彼が潰させた。今朝、2台の車列で西の道からホテルへ向かう。\n\n警察幹部が銃弾で死ねば国中が騒ぎになる。事故でなければならない：道の上の斜面に雪崩制御用の爆薬がある。タイミングよく撃てば斜面が崩れ、道を埋める。榎本は2台目の車だ。
+Çığ yola altı saniyede iner: sayaç altıya indiğinde patlayıcıyı vur. Erken vurursan konvoy kar yığınının önünde durur, geç kalırsan geçip gider; o zaman Bülent'i doğrudan vurmak zorundasın — ama kaza süsü gider.	雪崩は6秒で道に到達する：カウンターが6になったら爆薬を撃て。早すぎれば車列は雪の山の手前で止まり、遅すぎれば通り過ぎる。その場合は榎本を直接撃つしかない — だが事故の偽装は崩れる。
+Çığ kontrol patlayıcısı: yolun üstündeki yamacın tepesinde, sarı tank	雪崩制御用の爆薬：道の上の斜面の頂上にある黄色いタンク
+İkinci araçta — batı yolundan geliyor	2台目の車 — 西の道から接近中
+Bülent Er otele girdi	榎本浩がホテルに入った
+Yamaç koptu — çığ yola iniyor!	斜面が崩れた — 雪崩が道へ！
+Konvoy otele vardı — Bülent arabadan iniyor!	車列がホテルに着いた — 榎本が車を降りる！
+Konvoyun yamaca ulaşmasına	車列が斜面に着くまで
+Konvoy batı yolunda. Yamacın altındaki virajdan geçecekler.	車列は西の道にいる。斜面の下のカーブを通過する。
+Çığ yolu kapattı, konvoy durdu. Bülent araçtan indi — kaza olmadı ama fırsat bu.	雪崩が道をふさぎ、車列が止まった。榎本が車を降りた — 事故にはならなかったが、チャンスだ。
+Çığ boşa gitti! Konvoy otele devam ediyor — Bülent arabadan inince fırsatın var.	雪崩は空振りだ！車列はホテルへ向かっている — 榎本が車を降りたらチャンスだ。
+Tepedeki adam kayak devriyesi, patlayıcıyı kontrol ediyor. O oradayken tetikleme.	頂上の男はスキーパトロールで、爆薬を点検している。奴がいる間は起爆するな。
+Çığ yamaçtan yola altı saniyede iner. Sayaç altıya indiği an patlayıcıyı vur.	雪崩は6秒で斜面から道に達する。カウンターが6になった瞬間に爆薬を撃て。
+Bülent Er	榎本浩
+Emniyet İstihbaratı	警察情報部
+İkinci araçta. Lacivert palto, şapka, gözlük.	2台目の車。紺のコート、帽子、眼鏡。
+Bülent Er'i etkisiz hale getir — kaza gibi görünmeli	榎本浩を無力化せよ — 事故に見せかけること
+Kaza süsü ver: çığla	雪崩で事故を装う
+Çığ devriyesine zarar verme	雪崩パトロールを傷つけない
+KAYAK HOCASI	スキー講師
+Acemi pisti	初心者ゲレンデ
+Elif Demir yarın mahkemede Kurul'a karşı tanıklık edecek. Bugün onu öldürmeye üç kişi geliyor.	森下恵理は明日、法廷で評議会に不利な証言をする。今日、彼女を殺しに3人がやってくる。
+Kayak hocası Elif Demir, geçen kış teleferik makinisti Hasan Usta'nın Kurul'un adamlarınca öldürülüşünü gördü. Yarın mahkemede tanıklık edecek; Kurul onu bugün susturmak istiyor.\n\nElif acemi pistinde ders veriyor. Üç tetikçi var: istasyonun çatısında bir nişancı, otelden yürüyerek gelen biri ve kar motoruyla gelecek biri. Jandarma 11:33'te geliyor. O zamana kadar onu hayatta tut.	スキー講師の森下恵理は去年の冬、ロープウェイ技師の長谷川茂が評議会の手下に殺されるのを目撃した。明日法廷で証言する予定で、評議会は今日のうちに彼女を黙らせようとしている。\n\n恵理は初心者ゲレンデでレッスン中だ。殺し屋は3人：駅の屋上に狙撃手、ホテルから歩いてくる男、そしてスノーモービルでやってくる男。憲兵隊は11:33に到着する。それまで彼女を生かしておけ。
+Nişancıyı önce bul: teleferik istasyonunun düz çatısında, kar kadar beyaz. Ateş ettiğin an namlu alevini görür ve sana döner. Silah çeken birini kolundan vurursan silahını düşürür.	まず狙撃手を見つけろ：ロープウェイ駅の平らな屋上にいて、雪のように白い。お前が撃った瞬間に銃口炎を見てこちらを向く。銃を抜いた者の腕を撃てば銃を落とす。
+Susturucu nişancının seni görmesini geciktirir	サプレッサーで狙撃手に発見されるのを遅らせる
+İstihbarat: üç tetikçi — biri yüksekte	情報：殺し屋は3人 — 1人は高所
+Elif Demir	森下恵理
+TANIK	証人
+Kayak hocası — koru	スキー講師 — 護衛せよ
+Elif'i jandarma gelene kadar koru	憲兵隊が来るまで恵理を守れ
+Çatıdaki Nişancı	屋上の狙撃手
+Haki yeşil palto, kalpak — teleferik istasyonunun çatısında	カーキのコート、毛皮帽 — ロープウェイ駅の屋上
+İstasyonun çatısında biri doğruldu — Elif'e nişan alıyor!	駅の屋上で誰かが身を起こした — 恵理を狙っている！
+Çatıdaki nişancı seni vurdu	屋上の狙撃手に撃たれた
+Yürüyen Adam	歩いてくる男
+Siyah kapüşonlu, siyah bere, sakallı	黒いパーカー、黒いニット帽、ひげ
+Kar Motorlu Adam	スノーモービルの男
+Gri kapüşonlu, siyah bere, spor gözlük — kar motorunda	グレーのパーカー、黒いニット帽、スポーツグラス — スノーモービルに乗っている
+Doğudan bir kar motoru geliyor, hızlı!	東からスノーモービルが来る、速い！
+Kar motorlu indi — Elif'e koşuyor!	スノーモービルの男が降りた — 恵理に向かって走っている！
+Üç tetikçiyi de durdur	殺し屋3人をすべて止めろ
+Üç tetikçiyi de durdur  	殺し屋3人をすべて止めろ  
+Jandarmanın gelmesine	憲兵隊の到着まで
+Jandarma geldi — Elif güvende	憲兵隊が到着 — 恵理は無事だ
+Üç tetikçi var. Yüksekteki önce: istasyonun çatısını tara.	殺し屋は3人。まず高所の奴から：駅の屋上をスキャンしろ。
+Tanık	証人
+Kırmızı mont, beyaz bere, at kuyruğu. Acemi pistinde ders veriyor.	赤いジャケット、白いニット帽、ポニーテール。初心者ゲレンデでレッスン中。
+Elif Demir'i jandarma gelene kadar koru	憲兵隊が来るまで森下恵理を守れ
+Üç tetikçiyi bul ve durdur (bonus)	殺し屋3人を見つけて止める（ボーナス）
+Tanığı koru	証人を守る
+Nişancıyı nişan alamadan durdur	狙撃手に狙わせる前に止める
+Öğrencilere zarar verme	生徒たちを傷つけない
+Köy — tipi altında	村 — 吹雪の中
+Orhan Sezer tipiyi fırsat bilip ratrakla dağı aşacak. Göz gözü görmüyor — termal dürbün hazır olsun.	瀬川修一は吹雪に乗じて圧雪車で山を越えるつもりだ。視界はほぼゼロ — サーマルスコープを用意しろ。
+Orhan Sezer, Kurul'un temizlikçisi: tanıkları ortadan kaldıran, delilleri yok eden adam. Elif'e gönderilen tetikçileri o tutmuştu. Tipiyi fırsat bilip ratrakla dağı aşacak; zirvenin ötesinde bir helikopter bekliyor.\n\nOtelden çıkıp köyü yürüyerek geçecek ve istasyonun yanındaki ratraka binecek. Kar fırtınasında 200 metrenin ötesi görünmüyor; termal dürbün vücut ısısını sisin içinden gösterir. Rüzgar çok sert.	瀬川修一は評議会の掃除屋だ。証人を消し、証拠を葬ってきた男。恵理に送られた殺し屋を雇ったのも奴だ。吹雪に乗じて圧雪車で山を越えるつもりで、山頂の向こうではヘリが待っている。\n\nホテルを出て徒歩で村を抜け、駅のそばの圧雪車に乗り込む。吹雪の中では200m先は見えない。サーマルスコープなら霧の中でも体温が見える。風は非常に強い。
+Termal dürbün herkesi beyaz gösterir: tarayıp kimliği oku. Rüzgar saatte 30 kilometreden fazla esiyor; nişanı rüzgarın geldiği yöne kaydır.	サーマルスコープでは全員が白く映る：スキャンして身元を確認しろ。風速は時速30kmを超える。照準を風上へずらせ。
+Termal dürbün şart	サーマルスコープ必須
+Orhan istasyona kaçtı	瀬川が駅に逃げ込んだ
+Ratrak hareket etti — dağa tırmanıyor!	圧雪車が動き出した — 山を登っている！
+Ratrakın sırtı aşmasına	圧雪車が尾根を越えるまで
+Ratrak sırtı aştı	圧雪車が尾根を越えた
+Görüş 200 metrenin altında. Termal dürbünle sıcak noktaları ara, sonra kimliği tara.	視界は200m未満。サーマルスコープで熱源を探し、身元をスキャンしろ。
+Rüzgar doğudan sert esiyor. Uzak atışta mermi metrelerce sürüklenir.	東から強い風が吹いている。遠距離では弾が何メートルも流される。
+Orhan Sezer	瀬川修一
+Temizlikçi	掃除屋
+Lacivert uzun palto, kalpak, gözlük. İki korumasıyla.	紺のロングコート、毛皮帽、眼鏡。護衛2人と一緒。
+Orhan Sezer'i ratrak sırtı aşmadan etkisiz hale getir	圧雪車が尾根を越える前に瀬川修一を無力化せよ
+Tek atış	一発で仕留める
+Termal dürbün kullanmadan	サーマルスコープを使わない
+ZİRVE	山頂
+Kartal Dağ Oteli — yılbaşı gecesi	鷲峰山ホテル — 大晦日の夜
+Gece yarısı havai fişekler başlayınca vadi gürültüyle dolacak. Patlamalar senin silahının sesini yutar.	真夜中に花火が始まれば谷は轟音に包まれる。爆発音がお前の銃声をかき消す。
+Kurul'dan geriye bir kişi kaldı: Nedim Kurt — Patron. Baran'ı yaratan, yıllarca ayakta tutan ve her şeyin hesabını tutan adam.\n\nYılbaşı gecesi otelin önündeki terasta misafirleriyle. Gece yarısı gölün üstünde havai fişek gösterisi var: Patron izlemek için terasın ucuna yürüyecek. Patlamalar yankılanırken atılan bir kurşunu kimse duymaz. Gösteri bitince içeri girer — bir daha çıkmaz.\n\nPatron tedbirli: güvenlik şefi terasın önünden gece dürbünüyle yamaçları tarıyor. Seni görürse korumalar yerini öğrenir.	評議会の残りは1人。大神宗一郎 — ボスだ。黒崎を生み出し、長年支え、すべての帳尻を握ってきた男。\n\n大晦日の夜、ホテル前のテラスで客たちと過ごしている。真夜中には湖の上で花火がある：ボスは見物のためテラスの端まで歩く。爆発音が響く中で撃たれた一発には誰も気づかない。ショーが終われば中に入り — 二度と出てこない。\n\nボスは用心深い：警備責任者がテラスの前から暗視双眼鏡で斜面を見張っている。見つかれば護衛に位置を知られる。
+Havai fişek patlamasının sesi yuvaya ulaştığı an tetiğe bas: o anki atışı kimse duymaz. Patron'un iki koruması var; kalabalığın içinde ateş etme. Güvenlik şefinin dürbünü sana dönünce eğil (SİPER).	花火の爆発音が狙撃位置に届いた瞬間に引き金を引け：その一発は誰にも聞こえない。ボスには護衛が2人いる。人混みの中では撃つな。警備責任者の双眼鏡がこちらを向いたら身を隠せ（遮蔽）。
+Gece yarısı: göl üstünde havai fişek	真夜中：湖上の花火
+Patron içeri girdi	ボスが中に入った
+Gece yarısına	真夜中まで
+MİSAFİRLER	招待客
+On! Dokuz! Sekiz! Yedi...	10！9！8！7…
+Mutlu yıllar! — havai fişekler başladı	ハッピーニューイヤー！ — 花火が始まった
+Gösterinin bitmesine	ショー終了まで
+Gösteri bitti — Patron içeri dönüyor!	ショーが終わった — ボスが中へ戻る！
+Kalabalığın ortasında. Gece yarısı gösteriyi izlemek için terasın ucuna yürüyecek.	人混みの真ん中にいる。真夜中、ショーを見るためテラスの端へ歩いていく。
+Patlamanın sesi sana ulaştığı an ateş et — o anki atışı kimse duymaz.	爆発音が届いた瞬間に撃て — その一発は誰にも聞こえない。
+Gece dürbünüyle yamaçları tarıyor — seni görürse yerini bildirir	暗視双眼鏡で斜面を見張っている — 見つかれば位置を通報される
+Terasın önünde gece dürbünlü biri var: Patron'un güvenlik şefi. Dürbün sana dönünce eğil — gece yarısından önce atış sesi duyulur.	テラスの前に暗視双眼鏡を持った男がいる：ボスの警備責任者だ。双眼鏡がこちらを向いたら身を隠せ — 真夜中前の銃声は聞こえてしまう。
+Nedim Kurt	大神宗一郎
+Beyaz smokin ceket, papyon, kır sakal. Otel terasında.	白いタキシードジャケット、蝶ネクタイ、白髪交じりのひげ。ホテルのテラスにいる。
+Nedim Kurt'u gösteri bitmeden etkisiz hale getir	ショーが終わる前に大神宗一郎を無力化せよ
+Kurul'u bitir	評議会を終わらせる
+Her atışı havai fişeklerin sesine gizle	すべての射撃を花火の音に紛れさせる
+Balıkçı	漁師
+KARTAL K-98	EAGLE K-98
+Güvenilir sürgülü tüfek. Her suikastçının ilk ortağı.	信頼できるボルトアクションライフル。すべての暗殺者の最初の相棒。
+GÖLGE SR-7	SHADOW SR-7
+7.62×51 susturuculu	7.62×51 サプレッサー付き
+Entegre susturucu: atış sesi duyulmaz, mermi daha yavaş gider. Gizli işler için.	一体型サプレッサー：銃声は聞こえないが、弾速は遅い。隠密任務向け。
+FIRTINA DMR	STORM DMR
+7.62×51 yarı otomatik	7.62×51 セミオート
+Yarı otomatik: sürgü çekmeden peş peşe ateş. Kaçan ve kalabalık hedefler için.	セミオート：ボルト操作なしで連射可能。逃げるターゲットや集団向け。
+ATMACA .338 LR	HAWK .338 LR
+Uzun menzil: yüksek namlu çıkış hızı, az düşüş, 20× dürbün. İnce siperleri deler.	長距離：高い初速、少ない弾道落下、20×スコープ。薄い遮蔽物を貫通。
+TİTAN .50	TITAN .50
+Anti-materyel tüfek: duvar, araç kapısı ve motor bloğu deler. Her isabet öldürür.	対物ライフル：壁、車のドア、エンジンブロックを貫通。命中すれば必殺。
+Dürbüne takılır: karanlıkta her şeyi yeşil ışıkta görürsün.	スコープに装着：暗闇でもすべてが緑色に見える。
+TERMAL DÜRBÜN	サーマルスコープ
+İnsan vücudu beyaz parlar: sis, karanlık ve kalabalıkta hedefi bul.	人体が白く光る：霧、暗闇、人混みの中でもターゲットを見つけられる。
+KEŞİF DRONU	偵察ドローン
+Görev başına bir kez: bölgedeki herkesi 15 saniye işaretler ve kimliklerini tarar.	ミッションごとに1回：区域内の全員を15秒間マークし、身元をスキャンする。
+Sınırsız.	無制限。
+ZIRH DELİCİ	徹甲弾
+İnce siperleri, araç kapılarını ve camları delip geçer.	薄い遮蔽物、車のドア、ガラスを貫通する。
+UYUŞTURUCU İĞNE	麻酔弾
+Öldürmez, bayıltır. Sessizdir ama yavaştır: çok düşer.	殺さずに眠らせる。静かだが弾速が遅く、大きく落下する。
+PATLAYICI	炸裂弾
+Çarptığı yerde patlar: araçları ve jeneratörleri tek atışta durdurur.	着弾点で爆発：車両や発電機を一発で停止させる。
+HASAR	ダメージ
+DÜRBÜN	スコープ
+DENGE	安定性
+ŞARJÖR	マガジン
+HIZ	速度
+Daha ağır mermi: zırhlı gövdeyi deler, kurşun daha hızlı ve düz gider.	より重い弾：装甲された胴体を貫通し、弾はより速く真っすぐ飛ぶ。
+Dürbünün en büyük yakınlaştırması artar.	スコープの最大倍率が上がる。
+Dürbündeki sallantı ve geri tepme azalır.	スコープの揺れと反動が減る。
+Şarjöre daha çok fişek sığar.	マガジンの装弾数が増える。
+Sürgü ve şarjör değişimi hızlanır.	ボルト操作とマガジン交換が速くなる。
+YAYGIN	コモン
+NADİR	レア
+EPİK	エピック
+ fişek	 発
+Bu açıdan 	この角度からは 
+ görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	 が見えません。移動で別の位置へ移ってください。
+Bundan sonra hedef işaretli gelmez. Dürbüne gir: sağdaki DOSYA'daki yüzü kalabalıkta bul, kişiyi tara, emin olunca İŞARETLE. Yanlış kişiyi vurursan sözleşme iptal.	ここからはターゲットがマークされません。スコープを覗き、右の資料にある顔を人混みから探し、スキャンして、確信したらマークしてください。間違った人物を撃つと契約は破棄されます。
+Uzak hedefte mermi düşer. Sol alttaki MENZİL ile dürbünü hedefin mesafesine ayarla (telemetre dürbünün altında) ya da sarı çizgilerden tut: 2 = 200 m, 3 = 300 m.	遠くのターゲットでは弾が落下します。左下の距離でスコープをターゲットまでの距離に合わせるか（距離計はスコープの下）、黄色い線で狙ってください：2 = 200m、3 = 300m。
+Bundan sonra isabet noktası sadece NEFES tutarken görünür. Nefesini doğru ana sakla.	ここからは着弾点は息止め中にしか表示されません。息止めは決定的な瞬間のために取っておきましょう。
+Şehirde isabet noktası yok. Menzili ayarla, rüzgâr panelindeki yöne göre sarı noktalardan (1 nokta = 1 mil) tut.	都市では着弾点が表示されません。距離を合わせ、風パネルの向きに従って黄色い点（1点 = 1ミル）で狙ってください。
+Dağda rüzgâr sert ve değişken; paneldeki ok ve güç anlık değişir. Okun yönünü ve gücünü izle, rüzgârın dindiği anı bekle.	山では風が強く変わりやすく、パネルの矢印と強さが刻々と変化します。矢印の向きと強さを見て、風が収まる瞬間を待ちましょう。
+Alarm engellendi	警報を阻止
+Son 10 saniye!	残り10秒！
+Süre doldu	時間切れ
+Takviye — mevzi alıp yuvana ateş edecek	増援 — 配置について狙撃位置を撃ってくる
+ silahlı adam mevzi alıyor — yuvanı arıyorlar!	 人の武装兵が配置につこうとしている — 狙撃位置を探している！
+Alarm çaldı, takviye geliyor. Başını eğik tut, önce silahlıları sustur.	警報が鳴った、増援が来る。頭を低くして、まず武装兵を黙らせろ。
+Hedef düştü ama adamları seni arıyor. Siper al ya da silahlıları sustur — sonra çık.	ターゲットは倒れたが、手下が探している。身を隠すか武装兵を黙らせろ — それから離脱だ。
+Iskalaman dikkat çekti — silahlılar dışarı çıkıyor. Siper al, sonra işini bitir.	外した弾が注意を引いた — 武装兵が出てくる。身を隠してから仕事を片付けろ。
+İŞÇİ	作業員
+SİVİL	民間人
+Hedef saklandı	ターゲットが隠れた
+Hedef kaçtı	ターゲットが逃げた
+Silahlı adam kaçtı	武装兵が逃げた
+Hedef öldü — onu canlı istiyorduk	ターゲット死亡 — 生け捕りが必要だった
+Korunan kişi	護衛対象
+ öldürüldü	 が殺された
+İsabet — 	命中 — 
+ atış daha	 発 残り
+Görev başarısız	ミッション失敗
+YENİ HEDEF: 	新ターゲット: 
+  ·  DÜELLO	  ·  決闘
+  ·  SON ANDA	  ·  ギリギリ
+  ·  SİPERİN İÇİNDEN	  ·  遮蔽物越し
+  ·  CAMIN İÇİNDEN	  ·  ガラス越し
+  ·  HAREKETLİ HEDEF	  ·  移動ターゲット
+ZIRH DURDURDU — kafaya nişan al, zırh delici kullan ya da HASAR geliştir	装甲で防がれた — 頭を狙うか、徹甲弾を使うか、ダメージを強化しろ
+SİLAHLI ADAM BULUNDU: 	武装兵発見: 
+HEDEF DOĞRULANDI: 	ターゲット確認: 
+Hedef değil — masum konuk	ターゲットではない — 無実の客
+Üç yanlış teşhis — sözleşme iptal	3回の誤認 — 契約破棄
+KONTROL: O değildi — masum birini vurdun!	CONTROL: そいつじゃない — 無実の人間を撃ったぞ！
+KONTROL: Yine yanlış kişi. Bir daha olursa iptal.	CONTROL: また別人だ。次は契約破棄だ。
+KİMLİK DOĞRULANDI: 	身元確認: 
+KONTROL: Hayır, o değil. Dosyaya tekrar bak.	CONTROL: 違う、そいつじゃない。資料をもう一度見ろ。
+KONTROL: O da değil. Bir daha yanılırsan iptal.	CONTROL: そいつも違う。次に間違えたら契約破棄だ。
+YENİ YER: 	新しい位置: 
+Dron bölgeyi taradı — 	ドローンが区域をスキャン — 
+ kişi tanımlandı	 人を識別
+Dron silahlı birini işaretledi!	ドローンが武装兵をマークした！
+ vuruldu!	 が撃たれた！
+SUİKASTÇI ETKİSİZ — KAFADAN	刺客を無力化 — ヘッドショット
+SUİKASTÇI ETKİSİZ	刺客を無力化
+KAFADAN VURUŞ — HEDEF ETKİSİZ	ヘッドショット — ターゲット無力化
+HEDEF ETKİSİZ	ターゲット無力化
+ öldü!	 が死亡！
+Koruma etkisiz — kafadan	護衛を無力化 — ヘッドショット
+Koruma etkisiz	護衛を無力化
+Yanlış kişi — o bir dublördü	人違い — 影武者だった
+Yanlış kişi — masum birini vurdun	人違い — 無実の人間を撃った
+Çok fazla sivil kayıp	民間人の犠牲が多すぎる
+SİVİL KAYIP! Bir daha olursa görev iptal.	民間人の犠牲！次はミッション中止だ。
+ hedef kaldı	 人のターゲットが残っている
+Yanlış yer — BACAĞINDAN vurmalısın	部位が違う — 脚を撃て
+Yanlış yer — KOLUNDAN vurmalısın	部位が違う — 腕を撃て
+ yaralandı — artık yürüyemiyor	 が負傷 — もう歩けない
+Silahını düşürdü!	銃を落とした！
+HEDEF YERE DÜŞTÜ	ターゲットが倒れた
+HEDEF YARALANDI	ターゲット負傷
+Koruma yaralandı — hâlâ telsize uzanabilir	護衛が負傷 — まだ無線に手を伸ばせる
+Masum biri yaralandı!	無実の人間が負傷した！
+ bayıldı — güvenli yere ulaşamaz	 が気絶 — 安全な場所にはたどり着けない
+İĞNE İSABET — hedef birkaç saniyede bayılacak	麻酔針命中 — ターゲットは数秒で気絶する
+Koruma bayılıyor	護衛が気絶しつつある
+Masum birini bayılttın	無実の人間を気絶させた
+KARŞI NİŞANCI SANA NİŞAN ALDI — ÖNCE SEN VUR!	敵狙撃手に狙われている — 先に撃て！
+SİLAHLI ADAM NİŞAN ALIYOR — ŞİMDİ VUR!	武装兵が狙っている — 今撃て！
+GÖZCÜ SENİ GÖRDÜ!	見張りに見つかった！
+GÖZCÜ SENİ GÖRDÜ — telsize uzanıyor, onu durdur!	見張りに見つかった — 無線に手を伸ばしている、止めろ！
+Koruma telsize uzanıyor — onu durdur!	護衛が無線に手を伸ばしている — 止めろ！
+GÖZCÜ YERİNİ BİLDİRDİ!	見張りが位置を通報した！
+ALARM VERİLDİ — HEDEF KAÇIYOR	警報発令 — ターゲットが逃走中
+Hedef tedirgin oldu ve kaçıyor!	ターゲットが警戒して逃げ出した！
+Hedef saklandığı yerden çıkmadı	ターゲットは隠れ場所から出てこなかった
+Hedef içeri saklandı — bekle, bakmak için tekrar çıkabilir	ターゲットが中に隠れた — 待て、様子を見に再び出てくるかもしれない
+Hedef kapıda göründü — şimdi!	ターゲットが戸口に現れた — 今だ！
+Hedef siperin arkasında, görünmüyor. Yakınına ateş et: sesi duyunca bakmak için açığa çıkar. Bir daha ateş edersen kaçar — o sırada vur.	ターゲットは遮蔽物の陰で見えない。近くを撃て：音を聞けば様子を見に姿を現す。もう一度撃てば逃げ出す — その隙に仕留めろ。
+ISKALADIN — 	外した — 
+ KAÇIYOR!	 が逃げる！
+Iskaladın — biri ürktü ve kaçıyor!	外した — 誰かが驚いて逃げ出した！
+Sana ateş edenleri sustur	撃ってくる敵を黙らせろ
+Sana ateş edenleri sustur  ·  	撃ってくる敵を黙らせろ  ·  
+ kaldı	 残り
+HEDEF TAMAM — AMA SENİ BULDULAR: SİLAHLILARI SUSTUR	ターゲット排除 — だが見つかった：武装兵を黙らせろ
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — 	ターゲットは倒れたが、位置はバレている。誰にも追わせるな — 
+ silahlı var, hepsini sustur. Gerekirse siper al.	 人の武装兵がいる、全員黙らせろ。必要なら身を隠せ。
+Kalan silahlılar geri çekildi	残りの武装兵は撤退した
+BÖLGE TEMİZ — GÖREV TAMAM	区域クリア — ミッション完了
+Sözleşme ücreti	契約報酬
+Yıldız hedefleri  ×	スター目標  ×
+Sessiz iş — alarm yok	サイレントキル — 警報なし
+Uzak atış  ·  	遠距離射撃  ·  
+Keşif  ·  	偵察  ·  
+ tehdit	 件の脅威
+Sivil kaybı  ×	民間人の犠牲  ×
+Yaralı sivil  ×	負傷した民間人  ×
+Tekrar oynanış  ×%	リプレイ  ×%
+VETERAN  ×1,5	ベテラン  ×1,5
+Günün sözleşmesi (+%33: ücretin 2 katı)	本日の契約（+%33：報酬2倍）
+GÜMRÜK KAPISI	税関ゲート
+Liman giriş kapısı	港の入口ゲート
+Selim Kaya kapıda denetimde. Kimliğini tara, sonra işini bitir.	岩崎正人がゲートで検査中だ。身元をスキャンしてから仕事を片付けろ。
+Gümrük müdürü Selim Kaya, rüşvet karşılığında kaçakçılara liman kapısını açıyor. Her sabah kapıdaki güvenlik noktasını denetliyor.\n\nKapıdan ayrılmadan onu etkisiz hale getir. Alarm verilirse otoparktaki aracına koşar.	税関長岩崎正人は賄賂と引き換えに密輸業者に港のゲートを開けている。毎朝ゲートの検問所を視察している。\n\nゲートを離れる前に無力化しろ。警報が鳴れば駐車場の車へ走る。
+Dürbünü aç ve nişangahı birinin üzerinde tut: kimliği otomatik taranır. Kırmızı işaret hedefi gösterir.	スコープを覗き、照準を人物に合わせ続けると身元が自動でスキャンされます。赤いマークがターゲットです。
+Selim Kaya	岩崎正人
+Gümrük Müdürü	税関長
+Lacivert takım elbise, kırmızı kravat, gözlük.	紺のスーツ、赤いネクタイ、眼鏡。
+Gümrük müdürü Selim Kaya'yı etkisiz hale getir	税関長岩崎正人を無力化せよ
+LİMAN OFİSİ	港湾事務所
+Liman yönetim binası	港湾管理棟
+Aydın sigara için dışarı çıkacak. Kapıdan uzaklaştığı an senin anın.	青木はタバコを吸いに外へ出てくる。ドアから離れた瞬間がお前の出番だ。
+Liman müdür yardımcısı Can Aydın, kaçak sevkiyatların kayıtlarını siliyor. Binadan sadece sigara molalarında çıkıyor.\n\nKapıdan çıktığında fırsatı kaçırma: alarm verilirse binaya kapanır ve görev başarısız olur.	港湾副局長青木健は密輸品の記録を消している。建物から出てくるのはタバコ休憩の時だけだ。\n\nドアから出てきたらチャンスを逃すな：警報が鳴れば建物に閉じこもり、ミッションは失敗する。
+Hedef bina içindeyken bekle. Kapıdan çıkınca sigara içtiği noktada sabit durur — nefesini tut ve kafasına nişan al.	ターゲットが建物内にいる間は待て。外に出るとタバコを吸う場所でじっとしている — 息を止めて頭を狙え。
+Can Aydın	青木健
+Müdür Yardımcısı	副局長
+Mavi polo tişört, siyah pantolon. Sigara molasında dışarı çıkar.	青いポロシャツ、黒いズボン。タバコ休憩で外に出てくる。
+Can Aydın'ı binaya geri girmeden vur	建物に戻る前に青木健を仕留めろ
+Alarm verdirme	警報を鳴らさせない
+Hedefi kafadan vur	ターゲットをヘッドショットで仕留める
+KONTEYNER TAKASI	コンテナ取引
+Konteyner sahası	コンテナヤード
+Kuzgun limana giriyor. Takas yeri çatıdan görünmüyor — onu dışarı çekmen gerekecek.	レイヴンが港に入ってくる。取引場所は屋上から見えない — 奴をおびき出す必要がある。
+Kuzgun lakaplı kaçakçı Tarık Bal arabasıyla limana gelecek ve konteynerlerin arasında bir alıcıyla buluşacak. Takas bitince arabasına binip gidecek.\n\nTakas yeri çatıdan görünmüyor. Ya yürürken vur ya da onu açığa çıkar: arabasının alarmı ya da yakınına düşen bir kurşun. İkinci kez ürkerse arabasına koşar.	通称「レイヴン」の密輸業者蜂谷辰也が車で港に来て、コンテナの間で買い手と落ち合う。取引が終われば車に乗って去る。\n\n取引場所は屋上から見えない。歩いているところを撃つか、姿を現させろ：車のアラームか、近くに撃ち込んだ一発で。2度目に驚かせると車へ走る。
+Hedef görünmüyorsa yakınına ateş et: sese bakmak için açığa çıkar. Arabasını vurursan alarm çalar, kontrol etmeye gelir.	ターゲットが見えないなら近くを撃て：音を確かめに姿を現す。車を撃てばアラームが鳴り、確認しに来る。
+Tarık konteynerlerin arasında, buradan görünmüyor. Arabasına ateş et: alarm çalınca kontrol etmeye gelir. Ya da ara yolun açık kısmına ateş et, sese bakmak için oraya yürür.	蜂谷はコンテナの間にいて、ここからは見えない。車を撃て：アラームが鳴れば確認しに来る。あるいは通路の開けた場所を撃てば、音を確かめにそこへ歩いてくる。
+Arabasında — limana geliyor	車に乗っている — 港に向かっている
+Hedef arabasıyla kaçtı	ターゲットが車で逃げた
+Takas bitti — hedef arabasına dönüyor!	取引終了 — ターゲットが車に戻っていく！
+Takasın bitmesine	取引終了まで
+Hedefin arabası kapıdan girdi	ターゲットの車がゲートを通過した
+Araç alarmı çalıyor!	車のアラームが鳴っている！
+Tarık Bal	蜂谷辰也
+Gri tişört, kot pantolon, kırmızı bere. Kolları dövmeli.	グレーのTシャツ、ジーンズ、赤いニット帽。腕にタトゥー。
+Kuzgun'u takas bitmeden etkisiz hale getir	取引が終わる前にレイヴンを無力化せよ
+En fazla 3 atış	3発以内
+GECE NÖBETİ	夜間警備
+Depolar ve gözetleme kulesi	倉庫と監視塔
+Rico ve adamları ateşin başında. Kuledeki gözcü her şeyi görür — önce onu düşün.	リコと手下が焚き火を囲んでいる。塔の見張りはすべてを見ている — まずそいつを考えろ。
+Paralı asker Rico Vargas ve adamları depoları koruyor. Gece soğuğunda ateş varilinin başında toplanıyorlar.\n\nKuledeki gözcü cesetleri görürse alarm verir. Önce onu susturmak işini kolaylaştırır.	傭兵リコ・バルガスとその手下が倉庫を守っている。夜の寒さの中、焚き火のドラム缶の周りに集まっている。\n\n塔の見張りが死体を見つければ警報を鳴らす。先に黙らせておけば仕事が楽になる。
+Ateşin yanındaki kırmızı yakıt bidonu tek atışta patlar ve yanındakileri götürür — ama yanlarındaki bekçi de ölür (sivil kayıp, yıldız kaybı) ve patlama sessiz iş primini yakar. Temiz iş için Rico'yu doğrudan vur.	焚き火のそばの赤い燃料缶は一発で爆発し、周りの者を巻き込む — だがそばにいる警備員も死に（民間人の犠牲、スター減少）、爆発でサイレントキルのボーナスも失う。きれいに片付けるならリコを直接撃て。
+Rico Vargas	リコ・バルガス
+Paralı Asker	傭兵
+Kel ve sakallı. Taktik yelek, kırmızı tişört.	スキンヘッドにひげ。タクティカルベスト、赤いTシャツ。
+Rico Vargas'ı etkisiz hale getir	リコ・バルガスを無力化せよ
+Bekçiye zarar verme	警備員を傷つけない
+DEPODAKİ KÖSTEBEK	倉庫のモグラ
+A deposu yükleme alanı	A倉庫の荷積み場
+Köstebek kasa taşıyanlardan biri. Masumları vurma: önce tara.	モグラは木箱を運んでいる作業員の1人だ。無実の者は撃つな：まずスキャンしろ。
+Depoda çalışan Kerim, örgütün sevkiyat bilgilerini rakiplere satıyor. Diğer işçilerle birlikte kasa taşıyor.\n\nİşçiler masum: hedefi kıyafetinden tanı ve ateş etmeden önce mutlaka tara.	倉庫で働く源蔵は組織の出荷情報をライバルに売っている。ほかの作業員と一緒に木箱を運んでいる。\n\n作業員は無実だ：服装でターゲットを見分け、撃つ前に必ずスキャンしろ。
+Hareket eden hedefi vururken kurşunun uçuş süresini hesaba kat: yürüdüğü yönün biraz önüne nişan al.	動くターゲットを撃つ時は弾の飛翔時間を計算に入れろ：歩いている方向の少し前を狙え。
+Kerim Usta	木島源蔵
+Köstebek	モグラ
+Kırmızı kazak, siyah pantolon, bere. Kasa taşıyor.	赤いセーター、黒いズボン、ニット帽。木箱を運んでいる。
+Köstebeği bul ve etkisiz hale getir	モグラを見つけて無力化せよ
+Sivillere zarar verme	民間人を傷つけない
+RIHTIM KAÇAĞI	埠頭の逃亡者
+Rıhtım ve iskele	埠頭と桟橋
+Tilki belgeleri teslim edip tekneye koşacak. Tekneyi vurursan yaya kalır.	フォックスは書類を渡したらボートへ走る。ボートを撃てば足止めできる。
+Tilki lakaplı Deniz Kara, çalınan belgeleri rıhtımda bir adama teslim edecek. Ardından iskeledeki sürat teknesiyle kaçacak.\n\nTekneye binerse onu kaybederiz. Hareketli hedefe önden nişan al.	通称「フォックス」の黒田海斗が、盗まれた書類を埠頭である男に渡す。その後、桟橋のスピードボートで逃げるつもりだ。\n\nボートに乗られたら見失う。動くターゲットは前方を狙え。
+300 metrede kurşun yaklaşık 0,4 saniye uçar. Koşan hedefte nişanı yaklaşık bir gövde önüne al. İskeledeki sürat teknesini önceden vurursan motoru çalışmaz: tekneyle kaçamaz, iskeleden koşmak zorunda kalır.	300mでは弾は約0,4秒飛ぶ。走るターゲットには体ひとつ分ほど前を狙え。桟橋のスピードボートを先に撃っておけばエンジンがかからない：ボートで逃げられず、桟橋を走って逃げるしかなくなる。
+Tekne çalışmıyor — hedef iskeleden kaçıyor!	ボートが動かない — ターゲットが桟橋を走って逃げている！
+Tekne vuruldu — motor çalışmıyor, tekneyle kaçamaz!	ボートに命中 — エンジンが動かない、ボートでは逃げられない！
+Deniz Kara	黒田海斗
+Kahverengi kapüşonlu, kasket, koyu pantolon.	茶色のパーカー、ハンチング帽、濃い色のズボン。
+Tilki'yi tekneyle kaçmadan durdur	ボートで逃げる前にフォックスを止めろ
+Önce teknesini vur	先にボートを撃つ
+KAPTAN KÖŞKÜ	船橋
+Meridian Star köprüüstü	メリディアン・スターのブリッジ
+Kaptan köprüüstünün kanadına çıkacak. Uzun atış, sert rüzgar — rüzgar okuna bak.	船長がブリッジのウイングに出てくる。長距離、強風 — 風の矢印を見ろ。
+Meridian Star'ın kaptanı Orhan Demir, örgütün silah yükünü teslim etmeden limandan ayrılmak üzere. Köprüüstünün açık kanadına çıkıyor.\n\nMesafe uzun ve rüzgar sert. Kaçırırsan köşke kapanır.	メリディアン・スターの船長鉄川勇は、組織の武器を引き渡さないまま港を出ようとしている。ブリッジの開放ウイングに出てくる。\n\n距離は遠く、風は強い。外せば船橋に閉じこもる。
+Uzun mesafede kurşun düşer. Nişan yardımı açıksa dürbündeki kırmızı nokta kurşunun gideceği yeri gösterir.	長距離では弾が落下します。エイムアシストがオンなら、スコープの赤い点が弾の着弾点を示します。
+Orhan Demir	鉄川勇
+Yeşil mont, kot pantolon. Köprüüstü kanadında.	緑のジャケット、ジーンズ。ブリッジのウイングにいる。
+Kaptan Orhan Demir'i köşke kapanmadan vur	船橋に閉じこもる前に鉄川勇船長を仕留めろ
+YAT PARTİSİ	ヨットパーティー
+İskeledeki yat	桟橋のヨット
+Kral'ın partisi. Beyaz smokinli iki adam var — bıyıklı ve gözlüklü olan bizim adam.	クラールのパーティーだ。白いタキシードの男が2人いる — 口ひげにサングラスの方が標的だ。
+Örgütün başı Viktor Kral yatında kutlama yapıyor. Korumaları her yerde.\n\nKonuklardan biri de beyaz smokin giymiş: taramadan ateş etme. Kral bir süre sonra iskeleden ayrılıp depolara yürüyecek.	組織のボスヴィクトル・クラールがヨットで祝杯を挙げている。護衛はいたるところにいる。\n\n招待客の1人も白いタキシードを着ている：スキャンせずに撃つな。クラールはしばらくすると桟橋を離れて倉庫へ歩いていく。
+Gerçek hedef bıyıklı ve güneş gözlüklü. Emin değilsen nişangahı üzerinde tut ve kimlik kartını oku.	本物のターゲットは口ひげにサングラス。確信がなければ照準を合わせ続けてIDカードを読め。
+Kral'ın ayrılmasına	クラールが立ち去るまで
+Viktor Kral	ヴィクトル・クラール
+Örgüt Lideri	組織のボス
+Beyaz smokin, papyon. Bıyıklı ve güneş gözlüklü.	白いタキシード、蝶ネクタイ。口ひげにサングラス。
+Viktor Kral'ı yattan ayrılmadan etkisiz hale getir	ヨットを離れる前にヴィクトル・クラールを無力化せよ
+Konuklara zarar verme	招待客を傷つけない
+Korumalara dokunma	護衛には手を出さない
+Giriş kapısı ve yönetim binası	入口ゲートと管理棟
+Ayten Şahin bugün örgüte karşı ifade verecek. Polis onu ofise götürüyor. Kalabalıkta iki tetikçi var.	篠原綾子は今日、組織に不利な証言をする。警察が彼女を事務所へ連れていく。人混みに殺し屋が2人いる。
+Gümrük memuru Ayten Şahin, örgütün rüşvet ağına karşı tanıklık edecek. Polis onu sabah liman yönetim binasına getiriyor.\n\nÖrgüt iki tetikçi yolladı: işçi kılığında kalabalığa karışmışlar. Herkesi dürbünle tara — silahlılar kimlik kartında görünür. Ayten binaya girene kadar hayatta kalmalı.\n\nÖrgüt yalnız gelmedi: gözetleme kulesinde dürbünlü bir gözcü, kapının iki yanında silahlı adamları var. Yerini bulurlarsa sana ateş ederler.	税関職員篠原綾子は組織の賄賂ネットワークについて証言する。警察が朝、彼女を港湾管理棟へ連れてくる。\n\n組織は殺し屋を2人送り込んだ：作業員に扮して人混みに紛れている。全員をスコープでスキャンしろ — 武装している者はIDカードに表示される。綾子が建物に入るまで生かしておけ。\n\n組織は2人だけではない：監視塔には双眼鏡を持った見張り、ゲートの両脇には武装した男たち。位置を突き止められれば撃ってくる。
+Tetikçi silah çekince işaretçisinin etrafındaki kırmızı halka dolmadan vur. Kolundan vurursan silahını düşürür. Kuledeki gözcünün dürbünü sana dönünce eğil (SİPER) ya da önce onu indir.	殺し屋が銃を抜いたら、マーカーの周りの赤いリングが満ちる前に撃て。腕を撃てば銃を落とす。塔の見張りの双眼鏡がこちらを向いたら身を隠すか（遮蔽）、先に見張りを倒せ。
+Termal dürbün kalabalıkta işe yarar	人混みではサーマルスコープが役立つ
+Ayten Şahin	篠原綾子
+Bej trençkot — polis eşliğinde	ベージュのトレンチコート — 警察が同行
+Tanığı ofise kadar koru	事務所まで証人を守れ
+Bilinmeyen İşçi	不審な作業員
+Temizlikçi kılığında — silahlı	清掃員に変装 — 武装
+İşçi kılığında — silahlı	作業員に変装 — 武装
+Tetikçileri durdur	殺し屋を止めろ
+Tetikçileri durdur  	殺し屋を止めろ  
+Kulede dürbünlü biri var. Dürbünü sana döndüğünde eğil — seni görürse telsizle herkese bildirir.	塔に双眼鏡を持った男がいる。双眼鏡がこちらを向いたら身を隠せ — 見つかれば無線で全員に知らされる。
+Polis arabasında — yolda	パトカーの中 — 移動中
+Tanık arabadan indi, kapıya yürüyor. Gözünü dört aç.	証人が車を降りてゲートへ歩いている。目を光らせろ。
+POLİS	警察
+Silah! Arkamda kal, eğil!	銃だ！後ろにいろ、伏せろ！
+Herkesi tara. Kartında SİLAHLI yazan adam bizim adamımız değil.	全員をスキャンしろ。カードに「武装」と出ている男は味方じゃない。
+Bej trençkot, kahverengi saç. Polis memuruyla yürüyor.	ベージュのトレンチコート、茶髪。警官と歩いている。
+Tanığı ofise girene kadar hayatta tut	事務所に入るまで証人を生かしておけ
+Kalabalıktaki iki tetikçiyi bul ve durdur (bonus)	人混みの殺し屋2人を見つけて止める（ボーナス）
+İki tetikçiyi de silah çekmeden durdur	2人とも銃を抜く前に止める
+KURYE	運び屋
+Kurye çantayla depodan çıkacak. Müşteri onu canlı istiyor: bacağından vur, gerisini ekip halleder.	運び屋がバッグを持って倉庫から出てくる。依頼人は生け捕りを望んでいる：脚を撃て、あとはチームが片付ける。
+Emre Doğan, örgütün banka hesaplarını taşıyan kurye. Birazdan A deposundan çıkıp arabasına yürüyecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, yere düşsün. Ekibimiz arabayla gelip onu alacak. Öldürürsen bilgi kaybolur. Dikkat: örgüt, kuryesinin konuşmasındansa ölmesini tercih eder — korumaları ona silah çekecek, depodaki adamları da dışarı çıkıp onu susturmaya çalışacak.	鷹野翔太は組織の銀行口座情報を運ぶ運び屋だ。まもなくA倉庫から出て車へ歩いていく。\n\n依頼人は奴を生け捕りにしたい：脚を撃って倒せ。チームが車で回収に来る。殺せば情報は失われる。注意しろ：組織は運び屋がしゃべるくらいなら死なせる方を選ぶ — 護衛が奴に銃を向け、倉庫の連中も口封じに出てくる。
+Bacağından vurulan yere düşer. Korumalar onu susturmak için silah çekerse kırmızı halka dolmadan indir — kolundan vurursan silahını düşürür. Iskalarsan kurye arabasına koşar.	脚を撃たれた者は倒れる。護衛が口封じのため銃を抜いたら、赤いリングが満ちる前に倒せ — 腕を撃てば銃を落とす。外せば運び屋は車へ走る。
+Kurye arabasıyla kaçtı	運び屋が車で逃げた
+Ekip gelene kadar kuryeyi hayatta tut	チームが着くまで運び屋を生かしておけ
+Kurye dışarıda. Bacağına nişan al.	運び屋が外に出た。脚を狙え。
+Depodaki Adam	倉庫の男
+Depodan silahlı biri çıktı — kuryeye gidiyor!	倉庫から武装した男が出てきた — 運び屋に向かっている！
+Yol temiz — ekip gaza bastı, geliyorlar!	道はクリア — チームが飛ばしてくる！
+Ekip kuryeyi aldı!	チームが運び屋を回収した！
+Ekibin gelmesine	チーム到着まで
+Kurye yerde! Ekip yolda — 	運び屋が倒れた！チームが向かっている — あと 
+ saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	 秒。組織の連中が口封じに来る、倉庫からも出てくるぞ！
+Emre Doğan	鷹野翔太
+Mavi polo tişört, siyah pantolon. Elinde siyah bir çanta.	青いポロシャツ、黒いズボン。黒いバッグを持っている。
+Ekip gelene kadar onu silahlı adamlardan koru	チームが着くまで武装兵から奴を守れ
+Kuryeyi canlı teslim et	運び屋を生きたまま引き渡す
+İlk atışta bacağından vur	初弾で脚を撃つ
+Kimse kuryeye nişan alamasın	誰にも運び屋を狙わせない
+KARARTMA	停電
+Merkez saha — gece sevkiyatı	中央ヤード — 夜間の積荷
+Kartal sevkiyatı bizzat denetliyor. Işıklar onun lehine — ama elektrik panosu direğin dibinde.	イーグルが自ら積荷を監督している。明かりは奴の味方だ — だが配電盤は照明柱の根元にある。
+Silah tüccarı Hakan Er, namıdiğer Kartal, gece yarısı limanın merkez sahasında bir sevkiyatı denetliyor. Etrafı aydınlık ve korumalarla dolu.\n\nIşık direğinin dibindeki elektrik panosunu vurursan bütün liman karanlığa gömülür: korumalar kör kalır, ama Kartal da arabasına yürür. Gece görüşü dürbünü bu iş için sende.	武器商人江口隼人、通称「イーグル」が、真夜中に港の中央ヤードで積荷を監督している。周囲は明るく、護衛だらけだ。\n\n照明柱の根元の配電盤を撃てば港全体が闇に沈む：護衛は何も見えなくなるが、イーグルも車へ歩き出す。この仕事には暗視スコープが支給されている。
+Gece görüşünü dürbündeki göz tuşuyla aç. Karanlıkta korumalar yakından geçmedikçe cesetleri göremez. Kartal arabasına binerse kaçar.	スコープの目のボタンで暗視をオンにしろ。暗闇では、護衛はそばを通らない限り死体に気づかない。イーグルが車に乗れば逃げられる。
+Kartal arabasıyla kaçtı	イーグルが車で逃げた
+Kartal'ı etkisiz hale getir	イーグルを無力化せよ
+Kartal arabasına yürüyor!	イーグルが車へ歩いている！
+Sevkiyatın bitmesine	積荷の終了まで
+KARARTMA — liman karanlığa gömüldü	停電 — 港が闇に沈んだ
+Işıklar gitti! Gece görüşünü aç — Kartal arabasına gidiyor!	明かりが消えた！暗視をオンにしろ — イーグルが車へ向かっている！
+Hakan Er	江口隼人
+Lacivert takım, kırmızı kravat, gözlük. Sevkiyatı denetliyor.	紺のスーツ、赤いネクタイ、眼鏡。積荷を監督している。
+Silah tüccarı Kartal'ı etkisiz hale getir	武器商人イーグルを無力化せよ
+İstersen önce elektrik panosunu vurup limanı karart	先に配電盤を撃って港を停電させる（任意）
+Işıkları söndür ve karanlıkta vur	明かりを消し、暗闇で仕留める
+İĞNE	麻酔針
+Rıhtım — Meridian Star iskelesi	埠頭 — メリディアン・スターの桟橋
+Kimyager gemiye binmeden onu uyut. Kimse ölmeyecek — bu iş temiz olmalı.	ケミストが船に乗る前に眠らせろ。誰も死なせない — きれいな仕事にしろ。
+Dr. Selin Aras, örgütün sentetik uyuşturucu laboratuvarını yöneten kimyager. Şafak sökmeden iki korumasıyla rıhtım boyunca yürüyüp Meridian Star'a binecek.\n\nİstihbarat onu canlı istiyor. Sana yedi uyuşturucu iğne veriyoruz: kimyageri bayılt. Korumaları da bayıltırsan ekibimiz tekneyle gelip onu sessizce alır. Korumalar — ya da gemiden inen biri — baygın kadına ulaşırsa onu gemiye taşırlar.	有沢聖子博士は組織の合成麻薬研究所を仕切る化学者だ。夜明け前に護衛2人と埠頭を歩き、メリディアン・スターに乗り込む。\n\n情報部は彼女を生け捕りにしたい。麻酔弾を7発渡す：ケミストを眠らせろ。護衛も眠らせれば、チームがボートで来て静かに回収する。護衛 — あるいは船から降りてきた者 — が気絶した彼女のもとにたどり着けば、船に運び込まれてしまう。
+Mermi seçici tuşuyla UYUŞTURUCU İĞNE'ye geç. İğne yavaş uçar ve çok düşer: kırmızı nokta isabet yerini gösterir. Önce korumaları bayıltmak işi kolaylaştırır.	弾薬切替ボタンで麻酔弾に切り替えろ。麻酔針は遅く、大きく落下する：赤い点が着弾点を示す。先に護衛を眠らせておくと楽になる。
+Kimyager gemiye bindi	ケミストが船に乗った
+Kimyageri uyuşturucu iğneyle bayılt	麻酔弾でケミストを眠らせる
+Ekip tekneyle gelene kadar onu korumalardan uzak tut	チームがボートで来るまで護衛を彼女に近づけるな
+Meridian Star'ın adamı — kimyageri gemiye taşımak isteyecek	メリディアン・スターの手下 — ケミストを船に運び込もうとする
+Ekip kimyageri tekneye aldı!	チームがケミストをボートに収容した！
+Teknenin gelmesine	ボート到着まで
+Gemiden iki kişi iniyor — kimyagere gidiyorlar!	船から2人降りてきた — ケミストに向かっている！
+Herkes yerde. Tekne hızlanıyor!	全員ダウン。ボートが加速している！
+Korumalar temiz. Tekne geliyor — 	護衛はクリア。ボートが来る — あと 
+ saniye.	 秒。
+İğne tuttu! Korumaları durdur, sonra ekibi gönderiyorum.	麻酔が効いた！護衛を止めろ、それからチームを送る。
+Koruma kimyagere ulaştı — onu taşıyacak!	護衛がケミストにたどり着いた — 運び出す気だ！
+Mürettebat kimyagere ulaştı — onu kaldırıyorlar!	船員がケミストにたどり着いた — 担ぎ上げている！
+Kimyageri gemiye taşıdılar	ケミストが船に運び込まれた
+Dr. Selin Aras	有沢聖子博士
+Siyah mont, sarı saç. İki korumayla yürüyor.	黒いジャケット、金髪。護衛2人と歩いている。
+Korumaları durdur, ekip onu tekneyle alsın	護衛を止め、チームにボートで回収させろ
+Kimyageri canlı teslim et	ケミストを生きたまま引き渡す
+Kimseyi öldürme	誰も殺さない
+Önce korumaları bayılt	先に護衛を眠らせる
+CAM KULE	ガラスの塔
+Kordon Plaza — 11. kat	潮見プラザ — 11階
+Defne Aksoy hâlâ ofiste. Cam mermiyi durdurmaz — ama kırıldığı an içerideki herkes duyar.	秋山楓はまだオフィスにいる。ガラスは弾を止めない — だが割れた瞬間、中の全員に聞こえる。
+Liman ağı çöktü ama paranın aktığı yer hâlâ ayakta: Baran Holding. Finans direktörü Defne Aksoy, örgütün kirli parasını aklıyor ve bu gece hesapları yurtdışına taşıyacak.\n\nKordon Plaza'nın 11. katında, ışıkları yanan ofiste tek başına çalışıyor. Katta bir güvenlik görevlisi devriye geziyor. Saat 22:42'de asansörle iniyor: ondan önce bitir.	港のネットワークは崩れたが、金の流れ着く先はまだ健在だ：黒崎ホールディングス。財務部長秋山楓は組織の汚れた金を洗浄しており、今夜口座を国外に移すつもりだ。\n\n潮見プラザ 11階、明かりのついたオフィスで1人で働いている。フロアには警備員が1人巡回している。22:42にエレベーターで降りる：その前に片付けろ。
+Cam mermiyi yavaşlatır ama durdurmaz. İlk atışta cam kırılır ve içeridekiler sesi duyar: Defne kırık cama bakmaya gelir, ikinci kez ürkerse asansöre koşar.	ガラスは弾を減速させるが止めはしない。初弾でガラスが割れ、中の者に音が聞こえる：楓は割れたガラスを見に来るが、2度目に驚けばエレベーターへ走る。
+Defne masaların arkasında, görünmüyor. Ofisin camına yakın bir yere ateş et: kırılan camı görmeye pencereye gelir.	楓はデスクの陰にいて見えない。オフィスのガラスの近くを撃て：割れたガラスを見に窓際へ来る。
+Defne asansöre bindi	楓がエレベーターに乗った
+Asansöre inmesine	エレベーターで降りるまで
+Defne çantasını aldı — asansöre yürüyor!	楓がバッグを持った — エレベーターへ歩いている！
+Katta bir güvenlik görevlisi var. Cesedi görürse alarm verir, Defne de kaçar.	フロアに警備員がいる。死体を見つければ警報を鳴らし、楓も逃げる。
+Pencereye her gelişinde birkaç saniye durup şehre bakıyor. Sabırlı ol.	窓際に来るたびに数秒立ち止まって街を眺める。辛抱しろ。
+Defne Aksoy	秋山楓
+Siyah ceket, mavi etek, kızıl saç, gözlük. Kordon Plaza 11. kat.	黒いジャケット、青いスカート、赤毛、眼鏡。潮見プラザ 11階。
+Defne Aksoy'u asansöre binmeden etkisiz hale getir	エレベーターに乗る前に秋山楓を無力化せよ
+TRAMVAY	路面電車
+Saat Kulesi tramvay durağı	時計台電停
+Postacı defteri tramvayla şehirden çıkaracak. 19:06 tramvayı durağa girdiğinde iş biter.	ポストマンが帳簿を路面電車で街の外へ持ち出す。19:06の電車が電停に入れば終わりだ。
+Mert Tunç, nam-ı diğer Postacı, Baran'ın rüşvet defterini taşıyor: kime ne ödendiyse hepsi orada. Kordon'dan yürüyüp Saat Kulesi durağında tramvay bekleyecek.\n\nDurak kalabalık. Postacı'ya çok benzeyen bir yolcu da orada: kapüşonlu, kasketli. Ateş etmeden önce tara. Tramvaya binerse onu kaybederiz.	通称「ポストマン」の津田拓海は、黒崎の賄賂帳簿を運んでいる：誰にいくら払ったか、すべてそこにある。潮見から歩いて時計台電停で路面電車を待つ。\n\n電停は混雑している。ポストマンにそっくりな乗客もいる：パーカーにハンチング帽。撃つ前にスキャンしろ。電車に乗られたら見失う。
+Yürüyen hedefe biraz önden nişan al. Durakta bekleyenlerden biri Postacı'ya çok benziyor: nişangahı üzerinde tut, kimlik kartını oku.	歩いているターゲットは少し前を狙え。電停で待つ1人がポストマンにそっくりだ：照準を合わせ続けてIDカードを読め。
+Postacı kaçtı	ポストマンが逃げた
+Hedef değil — Postacı'ya benzeyen bir yolcu	ターゲットではない — ポストマンに似た乗客
+Tramvayın gelmesine	路面電車の到着まで
+Tramvay yola çıktı. Durağa girdiği an Postacı biner.	路面電車が出発した。電停に入った瞬間にポストマンが乗り込む。
+Tramvay durakta — herkes biniyor!	路面電車が電停に — 全員が乗り込んでいる！
+Postacı tramvaya bindi	ポストマンが路面電車に乗った
+Postacı Kordon'dan durağa yürüyor. Durakta ona benzeyen biri var — önce tara.	ポストマンが潮見から電停へ歩いている。電停に奴に似た男がいる — まずスキャンしろ。
+Mert Tunç	津田拓海
+Postacı	ポストマン
+Koyu kapüşonlu, gri kasket, kot pantolon. Durağa yürüyor.	濃い色のパーカー、グレーのハンチング帽、ジーンズ。電停へ歩いている。
+Postacı'yı tramvaya binmeden etkisiz hale getir	路面電車に乗る前にポストマンを無力化せよ
+Postacı'yı yürürken vur	歩いているポストマンを仕留める
+Yolculara zarar verme	乗客を傷つけない
+GALA	ガラ
+Devlet Opera ve Balesi	国立オペラ・バレエ劇場
+Aydemir'in dublörü önden gelir. Limuzinden inen adama inanma — önce tara.	大門の影武者が先に来る。リムジンから降りる男を信じるな — まずスキャンしろ。
+Armatör Cevdet Aydemir, Baran'ın gemilerinin sahibi. Bu gece operanın sezon açılışında: kırmızı halı, fotoğrafçılar, polis.\n\nAydemir kalabalığa asla önce kendisi çıkmaz: limuzinden önce dublörü iner. Gerçek Aydemir birkaç dakika sonra siyah bir sedanla gelir, eşiyle halıda poz verir ve içeri girer. Perde arasında balkona çıkacağı biliniyor.	船主大門寛治は黒崎の船のオーナーだ。今夜はオペラのシーズン開幕：レッドカーペット、カメラマン、警察。\n\n大門は決して自分から先に人前に出ない：リムジンからはまず影武者が降りる。本物の大門は数分後に黒いセダンで到着し、妻とカーペットでポーズを取ってから中に入る。幕間にバルコニーに出ることがわかっている。
+Flaşlar patlarken dürbünde parlama olur, panik yapma. Dublörü vurursan herkes kaçar ve gerçek Aydemir'in arabası durmadan geçer.	フラッシュが焚かれるとスコープがまぶしくなるが、慌てるな。影武者を撃てば全員が逃げ出し、本物の大門の車は止まらずに通り過ぎる。
+Dikkat: limuzinden inen adam Aydemir'in dublörü olabilir	注意：リムジンから降りる男は大門の影武者かもしれない
+DUBLÖR — bu Aydemir değil!	影武者 — これは大門ではない！
+Sedanda — operaya geliyor	セダンに乗っている — オペラへ向かっている
+Aydemir operaya kaçtı	大門がオペラ劇場に逃げ込んだ
+Aydemir salona döndü — fırsat kaçtı	大門が客席に戻った — チャンスを逃した
+Aydemir balkona çıktı!	大門がバルコニーに出てきた！
+CANLI  ·  OPERA GİRİŞİ	ライブ  ·  オペラ劇場入口
+Siyah bir sedan bulvara girdi, operaya geliyor. Kim olduğunu taramadan ateş etme.	黒いセダンが大通りに入った、オペラへ向かっている。誰かスキャンするまで撃つな。
+Aydemir'in arabası durmadan geçti	大門の車は止まらずに通り過ぎた
+İçeri giren dublördü. Asıl adam birazdan geliyor — sabır.	中に入ったのは影武者だった。本物はまもなく来る — 待て。
+Cevdet Aydemir	大門寛治
+Armatör	船主
+Kır saç, bıyık, gri smokin ve papyon. Eşi kırmızı elbiseli.	白髪交じり、口ひげ、グレーのタキシードに蝶ネクタイ。妻は赤いドレス。
+Cevdet Aydemir'i gala gecesinde etkisiz hale getir	ガラの夜に大門寛治を無力化せよ
+Kırmızı halıda vur	レッドカーペットで仕留める
+Dublöre ve davetlilere dokunma	影武者と招待客には手を出さない
+MİTİNG	集会
+Saat Kulesi Meydanı	時計台広場
+Başsavcı bugün Baran hakkında iddianameyi açıklıyor. Onu öldürmek isteyen tek kişi değiliz bu sefer — onu korumak bizim işimiz.	検事総長が今日、黒崎に対する起訴状を発表する。今回、彼女の命を狙うのは俺たちではない — 彼女を守るのが仕事だ。
+Başsavcı Nermin Arslan, meydandaki halk buluşmasında Baran'a açılan davayı anlatacak. Baran onu konuşturmamak için iki kişi tuttu: meydanı yukarıdan gören bir keskin nişancı ve kalabalığa karışmış silahlı biri.\n\nNişancıyı önce bul. Dikkat: bir atış yaparsan namlu alevini görür ve sana döner. Savcı konuşmasını bitirip sahneden inene kadar hayatta kalmalı.	獅子堂典子検事総長が広場の市民集会で黒崎に対する訴訟について語る。黒崎は彼女に話をさせないために2人雇った：広場を上から見下ろす狙撃手と、人混みに紛れた武装した男。\n\nまず狙撃手を見つけろ。注意：お前が撃てば銃口炎を見てこちらを向く。検事総長が演説を終えて壇上から降りるまで生かしておけ。
+Keskin nişancının dürbünü güneşi yakaladıkça parlar. Sana nişan alırsa kırmızı halka dolmadan onu indir. Kalabalıktaki adam silah çekince kolundan vurursan silahını düşürür.	狙撃手のスコープは日光を受けるたびに光る。お前を狙ったら、赤いリングが満ちる前に倒せ。人混みの男が銃を抜いたら、腕を撃てば銃を落とす。
+Susturuculu tüfekle nişancı seni daha geç fark eder	サプレッサー付きライフルなら狙撃手に気づかれるのが遅れる
+İstihbarat: meydanı yukarıdan gören bir nişancı ve kalabalıkta silahlı biri var	情報：広場を見下ろす狙撃手と、人混みに武装した男がいる
+Nermin Arslan	獅子堂典子
+BAŞSAVCI	検事総長
+Başsavcı — konuşması bitene kadar koru	検事総長 — 演説が終わるまで護衛せよ
+Başsavcıyı konuşması bitene kadar koru	演説が終わるまで検事総長を守れ
+Kuledeki Nişancı	塔の狙撃手
+Siyah gömlek, güneş gözlüğü — saat kulesinin çan katında	黒いシャツ、サングラス — 時計塔の鐘楼
+Kalabalıktaki Adam	人混みの男
+Siyah kapüşonlu, kırmızı bere, sakallı	黒いパーカー、赤いニット帽、ひげ
+Nişancıyı ve silahlıyı durdur	狙撃手と武装した男を止めろ
+Nişancıyı ve silahlıyı durdur  	狙撃手と武装した男を止めろ  
+Kalabalıkta biri öne doğru itiliyor — silahı var!	人混みの中で誰かが前へ押し進んでいる — 銃を持っている！
+Bir dürbün parladı! Savcıya nişan alıyorlar — bul onu!	スコープが光った！検事総長が狙われている — 見つけろ！
+Kuledeki nişancı seni vurdu	塔の狙撃手に撃たれた
+Meydanı tepeden gören her yere bak. Bir nişancı varsa dürbünü güneşte parlar.	広場を見下ろせる場所をすべて確認しろ。狙撃手がいればスコープが日光で光る。
+Başsavcı	検事総長
+Gri takım, küt kesim saç. Sahnede, kürsüde konuşuyor.	グレーのスーツ、ボブヘア。壇上の演台で演説している。
+Nişancıyı ve kalabalıktaki silahlıyı bul ve durdur (bonus)	狙撃手と人混みの武装した男を見つけて止める（ボーナス）
+Başsavcıyı koru	検事総長を守る
+Kimse nişan alamadan ikisini de durdur	誰にも狙わせずに2人とも止める
+Kalabalığa zarar verme	群衆を傷つけない
+İSKELE	桟橋
+Kordon vapur iskelesi	潮見フェリー乗り場
+Muhasebeci sabah vapurundan inecek. Müşteri onu canlı istiyor: bacağından.	会計士が朝のフェリーから降りてくる。依頼人は生け捕りを望んでいる：脚を撃て。
+Ertan Koç, Baran'ın bütün hesaplarını bilen muhasebeci. Sabah vapuruyla şehre geliyor, iskeleden yürüyüp taksiye binecek ve havalimanına gidecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, taksi durağında bekleyen ekibimiz koşup onu alsın. Baran da onu izletiyor: muhasebeci yere düştüğü an susturmak için birini gönderecek.	小嶋英明は黒崎のすべての口座を知る会計士だ。朝のフェリーで街に来て、桟橋から歩いてタクシーに乗り空港へ向かう。\n\n依頼人は奴を生け捕りにしたい：脚を撃て、タクシー乗り場で待機しているチームが駆けつけて回収する。黒崎も奴を見張らせている：会計士が倒れた瞬間、口封じに誰かを送り込んでくる。
+Vapurdan inen kalabalıkta herkesi tara. Muhasebeci yere düşünce Baran'ın adamı motosikletle promenattan gelir: silah çekmeden önce onu durdur.	フェリーから降りる人混みを全員スキャンしろ。会計士が倒れると黒崎の手下がバイクで遊歩道からやってくる：銃を抜く前に止めろ。
+Muhasebeci taksiyle kaçtı	会計士がタクシーで逃げた
+Muhasebeciyi BACAĞINDAN vur — ölmemeli	会計士の脚を撃て — 殺すな
+Vapurda — iskeleye yanaşıyor	フェリーに乗っている — 桟橋に接岸中
+CANLI  ·  VAPUR İSKELESİ	ライブ  ·  フェリー乗り場
+Gri tişört, kırmızı bere — Baran'ın tetikçisi	グレーのTシャツ、赤いニット帽 — 黒崎の殺し屋
+Bekleyen Adam	待ち伏せる男
+Gri ceket — tramvay durağında, silahlı	グレーのジャケット — 電停にいる、武装
+Baran'ın adamlarını durdur	黒崎の手下を止めろ
+Baran'ın adamlarını durdur  	黒崎の手下を止めろ  
+Ekibin ulaşmasına	チーム到着まで
+Muhasebeci yerde! Ekip koşuyor — 	会計士が倒れた！チームが走っている — あと 
+ saniye. Baran'ın adamı da yolda!	 秒。黒崎の手下も向かっている！
+Tramvay durağındaki gri ceketli de Baran'ın adamı — muhasebeciye gidiyor!	電停のグレーのジャケットの男も黒崎の手下だ — 会計士に向かっている！
+Tehlike geçti — ekip koşuyor!	危険は去った — チームが走っている！
+Ekip muhasebeciyi aldı!	チームが会計士を回収した！
+Vapur yanaşıyor. Muhasebeci elinde siyah bir evrak çantasıyla inecek.	フェリーが接岸する。会計士は黒いブリーフケースを持って降りてくる。
+Ertan Koç	小嶋英明
+Kahverengi deri mont, kot pantolon, gözlük. Elinde siyah evrak çantası.	茶色の革ジャン、ジーンズ、眼鏡。黒いブリーフケースを持っている。
+Ekip gelene kadar onu Baran'ın adamlarından koru	チームが着くまで黒崎の手下から奴を守れ
+Muhasebeciyi canlı teslim et	会計士を生きたまま引き渡す
+Baran'ın adamları nişan alamasın	黒崎の手下に狙わせない
+YAĞMUR	雨
+Saat Kulesi Meydanı — çeşme	時計台広場 — 噴水
+ÇİFT HEDEF	ダブルターゲット
+İkisi de şemsiye altında. Biri düştüğü an öteki kaçar — ikinci atışın hazır olsun.	2人とも傘の下だ。1人が倒れた瞬間にもう1人が逃げる — 2発目を用意しておけ。
+Gazeteci Selin Ay'ı öldüren tetikçi Erol Kaya, nam-ı diğer Çakal, bu gece parasını alacak. Parayı getiren, cinayet dosyasını kapatan Komiser Tuncay Er.\n\nYağmurda, çeşmenin başında buluşacaklar. İkisi de bu işin bedelini ödeyecek. Biri vurulduğu an öteki aracına koşar: Komiser'in arabası Plaza Sokak'ta, Çakal'ın motosikleti meydanın köşesinde. Sana yarı otomatik bir tüfek ve termal dürbün veriyoruz.	記者月岡沙織を殺した殺し屋梶竜二、通称「ジャッカル」が今夜報酬を受け取る。金を持ってくるのは、殺人事件をもみ消した遠山達夫警部だ。\n\n2人は雨の中、噴水のそばで落ち合う。どちらにもこの報いを受けさせる。1人が撃たれた瞬間、もう1人は車へ走る：警部の車はプラザ通りに、ジャッカルのバイクは広場の角にある。セミオートライフルとサーマルスコープを支給する。
+Şemsiyeler yukarıdan bakınca başı saklar ama kurşunu durdurmaz. Termal dürbün yağmurda vücut ısısını gösterir. Yarı otomatik tüfekle sürgü çekmeden ikinci atışı yaparsın.	傘は上から見ると頭を隠すが、弾は止めない。サーマルスコープなら雨の中でも体温が見える。セミオートライフルならボルト操作なしで2発目を撃てる。
+Ödünç: FIRTINA DMR (yarı otomatik) ve termal dürbün	貸与：STORM DMR（セミオート）とサーマルスコープ
+Komiser arabasıyla kaçtı	警部が車で逃げた
+Çakal motosikletle kaçtı	ジャッカルがバイクで逃げた
+Komiser çeşmenin başında bekliyor. Çakal meydanın güneyinden geliyor — kırmızı şemsiyeli.	警部は噴水のそばで待っている。ジャッカルは広場の南から来る — 赤い傘だ。
+Biri düştüğü an öteki koşar. İkisini de aynı anda görebileceğin yeri bekle.	1人が倒れた瞬間にもう1人が走る。2人とも同時に見える場所で待て。
+Erol Kaya	梶竜二
+Çakal	ジャッカル
+Siyah kapüşonlu, kırmızı bere, sakallı. Kırmızı şemsiye.	黒いパーカー、赤いニット帽、ひげ。赤い傘。
+Tuncay Er	遠山達夫
+Lacivert polo, kep, bıyıklı. Siyah şemsiye.	紺のポロシャツ、キャップ、口ひげ。黒い傘。
+Çakal'ı etkisiz hale getir	ジャッカルを無力化せよ
+Komiser Tuncay Er'i etkisiz hale getir	遠山達夫警部を無力化せよ
+İkisini 4 saniye içinde vur	4秒以内に2人とも仕留める
+İkisini de kafadan vur	2人ともヘッドショットで仕留める
+HELİPAD	ヘリポート
+Palas Oteli çatısı	鳳凰閣ホテルの屋上
+Demirel'i almaya bir helikopter geliyor. Kapısı kapandığı an iş biter.	柴田を迎えにヘリが来る。ドアが閉まった瞬間に終わりだ。
+Tolga Demirel, eski özel kuvvetler subayı, Baran'ın güvenlik şefi. Sana ve ekibimize karşı yürütülen her şeyi o planlıyor. Bu akşam Palas Oteli'nin çatısından helikopterle şehirden çıkacak.\n\nHelikopter piste indikten sonra Demirel iki korumasıyla çatı kapısından çıkıp yürüyecek. Mesafe uzun ve çatıda rüzgar sert. Helikopterin motorunu önceden vurursan yerde kalır: Demirel binaya geri döner — ama o yürüyüş açıkta geçer.	柴田剛は元特殊部隊将校で、黒崎の警備責任者だ。お前と俺たちのチームに対するすべての作戦を練っている。今夜、鳳凰閣ホテルの屋上からヘリで街を出る。\n\nヘリが着陸すると、柴田は護衛2人と屋上のドアから出て歩いていく。距離は遠く、屋上の風は強い。先にヘリのエンジンを撃てば飛べなくなる：柴田は建物に引き返す — だがその道のりは丸見えだ。
+Uzun atışta rüzgar okuna ve kurşun düşüşüne dikkat. Helikopterin gövdesine iki isabet motoru durdurur; patlayıcı mermi tek atışta yeter.	長距離では風の矢印と弾の落下に注意しろ。ヘリの機体に2発当てればエンジンが止まる。炸裂弾なら1発で十分だ。
+Otelin çatısının batı köşesinde dürbünlü biri var. Dürbün sana dönünce eğil — ya da önce onu indir.	ホテルの屋上の西の角に双眼鏡を持った男がいる。双眼鏡がこちらを向いたら身を隠せ — あるいは先に倒せ。
+Binada — çatıya çıkacak	建物内 — 屋上に出てくる
+Demirel helikopterle kaçtı	柴田がヘリで逃げた
+Demirel çatıya çıktı!	柴田が屋上に出てきた！
+Demirel binaya geri döndü	柴田が建物に戻った
+Motor durdu — helikopter yerde kaldı!	エンジン停止 — ヘリは飛べない！
+Güzel! Helikopter gitmiyor. Demirel binaya dönecek — yürürken yakala!	いいぞ！ヘリは飛ばない。柴田は建物に戻る — 歩いているところを狙え！
+CANLI  ·  PALAS HELİPADI	ライブ  ·  鳳凰閣ヘリポート
+Helikopter denizden geliyor. Demirel inişten sonra çatı kapısından çıkacak.	ヘリが海から来る。柴田は着陸後に屋上のドアから出てくる。
+Tolga Demirel	柴田剛
+Güvenlik Şefi	警備責任者
+Kel, sakallı, güneş gözlüklü. Siyah kruvaze takım.	スキンヘッド、ひげ、サングラス。黒いダブルのスーツ。
+Tolga Demirel'i helikoptere binmeden etkisiz hale getir	ヘリに乗る前に柴田剛を無力化せよ
+Helikopteri havalanmadan yere çak	離陸前にヘリを地上に釘付けにする
+SON PERDE	最終幕
+Palas Oteli — çatı katı	鳳凰閣ホテル — ペントハウス
+Baran biliyor. Çatıda bir nişancısı, bir projektörü ve bekleyen bir helikopteri var. Bu gece bitiyor.	黒崎は気づいている。屋上には狙撃手とサーチライト、そして待機中のヘリ。今夜で終わらせる。
+Kenan Baran. Limandaki kaçakçılık, kirli para, satın alınmış polisler, susturulan tanıklar: hepsinin arkasındaki adam. Bu gece Palas Oteli'nin çatı katında, cam duvarların ardında küçük bir parti veriyor.\n\nBaran bizi bekliyor. Çatıda projektörle damları tarayan bir adam ve bir keskin nişancı var: ışık seni bulursa nişancı sana döner. Ateş edersen Baran merdivenden çatıya, bekleyen helikoptere koşar. Bu son iş — temiz bitir.	黒崎剛三。港の密輸、汚れた金、買収された警官、口を封じられた証人：そのすべての裏にいる男。今夜、鳳凰閣ホテルのペントハウスで、ガラス壁の向こうでささやかなパーティーを開いている。\n\n黒崎は俺たちを待ち構えている。屋上にはサーチライトで屋根を照らす男と狙撃手がいる：光に捉えられれば狙撃手がこちらを向く。撃てば黒崎は階段で屋上へ、待機中のヘリへ走る。これが最後の仕事だ — きれいに終わらせろ。
+Önce çatıdaki nişancıyı bul: dürbünü yeşil parlar. Projektör ışığı üzerine gelince nişancı sana nişan alır. Cam duvarlar mermiyi durdurmaz.	まず屋上の狙撃手を見つけろ：スコープが緑に光る。サーチライトに照らされると狙撃手に狙われる。ガラス壁は弾を止めない。
+Çatıda projektör ve bir karşı nişancı var — ışık seni bulmadan onu bul	屋上にサーチライトと敵狙撃手がいる — 光に捉えられる前に見つけろ
+Kenan Baran'ı etkisiz hale getir	黒崎剛三を無力化せよ
+Baran helikopterle kaçtı	黒崎がヘリで逃げた
+Palas'ın çatısında, korkuluğun arkasında	鳳凰閣の屋上、手すりの陰
+PROJEKTÖR ÜZERİNDE — GÖRÜLDÜN!	サーチライトに捉えられた — 見つかった！
+Projektör damları tarıyor, sana yaklaşıyor! Işık seni bulmadan nişancıyı indir.	サーチライトが屋根を照らしながら近づいてくる！光に捉えられる前に狙撃手を倒せ。
+Baran binaya geri döndü	黒崎が建物に戻った
+Merdivende — çatıya çıkıyor	階段にいる — 屋上へ向かっている
+Baran çatıya kaçıyor — helikoptere!	黒崎が屋上へ逃げている — ヘリへ向かう気だ！
+Helikopter yerde kaldı!	ヘリは飛べない！
+BARAN	黒崎
+Biliyorum oradasın, tetikçi. Bu camların ardında bana dokunamazsın.	そこにいるのはわかっているぞ、殺し屋。このガラスの向こうの俺には手出しできまい。
+Telsizini dinliyoruz. Çatıda projektör ve bir nişancı var — önce onu bul.	奴らの無線を傍受している。屋上にサーチライトと狙撃手がいる — まず狙撃手を見つけろ。
+Baran düştü. Bitti... Şehir artık nefes alabilir.	黒崎は倒れた。終わった… 街はようやく息をつける。
+Kenan Baran	黒崎剛三
+Gümüş saç ve sakal, koyu takım, kırmızı kravat.	銀髪に銀のひげ、濃い色のスーツ、赤いネクタイ。
+Çatıdaki nişancı sana nişan alamasın	屋上の狙撃手に狙わせない
+Davetlilere zarar verme	招待客を傷つけない
+Buluşmanın bitmesine	会合終了まで
+Buluşma başladı	会合が始まった
+Kurşun siperine çarptı — nişancı başını kaldırmanı bekliyor	弾が遮蔽物に当たった — 狙撃手はお前が頭を上げるのを待っている
+Iskaladı — nişancı yeniden nişan alıyor	外れた — 狙撃手が再び狙いをつけている
+Nişancı yine aşağıya nişan alıyor!	狙撃手がまた下を狙っている！
+Seni gördü! Ateş etmeden onu indir — ya da siperine eğil!	見つかった！撃たれる前に倒せ — それとも遮蔽物に身を隠せ！
+2 sözleşme tamamla	契約を2件完了する
+3 kafadan vuruş yap	ヘッドショットを3回決める
+250 m'den uzak bir isabet	250m以上の距離で命中させる
+Alarm vermeden bir iş bitir	警報を鳴らさずに仕事を終える
+S derecesi al	Sランクを獲得する
+5 yıldız topla	スターを5個集める
+2 zırhlı adamı sustur	装甲兵を2人倒す
+VETERAN olarak bir iş bitir	ベテランで仕事を終える
+Sivillere dokunmadan 2 iş bitir	民間人を傷つけずに2件の仕事を終える
+Dürbün, nefes tutma ve ilk atış.	スコープ、息止め、最初の一発。
+MENZİL ayarı: uzak hedefte mermi düşer, sarı çizgilerle tut.	距離調整：遠くのターゲットでは弾が落下する、黄色い線で狙え。
+Dikkat dağıtma: yakınına düşen kurşun ya da araba alarmı hedefi siperden çıkarır.	陽動：近くに撃ち込んだ弾や車のアラームでターゲットを遮蔽物から引きずり出せ。
+Gece ve gözcü: önce seni görebilecek olanı düşün.	夜と見張り：まずお前を見つけられる者のことを考えろ。
+Hedefi kendin bul. İsabet noktası artık sadece nefes tutarken görünür.	ターゲットは自分で見つけろ。着弾点は息止め中にしか表示されない。
+Hareketli hedef: yürüyüşüne göre önden nişan al.	移動ターゲット：歩く速さに合わせて前方を狙え。
+Uzun atış ve sert rüzgâr: rüzgâr panelindeki mil değerine göre kaydır.	長距離と強風：風パネルのミル値に合わせて照準をずらせ。
+Koruma: kalabalıktaki tetikçileri bul, tanık yaşasın.	護衛：人混みの殺し屋を見つけ、証人を生かせ。
+Canlı yakala: bacaktan vur, öldürme.	生け捕り：脚を撃て、殺すな。
+Karanlık: ışığı kesmek korumaları kör eder.	暗闇：明かりを断てば護衛は何も見えない。
+Uyuşturucu iğne: kimse ölmeyecek.	麻酔針：誰も死なない。
+Şehir: isabet noktası yok. Iskalarsan hedef kaçar; iş bitince yerin biliniyorsa çıkış var.	都市：着弾点なし。外せばターゲットは逃げる。仕事の後に位置がバレていれば撤退が必要。
+Dublör: yüze iyi bak, yanlış kişiyi vurursan iş biter.	影武者：顔をよく見ろ、人違いなら仕事は終わりだ。
+Karşı nişancı: önce o seni bulmasın.	敵狙撃手：先に見つかるな。
+Çift hedef: biri düşünce öteki kaçar, ikinci atış hazır olsun.	ダブルターゲット：1人が倒れればもう1人は逃げる、2発目を用意しておけ。
+Zaman penceresi: helikopterin kapısı kapanınca iş biter.	時間制限：ヘリのドアが閉まれば仕事は終わりだ。
+Dağ: rüzgâr sert ve değişken. Paneldeki yön ve gücü izle, dindiği anı bekle.	山：風は強く変わりやすい。パネルの向きと強さを見て、収まる瞬間を待て。
+Kaza: kurşun değil, çığ.	事故：銃弾ではなく雪崩で。
+Tipi: termal dürbün olmadan göremezsin.	吹雪：サーマルスコープなしでは何も見えない。
+Ses örtüsü: havai fişek patlarken atış duyulmaz.	音の隠れ蓑：花火の炸裂中は銃声が聞こえない。
+HAFİF	微風
+ORTA	中程度
+SERT	強風
+FIRTINA	嵐
+LİMAN	港
+Konteyner limanı	コンテナ港
+Kaçakçılar, silah tüccarları ve rüşvet ağı. Her şey limanda başladı.	密輸業者、武器商人、賄賂のネットワーク。すべては港から始まった。
+Liman kuruluyor	港を構築中
+ŞEHİR MERKEZİ	市街地
+ŞEHİR OPERASYONU	都市作戦
+Örgütün parası ve koruyucuları şehirde. Opera, gökdelen, otel — ve deniz kıyısında bir meydan.	組織の金と後ろ盾は都市にある。オペラ、高層ビル、ホテル — そして海辺の広場。
+Şehir kuruluyor	都市を構築中
+Liman'da 6. görevi bitir	港でミッション6をクリア
+KARTAL TEPE	鷲峰高原
+DAĞ OPERASYONU	山岳作戦
+Kartal Tepe Kayak Merkezi	鷲峰高原スキーリゾート
+Örgütün konseyi karlı bir dağ otelinde toplanıyor. Teleferik, dağ evleri, donmuş göl — ve tipi.	組織の評議会は雪山のホテルに集まっている。ロープウェイ、山小屋、凍った湖 — そして吹雪。
+Dağ kuruluyor	山を構築中
+Şehirde 16. görevi bitir	都市でミッション16をクリア
+Başlatılıyor	起動中
+Hazırlanıyor	準備中
+Hazır	準備完了
+Ceset suya gömüldü — kimse bulamayacak	死体は水中に沈んだ — 誰にも見つからない
++%{0} BONUS	+%{0} ボーナス
+Bu paket için {0} elmas gerekiyor, sende {1} var.	このパックには {0} ジェムが必要です。所持数は {1} です。
+{0} kuşanıldı. Cephanelikte seni bekliyor.	{0} を装備しました。武器庫で待っています。
+{0} satın alım geri yüklendi.	{0} 件の購入を復元しました。
+Bugün {0} / {1} hakkın kaldı	本日残り {0} / {1} 回
+{0}. GÜN	{0}日目
+{0} Z. DELİCİ	{0} 徹甲弾
+TAKTİK HARİTA  ·  GÖREV {0}  ·  {1}	戦術マップ  ·  ミッション {0}  ·  {1}
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     <color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#46C8F2>●</color> 狙撃地点     <color=#FF4545>●</color> ターゲット区域     <color=#FFFFFF>- -</color> 既知のルート     リング: メイン狙撃位置から100m間隔     上方向: メイン狙撃位置の向き
+ZORLUK  {0}/10	難易度  {0}/10
+Bu iş {0} olmadan yapılamaz. Cephaneliğe git?	この仕事には {0} が必要です。武器庫へ行きますか？
+Bu sözleşme için önerilen güç {0}, {1} şu an {2}.\nGeliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	この契約の推奨パワーは {0}、{1} は現在 {2} です。\n強化せずに挑むこともできますが、装甲兵や遠距離のターゲットに苦戦します。
+<b><color=#E8B04A>YENİ:</color></b> {0}\n{1}	<b><color=#E8B04A>NEW:</color></b> {0}\n{1}
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n{0}	<b><color=#FFB21E>ベテラン:</color></b> 着弾点表示なし、風は強く不規則、ライフルの揺れが増し、ターゲットはマークされません。報酬 ×1,5。\n{0}
+BÖLÜM {0}	チャプター {0}
+GÖREV {0}  ·  {1}	ミッション {0}  ·  {1}
+TÜFEK:  {0}   <size=26><color={1}>GÜÇ {2}</color><color=#6B7682>  /  önerilen {3}</color></size>	ライフル:  {0}   <size=26><color={1}>パワー {2}</color><color=#6B7682>  /  推奨 {3}</color></size>
+   ·   Verilen: {0}	   ·   支給: {0}
+GÖREV {0} · {1}	ミッション {0} · {1}
+Baran'ın kasası: {0}	黒崎の金庫: {0}
++{0} ELMAS	+{0} ジェム
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.{0}	契約未完了 — 報酬なし。\n同じ仕事に再挑戦できます。何がまずかったかは上に表示されています。{0}
+Bu iş için önerilen güç {0}, senin tüfeğin {1}. Geliştir ya da {2} hemen güçlen.	この仕事の推奨パワーは {0}、あなたのライフルは {1}。強化するか、{2}ですぐにパワーアップしましょう。
++{0} TP	+{0} XP
+TELAFİ +{0}	補償 +{0}
+GÖREV {0}	ミッション {0}
+{0}Rüzgâr {1} m/s   ·   {2}\nZORLUK {3}/10{4}	{0}風 {1} m/s   ·   {2}\n難易度 {3}/10{4}
+Önerilen güç <b>{0}</b>   ·   Tüfeğin <color={1}><b>{2}</b></color>	推奨パワー <b>{0}</b>   ·   ライフル <color={1}><b>{2}</b></color>
+Yenisi {0} sa {1} dk sonra	次の契約まで {0} 時間 {1} 分
+{0} · {1}  —  VETERAN kurallarıyla	{0} · {1}  —  ベテランルール
+Güç {0} / {1}	パワー {0} / {1}
+Görev aralarındaki reklamları {0} karşılığında sonsuza dek kaldır. Hediye: {1} elmas.	ミッション間の広告を {0} で永久に削除。特典: {1} ジェム。
+{0} için {1} elmas gerekiyor, sende {2} var.	{0} には {1} ジェムが必要です。所持数は {2} です。
+{0} {1} elmasla hemen senin olsun mu?	{0} を {1} ジェムで今すぐ手に入れますか？
+SEVİYE {0} GEREKLİ	レベル {0} が必要
+Son kademe (elmasla) {0}. seviyede açılır. Sözleşmelerden tecrübe kazan.	最終ティア（ジェム）はレベル {0} で解放されます。契約をこなして経験を積みましょう。
+Bu geliştirme için {0} eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.\nBugün {1} hakkın var.	この強化には {0} 足りません。短い動画を見れば不足分が補われ、すぐに強化されます。\n本日残り {1} 回。
+Son kademe {0} elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	最終ティアは {0} ジェムです。ショップで購入するか、デイリー報酬で集めましょう。
+Bu geliştirme {0}. Sözleşmelerden para kazan ya da mağazaya bak.	この強化には {0} が必要です。契約で資金を稼ぐか、ショップを見てみましょう。
+GÜÇ <color=#FFB21E>{0}</color>   ·   {1}	パワー <color=#FFB21E>{0}</color>   ·   {1}
+{0}   ·   {1} ★ ile açılır	{0}   ·   {1} ★で解放
+{0}  <color=#46C8F2>EN ÜST</color>	{0}  <color=#46C8F2>最上位</color>
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> {0}. kademe ya da zırh delici mermi gerekir.	装甲兵の胴体を貫くには <color=#FFB21E>ダメージ</color> ティア{0}、または徹甲弾が必要です。
+SATIN AL   {0}	購入   {0}
+{0} ★ YA DA   	{0} ★ または   
+{0} ELMASLA AL	{0} ジェムで購入
+{0} yıldızla açılır	{0} スターで解放
+SATIN AL  {0}	購入  {0}
+YÜKSELT  {0}	強化  {0}
+YER DEĞİŞTİRİYORSUN\n<size=30>{0}  ·  {1} sn</size>	移動中\n<size=30>{0}  ·  {1} 秒</size>
+KURŞUN KAMERASI  ·  {0}	バレットカム  ·  {0}
+“{0}” — sözleşme hedefi	“{0}” — 契約ターゲット
+Yaralı — {0}	負傷 — {0}
+KEŞİF  ·  {0} / {1} tehdit tarandı	偵察  ·  {0} / {1} 件の脅威をスキャン
+{0},{1} mil	{0},{1} ミル
+TELSİZ  {0},{1} sn	無線  {0},{1} 秒
+Yıldız kaçtı: {0}	逃したスター: {0}
+SÖZLEŞME {0}  ·  {1}{2}	契約 {0}  ·  {1}{2}
+{0}  <size=24><color=#A3AEB9>·  SEVİYE {1}</color></size>	{0}  <size=24><color=#A3AEB9>·  レベル {1}</color></size>
+{0} / {1} TP	{0} / {1} XP
+{0}   ·   SEVİYE {1}	{0}   ·   レベル {1}
+AÇILDI:  {0}	解放:  {0}
+ÖDÜLLÜ TEST REKLAMI  ·  {0}	報酬付きテスト広告  ·  {0}
+TEST REKLAMI  ·  her {0} görevde bir	テスト広告  ·  {0} ミッションごとに1回
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	お前には名前がない。3年前、軍はお前を死亡扱いにした。CONTROLは軍病院でお前を見つけ、ひとつだけ取引を持ちかけた。港の密輸組織を潰せば、過去は消してやる。\n\nどの契約もひとつの名前。どの名前も、次へと続く道。
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\nBu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	港は崩れたが、金は流れ続けている。ヴィクトル・クラールの電話に残っていた最後の番号は潮見プラザにつながっていた。黒崎ホールディングスだ。\n\n今度の標的はスーツ姿だ。人混みの中、ガラス壁の向こう、警官のそばにいる。
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	黒崎の金庫から出てきたファイルが5つの名前を示している。評議会だ。長年黒崎を養い、守ってきた5人は、年末年始の週を毎年鷲峰高原で過ごす。\n\nファイルの中にはもうひとつ署名があった。見覚えのある署名が。
+Vuruldun — {0}	被弾 — {0}
+Üç tetikçiyi de durdur  {0}/3	殺し屋3人をすべて止めろ  {0}/3
+{0} fişek	{0} 発
+Bu açıdan {0} görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	この角度からは {0} が見えません。移動で別の位置へ移ってください。
+{0} silahlı adam mevzi alıyor — yuvanı arıyorlar!	{0} 人の武装兵が配置につこうとしている — 狙撃位置を探している！
+Etkisiz hale getir: {0}	無力化: {0}
+{0} öldürüldü	{0} が殺された
+İsabet — {0} atış daha	命中 — {0} 発 残り
+YENİ HEDEF: {0}	新ターゲット: {0}
+SİLAHLI ADAM BULUNDU: {0}	武装兵発見: {0}
+HEDEF DOĞRULANDI: {0}	ターゲット確認: {0}
+KİMLİK DOĞRULANDI: {0}	身元確認: {0}
+YENİ YER: {0}	新しい位置: {0}
+Dron bölgeyi taradı — {0} kişi tanımlandı	ドローンが区域をスキャン — {0} 人を識別
+{0} öldü!	{0} が死亡！
+{0} hedef kaldı	{0} 人のターゲットが残っている
+{0} yaralandı — artık yürüyemiyor	{0} が負傷 — もう歩けない
+{0} bayıldı — güvenli yere ulaşamaz	{0} が気絶 — 安全な場所にはたどり着けない
+ISKALADIN — {0} KAÇIYOR!	外した — {0} が逃げる！
+Sana ateş edenleri sustur  ·  {0} kaldı	撃ってくる敵を黙らせろ  ·  {0} 残り
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — {0} silahlı var, hepsini sustur. Gerekirse siper al.	ターゲットは倒れたが、位置はバレている。誰にも追わせるな — {0} 人の武装兵がいる、全員黙らせろ。必要なら身を隠せ。
+Yıldız hedefleri  ×{0}	スター目標  ×{0}
+Uzak atış  ·  {0} m	遠距離射撃  ·  {0} m
+Keşif  ·  {0}/{1} tehdit	偵察  ·  {0}/{1} 件の脅威
+Sivil kaybı  ×{0}	民間人の犠牲  ×{0}
+Yaralı sivil  ×{0}	負傷した民間人  ×{0}
+Tekrar oynanış  ×%{0}	リプレイ  ×%{0}
+Tetikçileri durdur  {0}/2	殺し屋を止めろ  {0}/2
+Kurye yerde! Ekip yolda — {0} saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	運び屋が倒れた！チームが向かっている — あと {0} 秒。組織の連中が口封じに来る、倉庫からも出てくるぞ！
+Korumalar temiz. Tekne geliyor — {0} saniye.	護衛はクリア。ボートが来る — あと {0} 秒。
+Nişancıyı ve silahlıyı durdur  {0}/2	狙撃手と武装した男を止めろ  {0}/2
+Baran'ın adamlarını durdur  {0}/2	黒崎の手下を止めろ  {0}/2
+Muhasebeci yerde! Ekip koşuyor — {0} saniye. Baran'ın adamı da yolda!	会計士が倒れた！チームが走っている — あと {0} 秒。黒崎の手下も向かっている！
+{0} ELMAS	{0} ジェム
+Kimyager: {0}	ケミスト: {0}
+Toplam: {0}	合計: {0}
+SV {0}	Lv {0}
+Hedef: {0}{1}	ターゲット: {0}{1}
+HEDEF:  {0}	ターゲット:  {0}
+{0} vuruldu!	{0} が撃たれた！
+Kullanım Koşulları (EULA)	利用規約（EULA）
+Gizlilik Politikası	プライバシーポリシー
+Oyunu beğendin mi?	ゲームを楽しんでいますか？
+PUANLA	評価する
+BURAYA	ここ
+Önce dürbünü aç.	まずスコープを覗いてください。
+EĞİTİM	訓練
+Yakınlaştır: soldaki kaydırıcıyı yukarı it ya da iki parmakla ekranı aç.	ズームイン：左のスライダーを上げるか、2本指でピンチアウトしてください。
+Halka boşalmadan ateş et: nefes biterse nişan titrer.	リングが空になる前に撃ってください。息止めが切れると照準が揺れます。
+Kırmızı nokta merminin ineceği yeri gösterir.	赤い点が着弾点を示します。
+Kırmızı halka: bu adam sana nişan alıyor!	赤いリング：この男に狙われています！
+Halka dolmadan onu vur ya da SİPER'e eğil.	リングが満ちる前に撃つか、遮蔽ボタンで身を隠してください。
+Vuruluyorsun! SİPER tuşuna bas: duvarın arkasına eğil.	撃たれています！遮蔽ボタンを押して、壁の陰に隠れてください。
+Siperde can yenilenir.	遮蔽中は体力が回復します。
+Ateş kesilince dürbünle doğrul ve karşılık ver: önce sana nişan alanı vur.	射撃が止んだら身を起こし、スコープで反撃してください。まずはこちらを狙う敵から。
+Hedef {0} m uzakta. Mermi yol boyunca düşer.	ターゲットまで{0}m。弾は飛ぶ間に落下します。
+Kırmızı nokta merminin ineceği yer: nişangahın {0} cm altında. Kafaya nişan alırsan ıskalarsın.	着弾点は赤い点、照準の{0}cm下です。頭を狙うと外れます。
+MENZİL'i hedefin mesafesine getir: + tuşuna bas.	「距離」をターゲットまでの距離に合わせてください：+をタップ。
+MENZİL'i hedefin mesafesine getir: − tuşuna bas.	「距離」をターゲットまでの距離に合わせてください：−をタップ。
+MENZİL {0} m  ·  hedef {1} m	距離 {0} m  ·  ターゲット {1} m
+Tam ayar! Nokta nişangaha döndü.	ぴったり！赤い点が照準に戻りました。
+Uzak hedefte önce mesafeyi oku, MENZİL'i ona getir, sonra ateş et.	遠くのターゲットは、まず距離を読み、「距離」を合わせてから撃ってください。
+Hedef yürüyor: mermi oraya varana kadar o da ilerler.	ターゲットが歩いています：弾が届くまでに相手も先へ進みます。
+Nişangahı yürüdüğü yöne, mavi halkanın üzerine al.	照準を進行方向の先、青いリングに合わせてください。
+İşte bu! Önünde kal ve ateş et.	その調子！先を狙ったまま撃ってください。
+Koşan adamda pay daha büyük, duran adamda hiç yok.	走る相手ほど大きく先を狙います。止まっている相手なら不要です。
+Rüzgâr mermiyi yana iter. Yönü ve gücü bu panelde.	風は弾を横に流します。向きと強さはこのパネルで確認できます。
+Bak: rüzgâr mermiyi {0} cm sağa götürüyor.	見てください：風で弾が右に{0}cm流されています。
+Bak: rüzgâr mermiyi {0} cm sola götürüyor.	見てください：風で弾が左に{0}cm流されています。
+Kırmızı nokta merminin ineceği yer.	赤い点が着弾点です。
+Rüzgâra karşı tut: nişangahı {0} mil sola kaydır.	風上へ修正：照準を左に{0}ミルずらしてください。
+Rüzgâra karşı tut: nişangahı {0} mil sağa kaydır.	風上へ修正：照準を右に{0}ミルずらしてください。
+Sarı noktalar 1 mil aralıklı. Kırmızı nokta hedefe gelince ateş et.	黄色い点は1ミル間隔です。赤い点がターゲットに重なったら撃ってください。
+Tam üstünde! Şimdi ateş et.	捉えました！今撃ってください。
+Rüzgâr dinip artar: ateşten önce paneldeki değere bir daha bak.	風は弱まったり強まったりします。撃つ前にもう一度パネルの値を確認してください。
+Bu işte kimse ölmeyecek: bu tuşla İĞNE'ye geç.	この仕事で死者は出しません。このボタンで麻酔針に切り替えてください。
+Mermi seçici: her basış bir sonraki türü takar.	弾薬切替：押すたびに次の弾種に切り替わります。
+İğne yavaş uçar ve çok düşer: biraz yukarı nişan al.	麻酔針は遅く、大きく落下します。少し上を狙ってください。
+Kırmızı nokta iğnenin ineceği yeri gösterir.	赤い点が麻酔針の着弾点を示します。
+Zırhlı adam! Gövdesine mermi işlemez.	装甲兵！胴体には弾が通りません。
+Bu tuşla ZIRH DELİCİ'ye geç ya da kafasına nişan al.	このボタンで徹甲弾に切り替えるか、頭を狙ってください。
+Kafasına nişan al. Zırh delici mermiyi cephanelikten alabilirsin.	頭を狙ってください。徹甲弾は武器庫で入手できます。
+Yerin belli oldu. YER DEĞİŞTİR: yeni yerde seni kimse bilmez.	位置が割れました。移動してください：新しい場所は敵に知られていません。
+Taşınırken dünya durmaz: hedef kaçmadan dön.	移動中も世界は待ってくれません。ターゲットに逃げられる前に戻ってください。
+Bu yüz dosyadakiyle aynıysa İŞARETLE — HEDEF BU.	この顔が資料と同じなら「マーク — こいつが標的」をタップしてください。
+Emin değilsen basma: yanlış kişiyi vurmak işi bitirir.	確信がなければ押さないでください。別人を撃てば仕事は終わりです。
+Karanlıkta gece görüşü kullan: bu tuşla modu değiştir.	暗い場所では暗視を使ってください。このボタンでモードを切り替えます。
+Termal dürbünde insanlar beyaz parlar: sis ve kar arkasında bile.	サーマルスコープでは人が白く光ります。霧や雪の向こうでも。
+DRON'u gönder: bölgeyi tarar, tehditleri işaretler.	ドローンを飛ばしてください：区域をスキャンし、脅威をマークします。
+Her sözleşmede bir kez.	契約ごとに1回。
+Son anda kıpırdadı. Nişanı tazele, tekrar dene.	直前に動いた。狙い直して、もう一度だ。
+Siperine takıldı. Açığa çıkmasını bekle ya da başka açıdan dene.	遮蔽物に当たった。姿を現すのを待つか、別の角度から狙え。
+Iska: {0} cm alçak.	外れた。下に{0}cm。
+Iska: {0} cm yüksek.	外れた。上に{0}cm。
+Iska: {0} cm solda.	外れた。左に{0}cm。
+Iska: {0} cm sağda.	外れた。右に{0}cm。
+Mermi düştü: hedef {0} m, MENZİL {1}. MENZİL'i hedefin mesafesine getir.	弾が落ちた：ターゲット{0}m、「距離」は{1}。「距離」をターゲットに合わせろ。
+Fazla yüksek: hedef {0} m, MENZİL {1}. MENZİL'i düşür.	高すぎる：ターゲット{0}m、「距離」は{1}。「距離」を下げろ。
+Arkasından geçti: yürüdüğü yöne daha önden nişan al.	背後を抜けた。進行方向のもっと先を狙え。
+Önünden geçti: payı biraz azalt.	前を抜けた。狙いを少し戻せ。
+Rüzgâr sağa itti: biraz sola tut.	風で右に流れた。少し左を狙え。
+Rüzgâr sola itti: biraz sağa tut.	風で左に流れた。少し右を狙え。
+Nefesini tut: nişan sabitlenince ateş et.	息を止めろ。照準が安定したら撃て。
+Nişangahı vücudun ortasına al.	照準を体の中心に合わせろ。
+Sabır: hedef dışarı çıkana kadar bekle, nefesini tut ve kafaya nişan al.	忍耐：ターゲットが出てくるまで待ち、息を止めて頭を狙え。
+MENZİL ayarı: uzak hedefte mermi düşer. Dikkat dağıtma: yakına düşen kurşun hedefi açığa çıkarır.	距離調整：遠くのターゲットでは弾が落下する。陽動：近くに撃ち込めばターゲットが姿を現す。
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.{0}	現在ショップを利用できません。インターネット接続を確認して、しばらくしてからもう一度お試しください。{0}
+GEÇ	スキップ
+Yer seviyesi — siper arkası	地上 — 遮蔽物の陰
+Alçak mevzi — yakın çatı	低い位置 — 近くの屋上
+Orta yükseklik	中ほどの高さ
+Hedeflerle aynı seviyede ve yakın. Net atış, ama seni de çabuk görürler.	標的と同じ高さで近い。狙いやすいが、こちらも見つかりやすい。
+Birkaç kat yukarıda: yakın ve geniş açı.	数階上：近く、視界が広い。
+Sahaya yukarıdan ama yakından bakar.	現場を上から、しかも近くから見下ろせる。
+Dil  ·  Language	言語  ·  Language

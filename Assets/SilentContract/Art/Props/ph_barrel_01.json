@@ -1,0 +1,39 @@
+{
+ "id": "ph_barrel_01",
+ "category": "prop",
+ "tris": 1498,
+ "tris_src": 2682,
+ "size": [
+  0.563,
+  0.88,
+  0.563
+ ],
+ "center": [
+  0.0,
+  0.44,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_barrel_01__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_barrel_01_m0_albedo.jpg",
+   "normal": "ph_barrel_01_m0_normal.jpg",
+   "ms": "ph_barrel_01_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

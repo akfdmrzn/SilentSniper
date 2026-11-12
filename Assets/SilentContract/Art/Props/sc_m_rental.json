@@ -1,0 +1,136 @@
+{
+ "id": "sc_m_rental",
+ "category": "struct",
+ "tris": 392,
+ "tris_src": 392,
+ "size": [
+  8.4,
+  4.549,
+  6.84
+ ],
+ "center": [
+  0.0,
+  2.275,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "shared__mtn_pine",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.004,
+   "smoothness": 0.687,
+   "albedo": "shared__mtn_pine_albedo.jpg",
+   "normal": "shared__mtn_pine_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_pine",
+   "window": false
+  },
+  {
+   "name": "shared__win_shop",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__win_shop_albedo.jpg",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "win_shop",
+   "window": true
+  },
+  {
+   "name": "shared__frame_wood",
+   "color": [
+    0.22,
+    0.13,
+    0.08,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "frame_wood",
+   "window": false
+  },
+  {
+   "name": "shared__mtn_roof_snow",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.195,
+   "albedo": "shared__mtn_roof_snow_albedo.jpg",
+   "normal": "shared__mtn_roof_snow_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_roof_snow",
+   "window": false
+  },
+  {
+   "name": "shared__mtn_timber",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.153,
+   "albedo": "shared__mtn_timber_albedo.jpg",
+   "normal": "shared__mtn_timber_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_timber",
+   "window": false
+  },
+  {
+   "name": "shared__emit_mtn_sign_kiralama",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__emit_mtn_sign_kiralama_albedo.jpg",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "emit_mtn_sign_kiralama",
+   "window": false,
+   "emission": [
+    0.8,
+    0.8,
+    0.8
+   ]
+  }
+ ],
+ "lods": 1,
+ "collider": "mesh",
+ "static": true,
+ "credit": "",
+ "tags": []
+}

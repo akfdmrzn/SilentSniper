@@ -1,0 +1,17 @@
+{
+ "name": "m_crouch_strafe",
+ "frames": 38,
+ "fps": 30,
+ "length": 1.2333,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Crouch_Walk_Left_with_Gun.glb",
+ "tags": [
+  "combat",
+  "crouch"
+ ],
+ "offset": [
+  -0.9592,
+  -0.8784
+ ]
+}

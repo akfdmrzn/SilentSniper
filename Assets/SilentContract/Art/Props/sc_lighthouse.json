@@ -1,0 +1,100 @@
+{
+ "id": "sc_lighthouse",
+ "category": "structure",
+ "tris": 448,
+ "tris_src": 448,
+ "size": [
+  4.4,
+  19.25,
+  4.4
+ ],
+ "center": [
+  0.0,
+  9.625,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "sc_lighthouse__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.089,
+   "albedo": "sc_lighthouse_m0_albedo.jpg",
+   "normal": "sc_lighthouse_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "lh_red",
+   "window": false
+  },
+  {
+   "name": "sc_lighthouse__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.089,
+   "albedo": "sc_lighthouse_m1_albedo.jpg",
+   "normal": "sc_lighthouse_m1_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "lh_white",
+   "window": false
+  },
+  {
+   "name": "sc_lighthouse__m2",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sc_lighthouse_m2_albedo.jpg",
+   "normal": "sc_lighthouse_m2_normal.jpg",
+   "ms": "sc_lighthouse_m2_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "lh_dark",
+   "window": false
+  },
+  {
+   "name": "sc_lighthouse__m3",
+   "color": [
+    1.0,
+    0.9,
+    0.6,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "lh_glass",
+   "window": false,
+   "emission": [
+    2.0,
+    1.6,
+    1.0
+   ]
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Silent Contract (procedural, Poly Haven CC0 textures)",
+ "tags": []
+}

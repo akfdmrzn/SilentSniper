@@ -1,0 +1,16 @@
+{
+ "name": "m_pistol_quickdraw",
+ "frames": 220,
+ "fps": 30,
+ "length": 7.3,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Cowboy_Quick_Draw_Shooting.glb",
+ "tags": [
+  "combat"
+ ],
+ "offset": [
+  -0.0005,
+  -0.0
+ ]
+}

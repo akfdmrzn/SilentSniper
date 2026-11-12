@@ -1,0 +1,39 @@
+{
+ "id": "ph_military_crate2",
+ "category": "prop",
+ "tris": 2500,
+ "tris_src": 22986,
+ "size": [
+  1.242,
+  0.465,
+  0.52
+ ],
+ "center": [
+  0.0,
+  0.232,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_military_crate2__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_military_crate2_m0_albedo.jpg",
+   "normal": "ph_military_crate2_m0_normal.jpg",
+   "ms": "ph_military_crate2_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

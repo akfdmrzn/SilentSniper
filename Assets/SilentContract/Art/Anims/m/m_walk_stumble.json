@@ -1,0 +1,12 @@
+{
+ "name": "m_walk_stumble",
+ "frames": 61,
+ "fps": 30,
+ "length": 2.0,
+ "loop": true,
+ "speed": 1.2248,
+ "source": "Stumble_Walk.glb",
+ "tags": [
+  "walk"
+ ]
+}

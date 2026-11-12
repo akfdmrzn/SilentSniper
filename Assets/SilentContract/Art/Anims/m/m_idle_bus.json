@@ -1,0 +1,12 @@
+{
+ "name": "m_idle_bus",
+ "frames": 361,
+ "fps": 30,
+ "length": 12.0,
+ "loop": true,
+ "speed": 0.0,
+ "source": "40_10.bvh",
+ "tags": [
+  "idle"
+ ]
+}

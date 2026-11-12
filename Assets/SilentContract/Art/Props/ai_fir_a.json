@@ -1,0 +1,41 @@
+{
+ "id": "ai_fir_a",
+ "category": "prop",
+ "tris": 2600,
+ "tris_src": 5947,
+ "size": [
+  7.718,
+  12.99,
+  8.357
+ ],
+ "center": [
+  0.0,
+  6.495,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_fir_a__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.002,
+   "smoothness": 0.438,
+   "albedo": "ai_fir_a_m0_albedo.jpg",
+   "normal": "ai_fir_a_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 2,
+ "collider": "none",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

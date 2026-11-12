@@ -1,0 +1,12 @@
+{
+ "name": "m_handshake",
+ "frames": 181,
+ "fps": 30,
+ "length": 6.0,
+ "loop": false,
+ "speed": 0.0,
+ "source": "80_01.bvh",
+ "tags": [
+  "gesture"
+ ]
+}

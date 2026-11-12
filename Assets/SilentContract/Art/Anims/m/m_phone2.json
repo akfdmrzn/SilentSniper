@@ -1,0 +1,12 @@
+{
+ "name": "m_phone2",
+ "frames": 196,
+ "fps": 30,
+ "length": 6.5,
+ "loop": true,
+ "speed": 0.0,
+ "source": "80_25.bvh",
+ "tags": [
+  "phone"
+ ]
+}

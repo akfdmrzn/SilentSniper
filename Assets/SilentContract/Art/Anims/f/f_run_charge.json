@@ -1,0 +1,12 @@
+{
+ "name": "f_run_charge",
+ "frames": 15,
+ "fps": 30,
+ "length": 0.4667,
+ "loop": true,
+ "speed": 4.6819,
+ "source": "Male_Head_Down_Charge.glb",
+ "tags": [
+  "run"
+ ]
+}

@@ -1,0 +1,1385 @@
+SİPER	CUBRIRSE
+Sana ateş ediyorlar! SİPER tuşuyla eğil — ateş kesilince doğrul ve kırmızı işaretli nişancıları indir. Yaraların birkaç saniye sonra iyileşir.	¡Te están disparando! Agáchate con el botón CUBRIRSE — cuando cese el fuego, levántate y abate a los tiradores marcados en rojo. Tus heridas sanan en unos segundos.
+YERİN TESPİT EDİLDİ — SANA ATEŞ EDECEKLER!	TE DETECTARON — ¡VAN A DISPARARTE!
+DOĞRUL	LEVANTARSE
+YERİN TESPİT EDİLDİ	TE DETECTARON
+GÖZCÜ SENİ ARIYOR	UN VIGÍA TE BUSCA
+YERİNİ ARIYORLAR	TE ESTÁN BUSCANDO
+DİKKAT ÇEKİYORSUN	LLAMAS LA ATENCIÓN
+Her atış yerini biraz daha belli eder (susturucu daha az). Göz dolarsa yerin tespit edilir ve silahlı adamlar sana ateş eder.	Cada disparo delata un poco más tu posición (menos con silenciador). Si el medidor se llena, te detectan y los hombres armados te disparan.
+Bir gözcü dürbünle damları tarıyor: dürbün parlaması sana dönerken eğil ya da önce onu indir.	Un vigía revisa las azoteas con binoculares: agáchate cuando el destello gire hacia ti o abátelo primero.
+MAĞAZA	TIENDA
+TEKLİFLER	OFERTAS
+SİLAH PAKETLERİ	PAQUETES DE ARMAS
+ELMAS	GEMAS
+NAKİT	EFECTIVO
+SATIN ALIMLARI GERİ YÜKLE	RESTAURAR COMPRAS
+ÜCRETSİZ ELMAS	GEMAS GRATIS
+İZLE	VER
+GECE	NOCTURNA
+TERMAL	TÉRMICA
+ BONUS	 BONO
+ELMAS YETMİYOR	FALTAN GEMAS
+Bu paket için 	Este paquete requiere 
+ elmas gerekiyor, sende 	 gemas y tienes 
+ var.	 en total.
+ELMAS AL	COMPRAR GEMAS
+PAKET HAZIR	PAQUETE LISTO
+Tüfek	Rifle
+ kuşanıldı. Cephanelikte seni bekliyor.	 equipado. Te espera en la armería.
+CEPHANELİK	ARMERÍA
+TAMAM	OK
+SATIN ALINAMADI	COMPRA FALLIDA
+KAPAT	CERRAR
+GERİ YÜKLEME	RESTAURACIÓN
+ satın alım geri yüklendi.	 compras restauradas.
+Geri yüklenecek satın alım bulunamadı.	No se encontraron compras para restaurar.
+ALINDI	OBTENIDO
+Bugün 	Te quedan 
+ hakkın kaldı	 hoy
+Şu an video yok	No hay videos ahora
+TEST SÜRÜMÜ: satın almalar ücretsiz tamamlanır, reklamlar yer tutucudur. Gerçek fiyatlar App Store'dan gelir.	VERSIÓN DE PRUEBA: las compras se completan gratis y los anuncios son de muestra. Los precios reales vienen de la App Store.
+GÜNLÜK ÖDÜL	PREMIO DIARIO
+Her gün gel, ödülün büyüsün. 7. gün büyük ödül.	Vuelve cada día y tu premio crecerá. Gran premio el día 7.
+. GÜN	.º DÍA
+ ELMAS	 GEMAS
+ Z. DELİCİ	 PERF. (AP)
+2× AL	OBTENER 2×
+TOPLA	RECOGER
+VAZGEÇ	CANCELAR
+Dürbünde nişangahı birinin üzerinde tutarak kimliğini tara — masumları vurma.	En la mira, mantén la retícula sobre alguien para escanear su identidad — no le dispares a inocentes.
+Nefesini tutarken nişangah sabitlenir, ama nefes çubuğu biterse titreme artar.	Al contener la respiración la retícula se estabiliza, pero si se agota la barra de aliento, el temblor aumenta.
+Uzak mesafede kurşun düşer ve rüzgarla kayar. Kırmızı nokta isabet noktasını gösterir.	A larga distancia la bala cae y el viento la desvía. El punto rojo muestra el punto de impacto.
+Bir koruma telsize uzanırsa birkaç saniyen var: onu durdurursan alarm verilmez.	Si un guardaespaldas va por la radio, tienes unos segundos: detenlo y no sonará la alarma.
+Kafadan vuruşlar ve sivil kayıpsız görevler daha fazla yıldız ve para kazandırır.	Los tiros a la cabeza y las misiones sin bajas civiles dan más estrellas y efectivo.
+Zırhlı adamların gövdesi kurşun tutar: kafaya nişan al ya da tüfeğinin HASAR'ını geliştir.	El torso de los hombres blindados detiene las balas: apunta a la cabeza o mejora el DAÑO de tu rifle.
+Iskalama sessiz kalmaz: ikinci boş atış silahlıları yuvana yollar.	Fallar no es silencioso: un segundo tiro errado manda a los armados a tu nido.
+Görev, sana ateş eden son silahlı susunca biter. Önce en yakındakini sustur.	La misión termina cuando cae el último armado que te dispara. Silencia primero al más cercano.
+Cephanelikte her tüfeğin beş hattı var: en üst kademe elmasla açılır.	En la armería cada rifle tiene cinco líneas: el nivel superior se desbloquea con gemas.
+Günün sözleşmesi iki kat para ve elmas öder — her gün yenisi gelir.	El contrato del día paga doble efectivo y gemas — cada día llega uno nuevo.
+LİMAN OPERASYONU	OPERACIÓN PUERTO
+TAKTİK HARİTA  ·  GÖREV 	MAPA TÁCTICO  ·  MISIÓN 
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     	<color=#46C8F2>●</color> Posiciones de tiro     <color=#FF4545>●</color> Zona del objetivo     
+<color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#FFFFFF>- -</color> Rutas conocidas     Anillos: cada 100 m desde el nido principal     Arriba: dirección del nido principal
+ZORLUK  	DIFICULTAD  
+VETERAN	VETERANO
+HARİTA	MAPA
+HEDEF DOSYASI	EXPEDIENTE
+SUİKAST	ASESINATO
+TANIMA	PERFIL
+BRİFİNG	INFORME
+GÖREV	MISIÓN
+YILDIZ HEDEFLERİ	OBJETIVOS ★
+DEĞİŞTİR	CAMBIAR
+BAŞLA	EMPEZAR
+EKİPMAN GEREKLİ	EQUIPO NECESARIO
+Bu iş 	Para este trabajo necesitas 
+ ve 	 y 
+ olmadan yapılamaz. Cephaneliğe git?	 sí o sí. ¿Ir a la armería?
+TÜFEĞİN ZAYIF KALABİLİR	TU RIFLE PUEDE NO BASTAR
+Bu sözleşme için önerilen güç 	Poder recomendado para este contrato: 
+ şu an 	 actual: 
+Geliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	Puedes intentarlo sin mejorar, pero los blindados y los objetivos lejanos serán difíciles.
+GELİŞTİR	MEJORAR
+YİNE DE BAŞLA	EMPEZAR IGUAL
+ZIRHLI HEDEFLER	BLINDADOS
+Bu işte zırhlı silahlılar var; tüfeğinin mermisi gövdeden geçmez.\nKısa bir video izle, 3 zırh delici mermi senin olsun.	Aquí hay armados con blindaje; las balas de tu rifle no atraviesan el torso.\nMira un video corto y llévate 3 balas perforantes.
+İZLE  +3 MERMİ	VER  +3 BALAS
+GÜNÜN İŞİ ×2	TRABAJO DEL DÍA ×2
+VETERAN ×1,5	VETERANO ×1,5
+<b><color=#E8B04A>YENİ:</color></b> 	<b><color=#E8B04A>NUEVO:</color></b> 
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n	<b><color=#FFB21E>VETERANO:</color></b> sin punto de impacto, viento más fuerte y variable, el rifle se mueve más y el objetivo no se marca. Recompensa ×1,5.\n
+NEREDEN ATEŞ EDECEKSİN?	¿DESDE DÓNDE DISPARARÁS?
+Her yerin artısı eksisi var. Görev sırasında iki kez yer değiştirebilirsin.	Cada posición tiene ventajas y desventajas. Puedes reubicarte dos veces durante la misión.
+GERİ	ATRÁS
+DEVAM	SEGUIR
+BÖLÜM 	CAPÍTULO 
+KORUMA	ESCOLTA
+CANLI YAKALA	CAPTURA VIVO
+SABOTAJ	SABOTAJE
+YARALA	HERIR
+GÖREV 	MISIÓN 
+KORUNACAK KİŞİ	A PROTEGER
+HEDEF DOSYASI  ·  CANLI	EXPEDIENTE  ·  VIVO
+•  Hedefi etkisiz hale getir	•  Neutraliza al objetivo
+TÜFEK:  	RIFLE:  
+>GÜÇ 	>PODER 
+</color><color=#6B7682>  /  önerilen 	</color><color=#6B7682>  /  recomendado 
+Bu iş için verildi	Asignado para este trabajo
+   ·   Verilen: 	   ·   Asignado: 
+   ·   <color=#FF8A2B>Zırhlı silahlılar: kafaya nişan al, HASAR geliştir ya da zırh delici al</color>	   ·   <color=#FF8A2B>Armados blindados: apunta a la cabeza, mejora el DAÑO o consigue balas perforantes</color>
+AYARLAR	AJUSTES
+Nişan hassasiyeti	Sensibilidad de mira
+Kolay nişan (3. yıldız alınmaz)	Mira asistida (sin 3.ª estrella)
+Kurşun kamerası (son hedefte ağır çekim)	Cámara de bala (cámara lenta en el último objetivo)
+Titreşim	Vibración
+Ses seviyesi	Volumen
+İlerleme	Progreso
+İLERLEMEYİ SIFIRLA	REINICIAR PROGRESO
+İlerleme sıfırlansın mı?	¿Reiniciar el progreso?
+Tüm yıldızlar, para ve geliştirmeler silinecek (satın aldıkların ve elmasların kalır). Bu işlem geri alınamaz.	Se borrarán todas las estrellas, el efectivo y las mejoras (tus compras y gemas se conservan). Esta acción no se puede deshacer.
+SIFIRLA	REINICIAR
+Satın alımlar ve gizlilik	Compras y privacidad
+GERİ YÜKLE	RESTAURAR
+GİZLİLİK	PRIVACIDAD
+Grafik kalitesi	Calidad gráfica
+PERFORMANS	RENDIMIENTO
+DENGELİ	EQUILIBRADO
+KALİTE	CALIDAD
+KAYNAKLAR VE LİSANSLAR	CRÉDITOS Y LICENCIAS
+Henüz dosyada bir şey yok. İlk sözleşmeyi tamamla.	Aún no hay nada en el expediente. Completa el primer contrato.
+<size=40><color=#E8B04A><b>BÖLÜM 	<size=40><color=#E8B04A><b>CAPÍTULO 
+<b>SON</b>\n	<b>FIN</b>\n
+Disk KONTROL'de. Kurul'un koltukları yeniden doluyor.	El disco está en manos de CONTROL. Los asientos del Consejo vuelven a llenarse.
+Disk savcıda. KONTROL'ün kapısına polis dayandı.	El disco está en manos del fiscal. La policía llegó a la puerta de CONTROL.
+DAVA DOSYASI	EXPEDIENTE DEL CASO
+DURAKLATILDI	PAUSA
+DEVAM ET	CONTINUAR
+YENİDEN BAŞLAT	REINICIAR
+GÖREVDEN ÇIK	ABANDONAR
+Görevden çıkılsın mı?	¿Abandonar la misión?
+Bu görevdeki ilerlemen kaybolacak.	Perderás el progreso de esta misión.
+ÇIK	SALIR
+DERECE	RANGO
+YENİ YILDIZ	NUEVA ★
+ATIŞ	DISPARO
+En uzun atış	Disparo más largo
+Kafadan vuruş	Tiro a la cabeza
+Süre	Tiempo
+İsabet	Precisión
+KAZANÇ DÖKÜMÜ	DESGLOSE
+KAZANÇ	GANANCIA
+2× KAZANÇ	GANANCIA 2×
+MENÜ	MENÚ
+TEKRAR	REPETIR
+SONRAKİ GÖREV	SIGUIENTE
+İSTİHBARAT	INTELIGENCIA
+SON	FIN
+YİNE KİMSESİZ	SOLO OTRA VEZ
+KENDİ SEÇİMİN	TU ELECCIÓN
+Kimyager: 	Química: 
+KONTROL'ün hücresinde kayboldu.	desapareció en una celda de CONTROL.
+savcılığa ifade verdi; Baran davası onunla başladı.	declaró ante la fiscalía; el caso Barrera empezó con ella.
+Baran'ın kasası: 	Caja fuerte de Barrera: 
+para sende, KONTROL bunu biliyor.	tú tienes el dinero y CONTROL lo sabe.
+dosyaların kopyası Başsavcı Arslan'da.	una copia de los archivos la tiene la Fiscal General León.
+Kurul: beş koltuk boşaldı.	Consejo: cinco asientos vacíos.
+KONTROL: yerinde. Yeni bir isim arıyor.	CONTROL: en su puesto. Busca un nuevo nombre.
+KONTROL: kapısında polis.	CONTROL: la policía en su puerta.
+Toplam: 	Total: 
+GÖREV TAMAMLANDI	MISIÓN CUMPLIDA
+GÖREV BAŞARISIZ	MISIÓN FALLIDA
+   ·   VETERAN	   ·   VETERANO
+  <color=#FFB21E>REKOR</color>	  <color=#FFB21E>RÉCORD</color>
+ÖNCEDEN	ANTES
+KOLAY NİŞAN	MIRA ASISTIDA
+Günün sözleşmesi  ·  elmas	Contrato del día  ·  gemas
+İlk S derecesi  ·  elmas	Primer rango S  ·  gemas
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.	Contrato incompleto — sin pago.\nPuedes repetir el trabajo; arriba ves qué salió mal.
+\nKısa bir videoyla ücretin bir kısmını telafi alabilirsin.	\nCon un video corto puedes recuperar parte del pago como compensación.
+TEKRAR DENE	REINTENTAR
+TÜFEĞİN ZORLANIYOR	A TU RIFLE LE CUESTA
+Bu iş için önerilen güç 	Poder recomendado para este trabajo: 
+, senin tüfeğin 	, tu rifle: 
+. Geliştir ya da 	. Mejóralo o 
+bir silah paketiyle	con un paquete de armas
+ hemen güçlen.	 gana poder ya.
+GÜÇLEN	POTENCIAR
+ TP	 XP
+TELAFİ +	COMPENSACIÓN +
+GÖREVLER	MISIONES
+ANA YUVA	NIDO PRINCIPAL
+<color=#36D47C>●</color> Tamamlandı    <color=#FFB21E>●</color> Sıradaki    <color=#6B7682>●</color> Kilitli	<color=#36D47C>●</color> Completada    <color=#FFB21E>●</color> Siguiente    <color=#6B7682>●</color> Bloqueada
+BRİFİNGE GİT	AL INFORME
+Rüzgâr 	Viento 
+\nZORLUK 	\nDIFICULTAD 
+   ·   <color=#FF8A2B>ZIRHLI DÜŞMAN</color>	   ·   <color=#FF8A2B>ENEMIGO BLINDADO</color>
+Önerilen güç <b>	Poder recomendado <b>
+</b>   ·   Tüfeğin <color=	</b>   ·   Tu rifle <color=
+Önceki görevi tamamla	Completa la misión anterior
+OYNA	JUGAR
+  ·  TEST MODU: tüm bölümler açık	  ·  MODO PRUEBA: todos los capítulos abiertos
+  ·  Tek oyunculu keskin nişancı	  ·  Francotirador para un jugador
+TEST MODU	MODO PRUEBA
+Tüm haritalar ve görevler şu an açık. Normal ilerlemeye dönülsün mü?	Todos los mapas y misiones están abiertos. ¿Volver al progreso normal?
+Test için bütün haritalar ve görevler açılsın mı? (Ayarlardan ilerleme sıfırlanmaz.)	¿Abrir todos los mapas y misiones para pruebas? (El progreso de Ajustes no se reinicia.)
+AÇ	ABRIR
+KAYNAKLAR	RECURSOS
+SIRADAKİ SÖZLEŞME	PRÓXIMO CONTRATO
+GÜÇ	PODER
+GÜNLÜK GÖREVLER	MISIONES DIARIAS
+GÜNÜN SÖZLEŞMESİ  ·  TAMAM	CONTRATO DEL DÍA  ·  HECHO
+GÜNÜN SÖZLEŞMESİ  ·  ×2 ÖDÜL  +10 ELMAS	CONTRATO DEL DÍA  ·  ×2 PREMIO  +10 GEMAS
+Yenisi 	Nuevo en 
+ sa 	 h 
+ dk sonra	 min
+  —  VETERAN kurallarıyla	  —  con reglas de VETERANO
+Güç 	Poder 
+Başlangıç paketi	Paquete inicial
+Ücretsiz elmas	Gemas gratis
+Elmas · Nakit	Gemas · Efectivo
+ dosya	 archivos
+REKLAMLARDAN SIKILDIN MI?	¿HARTO DE ANUNCIOS?
+Görev aralarındaki reklamları 	Elimina para siempre los anuncios entre misiones por 
+ karşılığında sonsuza dek kaldır. Hediye: 	 (pago único). Regalo: 
+ elmas.	 gemas.
+REKLAMSIZ OL	SIN ANUNCIOS
+ŞİMDİ DEĞİL	AHORA NO
+TÜFEKLER	RIFLES
+EKİPMAN	EQUIPO
+MÜHİMMAT	MUNICIÓN
+BECERİLER	HABILIDADES
+Çevirmek için sürükle	Arrastra para girar
+ için 	 por 
+HEMEN AL	COMPRAR YA
+ elmasla hemen senin olsun mu?	 gemas: ¿lo quieres ya?
+AL	COMPRAR
+SEVİYE 	NIVEL 
+ GEREKLİ	 NECESARIO
+Son kademe (elmasla) 	El último nivel (con gemas) se abre en el nivel 
+. seviyede açılır. Sözleşmelerden tecrübe kazan.	. Gana experiencia con los contratos.
+AZ KALDI	CASI LO TIENES
+Bu geliştirme için 	Te faltan 
+ eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.	 para esta mejora. Mira un video corto, se completa el dinero que falta y la mejora se aplica al instante.
+\nBugün 	\nHoy te quedan 
+ hakkın var.	 intentos.
+İZLE VE GELİŞTİR	VER Y MEJORAR
+PARA YETMİYOR	FALTA DINERO
+Son kademe 	Último nivel: 
+ elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	 gemas. Puedes comprar gemas en la tienda o juntarlas con los premios diarios.
+Bu geliştirme 	Esta mejora cuesta 
+. Sözleşmelerden para kazan ya da mağazaya bak.	. Gana dinero con los contratos o revisa la tienda.
+GÜÇ <color=#FFB21E>	PODER <color=#FFB21E>
+<color=#36D47C>KUŞANILDI</color>	<color=#36D47C>EQUIPADO</color>
+SAHİP	TUYO
+ ★ ile açılır	 ★ para desbloquear
+Yarı otomatik	Semiautomático
+Sürgülü	De cerrojo
+   ·   Susturuculu	   ·   Con silenciador
+   ·   Duvar deler	   ·   Atraviesa muros
+   ·   Siper deler	   ·   Atraviesa coberturas
+  <color=#46C8F2>EN ÜST</color>	  <color=#46C8F2>MÁXIMO</color>
+SV 	NV 
+Satın aldığında beş hatta geliştirebilirsin. En üst kademe <color=#46C8F2>elmasla</color>.	Al comprarlo puedes mejorarlo en cinco líneas. El nivel superior, <color=#46C8F2>con gemas</color>.
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> 	Para perforar el torso de los blindados necesitas <color=#FFB21E>DAÑO</color> nivel 
+. kademe ya da zırh delici mermi gerekir.	, o balas perforantes.
+Bu tüfek zırhlı gövdeyi deler.	Este rifle perfora torsos blindados.
+KUŞANILDI	EQUIPADO
+KUŞAN	EQUIPAR
+SATIN AL   	COMPRAR   
+ ★ YA DA   	 ★ O   
+ ELMASLA AL	 GEMAS
+SAHİPSİN	ES TUYO
+Görevlerde otomatik takılı	Se equipa solo en misiones
+ yıldızla açılır	 estrellas para desbloquear
+SATIN AL  	COMPRAR  
+KİLİTLİ	BLOQUEADO
+ adetlik paket	 unidades por paquete
+SABİT NİŞAN	PULSO FIRME
+Dürbündeki el titremesi her kademede %17 azalır.	El temblor de la mano en la mira baja un 17% por nivel.
+NEFES KONTROLÜ	CONTROL DEL ALIENTO
+Nefesini daha uzun tutarsın: nişangah daha uzun sabit kalır.	Contienes la respiración más tiempo: la retícula se mantiene estable más tiempo.
+SOĞUKKANLILIK	SANGRE FRÍA
+Ateş altında ve yaralıyken titreme her kademede %25 azalır.	Bajo fuego y herido, el temblor baja un 25% por nivel.
+ sn	 s
+MAKSİMUM	MÁXIMO
+YÜKSELT  	MEJORAR  
+BURAYA ATEŞ ET	DISPARA AQUÍ
+İŞARETLE — HEDEF BU	MARCAR — ES ÉL
+YER DEĞİŞTİR	REUBICARSE
+NEFES	ALIENTO
+MENZİL	ALCANCE
+Geçmek için dokun	Toca para saltar
+Hedef: 	Objetivo: 
+Taşınırken dünya durmaz. Yeni yerde seni kimse bilmez.	El mundo no se detiene mientras te mueves. En la nueva posición nadie sabe de ti.
+YER DEĞİŞTİRİYORSUN\n<size=30>	REUBICÁNDOTE\n<size=30>
+ sn</size>	 s</size>
+DOSYA	EXPEDIENTE
+ARANIYOR	BUSCANDO
+ETKİSİZ	NEUTRALIZADO
+KAÇTI	ESCAPÓ
+DOĞRULANDI	CONFIRMADO
+BEKLE…	ESPERA…
+KURŞUN KAMERASI  ·  	CÁMARA DE BALA  ·  
+GECE GÖRÜŞÜ	VISIÓN NOCTURNA
+KAFA	CABEZA
+KOL	BRAZO
+BACAK	PIERNA
+KARIN	ABDOMEN
+GÖVDE	TORSO
+Kimliği belirsiz	Identidad desconocida
+HEDEF DEĞİL	NO ES OBJETIVO
+TARANDI	ESCANEADO
+Masum — ateş etme	Inocente — no dispares
+Dosyadaki yüzle karşılaştır — emin olunca İŞARETLE	Compara con la cara del expediente — cuando estés seguro, MARCA
+SİLAHLI	ARMADO
+BAYGIN	INCONSCIENTE
+YERDE	CAÍDO
+Koru — ona bir şey olmamalı	Protégelo — no debe pasarle nada
+Silahlı — sivil kılığında	Armado — vestido de civil
+Sözleşme hedefi	Objetivo del contrato
+” — sözleşme hedefi	” — objetivo del contrato
+Silahlı — vurulabilir	Armado — se le puede disparar
+Yaralı — 	Herido — 
+!  NİŞAN ALIYOR	!  APUNTANDO
+!  SANA ATEŞ EDİYOR	!  TE DISPARA
+GÖZCÜ	VIGÍA
+Öldürüldü	Muerto
+Kaçıyor — güvenli yere	Huye — hacia un lugar seguro
+Güvende — gözün üzerinde olsun	A salvo — no le quites el ojo
+Kimliği doğrulanmadı — dosyadaki yüzü bul	Identidad sin confirmar — busca la cara del expediente
+Görüş dışında — bekle	Fuera de vista — espera
+Baygın	Inconsciente
+İğne isabet etti — bayılıyor	Dardo acertado — se está desmayando
+Yerde — sürünüyor	En el suelo — se arrastra
+NİŞAN ALIYOR — HEMEN VUR!	TE APUNTA — ¡DISPARA YA!
+KAÇIYOR!	¡ESCAPA!
+Sese doğru bakıyor — fırsat!	Mira hacia el ruido — ¡es tu oportunidad!
+Siperin arkasında — dikkatini dağıt	Tras la cobertura — distráelo
+Kalabalıkta — herkesi dürbünle tara	Entre la multitud — escanea a todos con la mira
+Yaralı	Herido
+Kimlik doğrulandı	Identidad confirmada
+Kimliği taranmadı — dürbünle tara	Identidad sin escanear — escanéala con la mira
+HEDEF:  	OBJETIVO:  
+Sözleşme tamamlandı	Contrato cumplido
+Etkisiz hale getir: 	Neutraliza: 
+Ateş et: devre dışı bırak	Dispara: inutilízalo
+Devam ediyor	En curso
+BONUS  ·  	BONO  ·  
+KEŞİF  ·  	RECON  ·  
+ tehdit tarandı	 amenazas escaneadas
+Fırsat penceresi	Ventana de oportunidad
+Bayraklara bak	Mira las banderas
+Rüzgar yok	Sin viento
+Sağa esiyor »	Sopla a la derecha »
+« Sola esiyor	« Sopla a la izquierda
+Karşıdan	De frente
+« Sola tut 	« Apunta a la izq. 
+Sağa tut » 	Apunta a la der. » 
+ALARM	ALARMA
+TELSİZ  	RADIO  
+DOLDURULUYOR	RECARGANDO
+STANDART	ESTÁNDAR
+Yıldız kaçtı: 	Estrella perdida: 
+SÖZLEŞME 	CONTRATO 
+  ·  VETERAN	  ·  VETERANO
+Kalabalıkta silahlı adam(lar) var — kimliği bilinmiyor	Hay hombre(s) armado(s) entre la multitud — identidad desconocida
+Hedef bu bölgede — dosyadaki yüzü bul, emin olunca İŞARETLE	El objetivo está en esta zona — busca la cara del expediente y, cuando estés seguro, MARCA
+HEDEF	OBJETIVO
+KORU	PROTEGER
+Ekranı parmağınla sürükleyerek etrafa bak.	Arrastra el dedo por la pantalla para mirar alrededor.
+Sağdaki dürbün tuşuna dokunarak dürbünü aç.	Toca el botón de la mira a la derecha para abrirla.
+Kırmızı işaret hedefi gösterir. Nişangahı hedefin üzerine getir.	La marca roja señala al objetivo. Pon la retícula sobre él.
+Nişangahı kişinin üzerinde tut: kimliği taranıyor…	Mantén la retícula sobre la persona: escaneando identidad…
+Soldaki NEFES tuşuna basılı tut: nişan sabitlenir.	Mantén pulsado ALIENTO a la izquierda: la retícula se estabiliza.
+Hazır! Büyük kırmızı tuşla ateş et.	¡Listo! Dispara con el gran botón rojo.
+  <size=24><color=#A3AEB9>·  SEVİYE 	  <size=24><color=#A3AEB9>·  NIVEL 
+SEVİYE ATLADIN!	¡SUBISTE DE NIVEL!
+2× TOPLA	RECOGER 2×
+   ·   SEVİYE 	   ·   NIVEL 
+AÇILDI:  	DESBLOQUEADO:  
+GÜN BATIMI	ATARDECER
+GÜNDÜZ	DÍA
+YAĞMURLU	LLUVIA
+YAĞMURLU GECE	NOCHE LLUVIOSA
+KARLI GÜN	DÍA NEVADO
+DAĞDA GÜN BATIMI	OCASO EN LA MONTAÑA
+KARLI GECE	NOCHE NEVADA
+TİPİ	VENTISCA
+VİDEO YOK	SIN VIDEO
+Şu an gösterilecek video yok. Biraz sonra tekrar dene.	No hay videos disponibles ahora. Inténtalo de nuevo en un rato.
+ÖDÜLLÜ TEST REKLAMI  ·  	ANUNCIO DE PRUEBA CON PREMIO  ·  
+TEST REKLAMI  ·  her 	ANUNCIO DE PRUEBA  ·  uno cada 
+ görevde bir	 misiones
+Reklam sonunda ödül verilir	El premio se entrega al final del anuncio
+Reklamsız paketle bu ekran kalkar	El paquete sin anuncios quita esta pantalla
+AVUÇ DOLUSU	PUÑADO
+KESE	BOLSA
+EN POPÜLER	MÁS POPULAR
+SANDIK	COFRE
+KASA	CAJA FUERTE
+EN İYİ DEĞER	MEJOR VALOR
+HAZİNE	TESORO
+ZARF	SOBRE
+ÇANTA	BOLSO
+%15 FAZLA	15% MÁS
+VALİZ	MALETA
+%33 FAZLA	33% MÁS
+%54 FAZLA	54% MÁS
+BAŞLANGIÇ PAKETİ	PAQUETE INICIAL
+500 elmas, $10.000 ve 10 zırh delici mermi. Sadece bir kez.	500 gemas, $10.000 y 10 balas perforantes. Solo una vez.
+%80 İNDİRİM	80% DSCTO.
+REKLAMSIZ	SIN ANUNCIOS
+Görev aralarındaki reklamlar sonsuza dek kalkar. Ödüllü videolar istersen açık kalır. Hediye: 100 elmas.	Los anuncios entre misiones desaparecen para siempre. Los videos con premio siguen disponibles si quieres. Regalo: 100 gemas.
+GÖLGE OPERASYON	OPERACIÓN SOMBRA
+Susturuculu GÖLGE SR-7 hemen senin: bütün hatları 3. kademede. Gece görüşü ve 150 elmas.	El SOMBRA SR-7 con silenciador es tuyo ya: todas sus líneas en nivel 3. Visión nocturna y 150 gemas.
+EN ÇOK SATAN	MÁS VENDIDO
+TİTAN PAKETİ	PAQUETE TITÁN
+Efsane TİTAN .50: zırhı ve camı deler. Termal dürbün, 400 elmas ve 20 zırh delici mermi.	El legendario TITÁN .50: perfora blindaje y vidrio. Mira térmica, 400 gemas y 20 balas perforantes.
+EFSANE	LEGENDARIO
+Bu paket zaten alındı.	Ya compraste este paquete.
+Elmasın yetmiyor.	No tienes suficientes gemas.
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.	La tienda no está disponible ahora. Revisa tu conexión a internet e inténtalo de nuevo en un rato.
+LİMAN — KRAL'IN AĞI	PUERTO — LA RED DE KRAL
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: 	No tienes nombre. El ejército te dio por muerto hace tres años. CONTROL te encontró en un hospital militar y te hizo una sola oferta: 
+limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	desmantela la red de contrabando del puerto y tu pasado se borrará.\n\nCada contrato es un nombre. Cada nombre, el camino al siguiente.
+ŞEHİR — BARAN HOLDİNG	CIUDAD — BARRERA HOLDING
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\n	El puerto cayó, pero el dinero sigue fluyendo. El último número en el teléfono de Víctor Kral lleva a la Torre Malecón: Grupo Barrera.\n\n
+Bu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	Esta vez los objetivos llevan traje. Entre la multitud, tras paredes de vidrio, junto a policías.
+KARTAL TEPE — KURUL	CERRO CÓNDOR — EL CONSEJO
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını 	Los archivos de la caja fuerte de Barrera dan cinco nombres: el Consejo. Cinco personas que por años alimentaron y protegieron a Barrera, y que pasan la semana de Año Nuevo 
+her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	cada año en Cerro Cóndor.\n\nEntre los archivos hay una firma más. Una firma conocida.
+Selim Kaya'nın cebinden çıkan rüşvet makbuzlarında tek bir imza var: liman yönetiminden C. Aydın.	En los recibos de sobornos del bolsillo de Samuel Correa hay una sola firma: C. Aguilar, de la administración del puerto.
+Can Aydın'ın sildiği kayıtlar kurtarıldı. Gelecek sevkiyatın alıcısı: Kuzgun lakaplı Tarık Bal.	Se recuperaron los registros que borró Carlos Aguilar. El comprador del próximo envío: Tadeo Salas, alias el Cuervo.
+Kuzgun'un arabasındaki çanta boş değil: depoları koruyan paralı askerlerin maaş listesi. Başlarında Rico Vargas.	El maletín en el auto del Cuervo no está vacío: es la nómina de los mercenarios que custodian los almacenes. Al mando, Rico Vargas.
+Rico'nun telsizinde bir uyarı: "Depoda köstebek var." Örgüt de kendi içinde birini arıyor.	Un aviso en la radio de Rico: "Hay un topo en el almacén." La organización también busca a alguien entre los suyos.
+Köstebek Kerim'in sattığı bilgi bir teslimata işaret ediyor: Tilki çalınan belgeleri rıhtımdan kaçıracak.	La información que vendió Ramiro el Topo apunta a una entrega: el Zorro sacará los documentos robados por el muelle.
+Tilki'nin belgeleri bir gemi manifestosu: Meridian Star'ın ambarında örgütün silah yükü var.	Los documentos del Zorro son un manifiesto de carga: en la bodega del Meridian Star va el cargamento de armas de la organización.
+Kaptan Demir'in seyir defterinde tek bir isim tekrar ediyor: yükün sahibi Viktor Kral.	En la bitácora del capitán Medina se repite un solo nombre: el dueño de la carga es Víctor Kral.
+Kral düştü. Telefonundaki son arama Kordon Plaza'ya: Baran Holding. Ama örgüt hâlâ nefes alıyor — ve bir tanığı susturmak istiyor.	Kral cayó. La última llamada de su teléfono fue a la Torre Malecón: Grupo Barrera. Pero la organización aún respira — y quiere silenciar a una testigo.
+Ayten Şahin ifadesini verdi. Örgütün para kuryesi Emre Doğan şehirden kaçmaya hazırlanıyor.	Alicia Navarro rindió su declaración. Emilio Duarte, el correo del dinero de la organización, se prepara para huir de la ciudad.
+Kuryenin çantasındaki hesaplar bir kimyagere ödeme gösteriyor: Dr. Selin Aras.	Las cuentas del maletín del correo muestran pagos a una química: la Dra. Silvia Arce.
+Kartal karanlıkta kaldı. Silah sevkiyatının parası bir laboratuvara gidiyor: Meridian Star'ın ambarı.	El Águila quedó a oscuras. El dinero del envío de armas va a un laboratorio: la bodega del Meridian Star.
+Dr. Aras konuştu: laboratuvarın asıl sahibi Baran Holding. Liman bitti; sırada şehir var.	La Dra. Arce habló: el verdadero dueño del laboratorio es Grupo Barrera. El puerto terminó; sigue la ciudad.
+Defne Aksoy'un ekranında son işlem: Baran'ın rüşvet defteri Postacı'ya teslim edildi.	Última operación en la pantalla de Daniela Ochoa: el libro de sobornos de Barrera se entregó al Cartero.
+Rüşvet defteri ele geçti. Sayfalardan biri gemilerin sahibine ayrılmış: Cevdet Aydemir.	Tenemos el libro de sobornos. Una de sus páginas está dedicada al dueño de los barcos: Gonzalo Arriaga.
+Aydemir'in balkonda bıraktığı telefon: Baran, Başsavcı Nermin Arslan'ı susturmak için iki kişi tutmuş.	El teléfono que Arriaga dejó en el balcón: Barrera contrató a dos hombres para silenciar a la Fiscal General Norma León.
+Savcı konuşmasını bitirdi. Tetikçinin cebinden bir not çıktı: "Muhasebeci konuşmadan işini bitir." Baran'ın muhasebecisi her şeyi biliyor — onu canlı istiyoruz.	La fiscal terminó su discurso. En el bolsillo del sicario había una nota: "Termina el trabajo antes de que hable el contador." El contador de Barrera lo sabe todo — lo queremos vivo.
+Muhasebeci Koç'un hesapları gazeteci Selin Ay'ın cinayetine ödeme gösteriyor. Tetikçi Çakal, dosyayı kapatan bir komiser.	Las cuentas del contador Cortés muestran pagos por el asesinato de la periodista Sofía Luna. El sicario, el Chacal, es un comisario que cerró el caso.
+Çakal'ın motosikletinde Baran'ın güvenlik şefinin numarası: Tolga Demirel. Bize karşı her hamleyi o planlamış.	En la moto del Chacal, el número del jefe de seguridad de Barrera: Tomás Delgado. Él planeó cada movimiento en nuestra contra.
+Demirel'in tabletinde senin kullandığın bütün atış noktaları var — hepsi işten önce kaydedilmiş. Bunları ona kim verdi? Dosyanın üstünde tek harf: "K."	En la tableta de Delgado están todas las posiciones de tiro que usaste — todas registradas antes de cada trabajo. ¿Quién se las dio? Sobre el archivo, una sola letra: "K."
+Baran'ın son mesajı yarım kaldı: "KONTROL'e söyle, anlaşma hâlâ geçerli…" Dosyalar Kartal Tepe'yi ve beş ismi gösteriyor: Kurul.	El último mensaje de Barrera quedó a medias: "Dile a CONTROL que el trato sigue en pie…" Los archivos apuntan a Cerro Cóndor y a cinco nombres: el Consejo.
+Banker Kurt'un tableti Kurul'un ödeme defterine bağlanıyor. Her ödemenin altında aynı onay kodu: KONTROL.	La tableta del banquero Lozano se conecta al libro de pagos del Consejo. Bajo cada pago, el mismo código de aprobación: CONTROL.
+Hakim Oral'ın kasasında Baran davalarının kararları — duruşmalardan önce yazılmış. Biri de senin eski birliğine ait.	En la caja fuerte del juez Olmedo, los fallos de los casos de Barrera — escritos antes de los juicios. Uno de ellos pertenece a tu antigua unidad.
+Müteahhit Tan'ın telefonunda Kurul'un kuryesinin rotası: şifreli diskle vadiyi geçecek.	En el teléfono del contratista Tapia, la ruta del correo del Consejo: cruzará el valle con un disco cifrado.
+Kuryenin diski açıldı: Kurul'un bütün ödemeleri — ve KONTROL'e yapılan aylık ödemeler. Bize iş verenler, Kurul'un kendi temizlikçileri.	Se abrió el disco del correo: todos los pagos del Consejo — y pagos mensuales a CONTROL. Quienes nos dan trabajo son los propios limpiadores del Consejo.
+Bülent Er'in konvoyundaki evraklar: Kurul'a karşı açılan her soruşturmayı KONTROL'ün talimatıyla kapatmış.	Los papeles del convoy de Bruno Esquivel: cerró cada investigación contra el Consejo por orden de CONTROL.
+Elif Demir yaşıyor ve yarın konuşacak. Tetikçileri tutan adamın adı onun dosyasında: Orhan Sezer, Kurul'un temizlikçisi.	Elena Mora está viva y mañana hablará. El nombre del hombre que contrató a los sicarios está en su expediente: Octavio Serrano, el limpiador del Consejo.
+Sezer'in telefonundaki son arama Patron'dan değil. KONTROL'den. Senden sonra temizlenecek kişi sendin.	La última llamada en el teléfono de Serrano no vino del Jefe. Vino de CONTROL. El siguiente en ser limpiado eras tú.
+Kurul bitti. Disk hâlâ sende.	El Consejo cayó. El disco sigue en tus manos.
+Dr. Aras baygın, tekne bekliyor. Onu kime teslim edeceksin?	La Dra. Arce está inconsciente y el bote espera. ¿A quién se la entregarás?
+KONTROL'E	A CONTROL
+Kimyager KONTROL'ün hücresine gitti. Ondan bir daha haber alınmadı.	La Química fue a una celda de CONTROL. Nunca se volvió a saber de ella.
+SAVCILIĞA	A LA FISCALÍA
+Kimyager savcılığa bırakıldı. İfadesi Baran'a açılan davanın ilk delili oldu.	La Química quedó en manos de la fiscalía. Su declaración fue la primera prueba del caso contra Barrera.
+Baran'ın kasası açık: dosyalar ve iki milyon avro. Ne yapacaksın?	La caja fuerte de Barrera está abierta: archivos y dos millones de euros. ¿Qué harás?
+PARAYI AL	TOMAR EL DINERO
+Parayı aldın (+20.000). KONTROL'e sadece dosyaları gönderdin.	Tomaste el dinero (+20.000). A CONTROL solo le enviaste los archivos.
+DOKUNMA	NO TOCARLO
+Parayı bıraktın. Dosyaların kopyasını Başsavcı Arslan'a yolladın.	Dejaste el dinero. Enviaste una copia de los archivos a la Fiscal General León.
+Kurul'un bütün ödemeleri ve KONTROL'ün imzası bu diskte. Kime vereceksin?	Todos los pagos del Consejo y la firma de CONTROL están en este disco. ¿A quién se lo darás?
+Diski KONTROL'e verdin. Ertesi sabah Kurul'un boş koltukları dolmaya başladı — yeni isimlerle. Sözleşme tamam; sen yine kimsesin.	Le diste el disco a CONTROL. A la mañana siguiente, los asientos vacíos del Consejo empezaron a llenarse — con nuevos nombres. Contrato cumplido; vuelves a ser nadie.
+SAVCIYA	AL FISCAL
+Diski Başsavcı Nermin Arslan'a bıraktın. Bir hafta sonra KONTROL'ün kapısına polis dayandı. Adın yine yok — ama bu sefer kendi seçimin.	Le dejaste el disco a la Fiscal General Norma León. Una semana después, la policía llegó a la puerta de CONTROL. Sigues sin nombre — pero esta vez fue tu elección.
+ Kimyagerin ifadesi davayı ayakta tutuyor.	 La declaración de la Química sostiene el caso.
+ Baran'ın parasını aldığını KONTROL biliyor.	 CONTROL sabe que tomaste el dinero de Barrera.
+Seni kaybettiler — ama nişancı yuvasını arıyorlar	Te perdieron — pero buscan el nido del francotirador
+Vuruldun — 	Te dieron — 
+Vuruldun — yerin tespit edildi	Te dieron — te detectaron
+ÇAYLAK	NOVATO
+TETİKÇİ	SICARIO
+NİŞANCI	TIRADOR
+KESKİN NİŞANCI	FRANCOTIRADOR
+GÖLGE	SOMBRA
+HAYALET	FANTASMA
+Günün sözleşmesi	Contrato del día
+Elmasla son geliştirme kademeleri	Últimos niveles de mejora con gemas
+Efsane rütbe yolu	Camino de rango legendario
+TELEFERİK	TELEFÉRICO
+Kartal Tepe teleferiği	Teleférico de Cerro Cóndor
+Sinan Kurt zirvedeki kahvaltıya teleferikle çıkacak. Kabin zirve istasyonuna varırsa onu kaybederiz.	Sergio Lozano subirá en teleférico al desayuno en la cumbre. Si la cabina llega a la estación superior, lo perdemos.
+Baran'ın dosyaları bizi Kartal Tepe'ye getirdi. Kurul — Baran'ı yıllarca besleyen ve koruyan beş kişi — yılbaşı haftasını her yıl burada geçiriyor.\n\nİlki Sinan Kurt, Kurul'un bankeri. Kayak barında kahvesini bitirince iki korumasıyla teleferiğe binip zirvedeki restorana çıkacak. Kabin hattın sonuna varırsa onu kaybederiz.	Los archivos de Barrera nos trajeron a Cerro Cóndor. El Consejo — cinco personas que por años alimentaron y protegieron a Barrera — pasa aquí cada año la semana de Año Nuevo.\n\nEl primero es Sergio Lozano, el banquero del Consejo. Cuando termine su café en el bar de esquí, subirá al teleférico con sus dos guardaespaldas rumbo al restaurante de la cumbre. Si la cabina llega al final de la línea, lo perdemos.
+Kabin camı mermiyi durdurmaz; yukarı çıkan kabine biraz önden ve yukarıdan nişan al. İstasyonun yanındaki motor dairesine iki atış hattı durdurur: kabinler sallanır, içindekiler çömelir.	El vidrio de la cabina no detiene la bala; apunta un poco por delante y por encima de la cabina que sube. Dos disparos a la sala de máquinas junto a la estación detienen la línea: las cabinas se balancean y los de adentro se agachan.
+Uzun menzil: kabin 250 metreden 1 kilometreye kadar uzaklaşır	Largo alcance: la cabina se aleja de 250 metros hasta 1 kilómetro
+Teleferik motoru: istasyonun batısındaki beton kulübe	Motor del teleférico: la caseta de concreto al oeste de la estación
+Sinan Kurt istasyona kaçtı	Sergio Lozano huyó a la estación
+KONTROL	CONTROL
+Platformdalar. Sıradaki kabine binecekler.	Están en el andén. Subirán a la próxima cabina.
+Kabine bindiler — yukarı çıkıyorlar	Subieron a la cabina — van hacia arriba
+Zirve istasyonuna	Llegada a la cumbre en
+Sinan Kurt zirve istasyonuna vardı	Sergio Lozano llegó a la estación de la cumbre
+Teleferik durdu — kabinler sallanıyor!	El teleférico se detuvo — ¡las cabinas se balancean!
+Teknisyenler hattı yeniden çalıştırdı! Kabin yine hareket ediyor.	¡Los técnicos reactivaron la línea! La cabina se mueve otra vez.
+Kayak barında, korumalarıyla kahve içiyor. Platforma çıkınca sıradaki kabine binecek.	Toma café en el bar de esquí con sus guardaespaldas. Al salir al andén subirá a la próxima cabina.
+Hat saatte 18 kilometre gidiyor. Kabin uzaklaştıkça mermi düşüşü artar — hesabını yap.	La línea va a 18 kilómetros por hora. Cuanto más se aleja la cabina, más cae la bala — calcula bien.
+Sinan Kurt	Sergio Lozano
+Uzun gri palto, gözlük, kır saç. İki korumasıyla.	Abrigo gris largo, lentes, pelo canoso. Con dos guardaespaldas.
+Sinan Kurt'u zirve istasyonuna varmadan etkisiz hale getir	Neutraliza a Sergio Lozano antes de que llegue a la estación de la cumbre
+Teleferik motorunu durdurabilirsin (isteğe bağlı)	Puedes detener el motor del teleférico (opcional)
+Sözleşmeyi tamamla	Cumple el contrato
+Kabin hareket halindeyken vur	Dispara con la cabina en movimiento
+En fazla iki atış	Dos disparos como máximo
+ŞÖMİNE	CHIMENEA
+Doğu yamacı — cam villa	Ladera este — villa de vidrio
+Hakim Ferit Oral şöminenin başında. Villanın bütün ön cephesi cam — ve cam kırıldığı an içeridekiler anlar.	El juez Federico Olmedo está junto a la chimenea. Toda la fachada de la villa es de vidrio — y en cuanto se rompa, los de adentro lo sabrán.
+Ferit Oral, Baran'ın her davasını düşüren hakim. Yıllardır Kurul'un yargıdaki adamı. Bu gece doğu yamacındaki cam villasında eşiyle.\n\nDışarıda, terasta bir koruma dolaşıyor; aşağıda araçta bir şoför bekliyor. Hakim 23:25'te yatmaya gidecek. Eşi odadayken ateş edersen tanık kalır.	Federico Olmedo, el juez que tumbó cada caso contra Barrera. Por años, el hombre del Consejo en el poder judicial. Esta noche está con su esposa en su villa de vidrio de la ladera este.\n\nAfuera, un guardaespaldas recorre la terraza; abajo, un chofer espera en el auto. El juez se irá a dormir a las 23:25. Si disparas con su esposa en la sala, quedará un testigo.
+İlk mermi camı kırar ve sesi içeridekileri ürkütür: ilk atışın öldürücü olsun. Hakim zaman zaman cama gelip vadiye bakıyor — en açık an o.	La primera bala rompe el vidrio y el ruido asusta a los de adentro: que tu primer disparo sea mortal. De vez en cuando el juez se acerca al vidrio a mirar el valle — ese es el momento más despejado.
+Hakim bölmenin arkasında. Cama ya da şömineye geri gelmesini bekle.	El juez está tras el tabique. Espera a que vuelva al vidrio o a la chimenea.
+Hakim yatak odasına kilitlendi	El juez se encerró en el dormitorio
+Hakimin yatmasına	El juez se acuesta en
+Hakim yatak odasına gidiyor!	¡El juez va al dormitorio!
+Hakim yatmaya gitti	El juez se fue a dormir
+Cam ön cephe vadiye bakıyor. Hakim kanepede, eşi masanın başında.	La fachada de vidrio da al valle. El juez está en el sofá; su esposa, en la mesa.
+Eşi arada bir öbür odalara geçiyor. O sırada vurursan kimse bir şey görmez.	Su esposa pasa de vez en cuando a otras habitaciones. Si disparas entonces, nadie verá nada.
+Yolun aşağısındaki adamın elinde gece dürbünü var. Dürbün sana dönünce eğil.	El hombre camino abajo tiene binoculares nocturnos. Agáchate cuando giren hacia ti.
+Ferit Oral	Federico Olmedo
+Beyaz balıkçı yaka kazak, gözlük, beyaz saç. Cam villada.	Suéter blanco de cuello alto, lentes, pelo blanco. En la villa de vidrio.
+Hakim Ferit Oral'ı yatmaya gitmeden etkisiz hale getir	Neutraliza al juez Federico Olmedo antes de que se vaya a dormir
+Tanık bırakma: eşi odadayken ateş etme	Sin testigos: no dispares con su esposa en la sala
+Camın ardından tek atış	Un solo tiro a través del vidrio
+JAKUZİ	JACUZZI
+Kartal Dağ Oteli — spa terası	Hotel Monte Cóndor — terraza del spa
+Selim Tan gün batımında jakuzide. Buhar onu bir saklıyor, bir gösteriyor — pencereni bekle.	Simón Tapia está en el jacuzzi al atardecer. El vapor lo oculta y lo revela — espera tu ventana.
+Selim Tan, Baran'ın limandaki depolarını, Kurul'un kara parayla yükselen bütün otellerini inşa eden müteahhit.\n\nOtelin spa terasında, jakuzide gün batımını izliyor. Kapıda bir koruması, yanında bir arkadaşı var; garson şampanya getirecek. Sudan çıktığında içeri girer.\n\nKoruma kapıdan dürbünle yamaçları tarıyor. Selim'in dibinde durduğu için onu vurmak Selim'i ürkütür: dürbün sana döndüğünde eğil.	Simón Tapia, el contratista que construyó los almacenes de Barrera en el puerto y todos los hoteles del Consejo levantados con dinero sucio.\n\nMira el atardecer desde el jacuzzi de la terraza del spa. Tiene un guardaespaldas en la puerta y un amigo al lado; un mesero traerá champán. Cuando salga del agua, entrará.\n\nEl guardaespaldas de la puerta revisa las laderas con binoculares. Como está pegado a Simón, dispararle lo espantaría: agáchate cuando los binoculares giren hacia ti.
+Suyun üstünde yalnızca başı ve omuzları görünüyor. Buhar yoğunlaştığında hedef kaybolur, açıldığında birkaç saniyelik pencere doğar. Sudan çıkıp kapıya yürürken bütün boyuyla açıktadır — ama yalnızca birkaç saniye.	Sobre el agua solo se ven su cabeza y sus hombros. Cuando el vapor se espesa, el objetivo desaparece; cuando se despeja, se abre una ventana de unos segundos. Al salir del agua y caminar a la puerta queda expuesto de cuerpo entero — pero solo unos segundos.
+Selim Tan otele girdi	Simón Tapia entró al hotel
+Selim sudan çıkıyor — kapıya yürüyor!	Simón sale del agua — ¡camina hacia la puerta!
+Sudan çıkmasına	Sale del agua en
+Buhar bazen tamamen kapatıyor. Sabret: açıldığı an tek bir temiz atış yeter.	A veces el vapor lo cubre por completo. Paciencia: cuando se despeje, basta un tiro limpio.
+Kapıdaki koruma dürbünle yamaçları tarıyor. Onu vurursan Selim içeri kaçar: dürbün sana dönünce eğil.	El guardaespaldas de la puerta revisa las laderas con binoculares. Si le disparas, Simón huye adentro: agáchate cuando los binoculares giren hacia ti.
+Selim Tan	Simón Tapia
+Müteahhit	Contratista
+Kalın yapılı, sakallı, koyu saç. Jakuzide.	Corpulento, barbudo, pelo oscuro. En el jacuzzi.
+Selim Tan'ı içeri girmeden etkisiz hale getir	Neutraliza a Simón Tapia antes de que entre
+Kafadan vur	Tiro a la cabeza
+Buharın içinden vur	Dispara a través del vapor
+KAR MOTORU	MOTO DE NIEVE
+Vadi tabanı — batı yamacı	Fondo del valle — ladera oeste
+Kurye Kurul'un defterini kar motoruyla dağa kaçıracak. Ölmemeli: defterin şifresi onda.	El correo sacará el libro del Consejo a la montaña en moto de nieve. No debe morir: tiene la clave del libro.
+Doğan Aksu, Kurul'un kuryesi. Bütün ödemelerin kaydı olan şifreli disk onda. Birazdan otelden çıkıp kar motoruyla vadiyi geçecek ve batı yamacından ormana girecek.\n\nOnu CANLI istiyoruz. Önce motoru durdur — motor bloğuna iki atış — sonra kaçmaya çalışırsa bacağından vur. Ekibimiz ratrakla gelip onu alacak.\n\nKurul onu bizim almamıza izin vermez: kurye düşünce spadan adamları çıkıp onu susturmaya gelecek. Ratrak gelene kadar onları durdur.	Diego Acosta, el correo del Consejo. Lleva el disco cifrado con el registro de todos los pagos. En breve saldrá del hotel, cruzará el valle en moto de nieve y entrará al bosque por la ladera oeste.\n\nLo queremos VIVO. Primero detén la moto — dos disparos al bloque del motor — y si intenta huir, dale en la pierna. Nuestro equipo vendrá en una pisanieves a recogerlo.\n\nEl Consejo no dejará que nos lo llevemos: cuando caiga el correo, sus hombres saldrán del spa a silenciarlo. Detenlos hasta que llegue la pisanieves.
+Kar motoru saatte 25 kilometreyle gidiyor: biraz önden nişan al. Sürücüye isabet edersen ölebilir; motor bloğu sürücünün önünde, hedefin altında. Motor durunca kurye en yakın dağ evine koşar: içeri girmeden bacağından vur.	La moto de nieve va a 25 kilómetros por hora: apunta un poco por delante. Si le das al conductor, puede morir; el bloque del motor está delante del conductor, debajo del objetivo. Cuando el motor se detenga, el correo correrá a la cabaña más cercana: dale en la pierna antes de que entre.
+Kurye bir dağ evine saklandı	El correo se escondió en una cabaña
+Kuryeyi BACAĞINDAN vur — ölmemeli	Dale al correo en la PIERNA — no debe morir
+Ekip gelene kadar onu hayatta tut	Mantenlo vivo hasta que llegue el equipo
+Kar motoru çalışmıyor — kurye koşarak kaçıyor!	La moto de nieve no funciona — ¡el correo huye corriendo!
+Kurye ormana girdi	El correo entró al bosque
+Kurye kar motorunda — vadiyi geçiyor!	El correo va en moto de nieve — ¡cruza el valle!
+Motor durdu — kurye koşarak kaçıyor!	El motor se detuvo — ¡el correo huye corriendo!
+Ratrakın ulaşmasına	Llega la pisanieves en
+Spadan silahlı biri çıktı — kuryeye gidiyor!	Un armado salió del spa — ¡va hacia el correo!
+Etraf temiz — ratrak tam gaz geliyor!	Zona despejada — ¡la pisanieves viene a toda máquina!
+Kurye uyudu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	¡El correo está dormido! La pisanieves salió — los hombres del Consejo saldrán del spa, no dejes que se le acerquen.
+Bacağından vuruldu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	¡Herido en la pierna! La pisanieves salió — los hombres del Consejo saldrán del spa, no dejes que se le acerquen.
+Ekip kuryeyi aldı	El equipo recogió al correo
+Otelin spa kapısından çıkacak. Kar motoru otoparkın doğu ucunda.	Saldrá por la puerta del spa del hotel. La moto de nieve está en el extremo este del estacionamiento.
+Doğan Aksu	Diego Acosta
+Koyu yeşil kapüşonlu, gri bere, kargo pantolon. Kar motorunda.	Capucha verde oscuro, gorro gris, pantalón cargo. En la moto de nieve.
+Önce kar motorunu durdurabilirsin (motor bloğu: 2 atış)	Puedes detener primero la moto de nieve (bloque del motor: 2 disparos)
+Kuryeyi canlı yakala	Captura vivo al correo
+En fazla beş atış	Cinco disparos como máximo
+Kurul'un adamları nişan alamasın	Que los hombres del Consejo no puedan apuntar
+ÇIĞ	ALUD
+Batı yolu — çığ yamacı	Camino oeste — ladera del alud
+KAZA	ACCIDENTE
+Bülent Er'in konvoyu batı yolundan gelecek. Kaza gibi görünmeli: yamaçta bir çığ patlayıcısı var.	El convoy de Bruno Esquivel vendrá por el camino oeste. Debe parecer un accidente: en la ladera hay una carga explosiva para aludes.
+Bülent Er, emniyet istihbaratının başında ve Kurul'un maaş bordrosunda. Baran'a karşı açılan her soruşturmayı o kapattırdı. Bu sabah iki araçlık konvoyla batı yolundan otele geliyor.\n\nBir emniyet müdürünün kurşunla ölmesi ülkeyi ayağa kaldırır. Kaza olmalı: yolun üstündeki yamaçta çığ kontrol patlayıcısı var. Onu doğru anda vurursan yamaç kopar ve yolu örter. Bülent ikinci araçta.	Bruno Esquivel, jefe de inteligencia policial y en la nómina del Consejo. Hizo cerrar cada investigación contra Barrera. Esta mañana llega al hotel por el camino oeste en un convoy de dos vehículos.\n\nUn jefe de policía muerto a balazos pondría al país de cabeza. Debe ser un accidente: en la ladera sobre el camino hay una carga para control de aludes. Si le disparas en el momento justo, la ladera se desprende y sepulta el camino. Bruno va en el segundo vehículo.
+Çığ yola altı saniyede iner: sayaç altıya indiğinde patlayıcıyı vur. Erken vurursan konvoy kar yığınının önünde durur, geç kalırsan geçip gider; o zaman Bülent'i doğrudan vurmak zorundasın — ama kaza süsü gider.	El alud tarda seis segundos en llegar al camino: dispara a la carga cuando el contador baje a seis. Si disparas antes, el convoy se detiene frente a la nieve; si llegas tarde, pasa de largo, y tendrás que disparar a Bruno directamente — adiós al falso accidente.
+Çığ kontrol patlayıcısı: yolun üstündeki yamacın tepesinde, sarı tank	Carga de control de aludes: tanque amarillo en lo alto de la ladera sobre el camino
+İkinci araçta — batı yolundan geliyor	En el segundo vehículo — viene por el camino oeste
+Bülent Er otele girdi	Bruno Esquivel entró al hotel
+Yamaç koptu — çığ yola iniyor!	La ladera se desprendió — ¡el alud baja al camino!
+Konvoy otele vardı — Bülent arabadan iniyor!	El convoy llegó al hotel — ¡Bruno baja del auto!
+Konvoyun yamaca ulaşmasına	El convoy llega a la ladera en
+Konvoy batı yolunda. Yamacın altındaki virajdan geçecekler.	El convoy está en el camino oeste. Pasarán por la curva bajo la ladera.
+Çığ yolu kapattı, konvoy durdu. Bülent araçtan indi — kaza olmadı ama fırsat bu.	El alud cerró el camino y el convoy se detuvo. Bruno bajó del vehículo — no fue un accidente, pero es tu oportunidad.
+Çığ boşa gitti! Konvoy otele devam ediyor — Bülent arabadan inince fırsatın var.	¡El alud no sirvió! El convoy sigue al hotel — cuando Bruno baje del auto, tendrás tu oportunidad.
+Tepedeki adam kayak devriyesi, patlayıcıyı kontrol ediyor. O oradayken tetikleme.	El hombre de la cima es de la patrulla de esquí y revisa la carga. No la detones mientras esté ahí.
+Çığ yamaçtan yola altı saniyede iner. Sayaç altıya indiği an patlayıcıyı vur.	El alud baja de la ladera al camino en seis segundos. Dispara a la carga justo cuando el contador llegue a seis.
+Bülent Er	Bruno Esquivel
+Emniyet İstihbaratı	Inteligencia Policial
+İkinci araçta. Lacivert palto, şapka, gözlük.	En el segundo vehículo. Abrigo azul marino, sombrero, lentes.
+Bülent Er'i etkisiz hale getir — kaza gibi görünmeli	Neutraliza a Bruno Esquivel — debe parecer un accidente
+Kaza süsü ver: çığla	Fíngelo como accidente: con el alud
+Çığ devriyesine zarar verme	No dañes a la patrulla antialudes
+KAYAK HOCASI	INSTRUCTORA
+Acemi pisti	Pista de principiantes
+Elif Demir yarın mahkemede Kurul'a karşı tanıklık edecek. Bugün onu öldürmeye üç kişi geliyor.	Mañana Elena Mora declarará en el juicio contra el Consejo. Hoy vienen tres a matarla.
+Kayak hocası Elif Demir, geçen kış teleferik makinisti Hasan Usta'nın Kurul'un adamlarınca öldürülüşünü gördü. Yarın mahkemede tanıklık edecek; Kurul onu bugün susturmak istiyor.\n\nElif acemi pistinde ders veriyor. Üç tetikçi var: istasyonun çatısında bir nişancı, otelden yürüyerek gelen biri ve kar motoruyla gelecek biri. Jandarma 11:33'te geliyor. O zamana kadar onu hayatta tut.	La instructora de esquí Elena Mora vio el invierno pasado cómo los hombres del Consejo mataron al maquinista del teleférico, el maestro Anselmo. Mañana declarará ante el tribunal; el Consejo quiere silenciarla hoy.\n\nElena da clases en la pista de principiantes. Hay tres sicarios: un francotirador en el techo de la estación, uno que viene a pie desde el hotel y otro que llegará en moto de nieve. La gendarmería llega a las 11:33. Mantenla viva hasta entonces.
+Nişancıyı önce bul: teleferik istasyonunun düz çatısında, kar kadar beyaz. Ateş ettiğin an namlu alevini görür ve sana döner. Silah çeken birini kolundan vurursan silahını düşürür.	Encuentra primero al francotirador: en el techo plano de la estación del teleférico, blanco como la nieve. En cuanto dispares, verá el fogonazo y se girará hacia ti. Si le das en el brazo a alguien que saca un arma, la soltará.
+Susturucu nişancının seni görmesini geciktirir	El silenciador retrasa que el francotirador te vea
+İstihbarat: üç tetikçi — biri yüksekte	Inteligencia: tres sicarios — uno en altura
+Elif Demir	Elena Mora
+TANIK	TESTIGO
+Kayak hocası — koru	Instructora de esquí — protégela
+Elif'i jandarma gelene kadar koru	Protege a Elena hasta que llegue la gendarmería
+Çatıdaki Nişancı	Francotirador del techo
+Haki yeşil palto, kalpak — teleferik istasyonunun çatısında	Abrigo verde caqui, gorro de piel — en el techo de la estación del teleférico
+İstasyonun çatısında biri doğruldu — Elif'e nişan alıyor!	Alguien se levantó en el techo de la estación — ¡apunta a Elena!
+Çatıdaki nişancı seni vurdu	El francotirador del techo te dio
+Yürüyen Adam	El que camina
+Siyah kapüşonlu, siyah bere, sakallı	Capucha negra, gorro negro, barbudo
+Kar Motorlu Adam	El de la moto de nieve
+Gri kapüşonlu, siyah bere, spor gözlük — kar motorunda	Capucha gris, gorro negro, lentes deportivos — en moto de nieve
+Doğudan bir kar motoru geliyor, hızlı!	¡Viene una moto de nieve desde el este, rápido!
+Kar motorlu indi — Elif'e koşuyor!	El de la moto bajó — ¡corre hacia Elena!
+Üç tetikçiyi de durdur	Detén a los tres sicarios
+Üç tetikçiyi de durdur  	Detén a los tres sicarios  
+Jandarmanın gelmesine	Llega la gendarmería en
+Jandarma geldi — Elif güvende	Llegó la gendarmería — Elena está a salvo
+Üç tetikçi var. Yüksekteki önce: istasyonun çatısını tara.	Hay tres sicarios. Primero el de arriba: escanea el techo de la estación.
+Tanık	Testigo
+Kırmızı mont, beyaz bere, at kuyruğu. Acemi pistinde ders veriyor.	Chaqueta roja, gorro blanco, cola de caballo. Da clases en la pista de principiantes.
+Elif Demir'i jandarma gelene kadar koru	Protege a Elena Mora hasta que llegue la gendarmería
+Üç tetikçiyi bul ve durdur (bonus)	Encuentra y detén a los tres sicarios (bono)
+Tanığı koru	Protege a la testigo
+Nişancıyı nişan alamadan durdur	Detén al francotirador antes de que apunte
+Öğrencilere zarar verme	No dañes a los alumnos
+Köy — tipi altında	Pueblo — en plena ventisca
+Orhan Sezer tipiyi fırsat bilip ratrakla dağı aşacak. Göz gözü görmüyor — termal dürbün hazır olsun.	Octavio Serrano aprovechará la ventisca para cruzar la montaña en pisanieves. No se ve nada — ten lista la mira térmica.
+Orhan Sezer, Kurul'un temizlikçisi: tanıkları ortadan kaldıran, delilleri yok eden adam. Elif'e gönderilen tetikçileri o tutmuştu. Tipiyi fırsat bilip ratrakla dağı aşacak; zirvenin ötesinde bir helikopter bekliyor.\n\nOtelden çıkıp köyü yürüyerek geçecek ve istasyonun yanındaki ratraka binecek. Kar fırtınasında 200 metrenin ötesi görünmüyor; termal dürbün vücut ısısını sisin içinden gösterir. Rüzgar çok sert.	Octavio Serrano, el limpiador del Consejo: el hombre que elimina testigos y destruye pruebas. Él contrató a los sicarios enviados contra Elena. Aprovechará la ventisca para cruzar la montaña en pisanieves; tras la cumbre lo espera un helicóptero.\n\nSaldrá del hotel, cruzará el pueblo a pie y subirá a la pisanieves junto a la estación. En la tormenta de nieve no se ve más allá de 200 metros; la mira térmica muestra el calor corporal a través de la niebla. El viento es muy fuerte.
+Termal dürbün herkesi beyaz gösterir: tarayıp kimliği oku. Rüzgar saatte 30 kilometreden fazla esiyor; nişanı rüzgarın geldiği yöne kaydır.	La mira térmica muestra a todos en blanco: escanea para leer la identidad. El viento sopla a más de 30 kilómetros por hora; corrige la puntería hacia el lado de donde viene.
+Termal dürbün şart	Mira térmica obligatoria
+Orhan istasyona kaçtı	Octavio huyó a la estación
+Ratrak hareket etti — dağa tırmanıyor!	La pisanieves arrancó — ¡sube la montaña!
+Ratrakın sırtı aşmasına	Cruza la cresta en
+Ratrak sırtı aştı	La pisanieves cruzó la cresta
+Görüş 200 metrenin altında. Termal dürbünle sıcak noktaları ara, sonra kimliği tara.	Visibilidad bajo 200 metros. Busca puntos calientes con la mira térmica y luego escanea la identidad.
+Rüzgar doğudan sert esiyor. Uzak atışta mermi metrelerce sürüklenir.	Sopla un viento fuerte del este. En tiros largos la bala se desvía varios metros.
+Orhan Sezer	Octavio Serrano
+Temizlikçi	Limpiador
+Lacivert uzun palto, kalpak, gözlük. İki korumasıyla.	Abrigo largo azul marino, gorro de piel, lentes. Con dos guardaespaldas.
+Orhan Sezer'i ratrak sırtı aşmadan etkisiz hale getir	Neutraliza a Octavio Serrano antes de que la pisanieves cruce la cresta
+Tek atış	Un solo disparo
+Termal dürbün kullanmadan	Sin usar la mira térmica
+ZİRVE	CUMBRE
+Kartal Dağ Oteli — yılbaşı gecesi	Hotel Monte Cóndor — Nochevieja
+Gece yarısı havai fişekler başlayınca vadi gürültüyle dolacak. Patlamalar senin silahının sesini yutar.	A medianoche empezarán los fuegos artificiales y el valle se llenará de estruendo. Las explosiones taparán el sonido de tu arma.
+Kurul'dan geriye bir kişi kaldı: Nedim Kurt — Patron. Baran'ı yaratan, yıllarca ayakta tutan ve her şeyin hesabını tutan adam.\n\nYılbaşı gecesi otelin önündeki terasta misafirleriyle. Gece yarısı gölün üstünde havai fişek gösterisi var: Patron izlemek için terasın ucuna yürüyecek. Patlamalar yankılanırken atılan bir kurşunu kimse duymaz. Gösteri bitince içeri girer — bir daha çıkmaz.\n\nPatron tedbirli: güvenlik şefi terasın önünden gece dürbünüyle yamaçları tarıyor. Seni görürse korumalar yerini öğrenir.	Del Consejo queda una persona: Nicolás Benítez — el Jefe. El hombre que creó a Barrera, lo sostuvo por años y lleva la cuenta de todo.\n\nEn Nochevieja está con sus invitados en la terraza frente al hotel. A medianoche hay fuegos artificiales sobre el lago: el Jefe caminará hasta el borde de la terraza para verlos. Mientras retumban las explosiones, nadie oirá una bala. Cuando acabe el espectáculo, entrará — y no volverá a salir.\n\nEl Jefe es precavido: su jefe de seguridad revisa las laderas con binoculares nocturnos frente a la terraza. Si te ve, los guardaespaldas sabrán dónde estás.
+Havai fişek patlamasının sesi yuvaya ulaştığı an tetiğe bas: o anki atışı kimse duymaz. Patron'un iki koruması var; kalabalığın içinde ateş etme. Güvenlik şefinin dürbünü sana dönünce eğil (SİPER).	Aprieta el gatillo justo cuando el estallido de los fuegos llegue a tu nido: nadie oirá ese disparo. El Jefe tiene dos guardaespaldas; no dispares entre la multitud. Agáchate (CUBRIRSE) cuando los binoculares del jefe de seguridad giren hacia ti.
+Gece yarısı: göl üstünde havai fişek	Medianoche: fuegos artificiales sobre el lago
+Patron içeri girdi	El Jefe entró
+Gece yarısına	Medianoche en
+MİSAFİRLER	INVITADOS
+On! Dokuz! Sekiz! Yedi...	¡Diez! ¡Nueve! ¡Ocho! ¡Siete...
+Mutlu yıllar! — havai fişekler başladı	¡Feliz Año Nuevo! — empezaron los fuegos
+Gösterinin bitmesine	El espectáculo termina en
+Gösteri bitti — Patron içeri dönüyor!	Terminó el espectáculo — ¡el Jefe vuelve adentro!
+Kalabalığın ortasında. Gece yarısı gösteriyi izlemek için terasın ucuna yürüyecek.	En medio de la multitud. A medianoche caminará al borde de la terraza para ver el espectáculo.
+Patlamanın sesi sana ulaştığı an ateş et — o anki atışı kimse duymaz.	Dispara justo cuando te llegue el sonido de la explosión — nadie oirá ese disparo.
+Gece dürbünüyle yamaçları tarıyor — seni görürse yerini bildirir	Revisa las laderas con binoculares nocturnos — si te ve, delatará tu posición
+Terasın önünde gece dürbünlü biri var: Patron'un güvenlik şefi. Dürbün sana dönünce eğil — gece yarısından önce atış sesi duyulur.	Frente a la terraza hay alguien con binoculares nocturnos: el jefe de seguridad del Jefe. Agáchate cuando giren hacia ti — antes de medianoche, el disparo se oye.
+Nedim Kurt	Nicolás Benítez
+Beyaz smokin ceket, papyon, kır sakal. Otel terasında.	Saco de esmoquin blanco, moño, barba canosa. En la terraza del hotel.
+Nedim Kurt'u gösteri bitmeden etkisiz hale getir	Neutraliza a Nicolás Benítez antes de que termine el espectáculo
+Kurul'u bitir	Acaba con el Consejo
+Her atışı havai fişeklerin sesine gizle	Oculta cada disparo en el estruendo de los fuegos
+Balıkçı	El Pescador
+KARTAL K-98	ÁGUILA K-98
+Güvenilir sürgülü tüfek. Her suikastçının ilk ortağı.	Un rifle de cerrojo confiable. El primer compañero de todo asesino.
+GÖLGE SR-7	SOMBRA SR-7
+7.62×51 susturuculu	7.62×51 con silenciador
+Entegre susturucu: atış sesi duyulmaz, mermi daha yavaş gider. Gizli işler için.	Silenciador integrado: el disparo no se oye y la bala va más lenta. Para trabajos sigilosos.
+FIRTINA DMR	TORMENTA DMR
+7.62×51 yarı otomatik	7.62×51 semiautomático
+Yarı otomatik: sürgü çekmeden peş peşe ateş. Kaçan ve kalabalık hedefler için.	Semiautomático: dispara una y otra vez sin accionar el cerrojo. Para objetivos que huyen y multitudes.
+ATMACA .338 LR	HALCÓN .338 LR
+Uzun menzil: yüksek namlu çıkış hızı, az düşüş, 20× dürbün. İnce siperleri deler.	Largo alcance: alta velocidad de salida, poca caída, mira de 20×. Atraviesa coberturas delgadas.
+TİTAN .50	TITÁN .50
+Anti-materyel tüfek: duvar, araç kapısı ve motor bloğu deler. Her isabet öldürür.	Rifle antimaterial: perfora muros, puertas de vehículos y bloques de motor. Cada impacto mata.
+Dürbüne takılır: karanlıkta her şeyi yeşil ışıkta görürsün.	Se monta en la mira: en la oscuridad lo ves todo con luz verde.
+TERMAL DÜRBÜN	MIRA TÉRMICA
+İnsan vücudu beyaz parlar: sis, karanlık ve kalabalıkta hedefi bul.	El cuerpo humano brilla en blanco: encuentra al objetivo en niebla, oscuridad o multitud.
+KEŞİF DRONU	DRON DE RECON
+Görev başına bir kez: bölgedeki herkesi 15 saniye işaretler ve kimliklerini tarar.	Una vez por misión: marca a todos en la zona durante 15 segundos y escanea su identidad.
+Sınırsız.	Ilimitado.
+ZIRH DELİCİ	PERFORANTE
+İnce siperleri, araç kapılarını ve camları delip geçer.	Atraviesa coberturas delgadas, puertas de vehículos y vidrios.
+UYUŞTURUCU İĞNE	DARDO SEDANTE
+Öldürmez, bayıltır. Sessizdir ama yavaştır: çok düşer.	No mata, duerme. Es silencioso pero lento: cae mucho.
+PATLAYICI	EXPLOSIVO
+Çarptığı yerde patlar: araçları ve jeneratörleri tek atışta durdurur.	Estalla al impactar: detiene vehículos y generadores de un solo tiro.
+HASAR	DAÑO
+DÜRBÜN	MIRA
+DENGE	ESTABILIDAD
+ŞARJÖR	CARGADOR
+HIZ	VELOCIDAD
+Daha ağır mermi: zırhlı gövdeyi deler, kurşun daha hızlı ve düz gider.	Bala más pesada: perfora torsos blindados y vuela más rápido y recto.
+Dürbünün en büyük yakınlaştırması artar.	Aumenta el zoom máximo de la mira.
+Dürbündeki sallantı ve geri tepme azalır.	Reduce el balanceo y el retroceso en la mira.
+Şarjöre daha çok fişek sığar.	Caben más cartuchos en el cargador.
+Sürgü ve şarjör değişimi hızlanır.	Acciona el cerrojo y cambia el cargador más rápido.
+YAYGIN	COMÚN
+NADİR	RARO
+EPİK	ÉPICO
+ fişek	 cartuchos
+Bu açıdan 	Desde este ángulo 
+ görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	 no se ve. Cambia de posición con REUBICARSE.
+Bundan sonra hedef işaretli gelmez. Dürbüne gir: sağdaki DOSYA'daki yüzü kalabalıkta bul, kişiyi tara, emin olunca İŞARETLE. Yanlış kişiyi vurursan sözleşme iptal.	De ahora en adelante el objetivo no viene marcado. Usa la mira: encuentra entre la multitud la cara del EXPEDIENTE a la derecha, escanea a la persona y, cuando estés seguro, MARCA. Si le disparas a la persona equivocada, se cancela el contrato.
+Uzak hedefte mermi düşer. Sol alttaki MENZİL ile dürbünü hedefin mesafesine ayarla (telemetre dürbünün altında) ya da sarı çizgilerden tut: 2 = 200 m, 3 = 300 m.	A distancia la bala cae. Ajusta la mira a la distancia del objetivo con ALCANCE abajo a la izquierda (el telémetro está bajo la mira) o usa las líneas amarillas: 2 = 200 m, 3 = 300 m.
+Bundan sonra isabet noktası sadece NEFES tutarken görünür. Nefesini doğru ana sakla.	De ahora en adelante el punto de impacto solo se ve al contener el ALIENTO. Guarda el aliento para el momento justo.
+Şehirde isabet noktası yok. Menzili ayarla, rüzgâr panelindeki yöne göre sarı noktalardan (1 nokta = 1 mil) tut.	En la ciudad no hay punto de impacto. Ajusta el alcance y corrige con los puntos amarillos (1 punto = 1 mil) según la dirección del panel de viento.
+Dağda rüzgâr sert ve değişken; paneldeki ok ve güç anlık değişir. Okun yönünü ve gücünü izle, rüzgârın dindiği anı bekle.	En la montaña el viento es fuerte y variable; la flecha y la fuerza del panel cambian al instante. Sigue la dirección y la fuerza de la flecha y espera a que el viento amaine.
+Alarm engellendi	Alarma evitada
+Son 10 saniye!	¡Últimos 10 segundos!
+Süre doldu	Se acabó el tiempo
+Takviye — mevzi alıp yuvana ateş edecek	Refuerzos — tomarán posición y dispararán a tu nido
+ silahlı adam mevzi alıyor — yuvanı arıyorlar!	 armados toman posición — ¡buscan tu nido!
+Alarm çaldı, takviye geliyor. Başını eğik tut, önce silahlıları sustur.	Sonó la alarma, vienen refuerzos. Mantén la cabeza baja y silencia primero a los armados.
+Hedef düştü ama adamları seni arıyor. Siper al ya da silahlıları sustur — sonra çık.	El objetivo cayó, pero sus hombres te buscan. Cúbrete o silencia a los armados — luego retírate.
+Iskalaman dikkat çekti — silahlılar dışarı çıkıyor. Siper al, sonra işini bitir.	Tu fallo llamó la atención — los armados salen. Cúbrete y luego termina el trabajo.
+İŞÇİ	OBRERO
+SİVİL	CIVIL
+Hedef saklandı	El objetivo se escondió
+Hedef kaçtı	El objetivo escapó
+Silahlı adam kaçtı	Un armado escapó
+Hedef öldü — onu canlı istiyorduk	El objetivo murió — lo queríamos vivo
+Korunan kişi	Protegido
+ öldürüldü	 fue asesinado
+İsabet — 	Impacto — 
+ atış daha	 disparos más
+Görev başarısız	Misión fallida
+YENİ HEDEF: 	NUEVO OBJETIVO: 
+  ·  DÜELLO	  ·  DUELO
+  ·  SON ANDA	  ·  EN EL ÚLTIMO SEGUNDO
+  ·  SİPERİN İÇİNDEN	  ·  A TRAVÉS DE COBERTURA
+  ·  CAMIN İÇİNDEN	  ·  A TRAVÉS DEL VIDRIO
+  ·  HAREKETLİ HEDEF	  ·  OBJETIVO EN MOVIMIENTO
+ZIRH DURDURDU — kafaya nişan al, zırh delici kullan ya da HASAR geliştir	EL BLINDAJE LA DETUVO — apunta a la cabeza, usa balas perforantes o mejora el DAÑO
+SİLAHLI ADAM BULUNDU: 	ARMADO DETECTADO: 
+HEDEF DOĞRULANDI: 	OBJETIVO CONFIRMADO: 
+Hedef değil — masum konuk	No es el objetivo — invitado inocente
+Üç yanlış teşhis — sözleşme iptal	Tres identificaciones erróneas — contrato cancelado
+KONTROL: O değildi — masum birini vurdun!	CONTROL: No era él — ¡le disparaste a un inocente!
+KONTROL: Yine yanlış kişi. Bir daha olursa iptal.	CONTROL: Otra vez la persona equivocada. Una más y se cancela.
+KİMLİK DOĞRULANDI: 	IDENTIDAD CONFIRMADA: 
+KONTROL: Hayır, o değil. Dosyaya tekrar bak.	CONTROL: No, no es él. Revisa el expediente.
+KONTROL: O da değil. Bir daha yanılırsan iptal.	CONTROL: Tampoco es él. Si te equivocas otra vez, se cancela.
+YENİ YER: 	NUEVA POSICIÓN: 
+Dron bölgeyi taradı — 	El dron escaneó la zona — 
+ kişi tanımlandı	 personas identificadas
+Dron silahlı birini işaretledi!	¡El dron marcó a un armado!
+ vuruldu!	 ¡abatido!
+SUİKASTÇI ETKİSİZ — KAFADAN	SICARIO NEUTRALIZADO — TIRO A LA CABEZA
+SUİKASTÇI ETKİSİZ	SICARIO NEUTRALIZADO
+KAFADAN VURUŞ — HEDEF ETKİSİZ	TIRO A LA CABEZA — OBJETIVO NEUTRALIZADO
+HEDEF ETKİSİZ	OBJETIVO NEUTRALIZADO
+ öldü!	 ¡murió!
+Koruma etkisiz — kafadan	Guardaespaldas neutralizado — a la cabeza
+Koruma etkisiz	Guardaespaldas neutralizado
+Yanlış kişi — o bir dublördü	Persona equivocada — era un doble
+Yanlış kişi — masum birini vurdun	Persona equivocada — le disparaste a un inocente
+Çok fazla sivil kayıp	Demasiadas bajas civiles
+SİVİL KAYIP! Bir daha olursa görev iptal.	¡BAJA CIVIL! Una más y se cancela la misión.
+ hedef kaldı	 objetivos restantes
+Yanlış yer — BACAĞINDAN vurmalısın	Lugar equivocado — debes darle en la PIERNA
+Yanlış yer — KOLUNDAN vurmalısın	Lugar equivocado — debes darle en el BRAZO
+ yaralandı — artık yürüyemiyor	 herido — ya no puede caminar
+Silahını düşürdü!	¡Soltó el arma!
+HEDEF YERE DÜŞTÜ	OBJETIVO DERRIBADO
+HEDEF YARALANDI	OBJETIVO HERIDO
+Koruma yaralandı — hâlâ telsize uzanabilir	Guardaespaldas herido — aún puede ir por la radio
+Masum biri yaralandı!	¡Hiriste a un inocente!
+ bayıldı — güvenli yere ulaşamaz	 se desmayó — no podrá ponerse a salvo
+İĞNE İSABET — hedef birkaç saniyede bayılacak	DARDO ACERTADO — el objetivo caerá dormido en segundos
+Koruma bayılıyor	El guardaespaldas se desmaya
+Masum birini bayılttın	Dormiste a un inocente
+KARŞI NİŞANCI SANA NİŞAN ALDI — ÖNCE SEN VUR!	EL CONTRAFRANCOTIRADOR TE APUNTA — ¡DISPARA PRIMERO!
+SİLAHLI ADAM NİŞAN ALIYOR — ŞİMDİ VUR!	UN ARMADO APUNTA — ¡DISPARA AHORA!
+GÖZCÜ SENİ GÖRDÜ!	¡EL VIGÍA TE VIO!
+GÖZCÜ SENİ GÖRDÜ — telsize uzanıyor, onu durdur!	EL VIGÍA TE VIO — va por la radio, ¡detenlo!
+Koruma telsize uzanıyor — onu durdur!	El guardaespaldas va por la radio — ¡detenlo!
+GÖZCÜ YERİNİ BİLDİRDİ!	¡EL VIGÍA DELATÓ TU POSICIÓN!
+ALARM VERİLDİ — HEDEF KAÇIYOR	ALARMA ACTIVADA — EL OBJETIVO HUYE
+Hedef tedirgin oldu ve kaçıyor!	¡El objetivo se inquietó y huye!
+Hedef saklandığı yerden çıkmadı	El objetivo no salió de su escondite
+Hedef içeri saklandı — bekle, bakmak için tekrar çıkabilir	El objetivo se escondió adentro — espera, puede volver a salir a mirar
+Hedef kapıda göründü — şimdi!	El objetivo apareció en la puerta — ¡ahora!
+Hedef siperin arkasında, görünmüyor. Yakınına ateş et: sesi duyunca bakmak için açığa çıkar. Bir daha ateş edersen kaçar — o sırada vur.	El objetivo está tras la cobertura y no se ve. Dispara cerca de él: al oír el ruido saldrá a mirar. Si vuelves a disparar, huirá — dale en ese momento.
+ISKALADIN — 	FALLASTE — 
+ KAÇIYOR!	 ¡ESCAPA!
+Iskaladın — biri ürktü ve kaçıyor!	Fallaste — ¡alguien se asustó y huye!
+Sana ateş edenleri sustur	Silencia a los que te disparan
+Sana ateş edenleri sustur  ·  	Silencia a los que te disparan  ·  
+ kaldı	 restantes
+HEDEF TAMAM — AMA SENİ BULDULAR: SİLAHLILARI SUSTUR	OBJETIVO CUMPLIDO — PERO TE ENCONTRARON: SILENCIA A LOS ARMADOS
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — 	El objetivo cayó, pero tu posición está expuesta. Que nadie te siga — 
+ silahlı var, hepsini sustur. Gerekirse siper al.	 armados, silénciales a todos. Cúbrete si hace falta.
+Kalan silahlılar geri çekildi	Los armados restantes se retiraron
+BÖLGE TEMİZ — GÖREV TAMAM	ZONA DESPEJADA — MISIÓN CUMPLIDA
+Sözleşme ücreti	Pago del contrato
+Yıldız hedefleri  ×	Objetivos ★  ×
+Sessiz iş — alarm yok	Trabajo limpio — sin alarma
+Uzak atış  ·  	Tiro lejano  ·  
+Keşif  ·  	Recon  ·  
+ tehdit	 amenazas
+Sivil kaybı  ×	Bajas civiles  ×
+Yaralı sivil  ×	Civiles heridos  ×
+Tekrar oynanış  ×%	Repetición  ×%
+VETERAN  ×1,5	VETERANO  ×1,5
+Günün sözleşmesi (+%33: ücretin 2 katı)	Contrato del día (+33%: doble pago)
+GÜMRÜK KAPISI	ADUANA
+Liman giriş kapısı	Puerta de entrada del puerto
+Selim Kaya kapıda denetimde. Kimliğini tara, sonra işini bitir.	Samuel Correa inspecciona la puerta. Escanea su identidad y luego termina el trabajo.
+Gümrük müdürü Selim Kaya, rüşvet karşılığında kaçakçılara liman kapısını açıyor. Her sabah kapıdaki güvenlik noktasını denetliyor.\n\nKapıdan ayrılmadan onu etkisiz hale getir. Alarm verilirse otoparktaki aracına koşar.	El director de aduanas Samuel Correa abre la puerta del puerto a los contrabandistas a cambio de sobornos. Cada mañana inspecciona el control de seguridad de la entrada.\n\nNeutralízalo antes de que deje la puerta. Si suena la alarma, correrá a su auto en el estacionamiento.
+Dürbünü aç ve nişangahı birinin üzerinde tut: kimliği otomatik taranır. Kırmızı işaret hedefi gösterir.	Abre la mira y mantén la retícula sobre alguien: su identidad se escanea sola. La marca roja señala al objetivo.
+Selim Kaya	Samuel Correa
+Gümrük Müdürü	Director de Aduanas
+Lacivert takım elbise, kırmızı kravat, gözlük.	Traje azul marino, corbata roja, lentes.
+Gümrük müdürü Selim Kaya'yı etkisiz hale getir	Neutraliza al director de aduanas Samuel Correa
+LİMAN OFİSİ	OFICINA DEL PUERTO
+Liman yönetim binası	Edificio de la administración portuaria
+Aydın sigara için dışarı çıkacak. Kapıdan uzaklaştığı an senin anın.	Aguilar saldrá a fumar. Cuando se aleje de la puerta, es tu momento.
+Liman müdür yardımcısı Can Aydın, kaçak sevkiyatların kayıtlarını siliyor. Binadan sadece sigara molalarında çıkıyor.\n\nKapıdan çıktığında fırsatı kaçırma: alarm verilirse binaya kapanır ve görev başarısız olur.	Carlos Aguilar, subdirector del puerto, borra los registros de los envíos de contrabando. Solo sale del edificio en sus pausas para fumar.\n\nNo desaproveches la oportunidad cuando salga: si suena la alarma, se encerrará en el edificio y la misión fallará.
+Hedef bina içindeyken bekle. Kapıdan çıkınca sigara içtiği noktada sabit durur — nefesini tut ve kafasına nişan al.	Espera mientras el objetivo esté adentro. Al salir, se queda quieto donde fuma — contén el aliento y apunta a la cabeza.
+Can Aydın	Carlos Aguilar
+Müdür Yardımcısı	Subdirector
+Mavi polo tişört, siyah pantolon. Sigara molasında dışarı çıkar.	Polo azul, pantalón negro. Sale en sus pausas para fumar.
+Can Aydın'ı binaya geri girmeden vur	Dale a Carlos Aguilar antes de que vuelva a entrar
+Alarm verdirme	No actives la alarma
+Hedefi kafadan vur	Dale al objetivo en la cabeza
+KONTEYNER TAKASI	TRATO EN EL PATIO
+Konteyner sahası	Patio de contenedores
+Kuzgun limana giriyor. Takas yeri çatıdan görünmüyor — onu dışarı çekmen gerekecek.	El Cuervo entra al puerto. El punto del trato no se ve desde la azotea — tendrás que sacarlo a la vista.
+Kuzgun lakaplı kaçakçı Tarık Bal arabasıyla limana gelecek ve konteynerlerin arasında bir alıcıyla buluşacak. Takas bitince arabasına binip gidecek.\n\nTakas yeri çatıdan görünmüyor. Ya yürürken vur ya da onu açığa çıkar: arabasının alarmı ya da yakınına düşen bir kurşun. İkinci kez ürkerse arabasına koşar.	El contrabandista Tadeo Salas, alias el Cuervo, llegará en auto al puerto y se reunirá con un comprador entre los contenedores. Al terminar el trato, subirá a su auto y se irá.\n\nEl punto del trato no se ve desde la azotea. Dale mientras camina o hazlo salir: con la alarma de su auto o una bala que caiga cerca. Si se asusta dos veces, correrá a su auto.
+Hedef görünmüyorsa yakınına ateş et: sese bakmak için açığa çıkar. Arabasını vurursan alarm çalar, kontrol etmeye gelir.	Si no ves al objetivo, dispara cerca de él: saldrá a ver qué fue el ruido. Si le disparas al auto, sonará la alarma y vendrá a revisarlo.
+Tarık konteynerlerin arasında, buradan görünmüyor. Arabasına ateş et: alarm çalınca kontrol etmeye gelir. Ya da ara yolun açık kısmına ateş et, sese bakmak için oraya yürür.	Tadeo está entre los contenedores y desde aquí no se ve. Dispara a su auto: cuando suene la alarma, vendrá a revisarlo. O dispara a la parte abierta del pasillo y caminará hacia allá a ver qué fue.
+Arabasında — limana geliyor	En su auto — llega al puerto
+Hedef arabasıyla kaçtı	El objetivo huyó en su auto
+Takas bitti — hedef arabasına dönüyor!	Terminó el trato — ¡el objetivo vuelve a su auto!
+Takasın bitmesine	El trato termina en
+Hedefin arabası kapıdan girdi	El auto del objetivo cruzó la puerta
+Araç alarmı çalıyor!	¡Suena la alarma del auto!
+Tarık Bal	Tadeo Salas
+Gri tişört, kot pantolon, kırmızı bere. Kolları dövmeli.	Camiseta gris, jeans, gorro rojo. Brazos tatuados.
+Kuzgun'u takas bitmeden etkisiz hale getir	Neutraliza al Cuervo antes de que termine el trato
+En fazla 3 atış	3 disparos como máximo
+GECE NÖBETİ	GUARDIA NOCTURNA
+Depolar ve gözetleme kulesi	Almacenes y torre de vigilancia
+Rico ve adamları ateşin başında. Kuledeki gözcü her şeyi görür — önce onu düşün.	Rico y sus hombres están junto al fuego. El vigía de la torre lo ve todo — piensa primero en él.
+Paralı asker Rico Vargas ve adamları depoları koruyor. Gece soğuğunda ateş varilinin başında toplanıyorlar.\n\nKuledeki gözcü cesetleri görürse alarm verir. Önce onu susturmak işini kolaylaştırır.	El mercenario Rico Vargas y sus hombres custodian los almacenes. En el frío de la noche se reúnen junto a un barril con fuego.\n\nSi el vigía de la torre ve cadáveres, dará la alarma. Silenciarlo primero te facilitará el trabajo.
+Ateşin yanındaki kırmızı yakıt bidonu tek atışta patlar ve yanındakileri götürür — ama yanlarındaki bekçi de ölür (sivil kayıp, yıldız kaybı) ve patlama sessiz iş primini yakar. Temiz iş için Rico'yu doğrudan vur.	El bidón rojo de combustible junto al fuego explota de un tiro y se lleva a los que están cerca — pero también muere el vigilante que está con ellos (baja civil, pierdes una estrella) y la explosión arruina el bono de trabajo limpio. Para un trabajo limpio, dale a Rico directamente.
+Paralı Asker	Mercenario
+Kel ve sakallı. Taktik yelek, kırmızı tişört.	Calvo y barbudo. Chaleco táctico, camiseta roja.
+Rico Vargas'ı etkisiz hale getir	Neutraliza a Rico Vargas
+Bekçiye zarar verme	No dañes al vigilante
+DEPODAKİ KÖSTEBEK	EL TOPO DEL ALMACÉN
+A deposu yükleme alanı	Zona de carga del almacén A
+Köstebek kasa taşıyanlardan biri. Masumları vurma: önce tara.	El topo es uno de los que cargan cajas. No le dispares a inocentes: escanea primero.
+Depoda çalışan Kerim, örgütün sevkiyat bilgilerini rakiplere satıyor. Diğer işçilerle birlikte kasa taşıyor.\n\nİşçiler masum: hedefi kıyafetinden tanı ve ateş etmeden önce mutlaka tara.	Ramiro, que trabaja en el almacén, vende a los rivales la información de los envíos de la organización. Carga cajas junto a los demás obreros.\n\nLos obreros son inocentes: reconoce al objetivo por su ropa y escanéalo siempre antes de disparar.
+Hareket eden hedefi vururken kurşunun uçuş süresini hesaba kat: yürüdüğü yönün biraz önüne nişan al.	Al disparar a un objetivo en movimiento, calcula el tiempo de vuelo de la bala: apunta un poco por delante en la dirección en que camina.
+Kerim Usta	Don Ramiro
+Köstebek	El Topo
+Kırmızı kazak, siyah pantolon, bere. Kasa taşıyor.	Suéter rojo, pantalón negro, gorro. Carga cajas.
+Köstebeği bul ve etkisiz hale getir	Encuentra y neutraliza al topo
+Sivillere zarar verme	No dañes a los civiles
+RIHTIM KAÇAĞI	FUGA EN EL MUELLE
+Rıhtım ve iskele	Muelle y embarcadero
+Tilki belgeleri teslim edip tekneye koşacak. Tekneyi vurursan yaya kalır.	El Zorro entregará los documentos y correrá a la lancha. Si le disparas a la lancha, se queda a pie.
+Tilki lakaplı Deniz Kara, çalınan belgeleri rıhtımda bir adama teslim edecek. Ardından iskeledeki sürat teknesiyle kaçacak.\n\nTekneye binerse onu kaybederiz. Hareketli hedefe önden nişan al.	Darío Cano, alias el Zorro, entregará los documentos robados a un hombre en el muelle. Luego huirá en la lancha rápida del embarcadero.\n\nSi sube a la lancha, lo perdemos. Apunta por delante del objetivo en movimiento.
+300 metrede kurşun yaklaşık 0,4 saniye uçar. Koşan hedefte nişanı yaklaşık bir gövde önüne al. İskeledeki sürat teknesini önceden vurursan motoru çalışmaz: tekneyle kaçamaz, iskeleden koşmak zorunda kalır.	A 300 metros la bala vuela unos 0,4 segundos. Ante un objetivo que corre, apunta más o menos un cuerpo por delante. Si antes le disparas a la lancha del embarcadero, el motor no arrancará: no podrá huir en ella y tendrá que correr por el embarcadero.
+Tekne çalışmıyor — hedef iskeleden kaçıyor!	La lancha no arranca — ¡el objetivo huye por el embarcadero!
+Tekne vuruldu — motor çalışmıyor, tekneyle kaçamaz!	Lancha alcanzada — el motor no arranca, ¡no podrá huir en ella!
+Deniz Kara	Darío Cano
+Kahverengi kapüşonlu, kasket, koyu pantolon.	Capucha café, gorra plana, pantalón oscuro.
+Tilki'yi tekneyle kaçmadan durdur	Detén al Zorro antes de que huya en la lancha
+Önce teknesini vur	Dispara primero a su lancha
+KAPTAN KÖŞKÜ	EL PUENTE
+Meridian Star köprüüstü	Puente de mando del Meridian Star
+Kaptan köprüüstünün kanadına çıkacak. Uzun atış, sert rüzgar — rüzgar okuna bak.	El capitán saldrá al alerón del puente. Tiro largo, viento fuerte — mira la flecha del viento.
+Meridian Star'ın kaptanı Orhan Demir, örgütün silah yükünü teslim etmeden limandan ayrılmak üzere. Köprüüstünün açık kanadına çıkıyor.\n\nMesafe uzun ve rüzgar sert. Kaçırırsan köşke kapanır.	Óscar Medina, capitán del Meridian Star, está por zarpar sin entregar el cargamento de armas de la organización. Sale al alerón abierto del puente.\n\nLa distancia es larga y el viento, fuerte. Si fallas, se encerrará en el puente.
+Uzun mesafede kurşun düşer. Nişan yardımı açıksa dürbündeki kırmızı nokta kurşunun gideceği yeri gösterir.	A larga distancia la bala cae. Si la ayuda de puntería está activa, el punto rojo de la mira muestra adónde irá la bala.
+Orhan Demir	Óscar Medina
+Yeşil mont, kot pantolon. Köprüüstü kanadında.	Chaqueta verde, jeans. En el alerón del puente.
+Kaptan Orhan Demir'i köşke kapanmadan vur	Dale al capitán Óscar Medina antes de que se encierre en el puente
+YAT PARTİSİ	FIESTA EN EL YATE
+İskeledeki yat	Yate en el embarcadero
+Kral'ın partisi. Beyaz smokinli iki adam var — bıyıklı ve gözlüklü olan bizim adam.	La fiesta de Kral. Hay dos hombres de esmoquin blanco — el del bigote y los lentes es nuestro hombre.
+Örgütün başı Viktor Kral yatında kutlama yapıyor. Korumaları her yerde.\n\nKonuklardan biri de beyaz smokin giymiş: taramadan ateş etme. Kral bir süre sonra iskeleden ayrılıp depolara yürüyecek.	Víctor Kral, el jefe de la organización, celebra en su yate. Sus guardaespaldas están por todas partes.\n\nUno de los invitados también lleva esmoquin blanco: no dispares sin escanear. Dentro de un rato Kral dejará el embarcadero y caminará a los almacenes.
+Gerçek hedef bıyıklı ve güneş gözlüklü. Emin değilsen nişangahı üzerinde tut ve kimlik kartını oku.	El verdadero objetivo tiene bigote y lentes de sol. Si dudas, mantén la retícula sobre él y lee su tarjeta de identidad.
+Kral'ın ayrılmasına	Kral se va en
+Viktor Kral	Víctor Kral
+Örgüt Lideri	Líder de la Organización
+Beyaz smokin, papyon. Bıyıklı ve güneş gözlüklü.	Esmoquin blanco, corbata de moño. Bigote y lentes de sol.
+Viktor Kral'ı yattan ayrılmadan etkisiz hale getir	Neutraliza a Víctor Kral antes de que deje el yate
+Konuklara zarar verme	No dañes a los invitados
+Korumalara dokunma	No toques a los guardaespaldas
+Giriş kapısı ve yönetim binası	Puerta de entrada y edificio administrativo
+Ayten Şahin bugün örgüte karşı ifade verecek. Polis onu ofise götürüyor. Kalabalıkta iki tetikçi var.	Hoy Alicia Navarro declarará contra la organización. La policía la lleva a la oficina. Hay dos sicarios entre la multitud.
+Gümrük memuru Ayten Şahin, örgütün rüşvet ağına karşı tanıklık edecek. Polis onu sabah liman yönetim binasına getiriyor.\n\nÖrgüt iki tetikçi yolladı: işçi kılığında kalabalığa karışmışlar. Herkesi dürbünle tara — silahlılar kimlik kartında görünür. Ayten binaya girene kadar hayatta kalmalı.\n\nÖrgüt yalnız gelmedi: gözetleme kulesinde dürbünlü bir gözcü, kapının iki yanında silahlı adamları var. Yerini bulurlarsa sana ateş ederler.	La agente de aduanas Alicia Navarro declarará contra la red de sobornos de la organización. La policía la trae en la mañana al edificio de la administración portuaria.\n\nLa organización envió dos sicarios: se mezclaron con la multitud vestidos de obreros. Escanea a todos con la mira — los armados aparecen en la tarjeta de identidad. Alicia debe seguir viva hasta entrar al edificio.\n\nLa organización no vino sola: hay un vigía con binoculares en la torre de vigilancia y hombres armados a ambos lados de la puerta. Si descubren tu posición, te dispararán.
+Tetikçi silah çekince işaretçisinin etrafındaki kırmızı halka dolmadan vur. Kolundan vurursan silahını düşürür. Kuledeki gözcünün dürbünü sana dönünce eğil (SİPER) ya da önce onu indir.	Cuando un sicario saque el arma, dispara antes de que se llene el anillo rojo de su marcador. Si le das en el brazo, soltará el arma. Agáchate (CUBRIRSE) cuando los binoculares del vigía de la torre giren hacia ti, o abátelo primero.
+Termal dürbün kalabalıkta işe yarar	La mira térmica sirve entre la multitud
+Ayten Şahin	Alicia Navarro
+Bej trençkot — polis eşliğinde	Gabardina beige — escoltada por la policía
+Tanığı ofise kadar koru	Protege a la testigo hasta la oficina
+Bilinmeyen İşçi	Obrero desconocido
+Temizlikçi kılığında — silahlı	Vestido de conserje — armado
+İşçi kılığında — silahlı	Vestido de obrero — armado
+Tetikçileri durdur	Detén a los sicarios
+Tetikçileri durdur  	Detén a los sicarios  
+Kulede dürbünlü biri var. Dürbünü sana döndüğünde eğil — seni görürse telsizle herkese bildirir.	Hay alguien con binoculares en la torre. Agáchate cuando giren hacia ti — si te ve, avisará a todos por radio.
+Polis arabasında — yolda	En la patrulla — en camino
+Tanık arabadan indi, kapıya yürüyor. Gözünü dört aç.	La testigo bajó del auto y camina a la puerta. Mantén los ojos bien abiertos.
+POLİS	POLICÍA
+Silah! Arkamda kal, eğil!	¡Un arma! ¡Quédese detrás de mí, agáchese!
+Herkesi tara. Kartında SİLAHLI yazan adam bizim adamımız değil.	Escanea a todos. El hombre cuya tarjeta dice ARMADO no es de los nuestros.
+Bej trençkot, kahverengi saç. Polis memuruyla yürüyor.	Gabardina beige, pelo castaño. Camina con un policía.
+Tanığı ofise girene kadar hayatta tut	Mantén viva a la testigo hasta que entre a la oficina
+Kalabalıktaki iki tetikçiyi bul ve durdur (bonus)	Encuentra y detén a los dos sicarios de la multitud (bono)
+İki tetikçiyi de silah çekmeden durdur	Detén a ambos sicarios antes de que saquen el arma
+KURYE	CORREO
+Kurye çantayla depodan çıkacak. Müşteri onu canlı istiyor: bacağından vur, gerisini ekip halleder.	El correo saldrá del almacén con el maletín. El cliente lo quiere vivo: dale en la pierna, el equipo se encarga del resto.
+Emre Doğan, örgütün banka hesaplarını taşıyan kurye. Birazdan A deposundan çıkıp arabasına yürüyecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, yere düşsün. Ekibimiz arabayla gelip onu alacak. Öldürürsen bilgi kaybolur. Dikkat: örgüt, kuryesinin konuşmasındansa ölmesini tercih eder — korumaları ona silah çekecek, depodaki adamları da dışarı çıkıp onu susturmaya çalışacak.	Emilio Duarte, el correo que lleva las cuentas bancarias de la organización. En breve saldrá del almacén A y caminará a su auto.\n\nEl cliente lo quiere VIVO: dale en la pierna para que caiga. Nuestro equipo vendrá en auto a recogerlo. Si lo matas, se pierde la información. Ojo: la organización prefiere que su correo muera antes que hable — sus guardaespaldas sacarán el arma contra él y los hombres del almacén saldrán a intentar silenciarlo.
+Bacağından vurulan yere düşer. Korumalar onu susturmak için silah çekerse kırmızı halka dolmadan indir — kolundan vurursan silahını düşürür. Iskalarsan kurye arabasına koşar.	Quien recibe un tiro en la pierna cae al suelo. Si los guardaespaldas sacan el arma para silenciarlo, abátelos antes de que se llene el anillo rojo — si les das en el brazo, soltarán el arma. Si fallas, el correo correrá a su auto.
+Kurye arabasıyla kaçtı	El correo huyó en su auto
+Ekip gelene kadar kuryeyi hayatta tut	Mantén vivo al correo hasta que llegue el equipo
+Kurye dışarıda. Bacağına nişan al.	El correo está afuera. Apunta a su pierna.
+Depodaki Adam	Hombre del almacén
+Depodan silahlı biri çıktı — kuryeye gidiyor!	Un armado salió del almacén — ¡va hacia el correo!
+Yol temiz — ekip gaza bastı, geliyorlar!	Camino despejado — ¡el equipo acelera, ya vienen!
+Ekip kuryeyi aldı!	¡El equipo recogió al correo!
+Ekibin gelmesine	Llega el equipo en
+Kurye yerde! Ekip yolda — 	¡El correo cayó! El equipo está en camino — 
+ saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	 segundos. Los hombres de la organización intentarán silenciarlo, ¡y también saldrán del almacén!
+Emre Doğan	Emilio Duarte
+Mavi polo tişört, siyah pantolon. Elinde siyah bir çanta.	Polo azul, pantalón negro. Lleva un maletín negro.
+Ekip gelene kadar onu silahlı adamlardan koru	Protégelo de los armados hasta que llegue el equipo
+Kuryeyi canlı teslim et	Entrega vivo al correo
+İlk atışta bacağından vur	Dale en la pierna al primer disparo
+Kimse kuryeye nişan alamasın	Que nadie pueda apuntarle al correo
+KARARTMA	APAGÓN
+Merkez saha — gece sevkiyatı	Patio central — envío nocturno
+Kartal sevkiyatı bizzat denetliyor. Işıklar onun lehine — ama elektrik panosu direğin dibinde.	El Águila supervisa el envío en persona. La luz lo favorece — pero el tablero eléctrico está al pie del poste.
+Silah tüccarı Hakan Er, namıdiğer Kartal, gece yarısı limanın merkez sahasında bir sevkiyatı denetliyor. Etrafı aydınlık ve korumalarla dolu.\n\nIşık direğinin dibindeki elektrik panosunu vurursan bütün liman karanlığa gömülür: korumalar kör kalır, ama Kartal da arabasına yürür. Gece görüşü dürbünü bu iş için sende.	El traficante de armas Héctor Ríos, alias el Águila, supervisa un envío a medianoche en el patio central del puerto. El lugar está iluminado y lleno de guardaespaldas.\n\nSi le disparas al tablero eléctrico al pie del poste de luz, todo el puerto quedará a oscuras: los guardaespaldas quedarán ciegos, pero el Águila caminará a su auto. Para este trabajo tienes la mira de visión nocturna.
+Gece görüşünü dürbündeki göz tuşuyla aç. Karanlıkta korumalar yakından geçmedikçe cesetleri göremez. Kartal arabasına binerse kaçar.	Activa la visión nocturna con el botón del ojo en la mira. En la oscuridad los guardaespaldas no ven los cadáveres a menos que pasen cerca. Si el Águila sube a su auto, escapa.
+Kartal arabasıyla kaçtı	El Águila huyó en su auto
+Kartal'ı etkisiz hale getir	Neutraliza al Águila
+Kartal arabasına yürüyor!	¡El Águila camina hacia su auto!
+Sevkiyatın bitmesine	El envío termina en
+KARARTMA — liman karanlığa gömüldü	APAGÓN — el puerto quedó a oscuras
+Işıklar gitti! Gece görüşünü aç — Kartal arabasına gidiyor!	¡Se fue la luz! Activa la visión nocturna — ¡el Águila va hacia su auto!
+Hakan Er	Héctor Ríos
+Lacivert takım, kırmızı kravat, gözlük. Sevkiyatı denetliyor.	Traje azul marino, corbata roja, lentes. Supervisa el envío.
+Silah tüccarı Kartal'ı etkisiz hale getir	Neutraliza al traficante de armas, el Águila
+İstersen önce elektrik panosunu vurup limanı karart	Si quieres, primero dispara al tablero eléctrico y deja el puerto a oscuras
+Işıkları söndür ve karanlıkta vur	Apaga las luces y dispara en la oscuridad
+İĞNE	DARDO
+Rıhtım — Meridian Star iskelesi	Muelle — embarcadero del Meridian Star
+Kimyager gemiye binmeden onu uyut. Kimse ölmeyecek — bu iş temiz olmalı.	Duerme a la Química antes de que suba al barco. Nadie va a morir — este trabajo debe ser limpio.
+Dr. Selin Aras, örgütün sentetik uyuşturucu laboratuvarını yöneten kimyager. Şafak sökmeden iki korumasıyla rıhtım boyunca yürüyüp Meridian Star'a binecek.\n\nİstihbarat onu canlı istiyor. Sana yedi uyuşturucu iğne veriyoruz: kimyageri bayılt. Korumaları da bayıltırsan ekibimiz tekneyle gelip onu sessizce alır. Korumalar — ya da gemiden inen biri — baygın kadına ulaşırsa onu gemiye taşırlar.	La Dra. Silvia Arce, la química que dirige el laboratorio de drogas sintéticas de la organización. Antes del amanecer caminará por el muelle con dos guardaespaldas y subirá al Meridian Star.\n\nInteligencia la quiere viva. Te damos siete dardos sedantes: duerme a la química. Si duermes también a los guardaespaldas, nuestro equipo vendrá en bote y se la llevará en silencio. Si los guardaespaldas — o alguien que baje del barco — llegan hasta la mujer inconsciente, la subirán a bordo.
+Mermi seçici tuşuyla UYUŞTURUCU İĞNE'ye geç. İğne yavaş uçar ve çok düşer: kırmızı nokta isabet yerini gösterir. Önce korumaları bayıltmak işi kolaylaştırır.	Cambia a DARDO SEDANTE con el selector de munición. El dardo vuela lento y cae mucho: el punto rojo muestra dónde impactará. Dormir primero a los guardaespaldas facilita el trabajo.
+Kimyager gemiye bindi	La Química subió al barco
+Kimyageri uyuşturucu iğneyle bayılt	Duerme a la Química con un dardo sedante
+Ekip tekneyle gelene kadar onu korumalardan uzak tut	Mantenla lejos de los guardaespaldas hasta que llegue el equipo en bote
+Meridian Star'ın adamı — kimyageri gemiye taşımak isteyecek	Hombre del Meridian Star — intentará subir a la Química al barco
+Ekip kimyageri tekneye aldı!	¡El equipo subió a la Química al bote!
+Teknenin gelmesine	Llega el bote en
+Gemiden iki kişi iniyor — kimyagere gidiyorlar!	Bajan dos del barco — ¡van hacia la Química!
+Herkes yerde. Tekne hızlanıyor!	Todos en el suelo. ¡El bote acelera!
+Korumalar temiz. Tekne geliyor — 	Guardaespaldas fuera. Viene el bote — 
+ saniye.	 segundos.
+İğne tuttu! Korumaları durdur, sonra ekibi gönderiyorum.	¡El dardo hizo efecto! Detén a los guardaespaldas y luego mando al equipo.
+Koruma kimyagere ulaştı — onu taşıyacak!	Un guardaespaldas llegó a la Química — ¡se la va a llevar!
+Mürettebat kimyagere ulaştı — onu kaldırıyorlar!	La tripulación llegó a la Química — ¡la están levantando!
+Kimyageri gemiye taşıdılar	Subieron a la Química al barco
+Dr. Selin Aras	Dra. Silvia Arce
+Siyah mont, sarı saç. İki korumayla yürüyor.	Chaqueta negra, pelo rubio. Camina con dos guardaespaldas.
+Korumaları durdur, ekip onu tekneyle alsın	Detén a los guardaespaldas para que el equipo se la lleve en bote
+Kimyageri canlı teslim et	Entrega viva a la Química
+Kimseyi öldürme	No mates a nadie
+Önce korumaları bayılt	Duerme primero a los guardaespaldas
+CAM KULE	TORRE DE VIDRIO
+Kordon Plaza — 11. kat	Torre Malecón — piso 11
+Defne Aksoy hâlâ ofiste. Cam mermiyi durdurmaz — ama kırıldığı an içerideki herkes duyar.	Daniela Ochoa sigue en la oficina. El vidrio no detiene la bala — pero en cuanto se rompa, todos adentro lo oirán.
+Liman ağı çöktü ama paranın aktığı yer hâlâ ayakta: Baran Holding. Finans direktörü Defne Aksoy, örgütün kirli parasını aklıyor ve bu gece hesapları yurtdışına taşıyacak.\n\nKordon Plaza'nın 11. katında, ışıkları yanan ofiste tek başına çalışıyor. Katta bir güvenlik görevlisi devriye geziyor. Saat 22:42'de asansörle iniyor: ondan önce bitir.	La red del puerto cayó, pero el lugar por donde fluye el dinero sigue en pie: Grupo Barrera. La directora financiera Daniela Ochoa lava el dinero sucio de la organización y esta noche moverá las cuentas al extranjero.\n\nTrabaja sola en la oficina iluminada del piso 11 de la Torre Malecón. Un guardia de seguridad patrulla el piso. A las 22:42 baja en el ascensor: termina antes.
+Cam mermiyi yavaşlatır ama durdurmaz. İlk atışta cam kırılır ve içeridekiler sesi duyar: Defne kırık cama bakmaya gelir, ikinci kez ürkerse asansöre koşar.	El vidrio frena la bala pero no la detiene. Con el primer disparo el vidrio se rompe y los de adentro oyen el ruido: Daniela vendrá a mirar el vidrio roto, y si se asusta otra vez, correrá al ascensor.
+Defne masaların arkasında, görünmüyor. Ofisin camına yakın bir yere ateş et: kırılan camı görmeye pencereye gelir.	Daniela está detrás de los escritorios y no se ve. Dispara cerca del vidrio de la oficina: vendrá a la ventana a ver el vidrio roto.
+Defne asansöre bindi	Daniela subió al ascensor
+Asansöre inmesine	Baja al ascensor en
+Defne çantasını aldı — asansöre yürüyor!	Daniela tomó su bolso — ¡camina al ascensor!
+Katta bir güvenlik görevlisi var. Cesedi görürse alarm verir, Defne de kaçar.	Hay un guardia de seguridad en el piso. Si ve el cadáver, dará la alarma y Daniela huirá.
+Pencereye her gelişinde birkaç saniye durup şehre bakıyor. Sabırlı ol.	Cada vez que se acerca a la ventana, se queda unos segundos mirando la ciudad. Ten paciencia.
+Defne Aksoy	Daniela Ochoa
+Siyah ceket, mavi etek, kızıl saç, gözlük. Kordon Plaza 11. kat.	Saco negro, falda azul, pelo rojizo, lentes. Torre Malecón, piso 11.
+Defne Aksoy'u asansöre binmeden etkisiz hale getir	Neutraliza a Daniela Ochoa antes de que suba al ascensor
+TRAMVAY	TRANVÍA
+Saat Kulesi tramvay durağı	Parada de tranvía de la Torre del Reloj
+Postacı defteri tramvayla şehirden çıkaracak. 19:06 tramvayı durağa girdiğinde iş biter.	El Cartero sacará el libro de la ciudad en tranvía. Cuando el tranvía de las 19:06 llegue a la parada, se acabó.
+Mert Tunç, nam-ı diğer Postacı, Baran'ın rüşvet defterini taşıyor: kime ne ödendiyse hepsi orada. Kordon'dan yürüyüp Saat Kulesi durağında tramvay bekleyecek.\n\nDurak kalabalık. Postacı'ya çok benzeyen bir yolcu da orada: kapüşonlu, kasketli. Ateş etmeden önce tara. Tramvaya binerse onu kaybederiz.	Mateo Toledo, alias el Cartero, lleva el libro de sobornos de Barrera: ahí está todo lo que se pagó y a quién. Caminará desde el Malecón y esperará el tranvía en la parada de la Torre del Reloj.\n\nLa parada está llena. Hay un pasajero muy parecido al Cartero: con capucha y gorra plana. Escanea antes de disparar. Si sube al tranvía, lo perdemos.
+Yürüyen hedefe biraz önden nişan al. Durakta bekleyenlerden biri Postacı'ya çok benziyor: nişangahı üzerinde tut, kimlik kartını oku.	Apunta un poco por delante del objetivo que camina. Uno de los que esperan en la parada se parece mucho al Cartero: mantén la retícula sobre él y lee su tarjeta de identidad.
+Postacı kaçtı	El Cartero escapó
+Hedef değil — Postacı'ya benzeyen bir yolcu	No es el objetivo — un pasajero parecido al Cartero
+Tramvayın gelmesine	Llega el tranvía en
+Tramvay yola çıktı. Durağa girdiği an Postacı biner.	El tranvía salió. En cuanto llegue a la parada, el Cartero subirá.
+Tramvay durakta — herkes biniyor!	El tranvía está en la parada — ¡todos suben!
+Postacı tramvaya bindi	El Cartero subió al tranvía
+Postacı Kordon'dan durağa yürüyor. Durakta ona benzeyen biri var — önce tara.	El Cartero camina desde el Malecón a la parada. En la parada hay alguien parecido a él — escanea primero.
+Mert Tunç	Mateo Toledo
+Postacı	El Cartero
+Koyu kapüşonlu, gri kasket, kot pantolon. Durağa yürüyor.	Capucha oscura, gorra gris, jeans. Camina a la parada.
+Postacı'yı tramvaya binmeden etkisiz hale getir	Neutraliza al Cartero antes de que suba al tranvía
+Postacı'yı yürürken vur	Dale al Cartero mientras camina
+Yolculara zarar verme	No dañes a los pasajeros
+Devlet Opera ve Balesi	Ópera y Ballet del Estado
+Aydemir'in dublörü önden gelir. Limuzinden inen adama inanma — önce tara.	El doble de Arriaga llega primero. No te fíes del hombre que baja de la limusina — escanea primero.
+Armatör Cevdet Aydemir, Baran'ın gemilerinin sahibi. Bu gece operanın sezon açılışında: kırmızı halı, fotoğrafçılar, polis.\n\nAydemir kalabalığa asla önce kendisi çıkmaz: limuzinden önce dublörü iner. Gerçek Aydemir birkaç dakika sonra siyah bir sedanla gelir, eşiyle halıda poz verir ve içeri girer. Perde arasında balkona çıkacağı biliniyor.	El naviero Gonzalo Arriaga es el dueño de los barcos de Barrera. Esta noche está en la apertura de temporada de la ópera: alfombra roja, fotógrafos, policía.\n\nArriaga nunca sale primero ante la multitud: de la limusina baja antes su doble. El verdadero Arriaga llega unos minutos después en un sedán negro, posa con su esposa en la alfombra y entra. Se sabe que en el entreacto saldrá al balcón.
+Flaşlar patlarken dürbünde parlama olur, panik yapma. Dublörü vurursan herkes kaçar ve gerçek Aydemir'in arabası durmadan geçer.	Con los flashes la mira deslumbra; no entres en pánico. Si le disparas al doble, todos huirán y el auto del verdadero Arriaga pasará sin detenerse.
+Dikkat: limuzinden inen adam Aydemir'in dublörü olabilir	Ojo: el hombre que baja de la limusina podría ser el doble de Arriaga
+DUBLÖR — bu Aydemir değil!	DOBLE — ¡ese no es Arriaga!
+Sedanda — operaya geliyor	En un sedán — llega a la ópera
+Aydemir operaya kaçtı	Arriaga huyó a la ópera
+Aydemir salona döndü — fırsat kaçtı	Arriaga volvió a la sala — se fue la oportunidad
+Aydemir balkona çıktı!	¡Arriaga salió al balcón!
+CANLI  ·  OPERA GİRİŞİ	EN VIVO  ·  ENTRADA DE LA ÓPERA
+Siyah bir sedan bulvara girdi, operaya geliyor. Kim olduğunu taramadan ateş etme.	Un sedán negro entró al bulevar y viene a la ópera. No dispares sin escanear quién es.
+Aydemir'in arabası durmadan geçti	El auto de Arriaga pasó sin detenerse
+İçeri giren dublördü. Asıl adam birazdan geliyor — sabır.	El que entró era el doble. El verdadero llega en un momento — paciencia.
+Cevdet Aydemir	Gonzalo Arriaga
+Armatör	Naviero
+Kır saç, bıyık, gri smokin ve papyon. Eşi kırmızı elbiseli.	Pelo canoso, bigote, esmoquin gris y corbata de moño. Su esposa va de vestido rojo.
+Cevdet Aydemir'i gala gecesinde etkisiz hale getir	Neutraliza a Gonzalo Arriaga en la noche de gala
+Kırmızı halıda vur	Dispara en la alfombra roja
+Dublöre ve davetlilere dokunma	No toques al doble ni a los invitados
+MİTİNG	MITIN
+Saat Kulesi Meydanı	Plaza de la Torre del Reloj
+Başsavcı bugün Baran hakkında iddianameyi açıklıyor. Onu öldürmek isteyen tek kişi değiliz bu sefer — onu korumak bizim işimiz.	Hoy la Fiscal General presenta la acusación contra Barrera. Esta vez no somos los únicos que la quieren muerta — nuestro trabajo es protegerla.
+Başsavcı Nermin Arslan, meydandaki halk buluşmasında Baran'a açılan davayı anlatacak. Baran onu konuşturmamak için iki kişi tuttu: meydanı yukarıdan gören bir keskin nişancı ve kalabalığa karışmış silahlı biri.\n\nNişancıyı önce bul. Dikkat: bir atış yaparsan namlu alevini görür ve sana döner. Savcı konuşmasını bitirip sahneden inene kadar hayatta kalmalı.	La Fiscal General Norma León explicará en un acto público en la plaza el caso contra Barrera. Barrera contrató a dos para callarla: un francotirador que domina la plaza desde lo alto y un armado mezclado entre la multitud.\n\nEncuentra primero al francotirador. Ojo: si disparas, verá el fogonazo y se girará hacia ti. La fiscal debe seguir viva hasta que termine su discurso y baje del escenario.
+Keskin nişancının dürbünü güneşi yakaladıkça parlar. Sana nişan alırsa kırmızı halka dolmadan onu indir. Kalabalıktaki adam silah çekince kolundan vurursan silahını düşürür.	La mira del francotirador destella cada vez que capta el sol. Si te apunta, abátelo antes de que se llene el anillo rojo. Si le das en el brazo al de la multitud cuando saque el arma, la soltará.
+Susturuculu tüfekle nişancı seni daha geç fark eder	Con un rifle con silenciador, el francotirador te detecta más tarde
+İstihbarat: meydanı yukarıdan gören bir nişancı ve kalabalıkta silahlı biri var	Inteligencia: hay un francotirador que domina la plaza desde lo alto y un armado entre la multitud
+Nermin Arslan	Norma León
+BAŞSAVCI	FISCAL GENERAL
+Başsavcı — konuşması bitene kadar koru	Fiscal General — protégela hasta que termine su discurso
+Başsavcıyı konuşması bitene kadar koru	Protege a la Fiscal General hasta que termine su discurso
+Kuledeki Nişancı	Francotirador de la torre
+Siyah gömlek, güneş gözlüğü — saat kulesinin çan katında	Camisa negra, lentes de sol — en el campanario de la torre del reloj
+Kalabalıktaki Adam	El de la multitud
+Siyah kapüşonlu, kırmızı bere, sakallı	Capucha negra, gorro rojo, barbudo
+Nişancıyı ve silahlıyı durdur	Detén al francotirador y al armado
+Nişancıyı ve silahlıyı durdur  	Detén al francotirador y al armado  
+Kalabalıkta biri öne doğru itiliyor — silahı var!	Alguien se abre paso entre la multitud — ¡está armado!
+Bir dürbün parladı! Savcıya nişan alıyorlar — bul onu!	¡Destelló una mira! Le apuntan a la fiscal — ¡encuéntralo!
+Kuledeki nişancı seni vurdu	El francotirador de la torre te dio
+Meydanı tepeden gören her yere bak. Bir nişancı varsa dürbünü güneşte parlar.	Revisa cada punto que domine la plaza desde arriba. Si hay un francotirador, su mira destellará al sol.
+Başsavcı	Fiscal General
+Gri takım, küt kesim saç. Sahnede, kürsüde konuşuyor.	Traje gris, pelo corto. Habla en el atril del escenario.
+Nişancıyı ve kalabalıktaki silahlıyı bul ve durdur (bonus)	Encuentra y detén al francotirador y al armado de la multitud (bono)
+Başsavcıyı koru	Protege a la Fiscal General
+Kimse nişan alamadan ikisini de durdur	Detén a ambos antes de que alguien apunte
+Kalabalığa zarar verme	No dañes a la multitud
+İSKELE	EMBARCADERO
+Kordon vapur iskelesi	Embarcadero de ferris del Malecón
+Muhasebeci sabah vapurundan inecek. Müşteri onu canlı istiyor: bacağından.	El contador bajará del ferri de la mañana. El cliente lo quiere vivo: en la pierna.
+Ertan Koç, Baran'ın bütün hesaplarını bilen muhasebeci. Sabah vapuruyla şehre geliyor, iskeleden yürüyüp taksiye binecek ve havalimanına gidecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, taksi durağında bekleyen ekibimiz koşup onu alsın. Baran da onu izletiyor: muhasebeci yere düştüğü an susturmak için birini gönderecek.	Ernesto Cortés, el contador que conoce todas las cuentas de Barrera. Llega a la ciudad en el ferri de la mañana; caminará desde el embarcadero, tomará un taxi e irá al aeropuerto.\n\nEl cliente lo quiere VIVO: dale en la pierna y nuestro equipo, que espera en la parada de taxis, correrá a recogerlo. Barrera también lo vigila: en cuanto el contador caiga, enviará a alguien a silenciarlo.
+Vapurdan inen kalabalıkta herkesi tara. Muhasebeci yere düşünce Baran'ın adamı motosikletle promenattan gelir: silah çekmeden önce onu durdur.	Escanea a todos entre la multitud que baja del ferri. Cuando caiga el contador, el hombre de Barrera llegará en moto por el malecón: detenlo antes de que saque el arma.
+Muhasebeci taksiyle kaçtı	El contador huyó en taxi
+Muhasebeciyi BACAĞINDAN vur — ölmemeli	Dale al contador en la PIERNA — no debe morir
+Vapurda — iskeleye yanaşıyor	En el ferri — atracando
+CANLI  ·  VAPUR İSKELESİ	EN VIVO  ·  EMBARCADERO DE FERRIS
+Gri tişört, kırmızı bere — Baran'ın tetikçisi	Camiseta gris, gorro rojo — el sicario de Barrera
+Bekleyen Adam	El que espera
+Gri ceket — tramvay durağında, silahlı	Saco gris — en la parada del tranvía, armado
+Baran'ın adamlarını durdur	Detén a los hombres de Barrera
+Baran'ın adamlarını durdur  	Detén a los hombres de Barrera  
+Ekibin ulaşmasına	Llega el equipo en
+Muhasebeci yerde! Ekip koşuyor — 	¡El contador cayó! El equipo corre — 
+ saniye. Baran'ın adamı da yolda!	 segundos. ¡El hombre de Barrera también viene en camino!
+Tramvay durağındaki gri ceketli de Baran'ın adamı — muhasebeciye gidiyor!	El del saco gris en la parada del tranvía también es de Barrera — ¡va hacia el contador!
+Tehlike geçti — ekip koşuyor!	Pasó el peligro — ¡el equipo corre!
+Ekip muhasebeciyi aldı!	¡El equipo recogió al contador!
+Vapur yanaşıyor. Muhasebeci elinde siyah bir evrak çantasıyla inecek.	El ferri atraca. El contador bajará con un portafolios negro.
+Ertan Koç	Ernesto Cortés
+Kahverengi deri mont, kot pantolon, gözlük. Elinde siyah evrak çantası.	Chaqueta de cuero café, jeans, lentes. Lleva un portafolios negro.
+Ekip gelene kadar onu Baran'ın adamlarından koru	Protégelo de los hombres de Barrera hasta que llegue el equipo
+Muhasebeciyi canlı teslim et	Entrega vivo al contador
+Baran'ın adamları nişan alamasın	Que los hombres de Barrera no puedan apuntar
+YAĞMUR	LLUVIA
+Saat Kulesi Meydanı — çeşme	Plaza de la Torre del Reloj — fuente
+ÇİFT HEDEF	DOBLE OBJETIVO
+İkisi de şemsiye altında. Biri düştüğü an öteki kaçar — ikinci atışın hazır olsun.	Los dos están bajo paraguas. En cuanto uno caiga, el otro huirá — ten listo el segundo disparo.
+Gazeteci Selin Ay'ı öldüren tetikçi Erol Kaya, nam-ı diğer Çakal, bu gece parasını alacak. Parayı getiren, cinayet dosyasını kapatan Komiser Tuncay Er.\n\nYağmurda, çeşmenin başında buluşacaklar. İkisi de bu işin bedelini ödeyecek. Biri vurulduğu an öteki aracına koşar: Komiser'in arabası Plaza Sokak'ta, Çakal'ın motosikleti meydanın köşesinde. Sana yarı otomatik bir tüfek ve termal dürbün veriyoruz.	El sicario que mató a la periodista Sofía Luna, Elías Rojas, alias el Chacal, cobrará esta noche. Quien trae el dinero es el comisario Raúl Ibarra, el que cerró el caso del asesinato.\n\nSe reunirán bajo la lluvia, junto a la fuente. Los dos pagarán por esto. En cuanto uno reciba el disparo, el otro correrá a su vehículo: el auto del comisario está en la calle Alameda y la moto del Chacal, en la esquina de la plaza. Te damos un rifle semiautomático y una mira térmica.
+Şemsiyeler yukarıdan bakınca başı saklar ama kurşunu durdurmaz. Termal dürbün yağmurda vücut ısısını gösterir. Yarı otomatik tüfekle sürgü çekmeden ikinci atışı yaparsın.	Vistos desde arriba, los paraguas ocultan la cabeza pero no detienen la bala. La mira térmica muestra el calor corporal bajo la lluvia. Con el rifle semiautomático haces el segundo disparo sin accionar el cerrojo.
+Ödünç: FIRTINA DMR (yarı otomatik) ve termal dürbün	Prestado: TORMENTA DMR (semiautomático) y mira térmica
+Komiser arabasıyla kaçtı	El comisario huyó en su auto
+Çakal motosikletle kaçtı	El Chacal huyó en moto
+Komiser çeşmenin başında bekliyor. Çakal meydanın güneyinden geliyor — kırmızı şemsiyeli.	El comisario espera junto a la fuente. El Chacal viene del sur de la plaza — con paraguas rojo.
+Biri düştüğü an öteki koşar. İkisini de aynı anda görebileceğin yeri bekle.	En cuanto uno caiga, el otro correrá. Espera a poder ver a los dos a la vez.
+Erol Kaya	Elías Rojas
+Çakal	El Chacal
+Siyah kapüşonlu, kırmızı bere, sakallı. Kırmızı şemsiye.	Capucha negra, gorro rojo, barbudo. Paraguas rojo.
+Tuncay Er	Raúl Ibarra
+Lacivert polo, kep, bıyıklı. Siyah şemsiye.	Polo azul marino, gorra, bigote. Paraguas negro.
+Çakal'ı etkisiz hale getir	Neutraliza al Chacal
+Komiser Tuncay Er'i etkisiz hale getir	Neutraliza al comisario Raúl Ibarra
+İkisini 4 saniye içinde vur	Dale a ambos en menos de 4 segundos
+İkisini de kafadan vur	Dale a ambos en la cabeza
+HELİPAD	HELIPUERTO
+Palas Oteli çatısı	Azotea del Hotel Imperial
+Demirel'i almaya bir helikopter geliyor. Kapısı kapandığı an iş biter.	Viene un helicóptero por Delgado. En cuanto se cierre su puerta, se acabó.
+Tolga Demirel, eski özel kuvvetler subayı, Baran'ın güvenlik şefi. Sana ve ekibimize karşı yürütülen her şeyi o planlıyor. Bu akşam Palas Oteli'nin çatısından helikopterle şehirden çıkacak.\n\nHelikopter piste indikten sonra Demirel iki korumasıyla çatı kapısından çıkıp yürüyecek. Mesafe uzun ve çatıda rüzgar sert. Helikopterin motorunu önceden vurursan yerde kalır: Demirel binaya geri döner — ama o yürüyüş açıkta geçer.	Tomás Delgado, ex oficial de fuerzas especiales y jefe de seguridad de Barrera. Él planea todo lo que se hace contra ti y nuestro equipo. Esta tarde dejará la ciudad en helicóptero desde la azotea del Hotel Imperial.\n\nCuando el helicóptero aterrice, Delgado saldrá por la puerta de la azotea con dos guardaespaldas y caminará hacia él. La distancia es larga y en la azotea sopla un viento fuerte. Si antes le disparas al motor del helicóptero, quedará en tierra: Delgado volverá al edificio — pero esa caminata será a la vista.
+Uzun atışta rüzgar okuna ve kurşun düşüşüne dikkat. Helikopterin gövdesine iki isabet motoru durdurur; patlayıcı mermi tek atışta yeter.	En tiros largos, atento a la flecha del viento y a la caída de la bala. Dos impactos en el fuselaje detienen el motor; una bala explosiva basta con un tiro.
+Otelin çatısının batı köşesinde dürbünlü biri var. Dürbün sana dönünce eğil — ya da önce onu indir.	En la esquina oeste de la azotea del hotel hay alguien con binoculares. Agáchate cuando giren hacia ti — o abátelo primero.
+Binada — çatıya çıkacak	En el edificio — subirá a la azotea
+Demirel helikopterle kaçtı	Delgado huyó en helicóptero
+Demirel çatıya çıktı!	¡Delgado salió a la azotea!
+Demirel binaya geri döndü	Delgado volvió al edificio
+Motor durdu — helikopter yerde kaldı!	El motor se detuvo — ¡el helicóptero quedó en tierra!
+Güzel! Helikopter gitmiyor. Demirel binaya dönecek — yürürken yakala!	¡Bien! El helicóptero no se va. Delgado volverá al edificio — ¡atrápalo mientras camina!
+CANLI  ·  PALAS HELİPADI	EN VIVO  ·  HELIPUERTO IMPERIAL
+Helikopter denizden geliyor. Demirel inişten sonra çatı kapısından çıkacak.	El helicóptero llega desde el mar. Delgado saldrá por la puerta de la azotea tras el aterrizaje.
+Tolga Demirel	Tomás Delgado
+Güvenlik Şefi	Jefe de Seguridad
+Kel, sakallı, güneş gözlüklü. Siyah kruvaze takım.	Calvo, barbudo, lentes de sol. Traje negro cruzado.
+Tolga Demirel'i helikoptere binmeden etkisiz hale getir	Neutraliza a Tomás Delgado antes de que suba al helicóptero
+Helikopteri havalanmadan yere çak	Deja el helicóptero en tierra antes de que despegue
+SON PERDE	ÚLTIMO ACTO
+Palas Oteli — çatı katı	Hotel Imperial — penthouse
+Baran biliyor. Çatıda bir nişancısı, bir projektörü ve bekleyen bir helikopteri var. Bu gece bitiyor.	Barrera lo sabe. Tiene un francotirador en la azotea, un reflector y un helicóptero esperando. Esta noche se acaba.
+Kenan Baran. Limandaki kaçakçılık, kirli para, satın alınmış polisler, susturulan tanıklar: hepsinin arkasındaki adam. Bu gece Palas Oteli'nin çatı katında, cam duvarların ardında küçük bir parti veriyor.\n\nBaran bizi bekliyor. Çatıda projektörle damları tarayan bir adam ve bir keskin nişancı var: ışık seni bulursa nişancı sana döner. Ateş edersen Baran merdivenden çatıya, bekleyen helikoptere koşar. Bu son iş — temiz bitir.	Esteban Barrera. El contrabando del puerto, el dinero sucio, los policías comprados, los testigos silenciados: el hombre detrás de todo. Esta noche da una pequeña fiesta en el penthouse del Hotel Imperial, tras paredes de vidrio.\n\nBarrera nos espera. En la azotea hay un hombre que barre los techos con un reflector y un francotirador: si la luz te encuentra, el francotirador se girará hacia ti. Si disparas, Barrera correrá por la escalera a la azotea, al helicóptero que espera. Este es el último trabajo — termínalo limpio.
+Önce çatıdaki nişancıyı bul: dürbünü yeşil parlar. Projektör ışığı üzerine gelince nişancı sana nişan alır. Cam duvarlar mermiyi durdurmaz.	Encuentra primero al francotirador de la azotea: su mira brilla en verde. Cuando el reflector te ilumine, el francotirador te apuntará. Las paredes de vidrio no detienen la bala.
+Çatıda projektör ve bir karşı nişancı var — ışık seni bulmadan onu bul	En la azotea hay un reflector y un contrafrancotirador — encuéntralo antes de que la luz te encuentre a ti
+Kenan Baran'ı etkisiz hale getir	Neutraliza a Esteban Barrera
+Baran helikopterle kaçtı	Barrera huyó en helicóptero
+Palas'ın çatısında, korkuluğun arkasında	En la azotea del Imperial, tras la baranda
+PROJEKTÖR ÜZERİNDE — GÖRÜLDÜN!	EL REFLECTOR TE ALUMBRA — ¡TE VIERON!
+Projektör damları tarıyor, sana yaklaşıyor! Işık seni bulmadan nişancıyı indir.	El reflector barre los techos y se te acerca. ¡Abate al francotirador antes de que la luz te encuentre!
+Baran binaya geri döndü	Barrera volvió al edificio
+Merdivende — çatıya çıkıyor	En la escalera — sube a la azotea
+Baran çatıya kaçıyor — helikoptere!	Barrera huye a la azotea — ¡al helicóptero!
+Helikopter yerde kaldı!	¡El helicóptero quedó en tierra!
+BARAN	BARRERA
+Biliyorum oradasın, tetikçi. Bu camların ardında bana dokunamazsın.	Sé que estás ahí, sicario. Detrás de estos vidrios no puedes tocarme.
+Telsizini dinliyoruz. Çatıda projektör ve bir nişancı var — önce onu bul.	Estamos escuchando su radio. En la azotea hay un reflector y un francotirador — encuéntralo primero.
+Baran düştü. Bitti... Şehir artık nefes alabilir.	Barrera cayó. Se acabó... La ciudad por fin puede respirar.
+Kenan Baran	Esteban Barrera
+Gümüş saç ve sakal, koyu takım, kırmızı kravat.	Pelo y barba plateados, traje oscuro, corbata roja.
+Çatıdaki nişancı sana nişan alamasın	Que el francotirador de la azotea no pueda apuntarte
+Davetlilere zarar verme	No dañes a los invitados
+Buluşmanın bitmesine	La reunión termina en
+Buluşma başladı	Empezó la reunión
+Kurşun siperine çarptı — nişancı başını kaldırmanı bekliyor	La bala dio en su cobertura — el francotirador espera que asomes la cabeza
+Iskaladı — nişancı yeniden nişan alıyor	Falló — el francotirador vuelve a apuntar
+Nişancı yine aşağıya nişan alıyor!	¡El francotirador vuelve a apuntar abajo!
+Seni gördü! Ateş etmeden onu indir — ya da siperine eğil!	¡Te vio! Abátelo antes de que dispare — ¡o agáchate tras tu cobertura!
+2 sözleşme tamamla	Completa 2 contratos
+3 kafadan vuruş yap	Haz 3 tiros a la cabeza
+250 m'den uzak bir isabet	Un impacto a más de 250 m
+Alarm vermeden bir iş bitir	Termina un trabajo sin alarma
+S derecesi al	Obtén rango S
+5 yıldız topla	Junta 5 estrellas
+2 zırhlı adamı sustur	Silencia a 2 blindados
+VETERAN olarak bir iş bitir	Termina un trabajo en VETERANO
+Sivillere dokunmadan 2 iş bitir	Termina 2 trabajos sin tocar civiles
+Dürbün, nefes tutma ve ilk atış.	Mira, contener el aliento y primer disparo.
+MENZİL ayarı: uzak hedefte mermi düşer, sarı çizgilerle tut.	Ajuste de ALCANCE: a distancia la bala cae; corrige con las líneas amarillas.
+Dikkat dağıtma: yakınına düşen kurşun ya da araba alarmı hedefi siperden çıkarır.	Distracción: una bala cerca o la alarma de un auto saca al objetivo de su cobertura.
+Gece ve gözcü: önce seni görebilecek olanı düşün.	Noche y vigía: piensa primero en quien puede verte.
+Hedefi kendin bul. İsabet noktası artık sadece nefes tutarken görünür.	Encuentra tú al objetivo. El punto de impacto ahora solo se ve al contener el aliento.
+Hareketli hedef: yürüyüşüne göre önden nişan al.	Objetivo en movimiento: apunta por delante según su paso.
+Uzun atış ve sert rüzgâr: rüzgâr panelindeki mil değerine göre kaydır.	Tiro largo y viento fuerte: corrige según el valor en mil del panel de viento.
+Koruma: kalabalıktaki tetikçileri bul, tanık yaşasın.	Escolta: encuentra a los sicarios entre la multitud y que la testigo viva.
+Canlı yakala: bacaktan vur, öldürme.	Captura vivo: dispara a la pierna, no mates.
+Karanlık: ışığı kesmek korumaları kör eder.	Oscuridad: cortar la luz deja ciegos a los guardaespaldas.
+Uyuşturucu iğne: kimse ölmeyecek.	Dardo sedante: nadie va a morir.
+Şehir: isabet noktası yok. Iskalarsan hedef kaçar; iş bitince yerin biliniyorsa çıkış var.	Ciudad: sin punto de impacto. Si fallas, el objetivo huye; si al terminar te ubicaron, aún hay salida.
+Dublör: yüze iyi bak, yanlış kişiyi vurursan iş biter.	Doble: fíjate bien en la cara; si le disparas a la persona equivocada, se acabó.
+Karşı nişancı: önce o seni bulmasın.	Contrafrancotirador: que no te encuentre él primero.
+Çift hedef: biri düşünce öteki kaçar, ikinci atış hazır olsun.	Doble objetivo: cuando uno cae el otro huye; ten listo el segundo disparo.
+Zaman penceresi: helikopterin kapısı kapanınca iş biter.	Ventana de tiempo: cuando se cierra la puerta del helicóptero, se acabó.
+Dağ: rüzgâr sert ve değişken. Paneldeki yön ve gücü izle, dindiği anı bekle.	Montaña: viento fuerte y variable. Sigue la dirección y la fuerza del panel y espera a que amaine.
+Kaza: kurşun değil, çığ.	Accidente: no una bala, sino un alud.
+Tipi: termal dürbün olmadan göremezsin.	Ventisca: sin mira térmica no ves nada.
+Ses örtüsü: havai fişek patlarken atış duyulmaz.	Cobertura sonora: mientras estallan los fuegos, el disparo no se oye.
+HAFİF	SUAVE
+ORTA	MEDIO
+SERT	FUERTE
+FIRTINA	TORMENTA
+LİMAN	PUERTO
+Konteyner limanı	Puerto de contenedores
+Kaçakçılar, silah tüccarları ve rüşvet ağı. Her şey limanda başladı.	Contrabandistas, traficantes de armas y una red de sobornos. Todo empezó en el puerto.
+Liman kuruluyor	Montando el puerto
+ŞEHİR MERKEZİ	CENTRO
+ŞEHİR OPERASYONU	OPERACIÓN CIUDAD
+Örgütün parası ve koruyucuları şehirde. Opera, gökdelen, otel — ve deniz kıyısında bir meydan.	El dinero y los protectores de la organización están en la ciudad. Ópera, rascacielos, hotel — y una plaza junto al mar.
+Şehir kuruluyor	Montando la ciudad
+Liman'da 6. görevi bitir	Completa la misión 6 en el Puerto
+KARTAL TEPE	CERRO CÓNDOR
+DAĞ OPERASYONU	OPERACIÓN MONTAÑA
+Kartal Tepe Kayak Merkezi	Centro de esquí Cerro Cóndor
+Örgütün konseyi karlı bir dağ otelinde toplanıyor. Teleferik, dağ evleri, donmuş göl — ve tipi.	El consejo de la organización se reúne en un hotel de montaña nevado. Teleférico, cabañas, un lago helado — y ventisca.
+Dağ kuruluyor	Montando la montaña
+Şehirde 16. görevi bitir	Completa la misión 16 en la Ciudad
+Başlatılıyor	Iniciando
+Hazırlanıyor	Preparando
+Hazır	Listo
+Ceset suya gömüldü — kimse bulamayacak	El cuerpo se hundió en el agua — nadie lo encontrará
++%{0} BONUS	+{0}% BONO
+Bu paket için {0} elmas gerekiyor, sende {1} var.	Este paquete requiere {0} gemas y tienes {1} en total.
+{0} kuşanıldı. Cephanelikte seni bekliyor.	{0} equipado. Te espera en la armería.
+{0} satın alım geri yüklendi.	{0} compras restauradas.
+Bugün {0} / {1} hakkın kaldı	Te quedan {0} / {1} hoy
+{0}. GÜN	DÍA {0}
+{0} Z. DELİCİ	{0} PERF. (AP)
+TAKTİK HARİTA  ·  GÖREV {0}  ·  {1}	MAPA TÁCTICO  ·  MISIÓN {0}  ·  {1}
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     <color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#46C8F2>●</color> Posiciones de tiro     <color=#FF4545>●</color> Zona del objetivo     <color=#FFFFFF>- -</color> Rutas conocidas     Anillos: cada 100 m desde el nido principal     Arriba: dirección del nido principal
+ZORLUK  {0}/10	DIFICULTAD  {0}/10
+Bu iş {0} olmadan yapılamaz. Cephaneliğe git?	Para este trabajo necesitas {0} sí o sí. ¿Ir a la armería?
+Bu sözleşme için önerilen güç {0}, {1} şu an {2}.\nGeliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	Poder recomendado para este contrato: {0}; {1} actual: {2}.\nPuedes intentarlo sin mejorar, pero los blindados y los objetivos lejanos serán difíciles.
+<b><color=#E8B04A>YENİ:</color></b> {0}\n{1}	<b><color=#E8B04A>NUEVO:</color></b> {0}\n{1}
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n{0}	<b><color=#FFB21E>VETERANO:</color></b> sin punto de impacto, viento más fuerte y variable, el rifle se mueve más y el objetivo no se marca. Recompensa ×1,5.\n{0}
+BÖLÜM {0}	CAPÍTULO {0}
+GÖREV {0}  ·  {1}	MISIÓN {0}  ·  {1}
+TÜFEK:  {0}   <size=26><color={1}>GÜÇ {2}</color><color=#6B7682>  /  önerilen {3}</color></size>	RIFLE:  {0}   <size=26><color={1}>PODER {2}</color><color=#6B7682>  /  recomendado {3}</color></size>
+   ·   Verilen: {0}	   ·   Asignado: {0}
+GÖREV {0} · {1}	MISIÓN {0} · {1}
+Baran'ın kasası: {0}	Caja fuerte de Barrera: {0}
++{0} ELMAS	+{0} GEMAS
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.{0}	Contrato incompleto — sin pago.\nPuedes repetir el trabajo; arriba ves qué salió mal.{0}
+Bu iş için önerilen güç {0}, senin tüfeğin {1}. Geliştir ya da {2} hemen güçlen.	Poder recomendado para este trabajo: {0}, tu rifle: {1}. Mejóralo o gana poder ya {2}.
++{0} TP	+{0} XP
+TELAFİ +{0}	COMPENSACIÓN +{0}
+GÖREV {0}	MISIÓN {0}
+{0}Rüzgâr {1} m/s   ·   {2}\nZORLUK {3}/10{4}	{0}Viento {1} m/s   ·   {2}\nDIFICULTAD {3}/10{4}
+Önerilen güç <b>{0}</b>   ·   Tüfeğin <color={1}><b>{2}</b></color>	Poder recomendado <b>{0}</b>   ·   Tu rifle <color={1}><b>{2}</b></color>
+Yenisi {0} sa {1} dk sonra	Nuevo en {0} h {1} min
+{0} · {1}  —  VETERAN kurallarıyla	{0} · {1}  —  con reglas de VETERANO
+Güç {0} / {1}	Poder {0} / {1}
+Görev aralarındaki reklamları {0} karşılığında sonsuza dek kaldır. Hediye: {1} elmas.	Elimina para siempre los anuncios entre misiones por {0} (pago único). Regalo: {1} gemas.
+{0} için {1} elmas gerekiyor, sende {2} var.	{0} requiere {1} gemas y tienes {2}.
+{0} {1} elmasla hemen senin olsun mu?	{0} por {1} gemas: ¿lo quieres ya?
+SEVİYE {0} GEREKLİ	NIVEL {0} NECESARIO
+Son kademe (elmasla) {0}. seviyede açılır. Sözleşmelerden tecrübe kazan.	El último nivel (con gemas) se abre en el nivel {0}. Gana experiencia con los contratos.
+Bu geliştirme için {0} eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.\nBugün {1} hakkın var.	Te faltan {0} para esta mejora. Mira un video corto, se completa el dinero que falta y la mejora se aplica al instante.\nHoy te quedan {1} intentos.
+Son kademe {0} elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	Último nivel: {0} gemas. Puedes comprar gemas en la tienda o juntarlas con los premios diarios.
+Bu geliştirme {0}. Sözleşmelerden para kazan ya da mağazaya bak.	Esta mejora cuesta {0}. Gana dinero con los contratos o revisa la tienda.
+GÜÇ <color=#FFB21E>{0}</color>   ·   {1}	PODER <color=#FFB21E>{0}</color>   ·   {1}
+{0}   ·   {1} ★ ile açılır	{0}   ·   {1} ★ para desbloquear
+{0}  <color=#46C8F2>EN ÜST</color>	{0}  <color=#46C8F2>MÁXIMO</color>
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> {0}. kademe ya da zırh delici mermi gerekir.	Para perforar el torso de los blindados necesitas <color=#FFB21E>DAÑO</color> nivel {0} o balas perforantes.
+SATIN AL   {0}	COMPRAR   {0}
+{0} ★ YA DA   	{0} ★ O   
+{0} ELMASLA AL	{0} GEMAS
+{0} yıldızla açılır	{0} estrellas para desbloquear
+SATIN AL  {0}	COMPRAR  {0}
+YÜKSELT  {0}	MEJORAR  {0}
+YER DEĞİŞTİRİYORSUN\n<size=30>{0}  ·  {1} sn</size>	REUBICÁNDOTE\n<size=30>{0}  ·  {1} s</size>
+KURŞUN KAMERASI  ·  {0}	CÁMARA DE BALA  ·  {0}
+“{0}” — sözleşme hedefi	“{0}” — objetivo del contrato
+Yaralı — {0}	Herido — {0}
+KEŞİF  ·  {0} / {1} tehdit tarandı	RECON  ·  {0} / {1} amenazas escaneadas
+TELSİZ  {0},{1} sn	RADIO  {0},{1} s
+Yıldız kaçtı: {0}	Estrella perdida: {0}
+SÖZLEŞME {0}  ·  {1}{2}	CONTRATO {0}  ·  {1}{2}
+{0}  <size=24><color=#A3AEB9>·  SEVİYE {1}</color></size>	{0}  <size=24><color=#A3AEB9>·  NIVEL {1}</color></size>
+{0} / {1} TP	{0} / {1} XP
+{0}   ·   SEVİYE {1}	{0}   ·   NIVEL {1}
+AÇILDI:  {0}	DESBLOQUEADO:  {0}
+ÖDÜLLÜ TEST REKLAMI  ·  {0}	ANUNCIO DE PRUEBA CON PREMIO  ·  {0}
+TEST REKLAMI  ·  her {0} görevde bir	ANUNCIO DE PRUEBA  ·  uno cada {0} misiones
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	No tienes nombre. El ejército te dio por muerto hace tres años. CONTROL te encontró en un hospital militar y te hizo una sola oferta: desmantela la red de contrabando del puerto y tu pasado se borrará.\n\nCada contrato es un nombre. Cada nombre, el camino al siguiente.
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\nBu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	El puerto cayó, pero el dinero sigue fluyendo. El último número en el teléfono de Víctor Kral lleva a la Torre Malecón: Grupo Barrera.\n\nEsta vez los objetivos llevan traje. Entre la multitud, tras paredes de vidrio, junto a policías.
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	Los archivos de la caja fuerte de Barrera dan cinco nombres: el Consejo. Cinco personas que por años alimentaron y protegieron a Barrera, y que pasan la semana de Año Nuevo cada año en Cerro Cóndor.\n\nEntre los archivos hay una firma más. Una firma conocida.
+Vuruldun — {0}	Te dieron — {0}
+Üç tetikçiyi de durdur  {0}/3	Detén a los tres sicarios  {0}/3
+{0} fişek	{0} cartuchos
+Bu açıdan {0} görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	Desde este ángulo {0} no se ve. Cambia de posición con REUBICARSE.
+{0} silahlı adam mevzi alıyor — yuvanı arıyorlar!	{0} armados toman posición — ¡buscan tu nido!
+Etkisiz hale getir: {0}	Neutraliza: {0}
+{0} öldürüldü	{0} fue asesinado
+İsabet — {0} atış daha	Impacto — {0} disparos más
+YENİ HEDEF: {0}	NUEVO OBJETIVO: {0}
+SİLAHLI ADAM BULUNDU: {0}	ARMADO DETECTADO: {0}
+HEDEF DOĞRULANDI: {0}	OBJETIVO CONFIRMADO: {0}
+KİMLİK DOĞRULANDI: {0}	IDENTIDAD CONFIRMADA: {0}
+YENİ YER: {0}	NUEVA POSICIÓN: {0}
+Dron bölgeyi taradı — {0} kişi tanımlandı	El dron escaneó la zona — {0} personas identificadas
+{0} öldü!	¡{0} murió!
+{0} hedef kaldı	{0} objetivos restantes
+{0} yaralandı — artık yürüyemiyor	{0} herido — ya no puede caminar
+{0} bayıldı — güvenli yere ulaşamaz	{0} se desmayó — no podrá ponerse a salvo
+ISKALADIN — {0} KAÇIYOR!	FALLASTE — ¡{0} ESCAPA!
+Sana ateş edenleri sustur  ·  {0} kaldı	Silencia a los que te disparan  ·  {0} restantes
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — {0} silahlı var, hepsini sustur. Gerekirse siper al.	El objetivo cayó, pero tu posición está expuesta. Que nadie te siga — {0} armados, silénciales a todos. Cúbrete si hace falta.
+Yıldız hedefleri  ×{0}	Objetivos ★  ×{0}
+Uzak atış  ·  {0} m	Tiro lejano  ·  {0} m
+Keşif  ·  {0}/{1} tehdit	Recon  ·  {0}/{1} amenazas
+Sivil kaybı  ×{0}	Bajas civiles  ×{0}
+Yaralı sivil  ×{0}	Civiles heridos  ×{0}
+Tekrar oynanış  ×%{0}	Repetición  ×{0}%
+Tetikçileri durdur  {0}/2	Detén a los sicarios  {0}/2
+Kurye yerde! Ekip yolda — {0} saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	¡El correo cayó! El equipo está en camino — {0} segundos. Los hombres de la organización intentarán silenciarlo, ¡y también saldrán del almacén!
+Korumalar temiz. Tekne geliyor — {0} saniye.	Guardaespaldas fuera. Viene el bote — {0} segundos.
+Nişancıyı ve silahlıyı durdur  {0}/2	Detén al francotirador y al armado  {0}/2
+Baran'ın adamlarını durdur  {0}/2	Detén a los hombres de Barrera  {0}/2
+Muhasebeci yerde! Ekip koşuyor — {0} saniye. Baran'ın adamı da yolda!	¡El contador cayó! El equipo corre — {0} segundos. ¡El hombre de Barrera también viene en camino!
+{0} ELMAS	{0} GEMAS
+Kimyager: {0}	Químico: {0}
+Toplam: {0}	Total: {0}
+SV {0}	NV {0}
+Hedef: {0}{1}	Objetivo: {0}{1}
+HEDEF:  {0}	OBJETIVO:  {0}
+{0} vuruldu!	¡{0} alcanzado!
+Kullanım Koşulları (EULA)	Términos de uso (EULA)
+Gizlilik Politikası	Política de privacidad
+Oyunu beğendin mi?	¿Te gusta el juego?
+PUANLA	VALORAR
+BURAYA	AQUÍ
+Önce dürbünü aç.	Primero abre la mira.
+EĞİTİM	ENTRENAMIENTO
+Yakınlaştır: soldaki kaydırıcıyı yukarı it ya da iki parmakla ekranı aç.	Haz zoom: sube el deslizador de la izquierda o separa dos dedos en la pantalla.
+Halka boşalmadan ateş et: nefes biterse nişan titrer.	Dispara antes de que se vacíe el anillo: sin aliento, la retícula tiembla.
+Kırmızı nokta merminin ineceği yeri gösterir.	El punto rojo muestra dónde caerá la bala.
+Kırmızı halka: bu adam sana nişan alıyor!	Anillo rojo: ¡ese hombre te está apuntando!
+Halka dolmadan onu vur ya da SİPER'e eğil.	Abátelo antes de que se llene el anillo o agáchate con CUBRIRSE.
+Vuruluyorsun! SİPER tuşuna bas: duvarın arkasına eğil.	¡Te están dando! Pulsa CUBRIRSE: agáchate detrás del muro.
+Siperde can yenilenir.	A cubierto, la salud se regenera.
+Ateş kesilince dürbünle doğrul ve karşılık ver: önce sana nişan alanı vur.	Cuando cese el fuego, levántate con la mira y responde: abate primero al que te apunta.
+Hedef {0} m uzakta. Mermi yol boyunca düşer.	Objetivo a {0} m. La bala cae a lo largo del trayecto.
+Kırmızı nokta merminin ineceği yer: nişangahın {0} cm altında. Kafaya nişan alırsan ıskalarsın.	El punto rojo es donde caerá la bala: {0} cm bajo la retícula. Si apuntas a la cabeza, fallarás.
+MENZİL'i hedefin mesafesine getir: + tuşuna bas.	Ajusta el ALCANCE a la distancia del objetivo: pulsa +.
+MENZİL'i hedefin mesafesine getir: − tuşuna bas.	Ajusta el ALCANCE a la distancia del objetivo: pulsa −.
+MENZİL {0} m  ·  hedef {1} m	ALCANCE {0} m  ·  objetivo {1} m
+Tam ayar! Nokta nişangaha döndü.	¡Ajuste perfecto! El punto volvió a la retícula.
+Uzak hedefte önce mesafeyi oku, MENZİL'i ona getir, sonra ateş et.	En objetivos lejanos, primero lee la distancia, ajusta el ALCANCE a ella y luego dispara.
+Hedef yürüyor: mermi oraya varana kadar o da ilerler.	El objetivo camina: mientras la bala llega, él sigue avanzando.
+Nişangahı yürüdüğü yöne, mavi halkanın üzerine al.	Lleva la retícula hacia donde camina, sobre el anillo azul.
+İşte bu! Önünde kal ve ateş et.	¡Eso es! Mantén el adelanto y dispara.
+Koşan adamda pay daha büyük, duran adamda hiç yok.	Al que corre, más adelanto; al que está quieto, ninguno.
+Rüzgâr mermiyi yana iter. Yönü ve gücü bu panelde.	El viento desvía la bala. Dirección y fuerza: en este panel.
+Bak: rüzgâr mermiyi {0} cm sağa götürüyor.	Fíjate: el viento lleva la bala {0} cm a la derecha.
+Bak: rüzgâr mermiyi {0} cm sola götürüyor.	Fíjate: el viento lleva la bala {0} cm a la izquierda.
+Kırmızı nokta merminin ineceği yer.	El punto rojo es donde caerá la bala.
+Rüzgâra karşı tut: nişangahı {0} mil sola kaydır.	Corrige contra el viento: mueve la retícula {0} mil a la izquierda.
+Rüzgâra karşı tut: nişangahı {0} mil sağa kaydır.	Corrige contra el viento: mueve la retícula {0} mil a la derecha.
+Sarı noktalar 1 mil aralıklı. Kırmızı nokta hedefe gelince ateş et.	Los puntos amarillos están separados por 1 mil. Dispara cuando el punto rojo esté sobre el objetivo.
+Tam üstünde! Şimdi ateş et.	¡Justo encima! Dispara ya.
+Rüzgâr dinip artar: ateşten önce paneldeki değere bir daha bak.	El viento amaina y vuelve a soplar: antes de disparar, revisa otra vez el valor del panel.
+Bu işte kimse ölmeyecek: bu tuşla İĞNE'ye geç.	En este trabajo nadie muere: cambia a DARDO con este botón.
+Mermi seçici: her basış bir sonraki türü takar.	Selector de munición: cada pulsación carga el siguiente tipo.
+İğne yavaş uçar ve çok düşer: biraz yukarı nişan al.	El dardo vuela lento y cae mucho: apunta un poco más arriba.
+Kırmızı nokta iğnenin ineceği yeri gösterir.	El punto rojo muestra dónde caerá el dardo.
+Zırhlı adam! Gövdesine mermi işlemez.	¡Hombre blindado! Las balas no le atraviesan el torso.
+Bu tuşla ZIRH DELİCİ'ye geç ya da kafasına nişan al.	Cambia a PERFORANTE con este botón o apunta a la cabeza.
+Kafasına nişan al. Zırh delici mermiyi cephanelikten alabilirsin.	Apunta a la cabeza. Puedes conseguir balas perforantes en la armería.
+Yerin belli oldu. YER DEĞİŞTİR: yeni yerde seni kimse bilmez.	Tu posición quedó expuesta. REUBICARSE: en el nuevo puesto nadie sabe dónde estás.
+Taşınırken dünya durmaz: hedef kaçmadan dön.	El mundo no se detiene mientras te mueves: vuelve antes de que el objetivo escape.
+Bu yüz dosyadakiyle aynıysa İŞARETLE — HEDEF BU.	Si esta cara coincide con la del expediente: MARCAR — ES ÉL.
+Emin değilsen basma: yanlış kişiyi vurmak işi bitirir.	Si no estás seguro, no pulses: disparar a la persona equivocada acaba con el trabajo.
+Karanlıkta gece görüşü kullan: bu tuşla modu değiştir.	En la oscuridad usa la visión nocturna: cambia de modo con este botón.
+Termal dürbünde insanlar beyaz parlar: sis ve kar arkasında bile.	En la mira térmica la gente brilla en blanco: incluso tras la niebla y la nieve.
+DRON'u gönder: bölgeyi tarar, tehditleri işaretler.	Envía el DRON: rastrea la zona y marca las amenazas.
+Her sözleşmede bir kez.	Una vez por contrato.
+Son anda kıpırdadı. Nişanı tazele, tekrar dene.	Se movió en el último segundo. Vuelve a apuntar e inténtalo otra vez.
+Siperine takıldı. Açığa çıkmasını bekle ya da başka açıdan dene.	La bala dio en su cobertura. Espera a que se exponga o prueba desde otro ángulo.
+Iska: {0} cm alçak.	Fallo: {0} cm por debajo.
+Iska: {0} cm yüksek.	Fallo: {0} cm por encima.
+Iska: {0} cm solda.	Fallo: {0} cm a la izquierda.
+Iska: {0} cm sağda.	Fallo: {0} cm a la derecha.
+Mermi düştü: hedef {0} m, MENZİL {1}. MENZİL'i hedefin mesafesine getir.	La bala cayó: objetivo a {0} m, ALCANCE {1}. Ajusta el ALCANCE a la distancia del objetivo.
+Fazla yüksek: hedef {0} m, MENZİL {1}. MENZİL'i düşür.	Demasiado alto: objetivo a {0} m, ALCANCE {1}. Baja el ALCANCE.
+Arkasından geçti: yürüdüğü yöne daha önden nişan al.	Pasó por detrás: dale más adelanto hacia donde camina.
+Önünden geçti: payı biraz azalt.	Pasó por delante: reduce un poco el adelanto.
+Rüzgâr sağa itti: biraz sola tut.	El viento la empujó a la derecha: apunta un poco a la izquierda.
+Rüzgâr sola itti: biraz sağa tut.	El viento la empujó a la izquierda: apunta un poco a la derecha.
+Nefesini tut: nişan sabitlenince ateş et.	Contén el aliento: dispara cuando la retícula se estabilice.
+Nişangahı vücudun ortasına al.	Pon la retícula en el centro del cuerpo.
+Sabır: hedef dışarı çıkana kadar bekle, nefesini tut ve kafaya nişan al.	Paciencia: espera a que el objetivo salga, contén el aliento y apunta a la cabeza.
+MENZİL ayarı: uzak hedefte mermi düşer. Dikkat dağıtma: yakına düşen kurşun hedefi açığa çıkarır.	Ajuste de ALCANCE: a distancia la bala cae. Distracción: una bala cerca hace que el objetivo se exponga.
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.{0}	La tienda no está disponible ahora. Revisa tu conexión a internet e inténtalo de nuevo en un rato.{0}
+GEÇ	SALTAR
+Yer seviyesi — siper arkası	A ras de suelo — tras cobertura
+Alçak mevzi — yakın çatı	Posición baja — tejado cercano
+Orta yükseklik	Altura media
+Hedeflerle aynı seviyede ve yakın. Net atış, ama seni de çabuk görürler.	Cerca y al nivel de los objetivos. Disparos limpios, pero también te detectan rápido.
+Birkaç kat yukarıda: yakın ve geniş açı.	Unos pisos más arriba: cerca y con vista amplia.
+Sahaya yukarıdan ama yakından bakar.	Domina la zona desde arriba, pero de cerca.
+Dil  ·  Language	Idioma  ·  Language

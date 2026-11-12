@@ -1,0 +1,39 @@
+{
+ "id": "ph_ocean_buoy",
+ "category": "prop",
+ "tris": 3000,
+ "tris_src": 12240,
+ "size": [
+  1.067,
+  2.656,
+  0.952
+ ],
+ "center": [
+  0.0,
+  1.328,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_ocean_buoy__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_ocean_buoy_m0_albedo.jpg",
+   "normal": "ph_ocean_buoy_m0_normal.jpg",
+   "ms": "ph_ocean_buoy_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

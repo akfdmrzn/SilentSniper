@@ -1,0 +1,16 @@
+{
+ "name": "m_sit_drink",
+ "frames": 336,
+ "fps": 30,
+ "length": 11.1667,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Sit_and_Drink.glb",
+ "tags": [
+  "sit"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

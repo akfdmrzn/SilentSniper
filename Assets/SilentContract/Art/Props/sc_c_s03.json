@@ -1,0 +1,208 @@
+{
+ "id": "sc_c_s03",
+ "category": "struct",
+ "tris": 2788,
+ "tris_src": 2788,
+ "size": [
+  34.9,
+  29.075,
+  17.95
+ ],
+ "center": [
+  0.0,
+  14.538,
+  0.525
+ ],
+ "materials": [
+  {
+   "name": "shared__wall_mr_sand3",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.115,
+   "albedo": "shared__wall_mr_sand3_albedo.jpg",
+   "normal": "shared__wall_mr_sand3_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "wall_mr_sand3",
+   "window": false
+  },
+  {
+   "name": "shared__win_res",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__win_res_albedo.png",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "win_res",
+   "window": true
+  },
+  {
+   "name": "shared__frame_dark",
+   "color": [
+    0.07,
+    0.075,
+    0.08,
+    1.0
+   ],
+   "metallic": 0.6,
+   "smoothness": 0.6,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "frame_dark",
+   "window": false
+  },
+  {
+   "name": "shared__win_shop",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__win_shop_albedo.jpg",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "win_shop",
+   "window": true
+  },
+  {
+   "name": "shared__emit_signs",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__emit_signs_albedo.jpg",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "emit_signs",
+   "window": false,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "name": "shared__awnings",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__awnings_albedo.jpg",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "awnings",
+   "window": false
+  },
+  {
+   "name": "shared__trim_stone",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.49,
+   "albedo": "shared__trim_stone_albedo.jpg",
+   "normal": "shared__trim_stone_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "trim_stone",
+   "window": false
+  },
+  {
+   "name": "shared__railing_iron",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__railing_iron_albedo.png",
+   "normal": null,
+   "ms": null,
+   "cutout": true,
+   "double_sided": true,
+   "src": "railing_iron",
+   "window": false
+  },
+  {
+   "name": "shared__roof_tile",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "shared__roof_tile_albedo.jpg",
+   "normal": "shared__roof_tile_normal.jpg",
+   "ms": "shared__roof_tile_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "roof_tile",
+   "window": false
+  },
+  {
+   "name": "shared__soffit",
+   "color": [
+    0.55,
+    0.5,
+    0.45,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.2,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "soffit",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "mesh",
+ "static": true,
+ "credit": "",
+ "tags": []
+}

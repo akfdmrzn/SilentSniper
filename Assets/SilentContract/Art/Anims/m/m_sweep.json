@@ -1,0 +1,12 @@
+{
+ "name": "m_sweep",
+ "frames": 127,
+ "fps": 30,
+ "length": 4.2,
+ "loop": true,
+ "speed": 0.0,
+ "source": "79_55.bvh",
+ "tags": [
+  "work"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "name": "m_drink_stand",
+ "frames": 267,
+ "fps": 30,
+ "length": 8.8667,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Stand_and_Drink.glb",
+ "tags": [
+  "idle"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

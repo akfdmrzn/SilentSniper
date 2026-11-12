@@ -1,0 +1,39 @@
+{
+ "id": "ai_yacht",
+ "category": "vehicle",
+ "tris": 11999,
+ "tris_src": 26716,
+ "size": [
+  7.816,
+  11.43,
+  28.017
+ ],
+ "center": [
+  0.0,
+  5.715,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_yacht__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ai_yacht_m0_albedo.jpg",
+   "normal": "ai_yacht_m0_normal.jpg",
+   "ms": "ai_yacht_m0_ms.png",
+   "cutout": false,
+   "double_sided": false
+  }
+ ],
+ "lods": 1,
+ "collider": "mesh",
+ "static": false,
+ "credit": "Silent Contract (AI-generated model)",
+ "tags": []
+}

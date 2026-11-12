@@ -1,0 +1,16 @@
+{
+ "name": "m_sleep_desk",
+ "frames": 716,
+ "fps": 30,
+ "length": 23.8333,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Sleep_on_Desk.glb",
+ "tags": [
+  "sit"
+ ],
+ "offset": [
+  0.0,
+  -0.0
+ ]
+}

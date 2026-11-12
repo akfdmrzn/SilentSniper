@@ -1,0 +1,41 @@
+{
+ "id": "ai_palm",
+ "category": "prop",
+ "tris": 6676,
+ "tris_src": 6676,
+ "size": [
+  4.624,
+  9.007,
+  4.653
+ ],
+ "center": [
+  0.0,
+  4.503,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_palm__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.016,
+   "smoothness": 0.518,
+   "albedo": "ai_palm_m0_albedo.jpg",
+   "normal": "ai_palm_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 2,
+ "collider": "none",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

@@ -1,0 +1,26 @@
+{
+ "id": "businessman",
+ "gender": "m",
+ "tris": 24731,
+ "height": 1.8,
+ "materials": [
+  {
+   "name": "businessman_opaque",
+   "albedo": "businessman_albedo.jpg",
+   "normal": "businessman_normal.jpg",
+   "ms": "businessman_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "businessman",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

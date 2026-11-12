@@ -1,0 +1,16 @@
+{
+ "name": "m_rifle_reload",
+ "frames": 99,
+ "fps": 30,
+ "length": 3.2667,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Standing_Reload.glb",
+ "tags": [
+  "combat"
+ ],
+ "offset": [
+  -0.001,
+  -0.0004
+ ]
+}

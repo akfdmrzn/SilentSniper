@@ -1,0 +1,16 @@
+{
+ "name": "m_talk_open",
+ "frames": 119,
+ "fps": 30,
+ "length": 3.9333,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Talk_with_Hands_Open.glb",
+ "tags": [
+  "talk"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

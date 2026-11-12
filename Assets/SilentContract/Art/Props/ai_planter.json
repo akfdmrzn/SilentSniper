@@ -1,0 +1,41 @@
+{
+ "id": "ai_planter",
+ "category": "prop",
+ "tris": 3928,
+ "tris_src": 3928,
+ "size": [
+  2.997,
+  1.116,
+  0.856
+ ],
+ "center": [
+  0.0,
+  0.558,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_planter__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.001,
+   "smoothness": 0.417,
+   "albedo": "ai_planter_m0_albedo.jpg",
+   "normal": "ai_planter_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 2,
+ "collider": "box",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

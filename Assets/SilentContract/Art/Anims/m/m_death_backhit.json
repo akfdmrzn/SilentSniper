@@ -1,0 +1,17 @@
+{
+ "name": "m_death_backhit",
+ "frames": 141,
+ "fps": 30,
+ "length": 4.6667,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Shot_in_the_Back_and_Fall.glb",
+ "tags": [
+  "death",
+  "ho=2.77"
+ ],
+ "offset": [
+  -0.8766,
+  1.0499
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "name": "m_walk_carry",
+ "frames": 45,
+ "fps": 30,
+ "length": 1.4667,
+ "loop": true,
+ "speed": 0.834,
+ "source": "111_36.bvh",
+ "tags": [
+  "walk",
+  "carry"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "id": "ai_firewood",
+ "category": "prop",
+ "tris": 2400,
+ "tris_src": 6051,
+ "size": [
+  2.401,
+  2.343,
+  1.529
+ ],
+ "center": [
+  0.0,
+  1.172,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_firewood__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.378,
+   "albedo": "ai_firewood_m0_albedo.jpg",
+   "normal": "ai_firewood_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 2,
+ "collider": "box",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

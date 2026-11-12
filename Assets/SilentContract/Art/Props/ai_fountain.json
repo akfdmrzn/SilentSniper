@@ -1,0 +1,41 @@
+{
+ "id": "ai_fountain",
+ "category": "prop",
+ "tris": 15999,
+ "tris_src": 20204,
+ "size": [
+  6.082,
+  6.047,
+  6.074
+ ],
+ "center": [
+  0.0,
+  3.024,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_fountain__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ai_fountain_m0_albedo.jpg",
+   "normal": "ai_fountain_m0_normal.jpg",
+   "ms": "ai_fountain_m0_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 2,
+ "collider": "mesh",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

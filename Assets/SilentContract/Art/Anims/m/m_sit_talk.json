@@ -1,0 +1,16 @@
+{
+ "name": "m_sit_talk",
+ "frames": 291,
+ "fps": 30,
+ "length": 9.6667,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Sitting_Answering_Questions.glb",
+ "tags": [
+  "sit"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

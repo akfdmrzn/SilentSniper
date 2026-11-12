@@ -1,0 +1,12 @@
+{
+ "name": "m_pay",
+ "frames": 208,
+ "fps": 30,
+ "length": 6.9,
+ "loop": true,
+ "speed": 0.0,
+ "source": "80_06.bvh",
+ "tags": [
+  "gesture"
+ ]
+}

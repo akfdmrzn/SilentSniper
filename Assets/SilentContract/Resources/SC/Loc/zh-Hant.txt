@@ -1,0 +1,1391 @@
+SİPER	掩護
+Sana ateş ediyorlar! SİPER tuşuyla eğil — ateş kesilince doğrul ve kırmızı işaretli nişancıları indir. Yaraların birkaç saniye sonra iyileşir.	有人在朝你開火！按「掩護」鍵蹲下 — 槍聲停止後起身，擊倒標記為紅色的槍手。傷勢幾秒後就會恢復。
+YERİN TESPİT EDİLDİ — SANA ATEŞ EDECEKLER!	位置已暴露 — 他們要朝你開火了！
+DOĞRUL	起身
+YERİN TESPİT EDİLDİ	位置已暴露
+GÖZCÜ SENİ ARIYOR	哨兵正在找你
+YERİNİ ARIYORLAR	他們在搜索你的位置
+DİKKAT ÇEKİYORSUN	你正在引起注意
+Her atış yerini biraz daha belli eder (susturucu daha az). Göz dolarsa yerin tespit edilir ve silahlı adamlar sana ateş eder.	每次開槍都會讓你的位置更明顯（裝滅音器則較少）。警覺條滿了你就會暴露，持槍者會朝你開火。
+Bir gözcü dürbünle damları tarıyor: dürbün parlaması sana dönerken eğil ya da önce onu indir.	有個哨兵正用望遠鏡掃視屋頂：鏡片反光轉向你時蹲下，或者先把他解決。
+MAĞAZA	商店
+TEKLİFLER	特惠
+SİLAH PAKETLERİ	武器禮包
+ELMAS	鑽石
+NAKİT	現金
+SATIN ALIMLARI GERİ YÜKLE	恢復購買項目
+ÜCRETSİZ ELMAS	免費鑽石
+İZLE	觀看
+GECE	夜視
+TERMAL	熱成像
+ BONUS	 額外贈送
+ELMAS YETMİYOR	鑽石不足
+Bu paket için 	此禮包需要 
+ elmas gerekiyor, sende 	 顆鑽石，你目前有 
+ var.	 顆。
+ELMAS AL	購買鑽石
+PAKET HAZIR	禮包已就緒
+Tüfek	步槍
+ kuşanıldı. Cephanelikte seni bekliyor.	 已裝備。它在軍械庫等你。
+CEPHANELİK	軍械庫
+TAMAM	確定
+SATIN ALINAMADI	購買失敗
+KAPAT	關閉
+GERİ YÜKLEME	恢復購買
+ satın alım geri yüklendi.	 筆購買項目已恢復。
+Geri yüklenecek satın alım bulunamadı.	沒有可恢復的購買項目。
+ALINDI	已領取
+Bugün 	今天還剩 
+ hakkın kaldı	 次機會
+Şu an video yok	目前沒有影片
+TEST SÜRÜMÜ: satın almalar ücretsiz tamamlanır, reklamlar yer tutucudur. Gerçek fiyatlar App Store'dan gelir.	測試版本：購買將免費完成，廣告為佔位內容。實際價格以 App Store 為準。
+GÜNLÜK ÖDÜL	每日獎勵
+Her gün gel, ödülün büyüsün. 7. gün büyük ödül.	每天回來，獎勵越來越豐厚。第 7 天有大獎。
+. GÜN	日
+ ELMAS	 鑽石
+ Z. DELİCİ	 穿甲彈
+2× AL	領取 2×
+TOPLA	領取
+VAZGEÇ	取消
+Dürbünde nişangahı birinin üzerinde tutarak kimliğini tara — masumları vurma.	在瞄準鏡中將準星停留在某人身上來掃描身分 — 別射殺無辜的人。
+Nefesini tutarken nişangah sabitlenir, ama nefes çubuğu biterse titreme artar.	屏住呼吸時準星會穩定，但呼吸條耗盡後晃動會加劇。
+Uzak mesafede kurşun düşer ve rüzgarla kayar. Kırmızı nokta isabet noktasını gösterir.	遠距離時子彈會下墜並隨風偏移。紅點代表著彈點。
+Bir koruma telsize uzanırsa birkaç saniyen var: onu durdurursan alarm verilmez.	保鑣伸手拿無線電時你只有幾秒鐘：及時阻止他，警報就不會響。
+Kafadan vuruşlar ve sivil kayıpsız görevler daha fazla yıldız ve para kazandırır.	爆頭和零平民傷亡的任務能賺到更多星星和現金。
+Zırhlı adamların gövdesi kurşun tutar: kafaya nişan al ya da tüfeğinin HASAR'ını geliştir.	裝甲敵人的身體擋得住子彈：瞄準頭部，或升級步槍的「傷害」。
+Iskalama sessiz kalmaz: ikinci boş atış silahlıları yuvana yollar.	失手不會悄無聲息：第二次落空會把持槍者引到你的狙擊點。
+Görev, sana ateş eden son silahlı susunca biter. Önce en yakındakini sustur.	最後一個朝你開火的槍手倒下時，任務就結束。先解決最近的那個。
+Cephanelikte her tüfeğin beş hattı var: en üst kademe elmasla açılır.	軍械庫中每把步槍都有五條升級路線：最高階級需用鑽石解鎖。
+Günün sözleşmesi iki kat para ve elmas öder — her gün yenisi gelir.	每日合約支付雙倍現金和鑽石 — 每天都會更新。
+LİMAN OPERASYONU	港口行動
+TAKTİK HARİTA  ·  GÖREV 	戰術地圖  ·  任務 
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     	<color=#46C8F2>●</color> 射擊位置     <color=#FF4545>●</color> 目標區域     
+<color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#FFFFFF>- -</color> 已知路線     圓環：距主狙擊點每 100 m 一圈     上方：主狙擊點的朝向
+ZORLUK  	難度  
+VETERAN	老兵
+HARİTA	地圖
+HEDEF DOSYASI	目標檔案
+SUİKAST	暗殺
+TANIMA	識別
+BRİFİNG	簡報
+GÖREV	任務
+YILDIZ HEDEFLERİ	星級目標
+DEĞİŞTİR	更換
+BAŞLA	開始
+EKİPMAN GEREKLİ	需要裝備
+Bu iş 	這份工作缺少 
+ ve 	 和 
+ olmadan yapılamaz. Cephaneliğe git?	 就無法完成。要前往軍械庫嗎？
+TÜFEĞİN ZAYIF KALABİLİR	步槍可能不夠力
+Bu sözleşme için önerilen güç 	此合約的建議戰力為 
+ şu an 	 ，目前為 
+Geliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	不升級也能嘗試，但裝甲敵人和遠距離目標會很棘手。
+GELİŞTİR	升級
+YİNE DE BAŞLA	仍要開始
+ZIRHLI HEDEFLER	裝甲目標
+Bu işte zırhlı silahlılar var; tüfeğinin mermisi gövdeden geçmez.\nKısa bir video izle, 3 zırh delici mermi senin olsun.	這份工作有裝甲槍手；你的子彈打不穿他們的身體。\n看一段短片，就送你 3 發穿甲彈。
+İZLE  +3 MERMİ	觀看  +3 發
+GÜNÜN İŞİ ×2	每日任務 ×2
+VETERAN ×1,5	老兵 ×1.5
+<b><color=#E8B04A>YENİ:</color></b> 	<b><color=#E8B04A>新：</color></b> 
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n	<b><color=#FFB21E>老兵：</color></b>沒有著彈點、風更強且更不穩、步槍晃得更厲害、目標不會被標記。獎勵 ×1.5。\n
+NEREDEN ATEŞ EDECEKSİN?	要從哪裡開火？
+Her yerin artısı eksisi var. Görev sırasında iki kez yer değiştirebilirsin.	每個位置都有優缺點。任務中你可以轉移位置兩次。
+GERİ	返回
+DEVAM	繼續
+BÖLÜM 	章節 
+KORUMA	護衛
+CANLI YAKALA	生擒
+SABOTAJ	破壞
+YARALA	擊傷
+GÖREV 	任務 
+KORUNACAK KİŞİ	護衛對象
+HEDEF DOSYASI  ·  CANLI	目標檔案  ·  生擒
+•  Hedefi etkisiz hale getir	•  使目標失去行動能力
+TÜFEK:  	步槍：  
+>GÜÇ 	>戰力 
+</color><color=#6B7682>  /  önerilen 	</color><color=#6B7682>  /  建議 
+Bu iş için verildi	為此任務配發
+   ·   Verilen: 	   ·   配發： 
+   ·   <color=#FF8A2B>Zırhlı silahlılar: kafaya nişan al, HASAR geliştir ya da zırh delici al</color>	   ·   <color=#FF8A2B>裝甲槍手：瞄準頭部、升級「傷害」或購買穿甲彈</color>
+AYARLAR	設定
+Nişan hassasiyeti	瞄準靈敏度
+Kolay nişan (3. yıldız alınmaz)	輔助瞄準（無法獲得第 3 顆星）
+Kurşun kamerası (son hedefte ağır çekim)	子彈視角（最後目標慢動作）
+Titreşim	震動
+Ses seviyesi	音量
+İlerleme	進度
+İLERLEMEYİ SIFIRLA	重置進度
+İlerleme sıfırlansın mı?	要重置進度嗎？
+Tüm yıldızlar, para ve geliştirmeler silinecek (satın aldıkların ve elmasların kalır). Bu işlem geri alınamaz.	所有星星、現金和升級都會被清除（購買項目和鑽石會保留）。此操作無法復原。
+SIFIRLA	重置
+Satın alımlar ve gizlilik	購買與隱私
+GERİ YÜKLE	恢復
+GİZLİLİK	隱私
+Grafik kalitesi	畫質
+PERFORMANS	效能
+DENGELİ	平衡
+KALİTE	畫質
+KAYNAKLAR VE LİSANSLAR	來源與授權
+Henüz dosyada bir şey yok. İlk sözleşmeyi tamamla.	檔案裡還沒有任何內容。先完成第一份合約。
+<size=40><color=#E8B04A><b>BÖLÜM 	<size=40><color=#E8B04A><b>章節 
+<b>SON</b>\n	<b>結局</b>\n
+Disk KONTROL'de. Kurul'un koltukları yeniden doluyor.	磁碟在 CONTROL 手上。議會的席位又再度坐滿。
+Disk savcıda. KONTROL'ün kapısına polis dayandı.	磁碟交到了檢察官手中。警察已經找上 CONTROL 的門。
+DAVA DOSYASI	案件檔案
+DURAKLATILDI	已暫停
+DEVAM ET	繼續
+YENİDEN BAŞLAT	重新開始
+GÖREVDEN ÇIK	退出任務
+Görevden çıkılsın mı?	要退出任務嗎？
+Bu görevdeki ilerlemen kaybolacak.	本次任務的進度將會遺失。
+ÇIK	退出
+DERECE	評級
+YENİ YILDIZ	新星星
+ATIŞ	射擊
+En uzun atış	最遠射擊
+Kafadan vuruş	爆頭
+Süre	時間
+İsabet	命中率
+KAZANÇ DÖKÜMÜ	收入明細
+KAZANÇ	收入
+2× KAZANÇ	2× 收入
+MENÜ	選單
+TEKRAR	重玩
+SONRAKİ GÖREV	下個任務
+İSTİHBARAT	情報
+SON	結局
+YİNE KİMSESİZ	依舊孤身一人
+KENDİ SEÇİMİN	你自己的選擇
+Kimyager: 	化學家： 
+KONTROL'ün hücresinde kayboldu.	消失在 CONTROL 的牢房裡。
+savcılığa ifade verdi; Baran davası onunla başladı.	向檢方作證；霍振邦案由他開始。
+Baran'ın kasası: 	霍振邦的金庫： 
+para sende, KONTROL bunu biliyor.	錢在你手上，CONTROL 知道這件事。
+dosyaların kopyası Başsavcı Arslan'da.	檔案副本在總檢察長沈靜宜手中。
+Kurul: beş koltuk boşaldı.	議會：五個席位全數空出。
+KONTROL: yerinde. Yeni bir isim arıyor.	CONTROL：安然無恙。正在物色新人選。
+KONTROL: kapısında polis.	CONTROL：警察已在門口。
+Toplam: 	總計： 
+GÖREV TAMAMLANDI	任務完成
+GÖREV BAŞARISIZ	任務失敗
+   ·   VETERAN	   ·   老兵
+  <color=#FFB21E>REKOR</color>	  <color=#FFB21E>紀錄</color>
+ÖNCEDEN	先前
+KOLAY NİŞAN	輔助瞄準
+Günün sözleşmesi  ·  elmas	每日合約  ·  鑽石
+İlk S derecesi  ·  elmas	首次 S 評級  ·  鑽石
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.	合約未完成 — 沒有報酬。\n你可以重新接下同一份工作；上方會顯示哪裡出了錯。
+\nKısa bir videoyla ücretin bir kısmını telafi alabilirsin.	\n看一段短片，就能拿回部分報酬作為補償。
+TEKRAR DENE	再試一次
+TÜFEĞİN ZORLANIYOR	步槍力不從心
+Bu iş için önerilen güç 	此任務的建議戰力為 
+, senin tüfeğin 	，你的步槍為 
+. Geliştir ya da 	。升級，或用 
+bir silah paketiyle	武器禮包
+ hemen güçlen.	 立即變強。
+GÜÇLEN	變強
+ TP	 經驗
+TELAFİ +	補償 +
+GÖREVLER	任務
+ANA YUVA	主狙擊點
+<color=#36D47C>●</color> Tamamlandı    <color=#FFB21E>●</color> Sıradaki    <color=#6B7682>●</color> Kilitli	<color=#36D47C>●</color> 已完成    <color=#FFB21E>●</color> 下一個    <color=#6B7682>●</color> 未解鎖
+BRİFİNGE GİT	前往簡報
+Rüzgâr 	風 
+\nZORLUK 	\n難度 
+   ·   <color=#FF8A2B>ZIRHLI DÜŞMAN</color>	   ·   <color=#FF8A2B>裝甲敵人</color>
+Önerilen güç <b>	建議戰力 <b>
+</b>   ·   Tüfeğin <color=	</b>   ·   你的步槍 <color=
+Önceki görevi tamamla	完成上一個任務
+OYNA	開始遊戲
+  ·  TEST MODU: tüm bölümler açık	  ·  測試模式：所有章節已開放
+  ·  Tek oyunculu keskin nişancı	  ·  單人狙擊遊戲
+TEST MODU	測試模式
+Tüm haritalar ve görevler şu an açık. Normal ilerlemeye dönülsün mü?	目前所有地圖和任務皆已開放。要回到正常進度嗎？
+Test için bütün haritalar ve görevler açılsın mı? (Ayarlardan ilerleme sıfırlanmaz.)	要為測試開放所有地圖和任務嗎？（設定中的進度不會被重置。）
+AÇ	開放
+KAYNAKLAR	來源
+SIRADAKİ SÖZLEŞME	下一份合約
+GÜÇ	戰力
+GÜNLÜK GÖREVLER	每日任務
+GÜNÜN SÖZLEŞMESİ  ·  TAMAM	每日合約  ·  完成
+GÜNÜN SÖZLEŞMESİ  ·  ×2 ÖDÜL  +10 ELMAS	每日合約  ·  ×2 獎勵  +10 鑽石
+Yenisi 	新合約於 
+ sa 	 小時 
+ dk sonra	 分後刷新
+  —  VETERAN kurallarıyla	  —  老兵規則
+Güç 	戰力 
+Başlangıç paketi	新手禮包
+Ücretsiz elmas	免費鑽石
+Elmas · Nakit	鑽石 · 現金
+ dosya	 份檔案
+REKLAMLARDAN SIKILDIN MI?	受夠廣告了嗎？
+Görev aralarındaki reklamları 	只需 
+ karşılığında sonsuza dek kaldır. Hediye: 	 即可永久移除任務間的廣告。贈品： 
+ elmas.	 顆鑽石。
+REKLAMSIZ OL	移除廣告
+ŞİMDİ DEĞİL	以後再說
+TÜFEKLER	步槍
+EKİPMAN	裝備
+MÜHİMMAT	彈藥
+BECERİLER	技能
+Çevirmek için sürükle	拖曳以旋轉
+ için 	 只需 
+HEMEN AL	立即購買
+ elmasla hemen senin olsun mu?	 顆鑽石，要立刻入手嗎？
+AL	購買
+SEVİYE 	等級 
+ GEREKLİ	 需求
+Son kademe (elmasla) 	最終階級（鑽石）將於等級 
+. seviyede açılır. Sözleşmelerden tecrübe kazan.	解鎖。完成合約來累積經驗。
+AZ KALDI	就差一點
+Bu geliştirme için 	此升級還差 
+ eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.	 。看一段短片補足差額，立即完成升級。
+\nBugün 	\n今天還有 
+ hakkın var.	 次機會。
+İZLE VE GELİŞTİR	觀看並升級
+PARA YETMİYOR	現金不足
+Son kademe 	最終階級需要 
+ elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	 顆鑽石。可在商店購買，或透過每日獎勵累積。
+Bu geliştirme 	此升級需要 
+. Sözleşmelerden para kazan ya da mağazaya bak.	。完成合約賺取現金，或去商店看看。
+GÜÇ <color=#FFB21E>	戰力 <color=#FFB21E>
+<color=#36D47C>KUŞANILDI</color>	<color=#36D47C>已裝備</color>
+SAHİP	已擁有
+ ★ ile açılır	 ★ 解鎖
+Yarı otomatik	半自動
+Sürgülü	栓動式
+   ·   Susturuculu	   ·   附滅音器
+   ·   Duvar deler	   ·   可穿牆
+   ·   Siper deler	   ·   可穿透掩體
+  <color=#46C8F2>EN ÜST</color>	  <color=#46C8F2>頂級</color>
+SV 	Lv 
+Satın aldığında beş hatta geliştirebilirsin. En üst kademe <color=#46C8F2>elmasla</color>.	購買後可在五條路線上升級。最高階級需<color=#46C8F2>鑽石</color>。
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> 	要打穿裝甲敵人的身體，需要<color=#FFB21E>傷害</color>第 
+. kademe ya da zırh delici mermi gerekir.	階，或使用穿甲彈。
+Bu tüfek zırhlı gövdeyi deler.	這把步槍能打穿裝甲。
+KUŞANILDI	已裝備
+KUŞAN	裝備
+SATIN AL   	購買   
+ ★ YA DA   	 ★ 或   
+ ELMASLA AL	 鑽石購買
+SAHİPSİN	已擁有
+Görevlerde otomatik takılı	任務中自動裝備
+ yıldızla açılır	 顆星解鎖
+SATIN AL  	購買  
+KİLİTLİ	未解鎖
+ adetlik paket	 發裝
+SABİT NİŞAN	穩定瞄準
+Dürbündeki el titremesi her kademede %17 azalır.	每階瞄準鏡中的手部晃動減少 %17。
+NEFES KONTROLÜ	呼吸控制
+Nefesini daha uzun tutarsın: nişangah daha uzun sabit kalır.	屏息時間更長：準星保持穩定更久。
+SOĞUKKANLILIK	沉著冷靜
+Ateş altında ve yaralıyken titreme her kademede %25 azalır.	受到攻擊和受傷時，每階晃動減少 %25。
+ sn	 秒
+MAKSİMUM	最高
+YÜKSELT  	升級  
+BURAYA ATEŞ ET	朝這裡開火
+DRON	無人機
+İŞARETLE — HEDEF BU	標記 — 就是他
+YER DEĞİŞTİR	轉移位置
+NEFES	屏息
+MENZİL	距離
+Geçmek için dokun	點擊跳過
+Hedef: 	目標： 
+Taşınırken dünya durmaz. Yeni yerde seni kimse bilmez.	轉移途中世界不會停止。新位置沒有人知道你在那裡。
+YER DEĞİŞTİRİYORSUN\n<size=30>	轉移位置中\n<size=30>
+ sn</size>	 秒</size>
+DOSYA	檔案
+ARANIYOR	搜尋中
+ETKİSİZ	已制伏
+KAÇTI	已逃脫
+DOĞRULANDI	已確認
+BEKLE…	等待…
+NORMAL	一般
+KURŞUN KAMERASI  ·  	子彈視角  ·  
+GECE GÖRÜŞÜ	夜視
+KAFA	頭部
+KOL	手臂
+BACAK	腿部
+KARIN	腹部
+GÖVDE	軀幹
+Kimliği belirsiz	身分不明
+HEDEF DEĞİL	非目標
+TARANDI	已掃描
+Masum — ateş etme	無辜者 — 不要開火
+Dosyadaki yüzle karşılaştır — emin olunca İŞARETLE	與檔案中的臉比對 — 確定後再「標記」
+SİLAHLI	持槍
+BAYGIN	昏迷
+YERDE	倒地
+Koru — ona bir şey olmamalı	保護 — 他不能出事
+Silahlı — sivil kılığında	持槍 — 偽裝成平民
+Sözleşme hedefi	合約目標
+” — sözleşme hedefi	」 — 合約目標
+Silahlı — vurulabilir	持槍 — 可射擊
+Yaralı — 	受傷 — 
+!  NİŞAN ALIYOR	!  正在瞄準
+!  SANA ATEŞ EDİYOR	!  正在朝你開火
+GÖZCÜ	哨兵
+Öldürüldü	已擊殺
+Kaçıyor — güvenli yere	逃跑中 — 前往安全處
+Güvende — gözün üzerinde olsun	安全 — 持續盯著
+Kimliği doğrulanmadı — dosyadaki yüzü bul	身分未確認 — 找出檔案中的臉
+Görüş dışında — bekle	在視野外 — 等待
+Baygın	昏迷
+İğne isabet etti — bayılıyor	麻醉針命中 — 即將昏倒
+Yerde — sürünüyor	倒地 — 正在爬行
+NİŞAN ALIYOR — HEMEN VUR!	正在瞄準 — 立刻開槍！
+KAÇIYOR!	逃跑中！
+Sese doğru bakıyor — fırsat!	轉頭看向聲源 — 機會來了！
+Siperin arkasında — dikkatini dağıt	躲在掩體後 — 分散他的注意力
+Kalabalıkta — herkesi dürbünle tara	混在人群中 — 用瞄準鏡掃描每個人
+Yaralı	受傷
+Kimlik doğrulandı	身分已確認
+Kimliği taranmadı — dürbünle tara	身分未掃描 — 用瞄準鏡掃描
+HEDEF:  	目標：  
+Sözleşme tamamlandı	合約完成
+Etkisiz hale getir: 	制伏： 
+Ateş et: devre dışı bırak	開火：使其失效
+Devam ediyor	進行中
+BONUS  ·  	額外  ·  
+KEŞİF  ·  	偵察  ·  
+ tehdit tarandı	 個威脅已掃描
+Fırsat penceresi	機會窗口
+Bayraklara bak	觀察旗幟
+Rüzgar yok	無風
+Sağa esiyor »	向右吹 »
+« Sola esiyor	« 向左吹
+Karşıdan	逆風
+« Sola tut 	« 向左修正 
+Sağa tut » 	向右修正 » 
+ mil	 密位
+ALARM	警報
+TELSİZ  	無線電  
+DOLDURULUYOR	裝填中
+STANDART	標準
+Yıldız kaçtı: 	錯失星星： 
+SÖZLEŞME 	合約 
+  ·  VETERAN	  ·  老兵
+Kalabalıkta silahlı adam(lar) var — kimliği bilinmiyor	人群中有持槍者 — 身分不明
+Hedef bu bölgede — dosyadaki yüzü bul, emin olunca İŞARETLE	目標在此區域 — 找出檔案中的臉，確定後再「標記」
+HEDEF	目標
+KORU	保護
+Ekranı parmağınla sürükleyerek etrafa bak.	用手指拖曳螢幕環顧四周。
+Sağdaki dürbün tuşuna dokunarak dürbünü aç.	點擊右側的瞄準鏡按鈕開鏡。
+Kırmızı işaret hedefi gösterir. Nişangahı hedefin üzerine getir.	紅色標記指出目標。將準星移到目標身上。
+Nişangahı kişinin üzerinde tut: kimliği taranıyor…	準星保持在此人身上：正在掃描身分…
+Soldaki NEFES tuşuna basılı tut: nişan sabitlenir.	按住左側的「屏息」按鈕：準星會穩定下來。
+Hazır! Büyük kırmızı tuşla ateş et.	準備好了！按紅色大按鈕開火。
+  <size=24><color=#A3AEB9>·  SEVİYE 	  <size=24><color=#A3AEB9>·  等級 
+SEVİYE ATLADIN!	升級了！
+2× TOPLA	領取 2×
+   ·   SEVİYE 	   ·   等級 
+AÇILDI:  	已解鎖：  
+GÜN BATIMI	日落
+GÜNDÜZ	白天
+YAĞMURLU	雨天
+YAĞMURLU GECE	雨夜
+KARLI GÜN	雪天
+DAĞDA GÜN BATIMI	山中日落
+KARLI GECE	雪夜
+TİPİ	暴風雪
+VİDEO YOK	沒有影片
+Şu an gösterilecek video yok. Biraz sonra tekrar dene.	目前沒有可播放的影片。請稍後再試。
+ÖDÜLLÜ TEST REKLAMI  ·  	獎勵測試廣告  ·  
+TEST REKLAMI  ·  her 	測試廣告  ·  每 
+ görevde bir	 個任務一次
+Reklam sonunda ödül verilir	廣告結束後發放獎勵
+Reklamsız paketle bu ekran kalkar	購買免廣告禮包即可移除此畫面
+AVUÇ DOLUSU	一小把
+KESE	一袋
+EN POPÜLER	最熱門
+SANDIK	一箱
+KASA	保險箱
+EN İYİ DEĞER	最超值
+HAZİNE	寶藏
+ZARF	信封
+ÇANTA	背包
+%15 FAZLA	多 %15
+VALİZ	行李箱
+%33 FAZLA	多 %33
+%54 FAZLA	多 %54
+BAŞLANGIÇ PAKETİ	新手禮包
+500 elmas, $10.000 ve 10 zırh delici mermi. Sadece bir kez.	500 鑽石、$10.000 和 10 發穿甲彈。限購一次。
+%80 İNDİRİM	%80 折扣
+REKLAMSIZ	免廣告
+Görev aralarındaki reklamlar sonsuza dek kalkar. Ödüllü videolar istersen açık kalır. Hediye: 100 elmas.	永久移除任務間的廣告。獎勵影片可依你的意願保留。贈品：100 鑽石。
+GÖLGE OPERASYON	暗影行動
+Susturuculu GÖLGE SR-7 hemen senin: bütün hatları 3. kademede. Gece görüşü ve 150 elmas.	附滅音器的暗影 SR-7 立即到手：所有路線皆為第 3 階。附夜視與 150 鑽石。
+EN ÇOK SATAN	最暢銷
+TİTAN PAKETİ	泰坦禮包
+Efsane TİTAN .50: zırhı ve camı deler. Termal dürbün, 400 elmas ve 20 zırh delici mermi.	傳奇泰坦 .50：可擊穿裝甲與玻璃。附熱成像瞄準鏡、400 鑽石和 20 發穿甲彈。
+EFSANE	傳奇
+Bu paket zaten alındı.	此禮包已購買。
+Elmasın yetmiyor.	鑽石不足。
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.	商店目前無法使用。請檢查網路連線，稍後再試。
+LİMAN — KRAL'IN AĞI	港口 — 克拉爾的網路
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: 	你沒有名字。三年前軍方把你登記為陣亡。CONTROL 在一間軍醫院找到你，只提出一個條件： 
+limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	摧毀港口的走私網路，你的過去就一筆勾銷。\n\n每份合約都是一個名字。每個名字，都通往下一個。
+ŞEHİR — BARAN HOLDİNG	城市 — 霍氏控股
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\n	港口垮了，但錢還在流動。維克多·克拉爾手機裡的最後一個號碼指向濱海大廈：霍氏控股。\n\n
+Bu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	這次的目標都穿著西裝。他們在人群中、在玻璃牆後、在警察身旁。
+KARTAL TEPE — KURUL	鷹嶺 — 議會
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını 	從霍振邦金庫取出的檔案揭露了五個名字：議會。這五個人多年來餵養並庇護霍振邦，每年跨年那週 
+her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	都在鷹嶺度過。\n\n檔案裡還有另一個簽名。一個熟悉的簽名。
+Selim Kaya'nın cebinden çıkan rüşvet makbuzlarında tek bir imza var: liman yönetiminden C. Aydın.	曾國華口袋裡的賄賂收據上只有一個簽名：港務管理處的陳家豪。
+Can Aydın'ın sildiği kayıtlar kurtarıldı. Gelecek sevkiyatın alıcısı: Kuzgun lakaplı Tarık Bal.	陳家豪刪除的紀錄已被救回。下一批貨的買家：綽號「渡鴉」的白東海。
+Kuzgun'un arabasındaki çanta boş değil: depoları koruyan paralı askerlerin maaş listesi. Başlarında Rico Vargas.	「渡鴉」車上的包包不是空的：裡面是看守倉庫的傭兵薪資名單。帶頭的是里科·巴爾加斯。
+Rico'nun telsizinde bir uyarı: "Depoda köstebek var." Örgüt de kendi içinde birini arıyor.	里科的無線電傳來警告：「倉庫裡有內鬼。」組織自己也在揪出某個人。
+Köstebek Kerim'in sattığı bilgi bir teslimata işaret ediyor: Tilki çalınan belgeleri rıhtımdan kaçıracak.	內鬼「鼴鼠」呂文雄出賣的情報指向一次交貨：「狐狸」會把偷來的文件從碼頭偷運出去。
+Tilki'nin belgeleri bir gemi manifestosu: Meridian Star'ın ambarında örgütün silah yükü var.	「狐狸」的文件是一份船舶貨單：梅里迪安之星號的貨艙裡有組織的軍火。
+Kaptan Demir'in seyir defterinde tek bir isim tekrar ediyor: yükün sahibi Viktor Kral.	方船長的航海日誌裡反覆出現一個名字：貨主維克多·克拉爾。
+Kral düştü. Telefonundaki son arama Kordon Plaza'ya: Baran Holding. Ama örgüt hâlâ nefes alıyor — ve bir tanığı susturmak istiyor.	克拉爾倒下了。他手機裡的最後一通電話打給濱海大廈：霍氏控股。但組織還沒斷氣 — 而且想讓一名證人閉嘴。
+Ayten Şahin ifadesini verdi. Örgütün para kuryesi Emre Doğan şehirden kaçmaya hazırlanıyor.	李美玲已作證。組織的運鈔人杜冠宇正準備逃離城市。
+Kuryenin çantasındaki hesaplar bir kimyagere ödeme gösteriyor: Dr. Selin Aras.	運鈔人包裡的帳目顯示有筆款項付給了一名化學家：謝佩珊博士。
+Kartal karanlıkta kaldı. Silah sevkiyatının parası bir laboratuvara gidiyor: Meridian Star'ın ambarı.	「老鷹」失聯了。軍火交易的錢流向一間實驗室：梅里迪安之星號的貨艙。
+Dr. Aras konuştu: laboratuvarın asıl sahibi Baran Holding. Liman bitti; sırada şehir var.	謝博士開口了：實驗室真正的主人是霍氏控股。港口結束了；下一站是城市。
+Defne Aksoy'un ekranında son işlem: Baran'ın rüşvet defteri Postacı'ya teslim edildi.	周雅婷螢幕上的最後一筆操作：霍振邦的賄賂帳本已交給「郵差」。
+Rüşvet defteri ele geçti. Sayfalardan biri gemilerin sahibine ayrılmış: Cevdet Aydemir.	賄賂帳本到手了。其中一頁專門記錄船東：蔡永福。
+Aydemir'in balkonda bıraktığı telefon: Baran, Başsavcı Nermin Arslan'ı susturmak için iki kişi tutmuş.	蔡永福留在陽台上的手機：霍振邦雇了兩個人要讓總檢察長沈靜宜閉嘴。
+Savcı konuşmasını bitirdi. Tetikçinin cebinden bir not çıktı: "Muhasebeci konuşmadan işini bitir." Baran'ın muhasebecisi her şeyi biliyor — onu canlı istiyoruz.	檢察官的演說結束了。殺手口袋裡掉出一張紙條：「趁會計師開口前解決他。」霍振邦的會計師知道一切 — 我們要活的。
+Muhasebeci Koç'un hesapları gazeteci Selin Ay'ın cinayetine ödeme gösteriyor. Tetikçi Çakal, dosyayı kapatan bir komiser.	會計師葉國良的帳目顯示有筆款項支付了記者蘇曉雯的謀殺案。殺手「胡狼」，是一名把案子結掉的警官。
+Çakal'ın motosikletinde Baran'ın güvenlik şefinin numarası: Tolga Demirel. Bize karşı her hamleyi o planlamış.	「胡狼」的機車上有霍振邦保安主管的號碼：韓立誠。所有針對我們的行動都是他策劃的。
+Demirel'in tabletinde senin kullandığın bütün atış noktaları var — hepsi işten önce kaydedilmiş. Bunları ona kim verdi? Dosyanın üstünde tek harf: "K."	韓立誠的平板裡有你用過的所有射擊點 — 全都在行動前就記錄下來了。是誰給他的？檔案上只有一個字母：「K」。
+Baran'ın son mesajı yarım kaldı: "KONTROL'e söyle, anlaşma hâlâ geçerli…" Dosyalar Kartal Tepe'yi ve beş ismi gösteriyor: Kurul.	霍振邦的最後一則訊息只寫了一半：「告訴 CONTROL，交易依然有效……」檔案指向鷹嶺和五個名字：議會。
+Banker Kurt'un tableti Kurul'un ödeme defterine bağlanıyor. Her ödemenin altında aynı onay kodu: KONTROL.	銀行家許志明的平板連到議會的付款帳本。每筆付款下方都有同一個核准代碼：CONTROL。
+Hakim Oral'ın kasasında Baran davalarının kararları — duruşmalardan önce yazılmış. Biri de senin eski birliğine ait.	鄭法官的保險箱裡有霍振邦案件的判決書 — 在開庭前就寫好了。其中一份屬於你的舊部隊。
+Müteahhit Tan'ın telefonunda Kurul'un kuryesinin rotası: şifreli diskle vadiyi geçecek.	包商游明輝的手機裡有議會信使的路線：他會帶著加密磁碟穿越山谷。
+Kuryenin diski açıldı: Kurul'un bütün ödemeleri — ve KONTROL'e yapılan aylık ödemeler. Bize iş verenler, Kurul'un kendi temizlikçileri.	信使的磁碟解開了：議會的所有付款 — 還有每月付給 CONTROL 的款項。雇用我們的人，正是議會自己的清道夫。
+Bülent Er'in konvoyundaki evraklar: Kurul'a karşı açılan her soruşturmayı KONTROL'ün talimatıyla kapatmış.	江文彬車隊裡的文件：他依照 CONTROL 的指示，結掉了所有針對議會的調查。
+Elif Demir yaşıyor ve yarın konuşacak. Tetikçileri tutan adamın adı onun dosyasında: Orhan Sezer, Kurul'un temizlikçisi.	林怡君還活著，明天就會作證。雇用殺手的人名字就在她的檔案裡：孫正宏，議會的清道夫。
+Sezer'in telefonundaki son arama Patron'dan değil. KONTROL'den. Senden sonra temizlenecek kişi sendin.	孫正宏手機裡的最後一通電話不是老闆打的。是 CONTROL。在你之後要被清理的人，就是你。
+Kurul bitti. Disk hâlâ sende.	議會完了。磁碟還在你手上。
+Dr. Aras baygın, tekne bekliyor. Onu kime teslim edeceksin?	謝博士昏迷了，船在等著。你要把她交給誰？
+KONTROL'E	交給 CONTROL
+Kimyager KONTROL'ün hücresine gitti. Ondan bir daha haber alınmadı.	化學家被送進 CONTROL 的牢房。從此音訊全無。
+SAVCILIĞA	交給檢方
+Kimyager savcılığa bırakıldı. İfadesi Baran'a açılan davanın ilk delili oldu.	化學家被交給了檢方。她的證詞成為起訴霍振邦的第一項證據。
+Baran'ın kasası açık: dosyalar ve iki milyon avro. Ne yapacaksın?	霍振邦的金庫開著：檔案和兩百萬歐元。你要怎麼做？
+PARAYI AL	拿走錢
+Parayı aldın (+20.000). KONTROL'e sadece dosyaları gönderdin.	你拿走了錢（+20.000）。只把檔案寄給 CONTROL。
+DOKUNMA	別碰
+Parayı bıraktın. Dosyaların kopyasını Başsavcı Arslan'a yolladın.	你沒動那筆錢。把檔案副本寄給了總檢察長沈靜宜。
+Kurul'un bütün ödemeleri ve KONTROL'ün imzası bu diskte. Kime vereceksin?	議會的所有付款和 CONTROL 的簽名都在這張磁碟裡。你要交給誰？
+Diski KONTROL'e verdin. Ertesi sabah Kurul'un boş koltukları dolmaya başladı — yeni isimlerle. Sözleşme tamam; sen yine kimsesin.	你把磁碟交給了 CONTROL。隔天早上，議會的空位開始被填滿 — 換上了新的名字。合約完成；你依舊是個無名之人。
+SAVCIYA	交給檢察官
+Diski Başsavcı Nermin Arslan'a bıraktın. Bir hafta sonra KONTROL'ün kapısına polis dayandı. Adın yine yok — ama bu sefer kendi seçimin.	你把磁碟留給了總檢察長沈靜宜。一週後，警察找上了 CONTROL 的門。你依然沒有名字 — 但這次，是你自己的選擇。
+ Kimyagerin ifadesi davayı ayakta tutuyor.	 化學家的證詞讓這起案子站得住腳。
+ Baran'ın parasını aldığını KONTROL biliyor.	 CONTROL 知道你拿了霍振邦的錢。
+Seni kaybettiler — ama nişancı yuvasını arıyorlar	他們跟丟了你 — 但正在搜尋狙擊點
+Vuruldun — 	你中彈了 — 
+Vuruldun — yerin tespit edildi	你中彈了 — 位置已暴露
+ÇAYLAK	菜鳥
+TETİKÇİ	殺手
+NİŞANCI	射手
+KESKİN NİŞANCI	狙擊手
+GÖLGE	暗影
+HAYALET	幽靈
+Günün sözleşmesi	每日合約
+Elmasla son geliştirme kademeleri	用鑽石解鎖最終升級階級
+Efsane rütbe yolu	傳奇軍階之路
+TELEFERİK	纜車
+Kartal Tepe teleferiği	鷹嶺纜車
+Sinan Kurt zirvedeki kahvaltıya teleferikle çıkacak. Kabin zirve istasyonuna varırsa onu kaybederiz.	許志明會搭纜車上山頂吃早餐。車廂一旦抵達山頂站，我們就會失去他。
+Baran'ın dosyaları bizi Kartal Tepe'ye getirdi. Kurul — Baran'ı yıllarca besleyen ve koruyan beş kişi — yılbaşı haftasını her yıl burada geçiriyor.\n\nİlki Sinan Kurt, Kurul'un bankeri. Kayak barında kahvesini bitirince iki korumasıyla teleferiğe binip zirvedeki restorana çıkacak. Kabin hattın sonuna varırsa onu kaybederiz.	霍振邦的檔案把我們帶到了鷹嶺。議會 — 多年來餵養並庇護霍振邦的五個人 — 每年跨年那週都在這裡度過。\n\n第一個是許志明，議會的銀行家。他在滑雪酒吧喝完咖啡後，會和兩名保鑣搭纜車到山頂餐廳。車廂若抵達終點，我們就會失去他。
+Kabin camı mermiyi durdurmaz; yukarı çıkan kabine biraz önden ve yukarıdan nişan al. İstasyonun yanındaki motor dairesine iki atış hattı durdurur: kabinler sallanır, içindekiler çömelir.	車廂玻璃擋不住子彈；對上升中的車廂略微提前並往上瞄準。朝車站旁的機房開兩槍就能讓纜車停下：車廂會搖晃，裡面的人會蹲下。
+Uzun menzil: kabin 250 metreden 1 kilometreye kadar uzaklaşır	長距離：車廂會從 250 公尺遠離到 1 公里
+Teleferik motoru: istasyonun batısındaki beton kulübe	纜車馬達：車站西側的水泥小屋
+Sinan Kurt istasyona kaçtı	許志明逃進了車站
+KONTROL	CONTROL
+Platformdalar. Sıradaki kabine binecekler.	他們在月台上。會搭下一班車廂。
+Kabine bindiler — yukarı çıkıyorlar	他們上車了 — 正在往上
+Zirve istasyonuna	距抵達山頂站
+Sinan Kurt zirve istasyonuna vardı	許志明抵達了山頂站
+Teleferik durdu — kabinler sallanıyor!	纜車停了 — 車廂在搖晃！
+Teknisyenler hattı yeniden çalıştırdı! Kabin yine hareket ediyor.	技術人員重新啟動了纜車！車廂又開始移動。
+Kayak barında, korumalarıyla kahve içiyor. Platforma çıkınca sıradaki kabine binecek.	他在滑雪酒吧和保鑣喝咖啡。上了月台後會搭下一班車廂。
+Hat saatte 18 kilometre gidiyor. Kabin uzaklaştıkça mermi düşüşü artar — hesabını yap.	纜車時速 18 公里。車廂越遠，子彈下墜越多 — 算好再打。
+Sinan Kurt	許志明
+Uzun gri palto, gözlük, kır saç. İki korumasıyla.	灰色長大衣、眼鏡、灰白頭髮。帶著兩名保鑣。
+Sinan Kurt'u zirve istasyonuna varmadan etkisiz hale getir	在許志明抵達山頂站前將他解決
+Teleferik motorunu durdurabilirsin (isteğe bağlı)	你可以讓纜車馬達停機（可選）
+Sözleşmeyi tamamla	完成合約
+Kabin hareket halindeyken vur	在車廂移動中擊殺
+En fazla iki atış	最多開兩槍
+ŞÖMİNE	壁爐
+Doğu yamacı — cam villa	東坡 — 玻璃別墅
+Hakim Ferit Oral şöminenin başında. Villanın bütün ön cephesi cam — ve cam kırıldığı an içeridekiler anlar.	鄭國棟法官正坐在壁爐前。別墅整個正面都是玻璃 — 玻璃一碎，屋裡的人就會察覺。
+Ferit Oral, Baran'ın her davasını düşüren hakim. Yıllardır Kurul'un yargıdaki adamı. Bu gece doğu yamacındaki cam villasında eşiyle.\n\nDışarıda, terasta bir koruma dolaşıyor; aşağıda araçta bir şoför bekliyor. Hakim 23:25'te yatmaya gidecek. Eşi odadayken ateş edersen tanık kalır.	鄭國棟，讓霍振邦每件案子都不了了之的法官。多年來他是議會在司法界的人。今晚他和妻子待在東坡的玻璃別墅。\n\n外頭的露台上有一名保鑣巡邏；下方車裡有個司機在等。法官 23:25 會去睡覺。若在他妻子還在房裡時開槍，就會留下證人。
+İlk mermi camı kırar ve sesi içeridekileri ürkütür: ilk atışın öldürücü olsun. Hakim zaman zaman cama gelip vadiye bakıyor — en açık an o.	第一發子彈會打碎玻璃，聲響會驚動屋內的人：第一槍就要致命。法官不時會走到窗前眺望山谷 — 那是最好的時機。
+Hakim bölmenin arkasında. Cama ya da şömineye geri gelmesini bekle.	法官在隔板後面。等他回到窗前或壁爐邊。
+Hakim yatak odasına kilitlendi	法官把自己鎖在臥室裡
+Hakimin yatmasına	距法官就寢
+Hakim yatak odasına gidiyor!	法官正走向臥室！
+Hakim yatmaya gitti	法官去睡了
+Cam ön cephe vadiye bakıyor. Hakim kanepede, eşi masanın başında.	玻璃正面朝向山谷。法官在沙發上，妻子在桌邊。
+Eşi arada bir öbür odalara geçiyor. O sırada vurursan kimse bir şey görmez.	他妻子偶爾會走到其他房間。趁那時開槍就沒人看見。
+Yolun aşağısındaki adamın elinde gece dürbünü var. Dürbün sana dönünce eğil.	路下方那人手上有夜視望遠鏡。望遠鏡轉向你時就蹲下。
+Ferit Oral	鄭國棟
+Beyaz balıkçı yaka kazak, gözlük, beyaz saç. Cam villada.	白色高領毛衣、眼鏡、白髮。在玻璃別墅中。
+Hakim Ferit Oral'ı yatmaya gitmeden etkisiz hale getir	在鄭國棟法官就寢前將他解決
+Tanık bırakma: eşi odadayken ateş etme	不留證人：他妻子在房裡時別開槍
+Camın ardından tek atış	隔著玻璃一槍解決
+JAKUZİ	按摩池
+Kartal Dağ Oteli — spa terası	鷹嶺山莊 — 水療露台
+Selim Tan gün batımında jakuzide. Buhar onu bir saklıyor, bir gösteriyor — pencereni bekle.	游明輝正在夕陽下泡按摩池。蒸氣時而遮住他、時而露出他 — 等待你的機會。
+Selim Tan, Baran'ın limandaki depolarını, Kurul'un kara parayla yükselen bütün otellerini inşa eden müteahhit.\n\nOtelin spa terasında, jakuzide gün batımını izliyor. Kapıda bir koruması, yanında bir arkadaşı var; garson şampanya getirecek. Sudan çıktığında içeri girer.\n\nKoruma kapıdan dürbünle yamaçları tarıyor. Selim'in dibinde durduğu için onu vurmak Selim'i ürkütür: dürbün sana döndüğünde eğil.	游明輝，替霍振邦蓋起港口倉庫、蓋起議會用黑錢堆出來的每一間飯店的包商。\n\n他在飯店的水療露台泡按摩池看夕陽。門口有一名保鑣，身旁有個朋友；服務生會送香檳過來。他出水後就會進屋。\n\n保鑣在門口用望遠鏡掃視山坡。他就站在游明輝旁邊，射殺他會驚動游明輝：望遠鏡轉向你時就蹲下。
+Suyun üstünde yalnızca başı ve omuzları görünüyor. Buhar yoğunlaştığında hedef kaybolur, açıldığında birkaç saniyelik pencere doğar. Sudan çıkıp kapıya yürürken bütün boyuyla açıktadır — ama yalnızca birkaç saniye.	水面上只露出他的頭和肩膀。蒸氣變濃時目標會消失，散開時會有幾秒鐘的空檔。他出水走向門口時整個人都會暴露 — 但只有幾秒鐘。
+Selim Tan otele girdi	游明輝進了飯店
+Selim sudan çıkıyor — kapıya yürüyor!	游明輝出水了 — 正走向門口！
+Sudan çıkmasına	距他出水
+Buhar bazen tamamen kapatıyor. Sabret: açıldığı an tek bir temiz atış yeter.	蒸氣有時會完全遮住視線。耐心點：散開的那一刻，一發乾淨俐落的子彈就夠了。
+Kapıdaki koruma dürbünle yamaçları tarıyor. Onu vurursan Selim içeri kaçar: dürbün sana dönünce eğil.	門口的保鑣正用望遠鏡掃視山坡。射殺他游明輝就會逃進屋裡：望遠鏡轉向你時就蹲下。
+Selim Tan	游明輝
+Müteahhit	包商
+Kalın yapılı, sakallı, koyu saç. Jakuzide.	體格壯碩、留鬍子、深色頭髮。在按摩池中。
+Selim Tan'ı içeri girmeden etkisiz hale getir	在游明輝進屋前將他解決
+Kafadan vur	爆頭
+Buharın içinden vur	穿過蒸氣擊殺
+KAR MOTORU	雪地摩托車
+Vadi tabanı — batı yamacı	谷底 — 西坡
+Kurye Kurul'un defterini kar motoruyla dağa kaçıracak. Ölmemeli: defterin şifresi onda.	信使會騎雪地摩托車把議會的帳本帶上山。他不能死：帳本的密碼在他身上。
+Doğan Aksu, Kurul'un kuryesi. Bütün ödemelerin kaydı olan şifreli disk onda. Birazdan otelden çıkıp kar motoruyla vadiyi geçecek ve batı yamacından ormana girecek.\n\nOnu CANLI istiyoruz. Önce motoru durdur — motor bloğuna iki atış — sonra kaçmaya çalışırsa bacağından vur. Ekibimiz ratrakla gelip onu alacak.\n\nKurul onu bizim almamıza izin vermez: kurye düşünce spadan adamları çıkıp onu susturmaya gelecek. Ratrak gelene kadar onları durdur.	唐俊傑，議會的信使。記錄所有付款的加密磁碟在他身上。他很快就會離開飯店，騎雪地摩托車穿越山谷，從西坡進入森林。\n\n我們要「活的」。先讓摩托車停下 — 引擎體開兩槍 — 他若想逃，就打他的腿。我們的人會開壓雪車來接他。\n\n議會不會讓我們帶走他：信使一倒下，他們的人就會從水療館出來滅口。在壓雪車趕到前擋住他們。
+Kar motoru saatte 25 kilometreyle gidiyor: biraz önden nişan al. Sürücüye isabet edersen ölebilir; motor bloğu sürücünün önünde, hedefin altında. Motor durunca kurye en yakın dağ evine koşar: içeri girmeden bacağından vur.	雪地摩托車時速 25 公里：瞄準時略微提前。打中駕駛可能會要了他的命；引擎體在駕駛前方、目標下方。引擎停了以後，信使會跑向最近的山屋：在他進屋前打他的腿。
+Kurye bir dağ evine saklandı	信使躲進了山屋
+Kuryeyi BACAĞINDAN vur — ölmemeli	打信使的「腿」— 他不能死
+Ekip gelene kadar onu hayatta tut	在小隊趕到前讓他活著
+Kar motoru çalışmıyor — kurye koşarak kaçıyor!	雪地摩托車壞了 — 信使正徒步逃跑！
+Kurye ormana girdi	信使進了森林
+Kurye kar motorunda — vadiyi geçiyor!	信使騎著雪地摩托車 — 正在穿越山谷！
+Motor durdu — kurye koşarak kaçıyor!	引擎停了 — 信使正徒步逃跑！
+Ratrakın ulaşmasına	距壓雪車抵達
+Spadan silahlı biri çıktı — kuryeye gidiyor!	有個持槍者從水療館出來了 — 正衝向信使！
+Etraf temiz — ratrak tam gaz geliyor!	周圍清空了 — 壓雪車全速趕來！
+Kurye uyudu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	信使昏過去了！壓雪車出發了 — 議會的人會從水療館出來，別讓他們靠近他。
+Bacağından vuruldu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	他腿部中彈！壓雪車出發了 — 議會的人會從水療館出來，別讓他們靠近他。
+Ekip kuryeyi aldı	小隊接走了信使
+Otelin spa kapısından çıkacak. Kar motoru otoparkın doğu ucunda.	他會從飯店的水療館門口出來。雪地摩托車在停車場東端。
+Doğan Aksu	唐俊傑
+Koyu yeşil kapüşonlu, gri bere, kargo pantolon. Kar motorunda.	深綠色連帽衫、灰色毛帽、工作褲。在雪地摩托車上。
+Önce kar motorunu durdurabilirsin (motor bloğu: 2 atış)	你可以先讓雪地摩托車停下（引擎體：2 槍）
+Kuryeyi canlı yakala	生擒信使
+En fazla beş atış	最多開五槍
+Kurul'un adamları nişan alamasın	別讓議會的人瞄準他
+ÇIĞ	雪崩
+Batı yolu — çığ yamacı	西側道路 — 雪崩坡
+KAZA	意外
+Bülent Er'in konvoyu batı yolundan gelecek. Kaza gibi görünmeli: yamaçta bir çığ patlayıcısı var.	江文彬的車隊會從西側道路過來。必須看起來像意外：山坡上有一枚雪崩炸藥。
+Bülent Er, emniyet istihbaratının başında ve Kurul'un maaş bordrosunda. Baran'a karşı açılan her soruşturmayı o kapattırdı. Bu sabah iki araçlık konvoyla batı yolundan otele geliyor.\n\nBir emniyet müdürünün kurşunla ölmesi ülkeyi ayağa kaldırır. Kaza olmalı: yolun üstündeki yamaçta çığ kontrol patlayıcısı var. Onu doğru anda vurursan yamaç kopar ve yolu örter. Bülent ikinci araçta.	江文彬，警察情報單位的首長，也在議會的薪資名單上。所有針對霍振邦的調查都是他下令結掉的。今天早上他會帶著兩輛車的車隊從西側道路前往飯店。\n\n一名警察局長中槍身亡會讓全國譁然。必須是意外：道路上方的山坡有一枚雪崩控制炸藥。在正確的時機擊中它，山坡就會崩落並掩埋道路。江文彬在第二輛車。
+Çığ yola altı saniyede iner: sayaç altıya indiğinde patlayıcıyı vur. Erken vurursan konvoy kar yığınının önünde durur, geç kalırsan geçip gider; o zaman Bülent'i doğrudan vurmak zorundasın — ama kaza süsü gider.	雪崩落到路面需要六秒：倒數到六時射擊炸藥。打太早，車隊會停在雪堆前；太晚，車隊就過去了；那時你只能直接射殺江文彬 — 但意外的偽裝就沒了。
+Çığ kontrol patlayıcısı: yolun üstündeki yamacın tepesinde, sarı tank	雪崩控制炸藥：道路上方山坡頂端的黃色桶槽
+İkinci araçta — batı yolundan geliyor	在第二輛車 — 從西側道路過來
+Bülent Er otele girdi	江文彬進了飯店
+Yamaç koptu — çığ yola iniyor!	山坡崩落了 — 雪崩衝向道路！
+Konvoy otele vardı — Bülent arabadan iniyor!	車隊抵達飯店 — 江文彬正在下車！
+Konvoyun yamaca ulaşmasına	距車隊抵達山坡
+Konvoy batı yolunda. Yamacın altındaki virajdan geçecekler.	車隊在西側道路上。他們會經過山坡下方的彎道。
+Çığ yolu kapattı, konvoy durdu. Bülent araçtan indi — kaza olmadı ama fırsat bu.	雪崩封住了道路，車隊停了下來。江文彬下車了 — 不算意外，但機會就是現在。
+Çığ boşa gitti! Konvoy otele devam ediyor — Bülent arabadan inince fırsatın var.	雪崩白費了！車隊繼續開往飯店 — 江文彬下車時就是你的機會。
+Tepedeki adam kayak devriyesi, patlayıcıyı kontrol ediyor. O oradayken tetikleme.	山頂上那人是滑雪巡邏員，正在檢查炸藥。他還在那裡時別引爆。
+Çığ yamaçtan yola altı saniyede iner. Sayaç altıya indiği an patlayıcıyı vur.	雪崩從山坡落到路面需要六秒。倒數到六的那一刻射擊炸藥。
+Bülent Er	江文彬
+Emniyet İstihbaratı	警察情報單位
+İkinci araçta. Lacivert palto, şapka, gözlük.	在第二輛車。深藍色大衣、帽子、眼鏡。
+Bülent Er'i etkisiz hale getir — kaza gibi görünmeli	解決江文彬 — 必須看起來像意外
+Kaza süsü ver: çığla	偽裝成意外：用雪崩
+Çığ devriyesine zarar verme	別傷到雪崩巡邏員
+KAYAK HOCASI	滑雪教練
+Acemi pisti	初學者滑道
+Elif Demir yarın mahkemede Kurul'a karşı tanıklık edecek. Bugün onu öldürmeye üç kişi geliyor.	林怡君明天會在法庭上指證議會。今天有三個人要來殺她。
+Kayak hocası Elif Demir, geçen kış teleferik makinisti Hasan Usta'nın Kurul'un adamlarınca öldürülüşünü gördü. Yarın mahkemede tanıklık edecek; Kurul onu bugün susturmak istiyor.\n\nElif acemi pistinde ders veriyor. Üç tetikçi var: istasyonun çatısında bir nişancı, otelden yürüyerek gelen biri ve kar motoruyla gelecek biri. Jandarma 11:33'te geliyor. O zamana kadar onu hayatta tut.	滑雪教練林怡君去年冬天目睹了纜車操作員劉師傅被議會的人殺害。她明天要出庭作證；議會想在今天讓她閉嘴。\n\n怡君正在初學者滑道上課。共有三名殺手：車站屋頂上的一名狙擊手、從飯店步行過來的一人，以及會騎雪地摩托車過來的一人。憲兵 11:33 抵達。在那之前保住她的命。
+Nişancıyı önce bul: teleferik istasyonunun düz çatısında, kar kadar beyaz. Ateş ettiğin an namlu alevini görür ve sana döner. Silah çeken birini kolundan vurursan silahını düşürür.	先找出狙擊手：他在纜車站的平坦屋頂上，白得跟雪一樣。你一開槍他就會看到槍口火光並轉向你。打中拔槍者的手臂，他就會掉槍。
+Susturucu nişancının seni görmesini geciktirir	滅音器能延緩狙擊手發現你
+İstihbarat: üç tetikçi — biri yüksekte	情報：三名殺手 — 其中一人在高處
+Elif Demir	林怡君
+TANIK	證人
+Kayak hocası — koru	滑雪教練 — 保護她
+Elif'i jandarma gelene kadar koru	保護怡君直到憲兵抵達
+Çatıdaki Nişancı	屋頂狙擊手
+Haki yeşil palto, kalpak — teleferik istasyonunun çatısında	卡其綠大衣、毛皮帽 — 在纜車站屋頂上
+İstasyonun çatısında biri doğruldu — Elif'e nişan alıyor!	車站屋頂上有人起身了 — 他正瞄準怡君！
+Çatıdaki nişancı seni vurdu	屋頂狙擊手擊中了你
+Yürüyen Adam	步行男子
+Siyah kapüşonlu, siyah bere, sakallı	黑色連帽衫、黑色毛帽、留鬍子
+Kar Motorlu Adam	雪地摩托車男子
+Gri kapüşonlu, siyah bere, spor gözlük — kar motorunda	灰色連帽衫、黑色毛帽、運動眼鏡 — 在雪地摩托車上
+Doğudan bir kar motoru geliyor, hızlı!	東邊有台雪地摩托車開過來了，速度很快！
+Kar motorlu indi — Elif'e koşuyor!	雪地摩托車男子下車了 — 正衝向怡君！
+Üç tetikçiyi de durdur	阻止全部三名殺手
+Üç tetikçiyi de durdur  	阻止全部三名殺手  
+Jandarmanın gelmesine	距憲兵抵達
+Jandarma geldi — Elif güvende	憲兵到了 — 怡君安全了
+Üç tetikçi var. Yüksekteki önce: istasyonun çatısını tara.	有三名殺手。先處理高處那個：掃視車站屋頂。
+Tanık	證人
+Kırmızı mont, beyaz bere, at kuyruğu. Acemi pistinde ders veriyor.	紅色外套、白色毛帽、馬尾。正在初學者滑道上課。
+Elif Demir'i jandarma gelene kadar koru	保護林怡君直到憲兵抵達
+Üç tetikçiyi bul ve durdur (bonus)	找出並阻止三名殺手（額外）
+Tanığı koru	保護證人
+Nişancıyı nişan alamadan durdur	在狙擊手瞄準前阻止他
+Öğrencilere zarar verme	別傷到學生
+Köy — tipi altında	村莊 — 暴風雪中
+Orhan Sezer tipiyi fırsat bilip ratrakla dağı aşacak. Göz gözü görmüyor — termal dürbün hazır olsun.	孫正宏想趁暴風雪開壓雪車翻越山頭。伸手不見五指 — 備好熱成像瞄準鏡。
+Orhan Sezer, Kurul'un temizlikçisi: tanıkları ortadan kaldıran, delilleri yok eden adam. Elif'e gönderilen tetikçileri o tutmuştu. Tipiyi fırsat bilip ratrakla dağı aşacak; zirvenin ötesinde bir helikopter bekliyor.\n\nOtelden çıkıp köyü yürüyerek geçecek ve istasyonun yanındaki ratraka binecek. Kar fırtınasında 200 metrenin ötesi görünmüyor; termal dürbün vücut ısısını sisin içinden gösterir. Rüzgar çok sert.	孫正宏，議會的清道夫：負責除掉證人、銷毀證據的人。派去殺怡君的殺手就是他雇的。他想趁暴風雪開壓雪車翻越山頭；山頂另一邊有架直升機在等。\n\n他會離開飯店，步行穿過村莊，然後坐上車站旁的壓雪車。暴風雪中 200 公尺外什麼都看不見；熱成像瞄準鏡能穿透霧氣顯示體溫。風非常強。
+Termal dürbün herkesi beyaz gösterir: tarayıp kimliği oku. Rüzgar saatte 30 kilometreden fazla esiyor; nişanı rüzgarın geldiği yöne kaydır.	熱成像瞄準鏡會讓每個人都呈白色：掃描以讀取身分。風速超過每小時 30 公里；把準星往風吹來的方向偏移。
+Termal dürbün şart	必須使用熱成像瞄準鏡
+Orhan istasyona kaçtı	孫正宏逃進了車站
+Ratrak hareket etti — dağa tırmanıyor!	壓雪車出發了 — 正在爬山！
+Ratrakın sırtı aşmasına	距壓雪車越過山脊
+Ratrak sırtı aştı	壓雪車越過了山脊
+Görüş 200 metrenin altında. Termal dürbünle sıcak noktaları ara, sonra kimliği tara.	能見度不到 200 公尺。用熱成像瞄準鏡尋找熱源，再掃描身分。
+Rüzgar doğudan sert esiyor. Uzak atışta mermi metrelerce sürüklenir.	強風從東方吹來。遠距離射擊時子彈會偏移好幾公尺。
+Orhan Sezer	孫正宏
+Temizlikçi	清道夫
+Lacivert uzun palto, kalpak, gözlük. İki korumasıyla.	深藍色長大衣、毛皮帽、眼鏡。帶著兩名保鑣。
+Orhan Sezer'i ratrak sırtı aşmadan etkisiz hale getir	在壓雪車越過山脊前解決孫正宏
+Tek atış	一槍解決
+Termal dürbün kullanmadan	不使用熱成像瞄準鏡
+ZİRVE	山頂
+Kartal Dağ Oteli — yılbaşı gecesi	鷹嶺山莊 — 跨年夜
+Gece yarısı havai fişekler başlayınca vadi gürültüyle dolacak. Patlamalar senin silahının sesini yutar.	午夜煙火一開始，山谷就會充滿巨響。爆炸聲會蓋過你的槍聲。
+Kurul'dan geriye bir kişi kaldı: Nedim Kurt — Patron. Baran'ı yaratan, yıllarca ayakta tutan ve her şeyin hesabını tutan adam.\n\nYılbaşı gecesi otelin önündeki terasta misafirleriyle. Gece yarısı gölün üstünde havai fişek gösterisi var: Patron izlemek için terasın ucuna yürüyecek. Patlamalar yankılanırken atılan bir kurşunu kimse duymaz. Gösteri bitince içeri girer — bir daha çıkmaz.\n\nPatron tedbirli: güvenlik şefi terasın önünden gece dürbünüyle yamaçları tarıyor. Seni görürse korumalar yerini öğrenir.	議會只剩下一個人：黃天成 — 老闆。創造了霍振邦、多年來撐著它、記下所有帳的人。\n\n跨年夜他和賓客待在飯店前的露台。午夜時湖面上有煙火秀：老闆會走到露台邊緣觀賞。爆炸聲迴盪時開的那一槍，沒有人聽得見。秀一結束他就會進屋 — 再也不會出來。\n\n老闆很謹慎：他的保安主管在露台前用夜視望遠鏡掃視山坡。要是被他看見你，保鑣就會知道你的位置。
+Havai fişek patlamasının sesi yuvaya ulaştığı an tetiğe bas: o anki atışı kimse duymaz. Patron'un iki koruması var; kalabalığın içinde ateş etme. Güvenlik şefinin dürbünü sana dönünce eğil (SİPER).	煙火爆炸聲傳到狙擊點的那一刻扣下扳機：那一槍沒有人會聽見。老闆有兩名保鑣；別朝人群開火。保安主管的望遠鏡轉向你時就蹲下（掩護）。
+Gece yarısı: göl üstünde havai fişek	午夜：湖上煙火
+Patron içeri girdi	老闆進屋了
+Gece yarısına	距午夜
+MİSAFİRLER	賓客
+On! Dokuz! Sekiz! Yedi...	十！九！八！七……
+Mutlu yıllar! — havai fişekler başladı	新年快樂！— 煙火開始了
+Gösterinin bitmesine	距煙火秀結束
+Gösteri bitti — Patron içeri dönüyor!	煙火秀結束了 — 老闆正要回屋！
+Kalabalığın ortasında. Gece yarısı gösteriyi izlemek için terasın ucuna yürüyecek.	在人群中央。午夜時會走到露台邊緣看煙火秀。
+Patlamanın sesi sana ulaştığı an ateş et — o anki atışı kimse duymaz.	爆炸聲傳到你耳中的那一刻開火 — 那一槍沒有人會聽見。
+Gece dürbünüyle yamaçları tarıyor — seni görürse yerini bildirir	正用夜視望遠鏡掃視山坡 — 要是看見你就會通報你的位置
+Terasın önünde gece dürbünlü biri var: Patron'un güvenlik şefi. Dürbün sana dönünce eğil — gece yarısından önce atış sesi duyulur.	露台前有個拿夜視望遠鏡的人：老闆的保安主管。望遠鏡轉向你時就蹲下 — 午夜前的槍聲會被聽見。
+Nedim Kurt	黃天成
+Beyaz smokin ceket, papyon, kır sakal. Otel terasında.	白色晚禮服外套、領結、灰白鬍子。在飯店露台上。
+Nedim Kurt'u gösteri bitmeden etkisiz hale getir	在煙火秀結束前解決黃天成
+Kurul'u bitir	終結議會
+Her atışı havai fişeklerin sesine gizle	讓每一槍都藏在煙火聲中
+Balıkçı	漁夫
+KARTAL K-98	老鷹 K-98
+Güvenilir sürgülü tüfek. Her suikastçının ilk ortağı.	可靠的栓動步槍。每個殺手的第一個搭檔。
+GÖLGE SR-7	暗影 SR-7
+7.62×51 susturuculu	7.62×51 附滅音器
+Entegre susturucu: atış sesi duyulmaz, mermi daha yavaş gider. Gizli işler için.	整合式滅音器：槍聲聽不見，但子彈較慢。適合隱密行動。
+FIRTINA DMR	風暴 DMR
+7.62×51 yarı otomatik	7.62×51 半自動
+Yarı otomatik: sürgü çekmeden peş peşe ateş. Kaçan ve kalabalık hedefler için.	半自動：不用拉槍栓就能連續射擊。適合逃跑和人群中的目標。
+ATMACA .338 LR	獵鷹 .338 LR
+Uzun menzil: yüksek namlu çıkış hızı, az düşüş, 20× dürbün. İnce siperleri deler.	遠距離：槍口初速高、下墜少、20× 瞄準鏡。可擊穿薄掩體。
+TİTAN .50	泰坦 .50
+Anti-materyel tüfek: duvar, araç kapısı ve motor bloğu deler. Her isabet öldürür.	反器材步槍：可擊穿牆壁、車門和引擎體。每一發命中都致命。
+Dürbüne takılır: karanlıkta her şeyi yeşil ışıkta görürsün.	裝在瞄準鏡上：在黑暗中以綠光看清一切。
+TERMAL DÜRBÜN	熱成像瞄準鏡
+İnsan vücudu beyaz parlar: sis, karanlık ve kalabalıkta hedefi bul.	人體會發出白光：在霧中、黑暗中和人群裡找出目標。
+KEŞİF DRONU	偵察無人機
+Görev başına bir kez: bölgedeki herkesi 15 saniye işaretler ve kimliklerini tarar.	每次任務一次：標記區域內所有人 15 秒並掃描身分。
+Sınırsız.	無限。
+ZIRH DELİCİ	穿甲彈
+İnce siperleri, araç kapılarını ve camları delip geçer.	能擊穿薄掩體、車門和玻璃。
+UYUŞTURUCU İĞNE	麻醉彈
+Öldürmez, bayıltır. Sessizdir ama yavaştır: çok düşer.	不致命，只會讓人昏迷。安靜但速度慢：下墜很多。
+PATLAYICI	爆裂彈
+Çarptığı yerde patlar: araçları ve jeneratörleri tek atışta durdurur.	命中即爆炸：一槍就能讓車輛和發電機停擺。
+HASAR	傷害
+DÜRBÜN	瞄準鏡
+DENGE	穩定
+ŞARJÖR	彈匣
+HIZ	速度
+Daha ağır mermi: zırhlı gövdeyi deler, kurşun daha hızlı ve düz gider.	更重的子彈：可擊穿裝甲軀幹，彈道更快更平直。
+Dürbünün en büyük yakınlaştırması artar.	提高瞄準鏡的最大倍率。
+Dürbündeki sallantı ve geri tepme azalır.	減少瞄準鏡晃動和後座力。
+Şarjöre daha çok fişek sığar.	彈匣可裝更多子彈。
+Sürgü ve şarjör değişimi hızlanır.	拉栓和換彈匣更快。
+YAYGIN	普通
+NADİR	稀有
+EPİK	史詩
+ fişek	 發
+Bu açıdan 	從這個角度看不到 
+ görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	 。用「轉移位置」換到別處。
+Bundan sonra hedef işaretli gelmez. Dürbüne gir: sağdaki DOSYA'daki yüzü kalabalıkta bul, kişiyi tara, emin olunca İŞARETLE. Yanlış kişiyi vurursan sözleşme iptal.	從現在起目標不會被標記。開鏡：在人群中找出右側「檔案」裡的那張臉，掃描此人，確定後再「標記」。射錯人合約就會取消。
+Uzak hedefte mermi düşer. Sol alttaki MENZİL ile dürbünü hedefin mesafesine ayarla (telemetre dürbünün altında) ya da sarı çizgilerden tut: 2 = 200 m, 3 = 300 m.	遠距離目標子彈會下墜。用左下角的「距離」把瞄準鏡調到目標距離（測距儀在瞄準鏡下方），或依黃線瞄準：2 = 200 m，3 = 300 m。
+Bundan sonra isabet noktası sadece NEFES tutarken görünür. Nefesini doğru ana sakla.	從現在起，只有屏息時才會顯示著彈點。把呼吸留到關鍵時刻。
+Şehirde isabet noktası yok. Menzili ayarla, rüzgâr panelindeki yöne göre sarı noktalardan (1 nokta = 1 mil) tut.	城市中沒有著彈點。調整距離，依風力面板的方向用黃點（1 點 = 1 密位）修正。
+Dağda rüzgâr sert ve değişken; paneldeki ok ve güç anlık değişir. Okun yönünü ve gücünü izle, rüzgârın dindiği anı bekle.	山上的風強勁多變；面板上的箭頭和風力隨時在變。注意箭頭方向和強度，等風停的那一刻。
+Alarm engellendi	警報已阻止
+Son 10 saniye!	最後 10 秒！
+Süre doldu	時間到
+Takviye — mevzi alıp yuvana ateş edecek	增援 — 會占好位置朝你的狙擊點開火
+ silahlı adam mevzi alıyor — yuvanı arıyorlar!	 名槍手正在就位 — 他們在找你的狙擊點！
+Alarm çaldı, takviye geliyor. Başını eğik tut, önce silahlıları sustur.	警報響了，增援正在趕來。壓低身子，先解決持槍者。
+Hedef düştü ama adamları seni arıyor. Siper al ya da silahlıları sustur — sonra çık.	目標倒下了，但他的手下在找你。找掩護或解決持槍者 — 然後撤離。
+Iskalaman dikkat çekti — silahlılar dışarı çıkıyor. Siper al, sonra işini bitir.	你的失手引起了注意 — 持槍者正在出來。先找掩護，再完成任務。
+İŞÇİ	工人
+SİVİL	平民
+Hedef saklandı	目標躲起來了
+Hedef kaçtı	目標逃走了
+Silahlı adam kaçtı	持槍者逃走了
+Hedef öldü — onu canlı istiyorduk	目標死了 — 我們要的是活口
+Korunan kişi	護衛對象
+ öldürüldü	 遭到殺害
+İsabet — 	命中 — 再 
+ atış daha	 槍
+Görev başarısız	任務失敗
+YENİ HEDEF: 	新目標： 
+  ·  DÜELLO	  ·  對決
+  ·  SON ANDA	  ·  千鈞一髮
+  ·  SİPERİN İÇİNDEN	  ·  穿透掩體
+  ·  CAMIN İÇİNDEN	  ·  穿透玻璃
+  ·  HAREKETLİ HEDEF	  ·  移動目標
+ZIRH DURDURDU — kafaya nişan al, zırh delici kullan ya da HASAR geliştir	被裝甲擋下 — 瞄準頭部、使用穿甲彈或升級「傷害」
+SİLAHLI ADAM BULUNDU: 	發現持槍者： 
+HEDEF DOĞRULANDI: 	目標已確認： 
+Hedef değil — masum konuk	非目標 — 無辜賓客
+Üç yanlış teşhis — sözleşme iptal	三次誤認 — 合約取消
+KONTROL: O değildi — masum birini vurdun!	CONTROL：不是他 — 你殺了無辜的人！
+KONTROL: Yine yanlış kişi. Bir daha olursa iptal.	CONTROL：又是錯的人。再一次就取消。
+KİMLİK DOĞRULANDI: 	身分已確認： 
+KONTROL: Hayır, o değil. Dosyaya tekrar bak.	CONTROL：不，不是他。再看一次檔案。
+KONTROL: O da değil. Bir daha yanılırsan iptal.	CONTROL：也不是他。再錯一次就取消。
+YENİ YER: 	新位置： 
+Dron bölgeyi taradı — 	無人機已掃描區域 — 
+ kişi tanımlandı	 人已識別
+Dron silahlı birini işaretledi!	無人機標記了一名持槍者！
+ vuruldu!	 中彈了！
+SUİKASTÇI ETKİSİZ — KAFADAN	殺手已解決 — 爆頭
+SUİKASTÇI ETKİSİZ	殺手已解決
+KAFADAN VURUŞ — HEDEF ETKİSİZ	爆頭 — 目標已解決
+HEDEF ETKİSİZ	目標已解決
+ öldü!	 死了！
+Koruma etkisiz — kafadan	保鑣已解決 — 爆頭
+Koruma etkisiz	保鑣已解決
+Yanlış kişi — o bir dublördü	錯的人 — 那是替身
+Yanlış kişi — masum birini vurdun	錯的人 — 你殺了無辜的人
+Çok fazla sivil kayıp	平民傷亡過多
+SİVİL KAYIP! Bir daha olursa görev iptal.	平民傷亡！再發生一次任務就取消。
+ hedef kaldı	 個目標剩餘
+Yanlış yer — BACAĞINDAN vurmalısın	部位錯誤 — 要打他的「腿」
+Yanlış yer — KOLUNDAN vurmalısın	部位錯誤 — 要打他的「手臂」
+ yaralandı — artık yürüyemiyor	 受傷了 — 已無法行走
+Silahını düşürdü!	他的槍掉了！
+HEDEF YERE DÜŞTÜ	目標倒地
+HEDEF YARALANDI	目標受傷
+Koruma yaralandı — hâlâ telsize uzanabilir	保鑣受傷 — 仍可能伸手拿無線電
+Masum biri yaralandı!	無辜的人受傷了！
+ bayıldı — güvenli yere ulaşamaz	 昏倒了 — 到不了安全處
+İĞNE İSABET — hedef birkaç saniyede bayılacak	麻醉針命中 — 目標幾秒內就會昏倒
+Koruma bayılıyor	保鑣正在昏倒
+Masum birini bayılttın	你讓無辜的人昏倒了
+KARŞI NİŞANCI SANA NİŞAN ALDI — ÖNCE SEN VUR!	敵方狙擊手瞄準你了 — 先下手為強！
+SİLAHLI ADAM NİŞAN ALIYOR — ŞİMDİ VUR!	持槍者正在瞄準 — 立刻開槍！
+GÖZCÜ SENİ GÖRDÜ!	哨兵發現你了！
+GÖZCÜ SENİ GÖRDÜ — telsize uzanıyor, onu durdur!	哨兵發現你了 — 他正伸手拿無線電，阻止他！
+Koruma telsize uzanıyor — onu durdur!	保鑣正伸手拿無線電 — 阻止他！
+GÖZCÜ YERİNİ BİLDİRDİ!	哨兵通報了你的位置！
+ALARM VERİLDİ — HEDEF KAÇIYOR	警報響起 — 目標逃跑中
+Hedef tedirgin oldu ve kaçıyor!	目標起了疑心，正在逃跑！
+Hedef saklandığı yerden çıkmadı	目標沒有從藏身處出來
+Hedef içeri saklandı — bekle, bakmak için tekrar çıkabilir	目標躲進屋裡了 — 等等，他可能會再出來查看
+Hedef kapıda göründü — şimdi!	目標出現在門口 — 就是現在！
+Hedef siperin arkasında, görünmüyor. Yakınına ateş et: sesi duyunca bakmak için açığa çıkar. Bir daha ateş edersen kaçar — o sırada vur.	目標在掩體後面，看不到。朝他附近開槍：聽到聲音他會探出來查看。再開一槍他就會逃 — 趁那時射擊。
+ISKALADIN — 	沒打中 — 
+ KAÇIYOR!	 逃跑了！
+Iskaladın — biri ürktü ve kaçıyor!	沒打中 — 有人受驚逃跑了！
+Sana ateş edenleri sustur	解決朝你開火的人
+Sana ateş edenleri sustur  ·  	解決朝你開火的人  ·  
+ kaldı	 人剩餘
+HEDEF TAMAM — AMA SENİ BULDULAR: SİLAHLILARI SUSTUR	目標解決 — 但他們找到你了：解決持槍者
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — 	目標倒下了，但你的位置已暴露。別讓任何人追上來 — 還有 
+ silahlı var, hepsini sustur. Gerekirse siper al.	 名持槍者，全部解決。必要時找掩護。
+Kalan silahlılar geri çekildi	剩下的持槍者撤退了
+BÖLGE TEMİZ — GÖREV TAMAM	區域淨空 — 任務完成
+Sözleşme ücreti	合約報酬
+Yıldız hedefleri  ×	星級目標  ×
+Sessiz iş — alarm yok	無聲行動 — 無警報
+Uzak atış  ·  	遠距射擊  ·  
+Keşif  ·  	偵察  ·  
+ tehdit	 個威脅
+Sivil kaybı  ×	平民傷亡  ×
+Yaralı sivil  ×	平民受傷  ×
+Tekrar oynanış  ×%	重玩  ×%
+VETERAN  ×1,5	老兵  ×1.5
+Günün sözleşmesi (+%33: ücretin 2 katı)	每日合約（+%33：報酬 2 倍）
+GÜMRÜK KAPISI	海關閘口
+Liman giriş kapısı	港口入口閘門
+Selim Kaya kapıda denetimde. Kimliğini tara, sonra işini bitir.	曾國華正在閘口視察。先掃描他的身分，再解決他。
+Gümrük müdürü Selim Kaya, rüşvet karşılığında kaçakçılara liman kapısını açıyor. Her sabah kapıdaki güvenlik noktasını denetliyor.\n\nKapıdan ayrılmadan onu etkisiz hale getir. Alarm verilirse otoparktaki aracına koşar.	海關主管曾國華收了賄賂，替走私者打開港口閘門。他每天早上都會視察閘口的安檢站。\n\n在他離開閘口前將他解決。一旦警報響起，他就會跑向停車場的車。
+Dürbünü aç ve nişangahı birinin üzerinde tut: kimliği otomatik taranır. Kırmızı işaret hedefi gösterir.	開啟瞄準鏡，將準星停留在某人身上：會自動掃描身分。紅色標記指出目標。
+Selim Kaya	曾國華
+Gümrük Müdürü	海關主管
+Lacivert takım elbise, kırmızı kravat, gözlük.	深藍色西裝、紅色領帶、眼鏡。
+Gümrük müdürü Selim Kaya'yı etkisiz hale getir	解決海關主管曾國華
+LİMAN OFİSİ	港務辦公室
+Liman yönetim binası	港務管理大樓
+Aydın sigara için dışarı çıkacak. Kapıdan uzaklaştığı an senin anın.	陳家豪會出來抽菸。他一離開門口，就是你的時機。
+Liman müdür yardımcısı Can Aydın, kaçak sevkiyatların kayıtlarını siliyor. Binadan sadece sigara molalarında çıkıyor.\n\nKapıdan çıktığında fırsatı kaçırma: alarm verilirse binaya kapanır ve görev başarısız olur.	港務副主管陳家豪正在刪除走私貨物的紀錄。他只有在抽菸休息時才會離開大樓。\n\n他走出門時別錯過機會：一旦警報響起，他就會躲回大樓，任務失敗。
+Hedef bina içindeyken bekle. Kapıdan çıkınca sigara içtiği noktada sabit durur — nefesini tut ve kafasına nişan al.	目標在大樓內時先等待。他出門後會在抽菸的地方站定 — 屏住呼吸，瞄準頭部。
+Can Aydın	陳家豪
+Müdür Yardımcısı	副主管
+Mavi polo tişört, siyah pantolon. Sigara molasında dışarı çıkar.	藍色 Polo 衫、黑色長褲。抽菸休息時會出來。
+Can Aydın'ı binaya geri girmeden vur	在陳家豪回到大樓前擊殺他
+Alarm verdirme	別觸發警報
+Hedefi kafadan vur	爆頭擊殺目標
+KONTEYNER TAKASI	貨櫃交易
+Konteyner sahası	貨櫃場
+Kuzgun limana giriyor. Takas yeri çatıdan görünmüyor — onu dışarı çekmen gerekecek.	「渡鴉」正進入港口。從屋頂看不到交易地點 — 你得把他引出來。
+Kuzgun lakaplı kaçakçı Tarık Bal arabasıyla limana gelecek ve konteynerlerin arasında bir alıcıyla buluşacak. Takas bitince arabasına binip gidecek.\n\nTakas yeri çatıdan görünmüyor. Ya yürürken vur ya da onu açığa çıkar: arabasının alarmı ya da yakınına düşen bir kurşun. İkinci kez ürkerse arabasına koşar.	綽號「渡鴉」的走私者白東海會開車來到港口，在貨櫃之間和買家碰面。交易完成後他就會上車離開。\n\n從屋頂看不到交易地點。要嘛趁他走動時射擊，要嘛把他引出來：用他的汽車警報，或打在他附近的一發子彈。他若再受驚一次，就會跑回車上。
+Hedef görünmüyorsa yakınına ateş et: sese bakmak için açığa çıkar. Arabasını vurursan alarm çalar, kontrol etmeye gelir.	目標看不到時就朝他附近開槍：他會出來查看聲音。射擊他的車會觸發警報，他就會過來檢查。
+Tarık konteynerlerin arasında, buradan görünmüyor. Arabasına ateş et: alarm çalınca kontrol etmeye gelir. Ya da ara yolun açık kısmına ateş et, sese bakmak için oraya yürür.	白東海在貨櫃之間，從這裡看不到。朝他的車開槍：警報響起時他會過來查看。或者朝通道的開闊處開槍，他會走過去查看聲音。
+Arabasında — limana geliyor	在他的車上 — 正前往港口
+Hedef arabasıyla kaçtı	目標開車逃走了
+Takas bitti — hedef arabasına dönüyor!	交易結束 — 目標正走回車上！
+Takasın bitmesine	距交易結束
+Hedefin arabası kapıdan girdi	目標的車駛進了閘門
+Araç alarmı çalıyor!	汽車警報響了！
+Tarık Bal	白東海
+Gri tişört, kot pantolon, kırmızı bere. Kolları dövmeli.	灰色 T 恤、牛仔褲、紅色毛帽。手臂有刺青。
+Kuzgun'u takas bitmeden etkisiz hale getir	在交易結束前解決「渡鴉」
+En fazla 3 atış	最多開 3 槍
+GECE NÖBETİ	夜間守衛
+Depolar ve gözetleme kulesi	倉庫與瞭望塔
+Rico ve adamları ateşin başında. Kuledeki gözcü her şeyi görür — önce onu düşün.	里科和他的手下圍在火堆旁。塔上的哨兵什麼都看得到 — 先考慮他。
+Paralı asker Rico Vargas ve adamları depoları koruyor. Gece soğuğunda ateş varilinin başında toplanıyorlar.\n\nKuledeki gözcü cesetleri görürse alarm verir. Önce onu susturmak işini kolaylaştırır.	傭兵里科·巴爾加斯和他的手下在看守倉庫。夜裡天冷，他們聚在火桶旁取暖。\n\n塔上的哨兵若看到屍體就會拉警報。先讓他閉嘴會讓事情簡單得多。
+Ateşin yanındaki kırmızı yakıt bidonu tek atışta patlar ve yanındakileri götürür — ama yanlarındaki bekçi de ölür (sivil kayıp, yıldız kaybı) ve patlama sessiz iş primini yakar. Temiz iş için Rico'yu doğrudan vur.	火堆旁的紅色油桶一槍就會爆炸，連同旁邊的人一起帶走 — 但旁邊的警衛也會喪命（平民傷亡、失去星星），爆炸也會讓無聲行動獎勵泡湯。想乾淨俐落，就直接射殺里科。
+Rico Vargas	里科·巴爾加斯
+Paralı Asker	傭兵
+Kel ve sakallı. Taktik yelek, kırmızı tişört.	光頭、留鬍子。戰術背心、紅色 T 恤。
+Rico Vargas'ı etkisiz hale getir	解決里科·巴爾加斯
+Bekçiye zarar verme	別傷到警衛
+DEPODAKİ KÖSTEBEK	倉庫裡的內鬼
+A deposu yükleme alanı	A 倉庫裝卸區
+Köstebek kasa taşıyanlardan biri. Masumları vurma: önce tara.	內鬼是搬箱子的其中一人。別射殺無辜的人：先掃描。
+Depoda çalışan Kerim, örgütün sevkiyat bilgilerini rakiplere satıyor. Diğer işçilerle birlikte kasa taşıyor.\n\nİşçiler masum: hedefi kıyafetinden tanı ve ateş etmeden önce mutlaka tara.	在倉庫工作的呂文雄把組織的貨運情報賣給對手。他和其他工人一起搬箱子。\n\n工人都是無辜的：從衣著認出目標，開槍前一定要掃描。
+Hareket eden hedefi vururken kurşunun uçuş süresini hesaba kat: yürüdüğü yönün biraz önüne nişan al.	射擊移動目標時要把子彈飛行時間算進去：瞄準他行進方向的略前方。
+Kerim Usta	呂師傅
+Köstebek	鼴鼠
+Kırmızı kazak, siyah pantolon, bere. Kasa taşıyor.	紅色毛衣、黑色長褲、毛帽。正在搬箱子。
+Köstebeği bul ve etkisiz hale getir	找出內鬼並解決他
+Sivillere zarar verme	別傷到平民
+RIHTIM KAÇAĞI	碼頭逃犯
+Rıhtım ve iskele	碼頭與棧橋
+Tilki belgeleri teslim edip tekneye koşacak. Tekneyi vurursan yaya kalır.	「狐狸」交出文件後會跑向快艇。打壞快艇，他就只能用跑的。
+Tilki lakaplı Deniz Kara, çalınan belgeleri rıhtımda bir adama teslim edecek. Ardından iskeledeki sürat teknesiyle kaçacak.\n\nTekneye binerse onu kaybederiz. Hareketli hedefe önden nişan al.	綽號「狐狸」的柯志偉會在碼頭把偷來的文件交給一個男人。之後他會搭棧橋邊的快艇逃走。\n\n他一上船我們就會失去他。對移動目標要提前瞄準。
+300 metrede kurşun yaklaşık 0,4 saniye uçar. Koşan hedefte nişanı yaklaşık bir gövde önüne al. İskeledeki sürat teknesini önceden vurursan motoru çalışmaz: tekneyle kaçamaz, iskeleden koşmak zorunda kalır.	在 300 公尺時子彈大約飛行 0.4 秒。對奔跑的目標，大約提前一個身位瞄準。事先打壞棧橋邊的快艇，引擎就發動不了：他沒辦法搭船逃走，只能從棧橋上跑。
+Tekne çalışmıyor — hedef iskeleden kaçıyor!	快艇發不動 — 目標正從棧橋逃跑！
+Tekne vuruldu — motor çalışmıyor, tekneyle kaçamaz!	快艇中彈 — 引擎壞了，他沒辦法搭船逃走！
+Deniz Kara	柯志偉
+Kahverengi kapüşonlu, kasket, koyu pantolon.	棕色連帽衫、鴨舌帽、深色長褲。
+Tilki'yi tekneyle kaçmadan durdur	在「狐狸」搭船逃走前阻止他
+Önce teknesini vur	先打壞他的快艇
+KAPTAN KÖŞKÜ	船長艙
+Meridian Star köprüüstü	梅里迪安之星號艦橋
+Kaptan köprüüstünün kanadına çıkacak. Uzun atış, sert rüzgar — rüzgar okuna bak.	船長會走到艦橋側翼。遠距射擊、強風 — 注意風向箭頭。
+Meridian Star'ın kaptanı Orhan Demir, örgütün silah yükünü teslim etmeden limandan ayrılmak üzere. Köprüüstünün açık kanadına çıkıyor.\n\nMesafe uzun ve rüzgar sert. Kaçırırsan köşke kapanır.	梅里迪安之星號的船長方建國打算不交貨就帶著組織的軍火離港。他正走到艦橋的開放側翼。\n\n距離很遠，風也很強。要是失手，他就會躲回艙裡。
+Uzun mesafede kurşun düşer. Nişan yardımı açıksa dürbündeki kırmızı nokta kurşunun gideceği yeri gösterir.	遠距離時子彈會下墜。若開啟輔助瞄準，瞄準鏡中的紅點會顯示子彈落點。
+Orhan Demir	方建國
+Yeşil mont, kot pantolon. Köprüüstü kanadında.	綠色外套、牛仔褲。在艦橋側翼。
+Kaptan Orhan Demir'i köşke kapanmadan vur	在方建國船長躲回艙內前擊殺他
+YAT PARTİSİ	遊艇派對
+İskeledeki yat	棧橋邊的遊艇
+Kral'ın partisi. Beyaz smokinli iki adam var — bıyıklı ve gözlüklü olan bizim adam.	克拉爾的派對。有兩個穿白色晚禮服的男人 — 留鬍子、戴眼鏡的那個才是我們要的人。
+Örgütün başı Viktor Kral yatında kutlama yapıyor. Korumaları her yerde.\n\nKonuklardan biri de beyaz smokin giymiş: taramadan ateş etme. Kral bir süre sonra iskeleden ayrılıp depolara yürüyecek.	組織首腦維克多·克拉爾正在他的遊艇上慶祝。他的保鑣無所不在。\n\n有一名賓客也穿著白色晚禮服：沒掃描前別開槍。過一陣子克拉爾會離開棧橋走向倉庫。
+Gerçek hedef bıyıklı ve güneş gözlüklü. Emin değilsen nişangahı üzerinde tut ve kimlik kartını oku.	真正的目標留著鬍子、戴著墨鏡。不確定時，就把準星停在他身上讀取身分卡。
+Kral'ın ayrılmasına	距克拉爾離開
+Viktor Kral	維克多·克拉爾
+Örgüt Lideri	組織首腦
+Beyaz smokin, papyon. Bıyıklı ve güneş gözlüklü.	白色晚禮服、領結。留著鬍子、戴著墨鏡。
+Viktor Kral'ı yattan ayrılmadan etkisiz hale getir	在維克多·克拉爾離開遊艇前將他解決
+Konuklara zarar verme	別傷到賓客
+Korumalara dokunma	別碰保鑣
+Giriş kapısı ve yönetim binası	入口閘門與管理大樓
+Ayten Şahin bugün örgüte karşı ifade verecek. Polis onu ofise götürüyor. Kalabalıkta iki tetikçi var.	李美玲今天要出面指證組織。警察正護送她到辦公室。人群中有兩名殺手。
+Gümrük memuru Ayten Şahin, örgütün rüşvet ağına karşı tanıklık edecek. Polis onu sabah liman yönetim binasına getiriyor.\n\nÖrgüt iki tetikçi yolladı: işçi kılığında kalabalığa karışmışlar. Herkesi dürbünle tara — silahlılar kimlik kartında görünür. Ayten binaya girene kadar hayatta kalmalı.\n\nÖrgüt yalnız gelmedi: gözetleme kulesinde dürbünlü bir gözcü, kapının iki yanında silahlı adamları var. Yerini bulurlarsa sana ateş ederler.	海關職員李美玲將出面指證組織的賄賂網路。警察早上會帶她到港務管理大樓。\n\n組織派了兩名殺手：他們偽裝成工人混在人群裡。用瞄準鏡掃描每一個人 — 持槍者會顯示在身分卡上。李美玲必須活著進入大樓。\n\n組織不只派了他們：瞭望塔上有個拿望遠鏡的哨兵，閘門兩側還有持槍的人。他們若找到你的位置，就會朝你開火。
+Tetikçi silah çekince işaretçisinin etrafındaki kırmızı halka dolmadan vur. Kolundan vurursan silahını düşürür. Kuledeki gözcünün dürbünü sana dönünce eğil (SİPER) ya da önce onu indir.	殺手拔槍時，在他標記周圍的紅圈填滿前開槍。打中手臂他就會掉槍。塔上哨兵的望遠鏡轉向你時就蹲下（掩護），或者先把他解決。
+Termal dürbün kalabalıkta işe yarar	熱成像瞄準鏡在人群中很有用
+Ayten Şahin	李美玲
+Bej trençkot — polis eşliğinde	米色風衣 — 由警察護送
+Tanığı ofise kadar koru	保護證人直到她進入辦公室
+Bilinmeyen İşçi	身分不明的工人
+Temizlikçi kılığında — silahlı	偽裝成清潔工 — 持槍
+İşçi kılığında — silahlı	偽裝成工人 — 持槍
+Tetikçileri durdur	阻止殺手
+Tetikçileri durdur  	阻止殺手  
+Kulede dürbünlü biri var. Dürbünü sana döndüğünde eğil — seni görürse telsizle herkese bildirir.	塔上有個拿望遠鏡的人。望遠鏡轉向你時就蹲下 — 他要是看見你，就會用無線電通知所有人。
+Polis arabasında — yolda	在警車上 — 正在路上
+Tanık arabadan indi, kapıya yürüyor. Gözünü dört aç.	證人下車了，正走向大門。提高警覺。
+POLİS	警察
+Silah! Arkamda kal, eğil!	有槍！待在我後面，蹲下！
+Herkesi tara. Kartında SİLAHLI yazan adam bizim adamımız değil.	掃描每一個人。身分卡上寫著「持槍」的人不是我們的人。
+Bej trençkot, kahverengi saç. Polis memuruyla yürüyor.	米色風衣、棕色頭髮。和一名警員同行。
+Tanığı ofise girene kadar hayatta tut	讓證人活著進入辦公室
+Kalabalıktaki iki tetikçiyi bul ve durdur (bonus)	找出並阻止人群中的兩名殺手（額外）
+İki tetikçiyi de silah çekmeden durdur	在兩名殺手拔槍前阻止他們
+KURYE	信使
+Kurye çantayla depodan çıkacak. Müşteri onu canlı istiyor: bacağından vur, gerisini ekip halleder.	信使會帶著包包離開倉庫。客戶要活的：打他的腿，剩下的交給小隊。
+Emre Doğan, örgütün banka hesaplarını taşıyan kurye. Birazdan A deposundan çıkıp arabasına yürüyecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, yere düşsün. Ekibimiz arabayla gelip onu alacak. Öldürürsen bilgi kaybolur. Dikkat: örgüt, kuryesinin konuşmasındansa ölmesini tercih eder — korumaları ona silah çekecek, depodaki adamları da dışarı çıkıp onu susturmaya çalışacak.	杜冠宇，替組織運送銀行帳戶資料的信使。他很快就會離開 A 倉庫走向他的車。\n\n客戶要「活的」：打他的腿，讓他倒地。我們的人會開車來接他。殺了他，情報就沒了。注意：組織寧可讓信使死也不讓他開口 — 他的保鑣會拔槍對著他，倉庫裡的人也會出來想讓他閉嘴。
+Bacağından vurulan yere düşer. Korumalar onu susturmak için silah çekerse kırmızı halka dolmadan indir — kolundan vurursan silahını düşürür. Iskalarsan kurye arabasına koşar.	腿部中彈的人會倒地。保鑣若拔槍要滅口，在紅圈填滿前把他放倒 — 打中手臂他就會掉槍。要是失手，信使就會跑向他的車。
+Kurye arabasıyla kaçtı	信使開車逃走了
+Ekip gelene kadar kuryeyi hayatta tut	在小隊趕到前讓信使活著
+Kurye dışarıda. Bacağına nişan al.	信使出來了。瞄準他的腿。
+Depodaki Adam	倉庫裡的人
+Depodan silahlı biri çıktı — kuryeye gidiyor!	有個持槍者從倉庫出來了 — 正衝向信使！
+Yol temiz — ekip gaza bastı, geliyorlar!	路上清空了 — 小隊踩下油門，正在趕來！
+Ekip kuryeyi aldı!	小隊接走了信使！
+Ekibin gelmesine	距小隊抵達
+Kurye yerde! Ekip yolda — 	信使倒地了！小隊正在路上 — 
+ saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	 秒。組織的人會想滅口，倉庫裡的人也會出來！
+Emre Doğan	杜冠宇
+Mavi polo tişört, siyah pantolon. Elinde siyah bir çanta.	藍色 Polo 衫、黑色長褲。手上拿著黑色包包。
+Ekip gelene kadar onu silahlı adamlardan koru	在小隊趕到前保護他不被持槍者傷害
+Kuryeyi canlı teslim et	活著交出信使
+İlk atışta bacağından vur	第一槍就打中腿部
+Kimse kuryeye nişan alamasın	別讓任何人瞄準信使
+KARARTMA	斷電
+Merkez saha — gece sevkiyatı	中央堆場 — 夜間出貨
+Kartal sevkiyatı bizzat denetliyor. Işıklar onun lehine — ama elektrik panosu direğin dibinde.	「老鷹」親自監督這批貨。燈光對他有利 — 但電箱就在燈柱底下。
+Silah tüccarı Hakan Er, namıdiğer Kartal, gece yarısı limanın merkez sahasında bir sevkiyatı denetliyor. Etrafı aydınlık ve korumalarla dolu.\n\nIşık direğinin dibindeki elektrik panosunu vurursan bütün liman karanlığa gömülür: korumalar kör kalır, ama Kartal da arabasına yürür. Gece görüşü dürbünü bu iş için sende.	軍火商雷振宇，人稱「老鷹」，午夜時在港口的中央堆場監督一批貨。四周燈火通明，到處都是保鑣。\n\n射擊燈柱底下的電箱，整個港口就會陷入黑暗：保鑣會什麼都看不見，但「老鷹」也會走向他的車。這次任務配發給你夜視瞄準鏡。
+Gece görüşünü dürbündeki göz tuşuyla aç. Karanlıkta korumalar yakından geçmedikçe cesetleri göremez. Kartal arabasına binerse kaçar.	用瞄準鏡上的眼睛按鈕開啟夜視。黑暗中，除非保鑣從近處經過，否則看不到屍體。「老鷹」若上了車就會逃走。
+Kartal arabasıyla kaçtı	「老鷹」開車逃走了
+Kartal'ı etkisiz hale getir	解決「老鷹」
+Kartal arabasına yürüyor!	「老鷹」正走向他的車！
+Sevkiyatın bitmesine	距出貨結束
+KARARTMA — liman karanlığa gömüldü	斷電 — 港口陷入黑暗
+Işıklar gitti! Gece görüşünü aç — Kartal arabasına gidiyor!	燈滅了！開啟夜視 — 「老鷹」正走向他的車！
+Hakan Er	雷振宇
+Lacivert takım, kırmızı kravat, gözlük. Sevkiyatı denetliyor.	深藍色西裝、紅色領帶、眼鏡。正在監督出貨。
+Silah tüccarı Kartal'ı etkisiz hale getir	解決軍火商「老鷹」
+İstersen önce elektrik panosunu vurup limanı karart	你可以先射擊電箱讓港口斷電
+Işıkları söndür ve karanlıkta vur	打滅燈光，在黑暗中擊殺
+İĞNE	麻醉針
+Rıhtım — Meridian Star iskelesi	碼頭 — 梅里迪安之星號棧橋
+Kimyager gemiye binmeden onu uyut. Kimse ölmeyecek — bu iş temiz olmalı.	在化學家登船前讓她昏睡。不能死任何人 — 這次行動必須乾淨。
+Dr. Selin Aras, örgütün sentetik uyuşturucu laboratuvarını yöneten kimyager. Şafak sökmeden iki korumasıyla rıhtım boyunca yürüyüp Meridian Star'a binecek.\n\nİstihbarat onu canlı istiyor. Sana yedi uyuşturucu iğne veriyoruz: kimyageri bayılt. Korumaları da bayıltırsan ekibimiz tekneyle gelip onu sessizce alır. Korumalar — ya da gemiden inen biri — baygın kadına ulaşırsa onu gemiye taşırlar.	謝佩珊博士，負責管理組織合成毒品實驗室的化學家。天亮前她會和兩名保鑣沿著碼頭步行，登上梅里迪安之星號。\n\n情報單位要活的。我們給你七發麻醉彈：讓化學家昏倒。如果連保鑣也放倒，我們的人會開船過來悄悄把她帶走。保鑣 — 或從船上下來的人 — 若碰到昏倒的她，就會把她抬上船。
+Mermi seçici tuşuyla UYUŞTURUCU İĞNE'ye geç. İğne yavaş uçar ve çok düşer: kırmızı nokta isabet yerini gösterir. Önce korumaları bayıltmak işi kolaylaştırır.	用彈藥切換鍵換成「麻醉彈」。麻醉針飛得慢、下墜多：紅點會顯示命中位置。先讓保鑣昏倒會比較好辦。
+Kimyager gemiye bindi	化學家上船了
+Kimyageri uyuşturucu iğneyle bayılt	用麻醉彈讓化學家昏倒
+Ekip tekneyle gelene kadar onu korumalardan uzak tut	在小隊開船趕到前讓保鑣遠離她
+Meridian Star'ın adamı — kimyageri gemiye taşımak isteyecek	梅里迪安之星號的人 — 會想把化學家抬上船
+Ekip kimyageri tekneye aldı!	小隊把化學家帶上快艇了！
+Teknenin gelmesine	距快艇抵達
+Gemiden iki kişi iniyor — kimyagere gidiyorlar!	有兩個人從船上下來 — 正走向化學家！
+Herkes yerde. Tekne hızlanıyor!	所有人都倒下了。快艇正在加速！
+Korumalar temiz. Tekne geliyor — 	保鑣解決了。快艇正在趕來 — 
+ saniye.	 秒。
+İğne tuttu! Korumaları durdur, sonra ekibi gönderiyorum.	麻醉針生效了！解決保鑣，然後我就派小隊過去。
+Koruma kimyagere ulaştı — onu taşıyacak!	保鑣碰到化學家了 — 他要把她抬走！
+Mürettebat kimyagere ulaştı — onu kaldırıyorlar!	船員碰到化學家了 — 他們要把她抬起來！
+Kimyageri gemiye taşıdılar	他們把化學家抬上船了
+Dr. Selin Aras	謝佩珊博士
+Siyah mont, sarı saç. İki korumayla yürüyor.	黑色外套、金髮。和兩名保鑣同行。
+Korumaları durdur, ekip onu tekneyle alsın	解決保鑣，讓小隊用快艇接走她
+Kimyageri canlı teslim et	活著交出化學家
+Kimseyi öldürme	不殺任何人
+Önce korumaları bayılt	先讓保鑣昏倒
+CAM KULE	玻璃大樓
+Kordon Plaza — 11. kat	濱海大廈 — 11 樓
+Defne Aksoy hâlâ ofiste. Cam mermiyi durdurmaz — ama kırıldığı an içerideki herkes duyar.	周雅婷還在辦公室。玻璃擋不住子彈 — 但玻璃一碎，裡面的人都會聽見。
+Liman ağı çöktü ama paranın aktığı yer hâlâ ayakta: Baran Holding. Finans direktörü Defne Aksoy, örgütün kirli parasını aklıyor ve bu gece hesapları yurtdışına taşıyacak.\n\nKordon Plaza'nın 11. katında, ışıkları yanan ofiste tek başına çalışıyor. Katta bir güvenlik görevlisi devriye geziyor. Saat 22:42'de asansörle iniyor: ondan önce bitir.	港口的網路瓦解了，但金流的源頭還屹立不搖：霍氏控股。財務長周雅婷負責替組織洗黑錢，今晚要把帳戶轉移到海外。\n\n她獨自在濱海大廈 11 樓亮著燈的辦公室工作。樓層有一名保全在巡邏。她 22:42 會搭電梯下樓：在那之前解決。
+Cam mermiyi yavaşlatır ama durdurmaz. İlk atışta cam kırılır ve içeridekiler sesi duyar: Defne kırık cama bakmaya gelir, ikinci kez ürkerse asansöre koşar.	玻璃會減緩子彈但擋不住。第一槍會打碎玻璃，裡面的人會聽見聲響：雅婷會過來查看破掉的玻璃，再受驚一次她就會衝向電梯。
+Defne masaların arkasında, görünmüyor. Ofisin camına yakın bir yere ateş et: kırılan camı görmeye pencereye gelir.	雅婷在辦公桌後面，看不到。朝辦公室玻璃附近開一槍：她會走到窗邊查看破掉的玻璃。
+Defne asansöre bindi	雅婷搭上了電梯
+Asansöre inmesine	距她搭電梯下樓
+Defne çantasını aldı — asansöre yürüyor!	雅婷拿起包包了 — 正走向電梯！
+Katta bir güvenlik görevlisi var. Cesedi görürse alarm verir, Defne de kaçar.	樓層有一名保全。他要是看到屍體就會拉警報，雅婷也會逃走。
+Pencereye her gelişinde birkaç saniye durup şehre bakıyor. Sabırlı ol.	她每次走到窗邊都會停下來看城市幾秒鐘。要有耐心。
+Defne Aksoy	周雅婷
+Siyah ceket, mavi etek, kızıl saç, gözlük. Kordon Plaza 11. kat.	黑色外套、藍色裙子、紅髮、眼鏡。濱海大廈 11 樓。
+Defne Aksoy'u asansöre binmeden etkisiz hale getir	在周雅婷搭上電梯前將她解決
+TRAMVAY	路面電車
+Saat Kulesi tramvay durağı	鐘樓電車站
+Postacı defteri tramvayla şehirden çıkaracak. 19:06 tramvayı durağa girdiğinde iş biter.	「郵差」會搭電車把帳本帶出城。19:06 的電車進站時，一切就結束了。
+Mert Tunç, nam-ı diğer Postacı, Baran'ın rüşvet defterini taşıyor: kime ne ödendiyse hepsi orada. Kordon'dan yürüyüp Saat Kulesi durağında tramvay bekleyecek.\n\nDurak kalabalık. Postacı'ya çok benzeyen bir yolcu da orada: kapüşonlu, kasketli. Ateş etmeden önce tara. Tramvaya binerse onu kaybederiz.	郭子翔，人稱「郵差」，帶著霍振邦的賄賂帳本：誰收了多少錢全都在上面。他會從濱海步道步行到鐘樓站等電車。\n\n車站人很多。還有一名乘客長得很像「郵差」：連帽衫、鴨舌帽。開槍前先掃描。他一上電車我們就會失去他。
+Yürüyen hedefe biraz önden nişan al. Durakta bekleyenlerden biri Postacı'ya çok benziyor: nişangahı üzerinde tut, kimlik kartını oku.	對行走中的目標要略微提前瞄準。站上等車的人當中有一個很像「郵差」：把準星停在他身上，讀取身分卡。
+Postacı kaçtı	「郵差」逃走了
+Hedef değil — Postacı'ya benzeyen bir yolcu	非目標 — 長得像「郵差」的乘客
+Tramvayın gelmesine	距電車抵達
+Tramvay yola çıktı. Durağa girdiği an Postacı biner.	電車出發了。一進站「郵差」就會上車。
+Tramvay durakta — herkes biniyor!	電車進站了 — 大家都在上車！
+Postacı tramvaya bindi	「郵差」上了電車
+Postacı Kordon'dan durağa yürüyor. Durakta ona benzeyen biri var — önce tara.	「郵差」正從濱海步道走向車站。站上有個長得像他的人 — 先掃描。
+Mert Tunç	郭子翔
+Postacı	郵差
+Koyu kapüşonlu, gri kasket, kot pantolon. Durağa yürüyor.	深色連帽衫、灰色鴨舌帽、牛仔褲。正走向車站。
+Postacı'yı tramvaya binmeden etkisiz hale getir	在「郵差」上電車前將他解決
+Postacı'yı yürürken vur	在「郵差」行走時擊殺
+Yolculara zarar verme	別傷到乘客
+GALA	晚會
+Devlet Opera ve Balesi	國家歌劇芭蕾舞院
+Aydemir'in dublörü önden gelir. Limuzinden inen adama inanma — önce tara.	蔡永福的替身會先到。別相信從禮車下來的人 — 先掃描。
+Armatör Cevdet Aydemir, Baran'ın gemilerinin sahibi. Bu gece operanın sezon açılışında: kırmızı halı, fotoğrafçılar, polis.\n\nAydemir kalabalığa asla önce kendisi çıkmaz: limuzinden önce dublörü iner. Gerçek Aydemir birkaç dakika sonra siyah bir sedanla gelir, eşiyle halıda poz verir ve içeri girer. Perde arasında balkona çıkacağı biliniyor.	船東蔡永福，霍振邦那些船的主人。今晚他會出席歌劇院的開季首演：紅毯、攝影師、警察。\n\n蔡永福從不第一個在人群中露面：先從禮車下來的是他的替身。真正的蔡永福幾分鐘後會坐黑色轎車抵達，和妻子在紅毯上拍照，然後進場。據說中場休息時他會到陽台上。
+Flaşlar patlarken dürbünde parlama olur, panik yapma. Dublörü vurursan herkes kaçar ve gerçek Aydemir'in arabası durmadan geçer.	閃光燈亮起時瞄準鏡會出現眩光，別慌。射殺替身的話所有人都會逃，真正的蔡永福的車也會直接開過去。
+Dikkat: limuzinden inen adam Aydemir'in dublörü olabilir	注意：從禮車下來的人可能是蔡永福的替身
+DUBLÖR — bu Aydemir değil!	替身 — 這不是蔡永福！
+Sedanda — operaya geliyor	在轎車上 — 正前往歌劇院
+Aydemir operaya kaçtı	蔡永福逃進了歌劇院
+Aydemir salona döndü — fırsat kaçtı	蔡永福回到大廳了 — 錯過機會了
+Aydemir balkona çıktı!	蔡永福走上陽台了！
+CANLI  ·  OPERA GİRİŞİ	直播  ·  歌劇院入口
+Siyah bir sedan bulvara girdi, operaya geliyor. Kim olduğunu taramadan ateş etme.	一輛黑色轎車駛進大道，正前往歌劇院。沒掃描身分前別開槍。
+Aydemir'in arabası durmadan geçti	蔡永福的車沒停直接開過去了
+İçeri giren dublördü. Asıl adam birazdan geliyor — sabır.	進去的是替身。正主很快就到 — 耐心點。
+Cevdet Aydemir	蔡永福
+Armatör	船東
+Kır saç, bıyık, gri smokin ve papyon. Eşi kırmızı elbiseli.	灰白頭髮、八字鬍、灰色晚禮服和領結。妻子穿紅色禮服。
+Cevdet Aydemir'i gala gecesinde etkisiz hale getir	在晚會當晚解決蔡永福
+Kırmızı halıda vur	在紅毯上擊殺
+Dublöre ve davetlilere dokunma	別碰替身和賓客
+MİTİNG	集會
+Saat Kulesi Meydanı	鐘樓廣場
+Başsavcı bugün Baran hakkında iddianameyi açıklıyor. Onu öldürmek isteyen tek kişi değiliz bu sefer — onu korumak bizim işimiz.	總檢察長今天要公布對霍振邦的起訴書。這次想殺她的不只我們 — 保護她才是我們的任務。
+Başsavcı Nermin Arslan, meydandaki halk buluşmasında Baran'a açılan davayı anlatacak. Baran onu konuşturmamak için iki kişi tuttu: meydanı yukarıdan gören bir keskin nişancı ve kalabalığa karışmış silahlı biri.\n\nNişancıyı önce bul. Dikkat: bir atış yaparsan namlu alevini görür ve sana döner. Savcı konuşmasını bitirip sahneden inene kadar hayatta kalmalı.	總檢察長沈靜宜會在廣場的民眾集會上說明對霍振邦提起的訴訟。霍振邦雇了兩個人要讓她開不了口：一名從高處俯瞰廣場的狙擊手，和一名混在人群中的持槍者。\n\n先找出狙擊手。注意：你一開槍，他就會看到槍口火光並轉向你。檢察官必須活著，直到她演講完走下舞台。
+Keskin nişancının dürbünü güneşi yakaladıkça parlar. Sana nişan alırsa kırmızı halka dolmadan onu indir. Kalabalıktaki adam silah çekince kolundan vurursan silahını düşürür.	狙擊手的瞄準鏡反射陽光時會閃光。他若瞄準你，就在紅圈填滿前把他放倒。人群中那人拔槍時打中他的手臂，他就會掉槍。
+Susturuculu tüfekle nişancı seni daha geç fark eder	使用附滅音器的步槍，狙擊手會較晚發現你
+İstihbarat: meydanı yukarıdan gören bir nişancı ve kalabalıkta silahlı biri var	情報：有一名從高處俯瞰廣場的狙擊手，人群中還有一名持槍者
+Nermin Arslan	沈靜宜
+BAŞSAVCI	總檢察長
+Başsavcı — konuşması bitene kadar koru	總檢察長 — 保護她直到演講結束
+Başsavcıyı konuşması bitene kadar koru	保護總檢察長直到她演講結束
+Kuledeki Nişancı	鐘樓狙擊手
+Siyah gömlek, güneş gözlüğü — saat kulesinin çan katında	黑色襯衫、墨鏡 — 在鐘樓的鐘層
+Kalabalıktaki Adam	人群中的男子
+Siyah kapüşonlu, kırmızı bere, sakallı	黑色連帽衫、紅色毛帽、留鬍子
+Nişancıyı ve silahlıyı durdur	阻止狙擊手和持槍者
+Nişancıyı ve silahlıyı durdur  	阻止狙擊手和持槍者  
+Kalabalıkta biri öne doğru itiliyor — silahı var!	人群中有人往前擠 — 他有槍！
+Bir dürbün parladı! Savcıya nişan alıyorlar — bul onu!	有瞄準鏡在反光！他們在瞄準檢察官 — 找出他！
+Kuledeki nişancı seni vurdu	鐘樓狙擊手擊中了你
+Meydanı tepeden gören her yere bak. Bir nişancı varsa dürbünü güneşte parlar.	查看每個能俯瞰廣場的地方。若有狙擊手，他的瞄準鏡會在陽光下反光。
+Başsavcı	總檢察長
+Gri takım, küt kesim saç. Sahnede, kürsüde konuşuyor.	灰色套裝、俐落短髮。在舞台講台上發言。
+Nişancıyı ve kalabalıktaki silahlıyı bul ve durdur (bonus)	找出並阻止狙擊手和人群中的持槍者（額外）
+Başsavcıyı koru	保護總檢察長
+Kimse nişan alamadan ikisini de durdur	在任何人瞄準前阻止他們兩個
+Kalabalığa zarar verme	別傷到群眾
+İSKELE	渡輪碼頭
+Kordon vapur iskelesi	濱海渡輪碼頭
+Muhasebeci sabah vapurundan inecek. Müşteri onu canlı istiyor: bacağından.	會計師會搭早班渡輪下船。客戶要活的：打他的腿。
+Ertan Koç, Baran'ın bütün hesaplarını bilen muhasebeci. Sabah vapuruyla şehre geliyor, iskeleden yürüyüp taksiye binecek ve havalimanına gidecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, taksi durağında bekleyen ekibimiz koşup onu alsın. Baran da onu izletiyor: muhasebeci yere düştüğü an susturmak için birini gönderecek.	葉國良，掌握霍振邦所有帳目的會計師。他會搭早班渡輪進城，從碼頭步行去搭計程車前往機場。\n\n客戶要「活的」：打他的腿，讓在計程車招呼站待命的小隊衝過去把他帶走。霍振邦也派人盯著他：會計師一倒地，就會有人來滅口。
+Vapurdan inen kalabalıkta herkesi tara. Muhasebeci yere düşünce Baran'ın adamı motosikletle promenattan gelir: silah çekmeden önce onu durdur.	掃描從渡輪下來的人群中的每一個人。會計師倒地後，霍振邦的人會騎機車從濱海步道過來：在他拔槍前阻止他。
+Muhasebeci taksiyle kaçtı	會計師搭計程車逃走了
+Muhasebeciyi BACAĞINDAN vur — ölmemeli	打會計師的「腿」— 他不能死
+Vapurda — iskeleye yanaşıyor	在渡輪上 — 正在靠岸
+CANLI  ·  VAPUR İSKELESİ	直播  ·  渡輪碼頭
+Gri tişört, kırmızı bere — Baran'ın tetikçisi	灰色 T 恤、紅色毛帽 — 霍振邦的殺手
+Bekleyen Adam	等待中的男子
+Gri ceket — tramvay durağında, silahlı	灰色外套 — 在電車站，持槍
+Baran'ın adamlarını durdur	阻止霍振邦的手下
+Baran'ın adamlarını durdur  	阻止霍振邦的手下  
+Ekibin ulaşmasına	距小隊抵達
+Muhasebeci yerde! Ekip koşuyor — 	會計師倒地了！小隊正衝過去 — 
+ saniye. Baran'ın adamı da yolda!	 秒。霍振邦的人也在路上了！
+Tramvay durağındaki gri ceketli de Baran'ın adamı — muhasebeciye gidiyor!	電車站那個穿灰色外套的也是霍振邦的人 — 他正衝向會計師！
+Tehlike geçti — ekip koşuyor!	危機解除 — 小隊衝過去了！
+Ekip muhasebeciyi aldı!	小隊接走了會計師！
+Vapur yanaşıyor. Muhasebeci elinde siyah bir evrak çantasıyla inecek.	渡輪正在靠岸。會計師會提著黑色公事包下船。
+Ertan Koç	葉國良
+Kahverengi deri mont, kot pantolon, gözlük. Elinde siyah evrak çantası.	棕色皮夾克、牛仔褲、眼鏡。手上提著黑色公事包。
+Ekip gelene kadar onu Baran'ın adamlarından koru	在小隊趕到前保護他不被霍振邦的人傷害
+Muhasebeciyi canlı teslim et	活著交出會計師
+Baran'ın adamları nişan alamasın	別讓霍振邦的人瞄準他
+YAĞMUR	雨夜
+Saat Kulesi Meydanı — çeşme	鐘樓廣場 — 噴泉
+ÇİFT HEDEF	雙重目標
+İkisi de şemsiye altında. Biri düştüğü an öteki kaçar — ikinci atışın hazır olsun.	兩人都撐著傘。一人倒下，另一人就會逃 — 準備好第二槍。
+Gazeteci Selin Ay'ı öldüren tetikçi Erol Kaya, nam-ı diğer Çakal, bu gece parasını alacak. Parayı getiren, cinayet dosyasını kapatan Komiser Tuncay Er.\n\nYağmurda, çeşmenin başında buluşacaklar. İkisi de bu işin bedelini ödeyecek. Biri vurulduğu an öteki aracına koşar: Komiser'in arabası Plaza Sokak'ta, Çakal'ın motosikleti meydanın köşesinde. Sana yarı otomatik bir tüfek ve termal dürbün veriyoruz.	殺害記者蘇曉雯的殺手鍾世傑，人稱「胡狼」，今晚要來領錢。送錢來的，是把這件謀殺案結掉的范振東警官。\n\n他們會在雨中的噴泉旁碰面。兩個人都要為此付出代價。其中一人中槍的瞬間，另一人就會衝向自己的車：警官的車在廣場路，「胡狼」的機車在廣場角落。我們給你一把半自動步槍和熱成像瞄準鏡。
+Şemsiyeler yukarıdan bakınca başı saklar ama kurşunu durdurmaz. Termal dürbün yağmurda vücut ısısını gösterir. Yarı otomatik tüfekle sürgü çekmeden ikinci atışı yaparsın.	從上方看，雨傘會遮住頭部，但擋不住子彈。熱成像瞄準鏡在雨中能顯示體溫。半自動步槍不用拉槍栓就能開第二槍。
+Ödünç: FIRTINA DMR (yarı otomatik) ve termal dürbün	借用：風暴 DMR（半自動）和熱成像瞄準鏡
+Komiser arabasıyla kaçtı	警官開車逃走了
+Çakal motosikletle kaçtı	「胡狼」騎機車逃走了
+Komiser çeşmenin başında bekliyor. Çakal meydanın güneyinden geliyor — kırmızı şemsiyeli.	警官在噴泉旁等著。「胡狼」從廣場南邊過來 — 撐紅傘的那個。
+Biri düştüğü an öteki koşar. İkisini de aynı anda görebileceğin yeri bekle.	一人倒下，另一人就會跑。等到能同時看見兩人的位置。
+Erol Kaya	鍾世傑
+Çakal	胡狼
+Siyah kapüşonlu, kırmızı bere, sakallı. Kırmızı şemsiye.	黑色連帽衫、紅色毛帽、留鬍子。紅色雨傘。
+Tuncay Er	范振東
+Lacivert polo, kep, bıyıklı. Siyah şemsiye.	深藍色 Polo 衫、鴨舌帽、八字鬍。黑色雨傘。
+Çakal'ı etkisiz hale getir	解決「胡狼」
+Komiser Tuncay Er'i etkisiz hale getir	解決范振東警官
+İkisini 4 saniye içinde vur	4 秒內擊殺兩人
+İkisini de kafadan vur	兩人都爆頭
+HELİPAD	停機坪
+Palas Oteli çatısı	華宮大飯店屋頂
+Demirel'i almaya bir helikopter geliyor. Kapısı kapandığı an iş biter.	有架直升機要來接韓立誠。艙門一關，一切就結束了。
+Tolga Demirel, eski özel kuvvetler subayı, Baran'ın güvenlik şefi. Sana ve ekibimize karşı yürütülen her şeyi o planlıyor. Bu akşam Palas Oteli'nin çatısından helikopterle şehirden çıkacak.\n\nHelikopter piste indikten sonra Demirel iki korumasıyla çatı kapısından çıkıp yürüyecek. Mesafe uzun ve çatıda rüzgar sert. Helikopterin motorunu önceden vurursan yerde kalır: Demirel binaya geri döner — ama o yürüyüş açıkta geçer.	韓立誠，前特種部隊軍官，霍振邦的保安主管。所有針對你和我們小隊的行動都是他策劃的。今晚他會從華宮大飯店屋頂搭直升機離開城市。\n\n直升機降落在停機坪後，韓立誠會帶著兩名保鑣從屋頂門走出來。距離很遠，屋頂風也很強。事先打壞直升機引擎，它就飛不起來：韓立誠會回到大樓裡 — 但那段路完全暴露在外。
+Uzun atışta rüzgar okuna ve kurşun düşüşüne dikkat. Helikopterin gövdesine iki isabet motoru durdurur; patlayıcı mermi tek atışta yeter.	遠距射擊時注意風向箭頭和子彈下墜。直升機機身中兩彈引擎就會停擺；爆裂彈一發就夠。
+Otelin çatısının batı köşesinde dürbünlü biri var. Dürbün sana dönünce eğil — ya da önce onu indir.	飯店屋頂西角有個拿望遠鏡的人。望遠鏡轉向你時就蹲下 — 或者先把他解決。
+Binada — çatıya çıkacak	在大樓裡 — 會上屋頂
+Demirel helikopterle kaçtı	韓立誠搭直升機逃走了
+Demirel çatıya çıktı!	韓立誠上屋頂了！
+Demirel binaya geri döndü	韓立誠回到大樓裡了
+Motor durdu — helikopter yerde kaldı!	引擎停了 — 直升機飛不起來！
+Güzel! Helikopter gitmiyor. Demirel binaya dönecek — yürürken yakala!	幹得好！直升機走不了了。韓立誠會回大樓 — 趁他走路時解決他！
+CANLI  ·  PALAS HELİPADI	直播  ·  華宮停機坪
+Helikopter denizden geliyor. Demirel inişten sonra çatı kapısından çıkacak.	直升機從海上飛來。韓立誠會在降落後從屋頂門出來。
+Tolga Demirel	韓立誠
+Güvenlik Şefi	保安主管
+Kel, sakallı, güneş gözlüklü. Siyah kruvaze takım.	光頭、留鬍子、戴墨鏡。黑色雙排扣西裝。
+Tolga Demirel'i helikoptere binmeden etkisiz hale getir	在韓立誠登上直升機前將他解決
+Helikopteri havalanmadan yere çak	在直升機起飛前讓它停擺
+SON PERDE	最後一幕
+Palas Oteli — çatı katı	華宮大飯店 — 頂樓
+Baran biliyor. Çatıda bir nişancısı, bir projektörü ve bekleyen bir helikopteri var. Bu gece bitiyor.	霍振邦知道了。屋頂上有他的狙擊手、一盞探照燈和一架待命的直升機。今晚就做個了結。
+Kenan Baran. Limandaki kaçakçılık, kirli para, satın alınmış polisler, susturulan tanıklar: hepsinin arkasındaki adam. Bu gece Palas Oteli'nin çatı katında, cam duvarların ardında küçük bir parti veriyor.\n\nBaran bizi bekliyor. Çatıda projektörle damları tarayan bir adam ve bir keskin nişancı var: ışık seni bulursa nişancı sana döner. Ateş edersen Baran merdivenden çatıya, bekleyen helikoptere koşar. Bu son iş — temiz bitir.	霍振邦。港口的走私、黑錢、被收買的警察、被滅口的證人：一切的幕後黑手。今晚他在華宮大飯店頂樓的玻璃牆後舉辦一場小型派對。\n\n霍振邦在等我們。屋頂上有一個用探照燈掃視屋頂的人和一名狙擊手：燈光要是照到你，狙擊手就會轉向你。你一開槍，霍振邦就會從樓梯跑上屋頂，衝向待命的直升機。這是最後一份工作 — 乾淨俐落地結束它。
+Önce çatıdaki nişancıyı bul: dürbünü yeşil parlar. Projektör ışığı üzerine gelince nişancı sana nişan alır. Cam duvarlar mermiyi durdurmaz.	先找出屋頂上的狙擊手：他的瞄準鏡會發出綠光。探照燈照到你時，狙擊手就會瞄準你。玻璃牆擋不住子彈。
+Çatıda projektör ve bir karşı nişancı var — ışık seni bulmadan onu bul	屋頂上有探照燈和一名敵方狙擊手 — 在燈光找到你之前找到他
+Kenan Baran'ı etkisiz hale getir	解決霍振邦
+Baran helikopterle kaçtı	霍振邦搭直升機逃走了
+Palas'ın çatısında, korkuluğun arkasında	在華宮屋頂，欄杆後方
+PROJEKTÖR ÜZERİNDE — GÖRÜLDÜN!	探照燈照到你了 — 你被發現了！
+Projektör damları tarıyor, sana yaklaşıyor! Işık seni bulmadan nişancıyı indir.	探照燈正在掃視屋頂，越來越接近你！在燈光找到你之前解決狙擊手。
+Baran binaya geri döndü	霍振邦回到大樓裡了
+Merdivende — çatıya çıkıyor	在樓梯上 — 正往屋頂去
+Baran çatıya kaçıyor — helikoptere!	霍振邦正逃往屋頂 — 衝向直升機！
+Helikopter yerde kaldı!	直升機飛不起來了！
+BARAN	霍振邦
+Biliyorum oradasın, tetikçi. Bu camların ardında bana dokunamazsın.	我知道你在那裡，殺手。躲在這些玻璃後面，你碰不到我。
+Telsizini dinliyoruz. Çatıda projektör ve bir nişancı var — önce onu bul.	我們在監聽他的無線電。屋頂上有探照燈和一名狙擊手 — 先找出他。
+Baran düştü. Bitti... Şehir artık nefes alabilir.	霍振邦倒下了。結束了……這座城市終於能喘口氣了。
+Kenan Baran	霍振邦
+Gümüş saç ve sakal, koyu takım, kırmızı kravat.	銀髮銀鬍、深色西裝、紅色領帶。
+Çatıdaki nişancı sana nişan alamasın	別讓屋頂的狙擊手瞄準你
+Davetlilere zarar verme	別傷到賓客
+Buluşmanın bitmesine	距碰面結束
+Buluşma başladı	碰面開始了
+Kurşun siperine çarptı — nişancı başını kaldırmanı bekliyor	子彈打在你的掩體上 — 狙擊手在等你探頭
+Iskaladı — nişancı yeniden nişan alıyor	他沒打中 — 狙擊手正在重新瞄準
+Nişancı yine aşağıya nişan alıyor!	狙擊手又在瞄準下方了！
+Seni gördü! Ateş etmeden onu indir — ya da siperine eğil!	他看到你了！在他開火前把他放倒 — 或者躲到掩體後！
+2 sözleşme tamamla	完成 2 份合約
+3 kafadan vuruş yap	爆頭 3 次
+250 m'den uzak bir isabet	在 250 m 以外命中一次
+Alarm vermeden bir iş bitir	不觸發警報完成一份工作
+S derecesi al	取得 S 評級
+5 yıldız topla	收集 5 顆星
+2 zırhlı adamı sustur	解決 2 名裝甲敵人
+VETERAN olarak bir iş bitir	以老兵模式完成一份工作
+Sivillere dokunmadan 2 iş bitir	零平民傷害完成 2 份工作
+Dürbün, nefes tutma ve ilk atış.	瞄準鏡、屏息和第一槍。
+MENZİL ayarı: uzak hedefte mermi düşer, sarı çizgilerle tut.	「距離」調整：遠距離目標子彈會下墜，用黃線修正。
+Dikkat dağıtma: yakınına düşen kurşun ya da araba alarmı hedefi siperden çıkarır.	轉移注意力：落在附近的子彈或汽車警報會讓目標離開掩體。
+Gece ve gözcü: önce seni görebilecek olanı düşün.	夜晚和哨兵：先想想誰能看見你。
+Hedefi kendin bul. İsabet noktası artık sadece nefes tutarken görünür.	自己找出目標。現在只有屏息時才會顯示著彈點。
+Hareketli hedef: yürüyüşüne göre önden nişan al.	移動目標：依他的步伐提前瞄準。
+Uzun atış ve sert rüzgâr: rüzgâr panelindeki mil değerine göre kaydır.	遠距射擊和強風：依風力面板上的密位值修正。
+Koruma: kalabalıktaki tetikçileri bul, tanık yaşasın.	護衛：找出人群中的殺手，讓證人活下來。
+Canlı yakala: bacaktan vur, öldürme.	生擒：打腿，別殺人。
+Karanlık: ışığı kesmek korumaları kör eder.	黑暗：切斷燈光會讓保鑣看不見。
+Uyuşturucu iğne: kimse ölmeyecek.	麻醉彈：不能死任何人。
+Şehir: isabet noktası yok. Iskalarsan hedef kaçar; iş bitince yerin biliniyorsa çıkış var.	城市：沒有著彈點。失手目標就會逃；完成後若位置暴露，仍有撤離路線。
+Dublör: yüze iyi bak, yanlış kişiyi vurursan iş biter.	替身：看清楚臉，射錯人任務就完了。
+Karşı nişancı: önce o seni bulmasın.	敵方狙擊手：別讓他先找到你。
+Çift hedef: biri düşünce öteki kaçar, ikinci atış hazır olsun.	雙重目標：一人倒下另一人就會逃，準備好第二槍。
+Zaman penceresi: helikopterin kapısı kapanınca iş biter.	時間窗口：直升機艙門一關，任務就結束。
+Dağ: rüzgâr sert ve değişken. Paneldeki yön ve gücü izle, dindiği anı bekle.	山區：風強勁多變。注意面板上的方向和強度，等風停的時刻。
+Kaza: kurşun değil, çığ.	意外：不是子彈，是雪崩。
+Tipi: termal dürbün olmadan göremezsin.	暴風雪：沒有熱成像瞄準鏡你什麼都看不到。
+Ses örtüsü: havai fişek patlarken atış duyulmaz.	聲音掩護：煙火爆炸時槍聲不會被聽見。
+HAFİF	微風
+ORTA	中等
+SERT	強風
+FIRTINA	風暴
+LİMAN	港口
+Konteyner limanı	貨櫃港
+Kaçakçılar, silah tüccarları ve rüşvet ağı. Her şey limanda başladı.	走私者、軍火商和賄賂網路。一切都從港口開始。
+Liman kuruluyor	正在建置港口
+ŞEHİR MERKEZİ	市中心
+ŞEHİR OPERASYONU	城市行動
+Örgütün parası ve koruyucuları şehirde. Opera, gökdelen, otel — ve deniz kıyısında bir meydan.	組織的錢和保護傘都在城市裡。歌劇院、摩天大樓、飯店 — 還有海邊的一座廣場。
+Şehir kuruluyor	正在建置城市
+Liman'da 6. görevi bitir	完成港口第 6 個任務
+KARTAL TEPE	鷹嶺
+DAĞ OPERASYONU	山區行動
+Kartal Tepe Kayak Merkezi	鷹嶺滑雪度假村
+Örgütün konseyi karlı bir dağ otelinde toplanıyor. Teleferik, dağ evleri, donmuş göl — ve tipi.	組織的議會聚集在一間雪山飯店。纜車、山屋、結冰的湖 — 還有暴風雪。
+Dağ kuruluyor	正在建置山區
+Şehirde 16. görevi bitir	完成城市第 16 個任務
+Başlatılıyor	啟動中
+Hazırlanıyor	準備中
+Hazır	就緒
+Ceset suya gömüldü — kimse bulamayacak	屍體沉入水中 — 沒有人會找到
++%{0} BONUS	+%{0} 額外贈送
+Bu paket için {0} elmas gerekiyor, sende {1} var.	此禮包需要 {0} 顆鑽石，你目前有 {1} 顆。
+{0} kuşanıldı. Cephanelikte seni bekliyor.	{0} 已裝備。它在軍械庫等你。
+{0} satın alım geri yüklendi.	{0} 筆購買項目已恢復。
+Bugün {0} / {1} hakkın kaldı	今天剩餘 {0} / {1} 次機會
+{0}. GÜN	第 {0} 天
+{0} Z. DELİCİ	{0} 穿甲彈
+TAKTİK HARİTA  ·  GÖREV {0}  ·  {1}	戰術地圖  ·  任務 {0}  ·  {1}
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     <color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#46C8F2>●</color> 射擊位置     <color=#FF4545>●</color> 目標區域     <color=#FFFFFF>- -</color> 已知路線     圓環：距主狙擊點每 100 m 一圈     上方：主狙擊點的朝向
+ZORLUK  {0}/10	難度  {0}/10
+Bu iş {0} olmadan yapılamaz. Cephaneliğe git?	這份工作缺少 {0} 就無法完成。要前往軍械庫嗎？
+Bu sözleşme için önerilen güç {0}, {1} şu an {2}.\nGeliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	此合約的建議戰力為 {0}，{1} 目前為 {2}。\n不升級也能嘗試，但裝甲敵人和遠距離目標會很棘手。
+<b><color=#E8B04A>YENİ:</color></b> {0}\n{1}	<b><color=#E8B04A>新：</color></b> {0}\n{1}
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n{0}	<b><color=#FFB21E>老兵：</color></b>沒有著彈點、風更強且更不穩、步槍晃得更厲害、目標不會被標記。獎勵 ×1.5。\n{0}
+BÖLÜM {0}	章節 {0}
+GÖREV {0}  ·  {1}	任務 {0}  ·  {1}
+TÜFEK:  {0}   <size=26><color={1}>GÜÇ {2}</color><color=#6B7682>  /  önerilen {3}</color></size>	步槍：  {0}   <size=26><color={1}>戰力 {2}</color><color=#6B7682>  /  建議 {3}</color></size>
+   ·   Verilen: {0}	   ·   配發：{0}
+GÖREV {0} · {1}	任務 {0} · {1}
+Baran'ın kasası: {0}	霍振邦的金庫：{0}
++{0} ELMAS	+{0} 鑽石
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.{0}	合約未完成 — 沒有報酬。\n你可以重新接下同一份工作；上方會顯示哪裡出了錯。{0}
+Bu iş için önerilen güç {0}, senin tüfeğin {1}. Geliştir ya da {2} hemen güçlen.	此任務的建議戰力為 {0}，你的步槍為 {1}。升級，或用{2}立即變強。
++{0} TP	+{0} 經驗
+TELAFİ +{0}	補償 +{0}
+GÖREV {0}	任務 {0}
+{0}Rüzgâr {1} m/s   ·   {2}\nZORLUK {3}/10{4}	{0}風 {1} m/s   ·   {2}\n難度 {3}/10{4}
+Önerilen güç <b>{0}</b>   ·   Tüfeğin <color={1}><b>{2}</b></color>	建議戰力 <b>{0}</b>   ·   你的步槍 <color={1}><b>{2}</b></color>
+Yenisi {0} sa {1} dk sonra	新合約於 {0} 小時 {1} 分後刷新
+{0} · {1}  —  VETERAN kurallarıyla	{0} · {1}  —  老兵規則
+Güç {0} / {1}	戰力 {0} / {1}
+Görev aralarındaki reklamları {0} karşılığında sonsuza dek kaldır. Hediye: {1} elmas.	只需 {0} 即可永久移除任務間的廣告。贈品：{1} 顆鑽石。
+{0} için {1} elmas gerekiyor, sende {2} var.	{0} 需要 {1} 顆鑽石，你目前有 {2} 顆。
+{0} {1} elmasla hemen senin olsun mu?	只需 {1} 顆鑽石，立刻入手 {0}？
+SEVİYE {0} GEREKLİ	需要等級 {0}
+Son kademe (elmasla) {0}. seviyede açılır. Sözleşmelerden tecrübe kazan.	最終階級（鑽石）將於等級 {0} 解鎖。完成合約來累積經驗。
+Bu geliştirme için {0} eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.\nBugün {1} hakkın var.	此升級還差 {0}。看一段短片補足差額，立即完成升級。\n今天還有 {1} 次機會。
+Son kademe {0} elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	最終階級需要 {0} 顆鑽石。可在商店購買，或透過每日獎勵累積。
+Bu geliştirme {0}. Sözleşmelerden para kazan ya da mağazaya bak.	此升級需要 {0}。完成合約賺取現金，或去商店看看。
+GÜÇ <color=#FFB21E>{0}</color>   ·   {1}	戰力 <color=#FFB21E>{0}</color>   ·   {1}
+{0}   ·   {1} ★ ile açılır	{0}   ·   {1} ★ 解鎖
+{0}  <color=#46C8F2>EN ÜST</color>	{0}  <color=#46C8F2>頂級</color>
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> {0}. kademe ya da zırh delici mermi gerekir.	要打穿裝甲敵人的身體，需要<color=#FFB21E>傷害</color>第 {0} 階，或使用穿甲彈。
+SATIN AL   {0}	購買   {0}
+{0} ★ YA DA   	{0} ★ 或   
+{0} ELMASLA AL	{0} 鑽石購買
+{0} yıldızla açılır	{0} 顆星解鎖
+SATIN AL  {0}	購買  {0}
+YÜKSELT  {0}	升級  {0}
+YER DEĞİŞTİRİYORSUN\n<size=30>{0}  ·  {1} sn</size>	轉移位置中\n<size=30>{0}  ·  {1} 秒</size>
+KURŞUN KAMERASI  ·  {0}	子彈視角  ·  {0}
+“{0}” — sözleşme hedefi	「{0}」 — 合約目標
+Yaralı — {0}	受傷 — {0}
+KEŞİF  ·  {0} / {1} tehdit tarandı	偵察  ·  已掃描 {0} / {1} 個威脅
+{0},{1} mil	{0}.{1} 密位
+TELSİZ  {0},{1} sn	無線電  {0}.{1} 秒
+Yıldız kaçtı: {0}	錯失星星：{0}
+SÖZLEŞME {0}  ·  {1}{2}	合約 {0}  ·  {1}{2}
+{0}  <size=24><color=#A3AEB9>·  SEVİYE {1}</color></size>	{0}  <size=24><color=#A3AEB9>·  等級 {1}</color></size>
+{0} / {1} TP	{0} / {1} 經驗
+{0}   ·   SEVİYE {1}	{0}   ·   等級 {1}
+AÇILDI:  {0}	已解鎖：  {0}
+ÖDÜLLÜ TEST REKLAMI  ·  {0}	獎勵測試廣告  ·  {0}
+TEST REKLAMI  ·  her {0} görevde bir	測試廣告  ·  每 {0} 個任務一次
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	你沒有名字。三年前軍方把你登記為陣亡。CONTROL 在一間軍醫院找到你，只提出一個條件：摧毀港口的走私網路，你的過去就一筆勾銷。\n\n每份合約都是一個名字。每個名字，都通往下一個。
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\nBu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	港口垮了，但錢還在流動。維克多·克拉爾手機裡的最後一個號碼指向濱海大廈：霍氏控股。\n\n這次的目標都穿著西裝。他們在人群中、在玻璃牆後、在警察身旁。
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	從霍振邦金庫取出的檔案揭露了五個名字：議會。這五個人多年來餵養並庇護霍振邦，每年跨年那週都在鷹嶺度過。\n\n檔案裡還有另一個簽名。一個熟悉的簽名。
+Vuruldun — {0}	你中彈了 — {0}
+Üç tetikçiyi de durdur  {0}/3	阻止全部三名殺手  {0}/3
+{0} fişek	{0} 發
+Bu açıdan {0} görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	從這個角度看不到 {0}。用「轉移位置」換到別處。
+{0} silahlı adam mevzi alıyor — yuvanı arıyorlar!	{0} 名槍手正在就位 — 他們在找你的狙擊點！
+Etkisiz hale getir: {0}	制伏：{0}
+{0} öldürüldü	{0} 遭到殺害
+İsabet — {0} atış daha	命中 — 再 {0} 槍
+YENİ HEDEF: {0}	新目標：{0}
+SİLAHLI ADAM BULUNDU: {0}	發現持槍者：{0}
+HEDEF DOĞRULANDI: {0}	目標已確認：{0}
+KİMLİK DOĞRULANDI: {0}	身分已確認：{0}
+YENİ YER: {0}	新位置：{0}
+Dron bölgeyi taradı — {0} kişi tanımlandı	無人機已掃描區域 — {0} 人已識別
+{0} öldü!	{0} 死了！
+{0} hedef kaldı	{0} 個目標剩餘
+{0} yaralandı — artık yürüyemiyor	{0} 受傷了 — 已無法行走
+{0} bayıldı — güvenli yere ulaşamaz	{0} 昏倒了 — 到不了安全處
+ISKALADIN — {0} KAÇIYOR!	沒打中 — {0} 逃跑了！
+Sana ateş edenleri sustur  ·  {0} kaldı	解決朝你開火的人  ·  剩 {0} 人
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — {0} silahlı var, hepsini sustur. Gerekirse siper al.	目標倒下了，但你的位置已暴露。別讓任何人追上來 — 還有 {0} 名持槍者，全部解決。必要時找掩護。
+Yıldız hedefleri  ×{0}	星級目標  ×{0}
+Uzak atış  ·  {0} m	遠距射擊  ·  {0} m
+Keşif  ·  {0}/{1} tehdit	偵察  ·  {0}/{1} 個威脅
+Sivil kaybı  ×{0}	平民傷亡  ×{0}
+Yaralı sivil  ×{0}	平民受傷  ×{0}
+Tekrar oynanış  ×%{0}	重玩  ×%{0}
+Tetikçileri durdur  {0}/2	阻止殺手  {0}/2
+Kurye yerde! Ekip yolda — {0} saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	信使倒地了！小隊正在路上 — {0} 秒。組織的人會想滅口，倉庫裡的人也會出來！
+Korumalar temiz. Tekne geliyor — {0} saniye.	保鑣解決了。快艇正在趕來 — {0} 秒。
+Nişancıyı ve silahlıyı durdur  {0}/2	阻止狙擊手和持槍者  {0}/2
+Baran'ın adamlarını durdur  {0}/2	阻止霍振邦的手下  {0}/2
+Muhasebeci yerde! Ekip koşuyor — {0} saniye. Baran'ın adamı da yolda!	會計師倒地了！小隊正衝過去 — {0} 秒。霍振邦的人也在路上了！
+{0} ELMAS	{0} 鑽石
+Kimyager: {0}	化學家：{0}
+Toplam: {0}	總計：{0}
+SV {0}	Lv {0}
+Hedef: {0}{1}	目標：{0}{1}
+HEDEF:  {0}	目標：  {0}
+{0} vuruldu!	{0}被擊中！
+Kullanım Koşulları (EULA)	使用條款（EULA）
+Gizlilik Politikası	隱私權政策
+Oyunu beğendin mi?	喜歡這款遊戲嗎？
+PUANLA	評分
+BURAYA	這裡
+Önce dürbünü aç.	先開鏡。
+EĞİTİM	訓練
+Yakınlaştır: soldaki kaydırıcıyı yukarı it ya da iki parmakla ekranı aç.	放大：將左側滑桿往上推，或用雙指撐開畫面。
+Halka boşalmadan ateş et: nefes biterse nişan titrer.	在圓環耗盡前開槍：屏息一結束，準星就會晃動。
+Kırmızı nokta merminin ineceği yeri gösterir.	紅點代表著彈點。
+Kırmızı halka: bu adam sana nişan alıyor!	紅圈：這傢伙正在瞄準你！
+Halka dolmadan onu vur ya da SİPER'e eğil.	在紅圈填滿前放倒他，或按「掩護」蹲下。
+Vuruluyorsun! SİPER tuşuna bas: duvarın arkasına eğil.	你中彈了！按「掩護」鍵：躲到牆後。
+Siperde can yenilenir.	躲在掩體後會回血。
+Ateş kesilince dürbünle doğrul ve karşılık ver: önce sana nişan alanı vur.	槍聲一停就起身開鏡還擊：先打瞄準你的人。
+Hedef {0} m uzakta. Mermi yol boyunca düşer.	目標距離 {0} m。子彈在飛行途中會下墜。
+Kırmızı nokta merminin ineceği yer: nişangahın {0} cm altında. Kafaya nişan alırsan ıskalarsın.	紅點就是著彈點：準星下方 {0} cm 處。瞄準頭部只會落空。
+MENZİL'i hedefin mesafesine getir: + tuşuna bas.	把「距離」調到目標距離：按 + 鍵。
+MENZİL'i hedefin mesafesine getir: − tuşuna bas.	把「距離」調到目標距離：按 − 鍵。
+MENZİL {0} m  ·  hedef {1} m	距離 {0} m  ·  目標 {1} m
+Tam ayar! Nokta nişangaha döndü.	完美！紅點回到準星上了。
+Uzak hedefte önce mesafeyi oku, MENZİL'i ona getir, sonra ateş et.	遠距離目標：先看距離，把「距離」調到位，再開槍。
+Hedef yürüyor: mermi oraya varana kadar o da ilerler.	目標在走動：子彈飛到時，他也往前走了。
+Nişangahı yürüdüğü yöne, mavi halkanın üzerine al.	把準星移向他前進的方向，對準藍圈。
+İşte bu! Önünde kal ve ateş et.	就是這樣！保持提前量，開槍。
+Koşan adamda pay daha büyük, duran adamda hiç yok.	目標跑起來提前量更大，站著不動就不用提前。
+Rüzgâr mermiyi yana iter. Yönü ve gücü bu panelde.	風會把子彈往旁邊推。風向和風力都在這個面板上。
+Bak: rüzgâr mermiyi {0} cm sağa götürüyor.	看：風把子彈往右吹偏 {0} cm。
+Bak: rüzgâr mermiyi {0} cm sola götürüyor.	看：風把子彈往左吹偏 {0} cm。
+Kırmızı nokta merminin ineceği yer.	紅點就是著彈點。
+Rüzgâra karşı tut: nişangahı {0} mil sola kaydır.	抵消風偏：把準星往左移 {0} 密位。
+Rüzgâra karşı tut: nişangahı {0} mil sağa kaydır.	抵消風偏：把準星往右移 {0} 密位。
+Sarı noktalar 1 mil aralıklı. Kırmızı nokta hedefe gelince ateş et.	黃點間隔 1 密位。紅點對上目標時開槍。
+Tam üstünde! Şimdi ateş et.	對準了！立刻開槍。
+Rüzgâr dinip artar: ateşten önce paneldeki değere bir daha bak.	風會忽弱忽強：開槍前再看一次面板上的數值。
+Bu işte kimse ölmeyecek: bu tuşla İĞNE'ye geç.	這次不能死任何人：用這個鍵換成「麻醉針」。
+Mermi seçici: her basış bir sonraki türü takar.	彈藥切換：每按一次換上下一種彈藥。
+İğne yavaş uçar ve çok düşer: biraz yukarı nişan al.	麻醉針飛得慢、下墜多：稍微往上瞄。
+Kırmızı nokta iğnenin ineceği yeri gösterir.	紅點代表麻醉針的落點。
+Zırhlı adam! Gövdesine mermi işlemez.	裝甲敵人！子彈打不穿他的身體。
+Bu tuşla ZIRH DELİCİ'ye geç ya da kafasına nişan al.	用這個鍵換成「穿甲彈」，或瞄準他的頭。
+Kafasına nişan al. Zırh delici mermiyi cephanelikten alabilirsin.	瞄準他的頭。穿甲彈可以在軍械庫取得。
+Yerin belli oldu. YER DEĞİŞTİR: yeni yerde seni kimse bilmez.	位置暴露了。按「轉移位置」：到了新位置，沒人知道你在哪。
+Taşınırken dünya durmaz: hedef kaçmadan dön.	轉移時世界不會等你：趕在目標逃走前回來。
+Bu yüz dosyadakiyle aynıysa İŞARETLE — HEDEF BU.	這張臉若與檔案相符，就按「標記 — 就是他」。
+Emin değilsen basma: yanlış kişiyi vurmak işi bitirir.	沒把握就別按：射錯人，任務就完了。
+Karanlıkta gece görüşü kullan: bu tuşla modu değiştir.	黑暗中用「夜視」：用這個鍵切換模式。
+Termal dürbünde insanlar beyaz parlar: sis ve kar arkasında bile.	熱成像瞄準鏡裡，人會發白光：隔著霧和雪也看得見。
+DRON'u gönder: bölgeyi tarar, tehditleri işaretler.	派出「無人機」：掃描區域，標記威脅。
+Her sözleşmede bir kez.	每份合約限用一次。
+Son anda kıpırdadı. Nişanı tazele, tekrar dene.	他在最後一刻動了。重新瞄準，再來一次。
+Siperine takıldı. Açığa çıkmasını bekle ya da başka açıdan dene.	打在掩體上了。等他現身，或換個角度再試。
+Iska: {0} cm alçak.	脫靶：偏低 {0} cm。
+Iska: {0} cm yüksek.	脫靶：偏高 {0} cm。
+Iska: {0} cm solda.	脫靶：偏左 {0} cm。
+Iska: {0} cm sağda.	脫靶：偏右 {0} cm。
+Mermi düştü: hedef {0} m, MENZİL {1}. MENZİL'i hedefin mesafesine getir.	子彈下墜了：目標 {0} m，「距離」卻設在 {1}。把「距離」調到目標距離。
+Fazla yüksek: hedef {0} m, MENZİL {1}. MENZİL'i düşür.	打太高了：目標 {0} m，「距離」卻設在 {1}。把「距離」調低。
+Arkasından geçti: yürüdüğü yöne daha önden nişan al.	從他身後擦過：往他前進的方向再多提前一點。
+Önünden geçti: payı biraz azalt.	從他前方擦過：提前量少一點。
+Rüzgâr sağa itti: biraz sola tut.	風把子彈往右推了：稍微往左瞄。
+Rüzgâr sola itti: biraz sağa tut.	風把子彈往左推了：稍微往右瞄。
+Nefesini tut: nişan sabitlenince ateş et.	屏住呼吸：準星穩住再開槍。
+Nişangahı vücudun ortasına al.	把準星對準身體中央。
+Sabır: hedef dışarı çıkana kadar bekle, nefesini tut ve kafaya nişan al.	耐心：等目標現身，屏住呼吸，瞄準頭部。
+MENZİL ayarı: uzak hedefte mermi düşer. Dikkat dağıtma: yakına düşen kurşun hedefi açığa çıkarır.	「距離」調整：遠距離目標子彈會下墜。轉移注意力：打在附近的子彈會把目標引出來。
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.{0}	商店目前無法使用。請檢查網路連線，稍後再試。{0}
+GEÇ	跳過
+Yer seviyesi — siper arkası	地面 — 掩體後方
+Alçak mevzi — yakın çatı	低位 — 附近屋頂
+Orta yükseklik	中等高度
+Hedeflerle aynı seviyede ve yakın. Net atış, ama seni de çabuk görürler.	距離近，和目標同高。射擊清楚，但他們也很快會發現你。
+Birkaç kat yukarıda: yakın ve geniş açı.	高幾層樓：距離近，視野寬。
+Sahaya yukarıdan ama yakından bakar.	從上方俯瞰現場，但距離很近。
+Dil  ·  Language	語言  ·  Language

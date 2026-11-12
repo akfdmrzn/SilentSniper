@@ -1,0 +1,16 @@
+{
+ "name": "m_wounded_side",
+ "frames": 441,
+ "fps": 30,
+ "length": 14.6667,
+ "loop": true,
+ "speed": 0.0,
+ "source": "SideLying_Reach_Help.glb",
+ "tags": [
+  "wounded"
+ ],
+ "offset": [
+  0.0,
+  -0.0
+ ]
+}

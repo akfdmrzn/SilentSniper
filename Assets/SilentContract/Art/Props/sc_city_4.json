@@ -1,0 +1,77 @@
+{
+ "id": "sc_city_4",
+ "category": "city",
+ "tris": 40,
+ "tris_src": 40,
+ "size": [
+  18.06,
+  34.2,
+  18.06
+ ],
+ "center": [
+  0.0,
+  17.1,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "sc_city_4__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.007,
+   "smoothness": 0.49,
+   "albedo": "sc_city_4_m0_albedo.jpg",
+   "normal": "sc_city_4_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "city_wall_0",
+   "window": false
+  },
+  {
+   "name": "sc_city_4__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sc_city_4_m1_albedo.jpg",
+   "normal": "sc_city_4_m1_normal.jpg",
+   "ms": "sc_city_4_m1_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "city_roof",
+   "window": false
+  },
+  {
+   "name": "sc_city_4__m2",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "sc_city_4_m2_albedo.png",
+   "normal": null,
+   "ms": null,
+   "cutout": true,
+   "double_sided": true,
+   "src": "city_win_0",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "Silent Contract (procedural, Poly Haven CC0 textures)",
+ "tags": []
+}

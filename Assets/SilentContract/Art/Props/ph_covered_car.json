@@ -1,0 +1,55 @@
+{
+ "id": "ph_covered_car",
+ "category": "prop",
+ "tris": 5000,
+ "tris_src": 12592,
+ "size": [
+  1.789,
+  1.411,
+  4.38
+ ],
+ "center": [
+  0.048,
+  0.706,
+  0.024
+ ],
+ "materials": [
+  {
+   "name": "ph_covered_car__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_covered_car_m0_albedo.jpg",
+   "normal": "ph_covered_car_m0_normal.jpg",
+   "ms": "ph_covered_car_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "ph_covered_car__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_covered_car_m1_albedo.jpg",
+   "normal": "ph_covered_car_m1_normal.jpg",
+   "ms": "ph_covered_car_m1_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 3,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

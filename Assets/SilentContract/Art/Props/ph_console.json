@@ -1,0 +1,39 @@
+{
+ "id": "ph_console",
+ "category": "prop",
+ "tris": 1999,
+ "tris_src": 7566,
+ "size": [
+  1.543,
+  0.949,
+  0.589
+ ],
+ "center": [
+  0.0,
+  0.475,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_console__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_console_m0_albedo.jpg",
+   "normal": "ph_console_m0_normal.jpg",
+   "ms": "ph_console_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

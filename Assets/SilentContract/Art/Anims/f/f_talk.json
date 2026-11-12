@@ -1,0 +1,12 @@
+{
+ "name": "f_talk",
+ "frames": 241,
+ "fps": 30,
+ "length": 8.0,
+ "loop": true,
+ "speed": 0.0,
+ "source": "19_08.bvh",
+ "tags": [
+  "talk"
+ ]
+}

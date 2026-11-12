@@ -1,0 +1,26 @@
+{
+ "id": "guest_f_b",
+ "gender": "f",
+ "tris": 24938,
+ "height": 1.67,
+ "materials": [
+  {
+   "name": "guest_f_b_opaque",
+   "albedo": "guest_f_b_albedo.jpg",
+   "normal": "guest_f_b_normal.jpg",
+   "ms": "guest_f_b_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "guest_f_b",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

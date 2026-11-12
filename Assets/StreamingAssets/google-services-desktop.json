@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "1071449438875",
+    "project_id": "snipergame-e0c73",
+    "storage_bucket": "snipergame-e0c73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071449438875:ios:041a26ba0cbaec73a0e43e",
+        "android_client_info": {
+          "package_name": "com.akif.silentcontract"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqZA7t6wDozo24OeZ59sngfi-TeYIeJgA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "sc_container40_red",
+ "category": "container",
+ "tris": 370,
+ "tris_src": 370,
+ "size": [
+  12.285,
+  2.91,
+  2.45
+ ],
+ "center": [
+  0.0,
+  1.455,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "sc_container40_red__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sc_container40_red_m0_albedo.jpg",
+   "normal": "sc_container40_red_m0_normal.jpg",
+   "ms": "sc_container40_red_m0_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "cont3_red_40",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Silent Contract (procedural, Poly Haven CC0 textures)",
+ "tags": []
+}

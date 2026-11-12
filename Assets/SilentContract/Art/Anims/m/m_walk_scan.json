@@ -1,0 +1,13 @@
+{
+ "name": "m_walk_scan",
+ "frames": 160,
+ "fps": 30,
+ "length": 5.3,
+ "loop": true,
+ "speed": 0.6941,
+ "source": "Walking_Scan_with_Sudden_Look_Back.glb",
+ "tags": [
+  "walk",
+  "guard"
+ ]
+}

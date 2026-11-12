@@ -1,0 +1,12 @@
+{
+ "name": "m_walk_texting",
+ "frames": 31,
+ "fps": 30,
+ "length": 1.0,
+ "loop": true,
+ "speed": 1.5301,
+ "source": "Texting_Walk.glb",
+ "tags": [
+  "walk"
+ ]
+}

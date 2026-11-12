@@ -1,0 +1,26 @@
+{
+ "id": "photog",
+ "gender": "m",
+ "tris": 24837,
+ "height": 1.76,
+ "materials": [
+  {
+   "name": "photog_opaque",
+   "albedo": "photog_albedo.jpg",
+   "normal": "photog_normal.jpg",
+   "ms": "photog_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "photog",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

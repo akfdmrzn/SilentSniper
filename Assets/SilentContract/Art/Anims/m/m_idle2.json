@@ -1,0 +1,12 @@
+{
+ "name": "m_idle2",
+ "frames": 211,
+ "fps": 30,
+ "length": 7.0,
+ "loop": true,
+ "speed": 0.0,
+ "source": "111_28.bvh",
+ "tags": [
+  "idle"
+ ]
+}

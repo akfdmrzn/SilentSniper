@@ -1,0 +1,41 @@
+{
+ "id": "sc_mtn_banks",
+ "category": "level",
+ "tris": 2940,
+ "tris_src": 2940,
+ "size": [
+  441.416,
+  61.812,
+  84.519
+ ],
+ "center": [
+  300.081,
+  31.667,
+  82.009
+ ],
+ "materials": [
+  {
+   "name": "shared__mtn_bank",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "shared__mtn_bank_albedo.jpg",
+   "normal": "shared__mtn_bank_normal.jpg",
+   "ms": "shared__mtn_bank_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_bank",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "Silent Contract (procedural, Poly Haven CC0 textures)",
+ "tags": []
+}

@@ -1,0 +1,71 @@
+{
+ "id": "ph_security_light",
+ "category": "prop",
+ "tris": 1499,
+ "tris_src": 4668,
+ "size": [
+  0.323,
+  0.531,
+  0.417
+ ],
+ "center": [
+  -0.0,
+  -0.094,
+  0.177
+ ],
+ "materials": [
+  {
+   "name": "ph_security_light__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_security_light_m0_albedo.jpg",
+   "normal": "ph_security_light_m0_normal.jpg",
+   "ms": "ph_security_light_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "ph_security_light__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_security_light_m1_albedo.jpg",
+   "normal": "ph_security_light_m1_normal.jpg",
+   "ms": "ph_security_light_m1_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "ph_security_light__m2",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_security_light_m2_albedo.png",
+   "normal": "ph_security_light_m2_normal.jpg",
+   "ms": "ph_security_light_m2_ms.png",
+   "cutout": true,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

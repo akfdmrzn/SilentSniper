@@ -1,0 +1,17 @@
+{
+ "name": "f_death_fwd",
+ "frames": 66,
+ "fps": 30,
+ "length": 2.1667,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Shot_and_Fall_Forward.glb",
+ "tags": [
+  "death",
+  "ho=1.60"
+ ],
+ "offset": [
+  -0.4413,
+  0.7177
+ ]
+}

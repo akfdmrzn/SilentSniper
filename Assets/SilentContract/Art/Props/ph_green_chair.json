@@ -1,0 +1,39 @@
+{
+ "id": "ph_green_chair",
+ "category": "prop",
+ "tris": 1500,
+ "tris_src": 4213,
+ "size": [
+  0.673,
+  1.059,
+  0.664
+ ],
+ "center": [
+  0.0,
+  0.529,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_green_chair__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_green_chair_m0_albedo.jpg",
+   "normal": "ph_green_chair_m0_normal.jpg",
+   "ms": "ph_green_chair_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

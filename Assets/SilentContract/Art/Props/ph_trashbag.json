@@ -1,0 +1,39 @@
+{
+ "id": "ph_trashbag",
+ "category": "prop",
+ "tris": 999,
+ "tris_src": 4482,
+ "size": [
+  0.528,
+  0.575,
+  0.463
+ ],
+ "center": [
+  0.0,
+  0.287,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_trashbag__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_trashbag_m0_albedo.jpg",
+   "normal": "ph_trashbag_m0_normal.jpg",
+   "ms": "ph_trashbag_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

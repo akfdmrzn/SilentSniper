@@ -1,0 +1,26 @@
+{
+ "id": "waiter",
+ "gender": "m",
+ "tris": 17479,
+ "height": 1.77,
+ "materials": [
+  {
+   "name": "waiter_opaque",
+   "albedo": "waiter_albedo.jpg",
+   "normal": "waiter_normal.jpg",
+   "ms": "waiter_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "waiter",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

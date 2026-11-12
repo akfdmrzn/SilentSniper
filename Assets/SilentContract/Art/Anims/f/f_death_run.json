@@ -1,0 +1,17 @@
+{
+ "name": "f_death_run",
+ "frames": 31,
+ "fps": 30,
+ "length": 1.0,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Hit_in_Back_While_Running.glb",
+ "tags": [
+  "death",
+  "ho=0.45"
+ ],
+ "offset": [
+  0.0164,
+  1.8718
+ ]
+}

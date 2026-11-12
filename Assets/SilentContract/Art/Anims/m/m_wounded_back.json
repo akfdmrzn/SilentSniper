@@ -1,0 +1,16 @@
+{
+ "name": "m_wounded_back",
+ "frames": 66,
+ "fps": 30,
+ "length": 2.1667,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Groan_Holding_Stomach_in_Sleep.glb",
+ "tags": [
+  "wounded"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

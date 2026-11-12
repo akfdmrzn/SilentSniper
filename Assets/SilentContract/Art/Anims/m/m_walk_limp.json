@@ -1,0 +1,12 @@
+{
+ "name": "m_walk_limp",
+ "frames": 37,
+ "fps": 30,
+ "length": 1.2,
+ "loop": true,
+ "speed": 0.8988,
+ "source": "Limping_Walk.glb",
+ "tags": [
+  "walk"
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "id": "ph_rocks_land",
+ "category": "terrain",
+ "tris": 5163,
+ "tris_src": 1291146,
+ "size": [
+  4.889,
+  1.398,
+  10.454
+ ],
+ "center": [
+  0.0,
+  0.699,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_rocks_land__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_rocks_land_m0_albedo.jpg",
+   "normal": "ph_rocks_land_m0_normal.jpg",
+   "ms": "ph_rocks_land_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 3,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

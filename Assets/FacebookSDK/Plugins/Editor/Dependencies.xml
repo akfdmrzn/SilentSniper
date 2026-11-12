@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dependencies>
+    <!-- Silent Contract: Android packages removed for now (Meta is set up for iOS first; on Android the SDK would need its own app id setup) -->
+    <iosPods>
+        <iosPod name="FBSDKCoreKit_Basics" version="~> 19.0" />
+        <iosPod name="FBSDKCoreKit" version="~> 19.0" />
+        <iosPod name="FBSDKLoginKit" version="~> 19.0" />
+        <iosPod name="FBSDKShareKit" version="~> 19.0" />
+        <iosPod name="FBSDKGamingServicesKit" version="~> 19.0" />
+    </iosPods>
+</dependencies>

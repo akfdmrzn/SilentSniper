@@ -1,0 +1,16 @@
+{
+ "name": "m_flinch",
+ "frames": 38,
+ "fps": 30,
+ "length": 1.2333,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Stand_Dodge_1.glb",
+ "tags": [
+  "react"
+ ],
+ "offset": [
+  -0.5247,
+  -0.5322
+ ]
+}

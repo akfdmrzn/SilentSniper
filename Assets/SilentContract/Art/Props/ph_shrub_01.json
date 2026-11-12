@@ -1,0 +1,39 @@
+{
+ "id": "ph_shrub_01",
+ "category": "plant",
+ "tris": 2999,
+ "tris_src": 156012,
+ "size": [
+  2.587,
+  0.396,
+  0.219
+ ],
+ "center": [
+  0.0,
+  0.198,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_shrub_01__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_shrub_01_m0_albedo.png",
+   "normal": "ph_shrub_01_m0_normal.jpg",
+   "ms": "ph_shrub_01_m0_ms.png",
+   "cutout": true,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

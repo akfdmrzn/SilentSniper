@@ -1,0 +1,12 @@
+{
+ "name": "m_walk_strut",
+ "frames": 81,
+ "fps": 30,
+ "length": 2.6667,
+ "loop": true,
+ "speed": 1.2157,
+ "source": "boss_walk.glb",
+ "tags": [
+  "walk"
+ ]
+}

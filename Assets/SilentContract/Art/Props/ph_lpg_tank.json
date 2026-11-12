@@ -1,0 +1,39 @@
+{
+ "id": "ph_lpg_tank",
+ "category": "prop",
+ "tris": 1800,
+ "tris_src": 15042,
+ "size": [
+  0.41,
+  0.642,
+  0.409
+ ],
+ "center": [
+  0.0,
+  0.321,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_lpg_tank__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_lpg_tank_m0_albedo.jpg",
+   "normal": "ph_lpg_tank_m0_normal.jpg",
+   "ms": "ph_lpg_tank_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

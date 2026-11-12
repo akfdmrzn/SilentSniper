@@ -1,0 +1,41 @@
+{
+ "id": "sc_fender",
+ "category": "structure",
+ "tris": 52,
+ "tris_src": 52,
+ "size": [
+  2.0,
+  0.682,
+  0.7
+ ],
+ "center": [
+  0.0,
+  0.0,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "sc_fender__m0",
+   "color": [
+    0.03,
+    0.03,
+    0.03,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.15,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "fender_rubber",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Silent Contract (procedural, Poly Haven CC0 textures)",
+ "tags": []
+}

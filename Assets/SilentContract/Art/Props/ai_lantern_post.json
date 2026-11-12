@@ -1,0 +1,41 @@
+{
+ "id": "ai_lantern_post",
+ "category": "prop",
+ "tris": 1200,
+ "tris_src": 3693,
+ "size": [
+  1.177,
+  3.401,
+  0.613
+ ],
+ "center": [
+  0.0,
+  1.7,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_lantern_post__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ai_lantern_post_m0_albedo.jpg",
+   "normal": "ai_lantern_post_m0_normal.jpg",
+   "ms": "ai_lantern_post_m0_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

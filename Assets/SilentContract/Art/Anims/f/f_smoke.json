@@ -1,0 +1,12 @@
+{
+ "name": "f_smoke",
+ "frames": 246,
+ "fps": 30,
+ "length": 8.1667,
+ "loop": true,
+ "speed": 0.0,
+ "source": "80_28.bvh",
+ "tags": [
+  "smoke"
+ ]
+}

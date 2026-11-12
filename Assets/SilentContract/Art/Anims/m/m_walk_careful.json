@@ -1,0 +1,13 @@
+{
+ "name": "m_walk_careful",
+ "frames": 53,
+ "fps": 30,
+ "length": 1.7333,
+ "loop": true,
+ "speed": 0.528,
+ "source": "91_18.bvh",
+ "tags": [
+  "walk",
+  "guard"
+ ]
+}

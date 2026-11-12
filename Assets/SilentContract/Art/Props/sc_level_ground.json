@@ -1,0 +1,329 @@
+{
+ "id": "sc_level_ground",
+ "category": "level",
+ "tris": 3276,
+ "tris_src": 3276,
+ "size": [
+  630.0,
+  59.1,
+  653.5
+ ],
+ "center": [
+  15.0,
+  23.55,
+  26.75
+ ],
+ "materials": [
+  {
+   "name": "sc_level_ground__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.224,
+   "albedo": "sc_level_ground_m0_albedo.jpg",
+   "normal": "sc_level_ground_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_yard3",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.004,
+   "smoothness": 0.455,
+   "albedo": "sc_level_ground_m1_albedo.jpg",
+   "normal": "sc_level_ground_m1_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_apron3",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m2",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.013,
+   "smoothness": 0.226,
+   "albedo": "sc_level_ground_m2_albedo.jpg",
+   "normal": "sc_level_ground_m2_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_asphalt",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m3",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.106,
+   "albedo": "sc_level_ground_m3_albedo.jpg",
+   "normal": "sc_level_ground_m3_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_pavers",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m4",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.121,
+   "albedo": "sc_level_ground_m4_albedo.jpg",
+   "normal": "sc_level_ground_m4_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_asphalt_old",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m5",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.259,
+   "albedo": "sc_level_ground_m5_albedo.jpg",
+   "normal": "sc_level_ground_m5_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_quay",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m6",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.007,
+   "smoothness": 0.49,
+   "albedo": "sc_level_ground_m6_albedo.jpg",
+   "normal": "sc_level_ground_m6_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_bld",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m7",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.259,
+   "albedo": "sc_level_ground_m7_albedo.jpg",
+   "normal": "sc_level_ground_m7_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_parapet",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m8",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sc_level_ground_m8_albedo.jpg",
+   "normal": "sc_level_ground_m8_normal.jpg",
+   "ms": "sc_level_ground_m8_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_fence",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m9",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sc_level_ground_m9_albedo.jpg",
+   "normal": "sc_level_ground_m9_normal.jpg",
+   "ms": "sc_level_ground_m9_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_pier",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m10",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sc_level_ground_m10_albedo.jpg",
+   "normal": "sc_level_ground_m10_normal.jpg",
+   "ms": "sc_level_ground_m10_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_pile",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m11",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.259,
+   "albedo": "sc_level_ground_m11_albedo.jpg",
+   "normal": "sc_level_ground_m11_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_cwall",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m12",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "sc_level_ground_m12_albedo.png",
+   "normal": null,
+   "ms": null,
+   "cutout": true,
+   "double_sided": true,
+   "src": "g_win",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m13",
+   "color": [
+    0.84,
+    0.62,
+    0.1,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.28,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_paint_yellow",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m14",
+   "color": [
+    0.74,
+    0.74,
+    0.7,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.28,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_paint_white",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m15",
+   "color": [
+    0.74,
+    0.74,
+    0.7,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.28,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_paint_white2",
+   "window": false
+  },
+  {
+   "name": "sc_level_ground__m16",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sc_level_ground_m16_albedo.jpg",
+   "normal": "sc_level_ground_m16_normal.jpg",
+   "ms": "sc_level_ground_m16_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "g_rail",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "Silent Contract (procedural, Poly Haven CC0 textures)",
+ "tags": []
+}

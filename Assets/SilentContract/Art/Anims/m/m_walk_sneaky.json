@@ -1,0 +1,12 @@
+{
+ "name": "m_walk_sneaky",
+ "frames": 82,
+ "fps": 30,
+ "length": 2.7,
+ "loop": true,
+ "speed": 0.4205,
+ "source": "Sneaky_Walk.glb",
+ "tags": [
+  "walk"
+ ]
+}

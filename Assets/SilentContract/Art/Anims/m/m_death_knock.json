@@ -1,0 +1,17 @@
+{
+ "name": "m_death_knock",
+ "frames": 76,
+ "fps": 30,
+ "length": 2.5,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Knock_Down.glb",
+ "tags": [
+  "death",
+  "ho=0.97"
+ ],
+ "offset": [
+  0.0014,
+  0.8124
+ ]
+}

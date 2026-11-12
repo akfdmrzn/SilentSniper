@@ -1,0 +1,16 @@
+{
+ "name": "m_dance3",
+ "frames": 245,
+ "fps": 30,
+ "length": 8.1333,
+ "loop": true,
+ "speed": 0.0,
+ "source": "All_Night_Dance.glb",
+ "tags": [
+  "dance"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

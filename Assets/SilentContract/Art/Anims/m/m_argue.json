@@ -1,0 +1,12 @@
+{
+ "name": "m_argue",
+ "frames": 238,
+ "fps": 30,
+ "length": 7.9,
+ "loop": true,
+ "speed": 0.0,
+ "source": "80_48.bvh",
+ "tags": [
+  "talk"
+ ]
+}

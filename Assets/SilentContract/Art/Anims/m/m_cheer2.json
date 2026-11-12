@@ -1,0 +1,16 @@
+{
+ "name": "m_cheer2",
+ "frames": 89,
+ "fps": 30,
+ "length": 2.9333,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Cheer_with_Both_Hands.glb",
+ "tags": [
+  "cheer"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

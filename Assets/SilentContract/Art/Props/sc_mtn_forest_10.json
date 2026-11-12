@@ -1,0 +1,41 @@
+{
+ "id": "sc_mtn_forest_10",
+ "category": "level",
+ "tris": 4332,
+ "tris_src": 4332,
+ "size": [
+  706.974,
+  473.16,
+  728.821
+ ],
+ "center": [
+  -602.686,
+  271.959,
+  563.191
+ ],
+ "materials": [
+  {
+   "name": "shared__mtn_fircard",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__mtn_fircard_albedo.png",
+   "normal": null,
+   "ms": null,
+   "cutout": true,
+   "double_sided": true,
+   "src": "mtn_fircard",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "Silent Contract (impostors of Meshy AI firs)",
+ "tags": []
+}

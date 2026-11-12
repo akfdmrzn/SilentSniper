@@ -1,0 +1,26 @@
+{
+ "id": "student_m",
+ "gender": "m",
+ "tris": 17623,
+ "height": 1.8,
+ "materials": [
+  {
+   "name": "student_m_opaque",
+   "albedo": "student_m_albedo.jpg",
+   "normal": "student_m_normal.jpg",
+   "ms": "student_m_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "student_m",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

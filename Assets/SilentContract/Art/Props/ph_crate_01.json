@@ -1,0 +1,39 @@
+{
+ "id": "ph_crate_01",
+ "category": "prop",
+ "tris": 1999,
+ "tris_src": 6576,
+ "size": [
+  0.825,
+  0.35,
+  0.409
+ ],
+ "center": [
+  0.0,
+  0.167,
+  0.008
+ ],
+ "materials": [
+  {
+   "name": "ph_crate_01__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_crate_01_m0_albedo.jpg",
+   "normal": "ph_crate_01_m0_normal.jpg",
+   "ms": "ph_crate_01_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

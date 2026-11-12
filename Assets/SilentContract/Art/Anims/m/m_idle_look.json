@@ -1,0 +1,13 @@
+{
+ "name": "m_idle_look",
+ "frames": 423,
+ "fps": 30,
+ "length": 14.0667,
+ "loop": true,
+ "speed": 0.0,
+ "source": "guard_idle.glb",
+ "tags": [
+  "idle",
+  "guard"
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "name": "m_dance1",
+ "frames": 197,
+ "fps": 30,
+ "length": 6.5333,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Joyful_Dance_with_Hand_Sway.glb",
+ "tags": [
+  "dance"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "name": "m_pistol_strafe",
+ "frames": 35,
+ "fps": 30,
+ "length": 1.1333,
+ "loop": true,
+ "speed": 0.9856,
+ "source": "Walk_Left_with_Gun.glb",
+ "tags": [
+  "combat"
+ ]
+}

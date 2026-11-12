@@ -1,0 +1,16 @@
+{
+ "name": "m_shout",
+ "frames": 216,
+ "fps": 30,
+ "length": 7.1667,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Shouting_Angrily.glb",
+ "tags": [
+  "talk"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

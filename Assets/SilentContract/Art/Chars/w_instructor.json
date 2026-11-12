@@ -1,0 +1,26 @@
+{
+ "id": "w_instructor",
+ "gender": "f",
+ "tris": 24885,
+ "height": 1.66,
+ "materials": [
+  {
+   "name": "w_instructor_opaque",
+   "albedo": "w_instructor_albedo.jpg",
+   "normal": "w_instructor_normal.jpg",
+   "ms": "w_instructor_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "w_instructor",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

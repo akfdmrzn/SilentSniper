@@ -1,0 +1,26 @@
+{
+ "id": "tourist_f",
+ "gender": "f",
+ "tris": 17483,
+ "height": 1.66,
+ "materials": [
+  {
+   "name": "tourist_f_opaque",
+   "albedo": "tourist_f_albedo.jpg",
+   "normal": "tourist_f_normal.jpg",
+   "ms": "tourist_f_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "tourist_f",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

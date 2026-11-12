@@ -1,0 +1,26 @@
+{
+ "id": "prosecutor",
+ "gender": "f",
+ "tris": 24660,
+ "height": 1.68,
+ "materials": [
+  {
+   "name": "prosecutor_opaque",
+   "albedo": "prosecutor_albedo.jpg",
+   "normal": "prosecutor_normal.jpg",
+   "ms": "prosecutor_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "prosecutor",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

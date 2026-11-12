@@ -1,0 +1,16 @@
+{
+ "name": "m_phone_conv",
+ "frames": 146,
+ "fps": 30,
+ "length": 4.8333,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Phone_Conversation.glb",
+ "tags": [
+  "phone"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

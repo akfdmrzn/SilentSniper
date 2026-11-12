@@ -1,0 +1,71 @@
+{
+ "id": "sr_crate_plywood",
+ "category": "prop",
+ "tris": 1500,
+ "tris_src": 25110,
+ "size": [
+  1.002,
+  1.017,
+  1.009
+ ],
+ "center": [
+  0.0,
+  0.508,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "sr_crate_plywood__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_crate_plywood_m0_albedo.jpg",
+   "normal": "sr_crate_plywood_m0_normal.jpg",
+   "ms": "sr_crate_plywood_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_crate_plywood__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_crate_plywood_m1_albedo.jpg",
+   "normal": "sr_crate_plywood_m1_normal.jpg",
+   "ms": "sr_crate_plywood_m1_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_crate_plywood__m2",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_crate_plywood_m2_albedo.jpg",
+   "normal": "sr_crate_plywood_m2_normal.jpg",
+   "ms": "sr_crate_plywood_m2_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "NVIDIA SimReady (CC-BY 4.0)",
+ "tags": []
+}

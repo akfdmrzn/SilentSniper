@@ -1,0 +1,12 @@
+{
+ "name": "m_idle_wait",
+ "frames": 331,
+ "fps": 30,
+ "length": 11.0,
+ "loop": true,
+ "speed": 0.0,
+ "source": "137_41.bvh",
+ "tags": [
+  "idle"
+ ]
+}

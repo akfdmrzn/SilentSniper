@@ -1,0 +1,16 @@
+{
+ "name": "m_shrug",
+ "frames": 60,
+ "fps": 30,
+ "length": 1.9667,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Shrug.glb",
+ "tags": [
+  "gesture"
+ ],
+ "offset": [
+  -0.0002,
+  -0.0007
+ ]
+}

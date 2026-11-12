@@ -1,0 +1,26 @@
+{
+ "id": "knifeman",
+ "gender": "m",
+ "tris": 24853,
+ "height": 1.8,
+ "materials": [
+  {
+   "name": "knifeman_opaque",
+   "albedo": "knifeman_albedo.jpg",
+   "normal": "knifeman_normal.jpg",
+   "ms": "knifeman_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "knifeman",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

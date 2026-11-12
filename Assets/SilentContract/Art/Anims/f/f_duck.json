@@ -1,0 +1,12 @@
+{
+ "name": "f_duck",
+ "frames": 211,
+ "fps": 30,
+ "length": 7.0,
+ "loop": false,
+ "speed": 0.0,
+ "source": "77_09.bvh",
+ "tags": [
+  "react"
+ ]
+}

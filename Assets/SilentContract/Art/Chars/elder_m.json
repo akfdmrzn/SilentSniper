@@ -1,0 +1,26 @@
+{
+ "id": "elder_m",
+ "gender": "m",
+ "tris": 17504,
+ "height": 1.74,
+ "materials": [
+  {
+   "name": "elder_m_opaque",
+   "albedo": "elder_m_albedo.jpg",
+   "normal": "elder_m_normal.jpg",
+   "ms": "elder_m_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "elder_m",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

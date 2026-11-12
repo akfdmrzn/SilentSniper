@@ -1,0 +1,26 @@
+{
+ "id": "w_lodge_m",
+ "gender": "m",
+ "tris": 17674,
+ "height": 1.81,
+ "materials": [
+  {
+   "name": "w_lodge_m_opaque",
+   "albedo": "w_lodge_m_albedo.jpg",
+   "normal": "w_lodge_m_normal.jpg",
+   "ms": "w_lodge_m_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "w_lodge_m",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

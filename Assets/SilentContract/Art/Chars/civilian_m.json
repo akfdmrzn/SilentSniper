@@ -1,0 +1,26 @@
+{
+ "id": "civilian_m",
+ "gender": "m",
+ "tris": 24775,
+ "height": 1.84,
+ "materials": [
+  {
+   "name": "civilian_m_opaque",
+   "albedo": "civilian_m_albedo.jpg",
+   "normal": "civilian_m_normal.jpg",
+   "ms": "civilian_m_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "civilian_m",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

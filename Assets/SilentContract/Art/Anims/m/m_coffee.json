@@ -1,0 +1,12 @@
+{
+ "name": "m_coffee",
+ "frames": 295,
+ "fps": 30,
+ "length": 9.8,
+ "loop": true,
+ "speed": 0.0,
+ "source": "137_26.bvh",
+ "tags": [
+  "drink"
+ ]
+}

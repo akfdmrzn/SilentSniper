@@ -1,0 +1,39 @@
+{
+ "id": "ai_rifle_dmr",
+ "category": "prop",
+ "tris": 16000,
+ "tris_src": 29626,
+ "size": [
+  1.0,
+  0.383,
+  0.102
+ ],
+ "center": [
+  0.0,
+  0.0,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_rifle_dmr__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.002,
+   "smoothness": 0.567,
+   "albedo": "ai_rifle_dmr_m0_albedo.jpg",
+   "normal": "ai_rifle_dmr_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": false,
+ "credit": "Silent Contract (AI-generated model, Meshy)",
+ "tags": []
+}

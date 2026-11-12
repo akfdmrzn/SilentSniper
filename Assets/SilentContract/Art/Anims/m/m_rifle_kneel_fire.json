@@ -1,0 +1,16 @@
+{
+ "name": "m_rifle_kneel_fire",
+ "frames": 121,
+ "fps": 30,
+ "length": 4.0,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Side_Shot.glb",
+ "tags": [
+  "combat"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

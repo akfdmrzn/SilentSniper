@@ -1,0 +1,1374 @@
+SİPER	BERLINDUNG
+Sana ateş ediyorlar! SİPER tuşuyla eğil — ateş kesilince doğrul ve kırmızı işaretli nişancıları indir. Yaraların birkaç saniye sonra iyileşir.	Kamu ditembaki! Tekan BERLINDUNG untuk merunduk — saat tembakan berhenti, bangkit dan jatuhkan penembak yang bertanda merah. Lukamu pulih setelah beberapa detik.
+YERİN TESPİT EDİLDİ — SANA ATEŞ EDECEKLER!	POSISIMU KETAHUAN — MEREKA AKAN MENEMBAKMU!
+DOĞRUL	BANGKIT
+YERİN TESPİT EDİLDİ	POSISIMU KETAHUAN
+GÖZCÜ SENİ ARIYOR	PENGINTAI MENCARIMU
+YERİNİ ARIYORLAR	MEREKA MENCARI POSISIMU
+DİKKAT ÇEKİYORSUN	KAMU MENARIK PERHATIAN
+Her atış yerini biraz daha belli eder (susturucu daha az). Göz dolarsa yerin tespit edilir ve silahlı adamlar sana ateş eder.	Setiap tembakan makin membongkar posisimu (peredam mengurangi ini). Jika mata terisi penuh, posisimu ketahuan dan orang bersenjata akan menembakmu.
+Bir gözcü dürbünle damları tarıyor: dürbün parlaması sana dönerken eğil ya da önce onu indir.	Seorang pengintai memindai atap dengan teropong: merunduklah saat kilau teropongnya mengarah padamu, atau jatuhkan dia lebih dulu.
+MAĞAZA	TOKO
+TEKLİFLER	PENAWARAN
+SİLAH PAKETLERİ	PAKET SENJATA
+ELMAS	PERMATA
+NAKİT	UANG
+SATIN ALIMLARI GERİ YÜKLE	PULIHKAN PEMBELIAN
+ÜCRETSİZ ELMAS	PERMATA GRATIS
+İZLE	TONTON
+GECE	MALAM
+ELMAS YETMİYOR	PERMATA KURANG
+Bu paket için 	Paket ini butuh 
+ elmas gerekiyor, sende 	 permata, kamu punya 
+ var.	 saja.
+ELMAS AL	BELI PERMATA
+PAKET HAZIR	PAKET SIAP
+Tüfek	Senapan
+ kuşanıldı. Cephanelikte seni bekliyor.	 terpasang. Sudah menunggumu di gudang senjata.
+CEPHANELİK	GUDANG SENJATA
+TAMAM	OKE
+SATIN ALINAMADI	PEMBELIAN GAGAL
+KAPAT	TUTUP
+GERİ YÜKLEME	PEMULIHAN
+ satın alım geri yüklendi.	 pembelian dipulihkan.
+Geri yüklenecek satın alım bulunamadı.	Tidak ada pembelian untuk dipulihkan.
+ALINDI	DIKLAIM
+Bugün 	Sisa 
+ hakkın kaldı	 kesempatan hari ini
+Şu an video yok	Belum ada video saat ini
+TEST SÜRÜMÜ: satın almalar ücretsiz tamamlanır, reklamlar yer tutucudur. Gerçek fiyatlar App Store'dan gelir.	VERSI UJI: pembelian selesai gratis, iklan hanya pengganti sementara. Harga asli berasal dari App Store.
+GÜNLÜK ÖDÜL	HADIAH HARIAN
+Her gün gel, ödülün büyüsün. 7. gün büyük ödül.	Datang tiap hari, hadiahmu makin besar. Hadiah utama di hari ke-7.
+. GÜN	. HARI
+ ELMAS	 PERMATA
+ Z. DELİCİ	 AP
+2× AL	AMBIL 2×
+TOPLA	KLAIM
+VAZGEÇ	BATAL
+Dürbünde nişangahı birinin üzerinde tutarak kimliğini tara — masumları vurma.	Tahan bidikan pada seseorang di teropong untuk memindai identitasnya — jangan tembak orang tak bersalah.
+Nefesini tutarken nişangah sabitlenir, ama nefes çubuğu biterse titreme artar.	Saat menahan napas, bidikan jadi stabil, tapi jika bar napas habis, goyangan bertambah.
+Uzak mesafede kurşun düşer ve rüzgarla kayar. Kırmızı nokta isabet noktasını gösterir.	Di jarak jauh peluru turun dan terbawa angin. Titik merah menunjukkan titik kena.
+Bir koruma telsize uzanırsa birkaç saniyen var: onu durdurursan alarm verilmez.	Jika pengawal meraih radio, waktumu cuma beberapa detik: hentikan dia dan alarm tak akan berbunyi.
+Kafadan vuruşlar ve sivil kayıpsız görevler daha fazla yıldız ve para kazandırır.	Tembakan kepala dan misi tanpa korban sipil memberi lebih banyak bintang dan uang.
+Zırhlı adamların gövdesi kurşun tutar: kafaya nişan al ya da tüfeğinin HASAR'ını geliştir.	Tubuh orang berzirah menahan peluru: bidik kepala atau tingkatkan DAMAGE senapanmu.
+Iskalama sessiz kalmaz: ikinci boş atış silahlıları yuvana yollar.	Meleset tak pernah sunyi: tembakan meleset kedua mengirim orang bersenjata ke sarangmu.
+Görev, sana ateş eden son silahlı susunca biter. Önce en yakındakini sustur.	Misi berakhir saat penembak terakhir yang menembakmu terdiam. Bungkam yang terdekat dulu.
+Cephanelikte her tüfeğin beş hattı var: en üst kademe elmasla açılır.	Di gudang senjata tiap senapan punya lima jalur: tingkat teratas dibuka dengan permata.
+Günün sözleşmesi iki kat para ve elmas öder — her gün yenisi gelir.	Kontrak hari ini membayar uang dan permata dua kali lipat — yang baru datang setiap hari.
+LİMAN OPERASYONU	OPERASI PELABUHAN
+TAKTİK HARİTA  ·  GÖREV 	PETA TAKTIS  ·  MISI 
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     	<color=#46C8F2>●</color> Posisi tembak     <color=#FF4545>●</color> Area target     
+<color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#FFFFFF>- -</color> Rute diketahui     Lingkaran: tiap 100 m dari sarang utama     Atas: arah pandang sarang utama
+ZORLUK  	KESULITAN  
+HARİTA	PETA
+HEDEF DOSYASI	BERKAS TARGET
+SUİKAST	ASASINASI
+TANIMA	IDENTIFIKASI
+BRİFİNG	BRIEFING
+GÖREV	MISI
+YILDIZ HEDEFLERİ	TARGET BINTANG
+DEĞİŞTİR	GANTI
+BAŞLA	MULAI
+EKİPMAN GEREKLİ	BUTUH PERLENGKAPAN
+Bu iş 	Pekerjaan ini butuh 
+ ve 	 dan 
+ olmadan yapılamaz. Cephaneliğe git?	 — tanpa itu tak bisa. Ke gudang senjata?
+TÜFEĞİN ZAYIF KALABİLİR	SENAPANMU MUNGKIN LEMAH
+Bu sözleşme için önerilen güç 	Power yang disarankan untuk kontrak ini 
+ şu an 	 saat ini 
+Geliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	Kamu bisa mencoba tanpa upgrade, tapi musuh berzirah dan target jauh akan menyulitkan.
+GELİŞTİR	UPGRADE
+YİNE DE BAŞLA	TETAP MULAI
+ZIRHLI HEDEFLER	TARGET BERZIRAH
+Bu işte zırhlı silahlılar var; tüfeğinin mermisi gövdeden geçmez.\nKısa bir video izle, 3 zırh delici mermi senin olsun.	Ada penembak berzirah di pekerjaan ini; peluru senapanmu tak tembus tubuh mereka.\nTonton video singkat, dapatkan 3 peluru penembus zirah.
+İZLE  +3 MERMİ	TONTON  +3 PELURU
+GÜNÜN İŞİ ×2	KONTRAK HARIAN ×2
+<b><color=#E8B04A>YENİ:</color></b> 	<b><color=#E8B04A>BARU:</color></b> 
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n	<b><color=#FFB21E>VETERAN:</color></b> tanpa titik kena, angin lebih kencang dan berubah-ubah, senapan lebih goyang, target tak ditandai. Hadiah ×1,5.\n
+NEREDEN ATEŞ EDECEKSİN?	DARI MANA KAMU MENEMBAK?
+Her yerin artısı eksisi var. Görev sırasında iki kez yer değiştirebilirsin.	Tiap posisi punya plus-minusnya. Selama misi kamu bisa pindah posisi dua kali.
+GERİ	KEMBALI
+DEVAM	LANJUT
+BÖLÜM 	BAB 
+KORUMA	LINDUNGI
+CANLI YAKALA	TANGKAP HIDUP
+SABOTAJ	SABOTASE
+YARALA	LUKAI
+GÖREV 	MISI 
+KORUNACAK KİŞİ	ORANG YANG DILINDUNGI
+HEDEF DOSYASI  ·  CANLI	BERKAS TARGET  ·  HIDUP
+•  Hedefi etkisiz hale getir	•  Lumpuhkan target
+TÜFEK:  	SENAPAN:  
+>GÜÇ 	>POWER 
+</color><color=#6B7682>  /  önerilen 	</color><color=#6B7682>  /  disarankan 
+Bu iş için verildi	Diberikan untuk pekerjaan ini
+   ·   Verilen: 	   ·   Diberikan: 
+   ·   <color=#FF8A2B>Zırhlı silahlılar: kafaya nişan al, HASAR geliştir ya da zırh delici al</color>	   ·   <color=#FF8A2B>Penembak berzirah: bidik kepala, upgrade DAMAGE, atau beli peluru AP</color>
+AYARLAR	PENGATURAN
+Nişan hassasiyeti	Sensitivitas bidikan
+Kolay nişan (3. yıldız alınmaz)	Bidikan mudah (bintang ke-3 tak bisa didapat)
+Kurşun kamerası (son hedefte ağır çekim)	Kamera peluru (gerak lambat di target terakhir)
+Titreşim	Getaran
+Ses seviyesi	Volume suara
+İlerleme	Progres
+İLERLEMEYİ SIFIRLA	RESET PROGRES
+İlerleme sıfırlansın mı?	Reset progres?
+Tüm yıldızlar, para ve geliştirmeler silinecek (satın aldıkların ve elmasların kalır). Bu işlem geri alınamaz.	Semua bintang, uang, dan upgrade akan dihapus (pembelian dan permatamu tetap ada). Tindakan ini tak bisa dibatalkan.
+SIFIRLA	RESET
+Satın alımlar ve gizlilik	Pembelian dan privasi
+GERİ YÜKLE	PULIHKAN
+GİZLİLİK	PRIVASI
+Grafik kalitesi	Kualitas grafis
+PERFORMANS	PERFORMA
+DENGELİ	SEIMBANG
+KALİTE	KUALITAS
+KAYNAKLAR VE LİSANSLAR	SUMBER DAN LISENSI
+Henüz dosyada bir şey yok. İlk sözleşmeyi tamamla.	Berkas masih kosong. Selesaikan kontrak pertama.
+<size=40><color=#E8B04A><b>BÖLÜM 	<size=40><color=#E8B04A><b>BAB 
+<b>SON</b>\n	<b>TAMAT</b>\n
+Disk KONTROL'de. Kurul'un koltukları yeniden doluyor.	Disk ada di tangan KONTROL. Kursi-kursi Dewan terisi lagi.
+Disk savcıda. KONTROL'ün kapısına polis dayandı.	Disk ada di tangan jaksa. Polisi sudah di depan pintu KONTROL.
+DAVA DOSYASI	BERKAS PERKARA
+DURAKLATILDI	DIJEDA
+DEVAM ET	LANJUTKAN
+YENİDEN BAŞLAT	ULANGI MISI
+GÖREVDEN ÇIK	KELUAR MISI
+Görevden çıkılsın mı?	Keluar dari misi?
+Bu görevdeki ilerlemen kaybolacak.	Progresmu di misi ini akan hilang.
+ÇIK	KELUAR
+DERECE	PERINGKAT
+YENİ YILDIZ	BINTANG BARU
+ATIŞ	TEMBAKAN
+En uzun atış	Tembakan terjauh
+Kafadan vuruş	Tembakan kepala
+Süre	Waktu
+İsabet	Akurasi
+KAZANÇ DÖKÜMÜ	RINCIAN PENDAPATAN
+KAZANÇ	PENDAPATAN
+2× KAZANÇ	PENDAPATAN 2×
+MENÜ	MENU
+TEKRAR	ULANGI
+SONRAKİ GÖREV	MISI BERIKUTNYA
+İSTİHBARAT	INTEL
+SON	TAMAT
+YİNE KİMSESİZ	SENDIRI LAGI
+KENDİ SEÇİMİN	PILIHANMU SENDIRI
+Kimyager: 	Si Kimiawan: 
+KONTROL'ün hücresinde kayboldu.	lenyap di sel KONTROL.
+savcılığa ifade verdi; Baran davası onunla başladı.	bersaksi ke kejaksaan; kasus Wijaya dimulai darinya.
+Baran'ın kasası: 	Brankas Wijaya: 
+para sende, KONTROL bunu biliyor.	uangnya padamu, dan KONTROL tahu itu.
+dosyaların kopyası Başsavcı Arslan'da.	salinan berkasnya ada pada Jaksa Agung Wahyuni.
+Kurul: beş koltuk boşaldı.	Dewan: lima kursi kosong.
+KONTROL: yerinde. Yeni bir isim arıyor.	KONTROL: masih di tempatnya. Mencari nama baru.
+KONTROL: kapısında polis.	KONTROL: polisi di depan pintunya.
+Toplam: 	Total: 
+GÖREV TAMAMLANDI	MISI SELESAI
+GÖREV BAŞARISIZ	MISI GAGAL
+ÖNCEDEN	SEBELUMNYA
+KOLAY NİŞAN	BIDIKAN MUDAH
+Günün sözleşmesi  ·  elmas	Kontrak hari ini  ·  permata
+İlk S derecesi  ·  elmas	Peringkat S pertama  ·  permata
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.	Kontrak tak selesai — tak ada bayaran.\nKamu bisa mengulang pekerjaan yang sama; apa yang salah terlihat di atas.
+\nKısa bir videoyla ücretin bir kısmını telafi alabilirsin.	\nDengan video singkat kamu bisa dapat kompensasi sebagian bayaranmu.
+TEKRAR DENE	COBA LAGI
+TÜFEĞİN ZORLANIYOR	SENAPANMU KEWALAHAN
+Bu iş için önerilen güç 	Power yang disarankan untuk pekerjaan ini 
+, senin tüfeğin 	, senapanmu 
+. Geliştir ya da 	. Upgrade atau langsung jadi lebih kuat 
+bir silah paketiyle	dengan paket senjata
+ hemen güçlen.	 sekarang juga.
+GÜÇLEN	PERKUAT
+ TP	 XP
+TELAFİ +	KOMPENSASI +
+GÖREVLER	MISI
+ANA YUVA	SARANG UTAMA
+<color=#36D47C>●</color> Tamamlandı    <color=#FFB21E>●</color> Sıradaki    <color=#6B7682>●</color> Kilitli	<color=#36D47C>●</color> Selesai    <color=#FFB21E>●</color> Berikutnya    <color=#6B7682>●</color> Terkunci
+BRİFİNGE GİT	KE BRIEFING
+Rüzgâr 	Angin 
+\nZORLUK 	\nKESULITAN 
+   ·   <color=#FF8A2B>ZIRHLI DÜŞMAN</color>	   ·   <color=#FF8A2B>MUSUH BERZIRAH</color>
+Önerilen güç <b>	Power disarankan <b>
+</b>   ·   Tüfeğin <color=	</b>   ·   Senapanmu <color=
+Önceki görevi tamamla	Selesaikan misi sebelumnya
+OYNA	MAIN
+  ·  TEST MODU: tüm bölümler açık	  ·  MODE UJI: semua bab terbuka
+  ·  Tek oyunculu keskin nişancı	  ·  Sniper pemain tunggal
+TEST MODU	MODE UJI
+Tüm haritalar ve görevler şu an açık. Normal ilerlemeye dönülsün mü?	Semua peta dan misi saat ini terbuka. Kembali ke progres normal?
+Test için bütün haritalar ve görevler açılsın mı? (Ayarlardan ilerleme sıfırlanmaz.)	Buka semua peta dan misi untuk pengujian? (Progres di Pengaturan tidak di-reset.)
+AÇ	BUKA
+KAYNAKLAR	SUMBER
+SIRADAKİ SÖZLEŞME	KONTRAK BERIKUTNYA
+GÜÇ	POWER
+GÜNLÜK GÖREVLER	MISI HARIAN
+GÜNÜN SÖZLEŞMESİ  ·  TAMAM	KONTRAK HARIAN  ·  SELESAI
+GÜNÜN SÖZLEŞMESİ  ·  ×2 ÖDÜL  +10 ELMAS	KONTRAK HARIAN  ·  HADIAH ×2  +10 PERMATA
+Yenisi 	Yang baru dalam 
+ sa 	 j 
+ dk sonra	 mnt
+  —  VETERAN kurallarıyla	  —  dengan aturan VETERAN
+Güç 	Power 
+Başlangıç paketi	Paket pemula
+Ücretsiz elmas	Permata gratis
+Elmas · Nakit	Permata · Uang
+ dosya	 berkas
+REKLAMLARDAN SIKILDIN MI?	BOSAN DENGAN IKLAN?
+Görev aralarındaki reklamları 	Hapus iklan di antara misi selamanya hanya dengan 
+ karşılığında sonsuza dek kaldır. Hediye: 	 saja. Hadiah: 
+ elmas.	 permata.
+REKLAMSIZ OL	BEBAS IKLAN
+ŞİMDİ DEĞİL	NANTI SAJA
+TÜFEKLER	SENAPAN
+EKİPMAN	PERLENGKAPAN
+MÜHİMMAT	AMUNISI
+BECERİLER	SKILL
+Çevirmek için sürükle	Seret untuk memutar
+ için 	 seharga 
+HEMEN AL	BELI SEKARANG
+ elmasla hemen senin olsun mu?	 permata, ambil sekarang?
+AL	BELI
+SEVİYE 	LEVEL 
+ GEREKLİ	 DIBUTUHKAN
+Son kademe (elmasla) 	Tier terakhir (dengan permata) terbuka di level 
+. seviyede açılır. Sözleşmelerden tecrübe kazan.	. Kumpulkan pengalaman dari kontrak.
+AZ KALDI	SEDIKIT LAGI
+Bu geliştirme için 	Upgrade ini kurang 
+ eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.	 lagi. Tonton video singkat, kekurangan uangnya ditutup dan upgrade langsung dilakukan.
+\nBugün 	\nHari ini kamu punya 
+ hakkın var.	 kesempatan.
+İZLE VE GELİŞTİR	TONTON & UPGRADE
+PARA YETMİYOR	UANG KURANG
+Son kademe 	Tier terakhir 
+ elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	 permata. Beli permata di toko atau kumpulkan dari hadiah harian.
+Bu geliştirme 	Upgrade ini 
+. Sözleşmelerden para kazan ya da mağazaya bak.	. Dapatkan uang dari kontrak atau lihat toko.
+GÜÇ <color=#FFB21E>	POWER <color=#FFB21E>
+<color=#36D47C>KUŞANILDI</color>	<color=#36D47C>TERPASANG</color>
+SAHİP	DIMILIKI
+ ★ ile açılır	 ★ untuk membuka
+Yarı otomatik	Semi-otomatis
+Sürgülü	Bolt-action
+   ·   Susturuculu	   ·   Berperedam
+   ·   Duvar deler	   ·   Tembus dinding
+   ·   Siper deler	   ·   Tembus perlindungan
+  <color=#46C8F2>EN ÜST</color>	  <color=#46C8F2>TERATAS</color>
+SV 	LV 
+Satın aldığında beş hatta geliştirebilirsin. En üst kademe <color=#46C8F2>elmasla</color>.	Setelah dibeli, kamu bisa meng-upgrade lima jalur. Tier teratas dengan <color=#46C8F2>permata</color>.
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> 	Untuk menembus tubuh orang berzirah kamu butuh <color=#FFB21E>DAMAGE</color> tier 
+. kademe ya da zırh delici mermi gerekir.	, atau peluru penembus zirah.
+Bu tüfek zırhlı gövdeyi deler.	Senapan ini menembus tubuh berzirah.
+KUŞANILDI	TERPASANG
+KUŞAN	PASANG
+SATIN AL   	BELI   
+ ★ YA DA   	 ★ ATAU   
+ ELMASLA AL	 PERMATA
+SAHİPSİN	DIMILIKI
+Görevlerde otomatik takılı	Otomatis terpasang di misi
+ yıldızla açılır	 bintang untuk membuka
+SATIN AL  	BELI  
+KİLİTLİ	TERKUNCI
+ adetlik paket	 butir per paket
+SABİT NİŞAN	BIDIKAN STABIL
+Dürbündeki el titremesi her kademede %17 azalır.	Getaran tangan di teropong berkurang 17% tiap tier.
+NEFES KONTROLÜ	KONTROL NAPAS
+Nefesini daha uzun tutarsın: nişangah daha uzun sabit kalır.	Kamu menahan napas lebih lama: bidikan tetap stabil lebih lama.
+SOĞUKKANLILIK	KETENANGAN
+Ateş altında ve yaralıyken titreme her kademede %25 azalır.	Saat ditembaki dan terluka, goyangan berkurang 25% tiap tier.
+ sn	 dtk
+MAKSİMUM	MAKSIMUM
+YÜKSELT  	TINGKATKAN  
+BURAYA ATEŞ ET	TEMBAK KE SINI
+DRON	DRONE
+İŞARETLE — HEDEF BU	TANDAI — INI TARGETNYA
+YER DEĞİŞTİR	PINDAH POSISI
+NEFES	NAPAS
+MENZİL	JARAK
+Geçmek için dokun	Ketuk untuk lewati
+Hedef: 	Target: 
+Taşınırken dünya durmaz. Yeni yerde seni kimse bilmez.	Dunia tak berhenti saat kamu pindah. Di posisi baru tak ada yang tahu kamu di sana.
+YER DEĞİŞTİRİYORSUN\n<size=30>	PINDAH POSISI\n<size=30>
+ sn</size>	 dtk</size>
+DOSYA	BERKAS
+ARANIYOR	DICARI
+ETKİSİZ	LUMPUH
+KAÇTI	KABUR
+DOĞRULANDI	TERVERIFIKASI
+BEKLE…	TUNGGU…
+KURŞUN KAMERASI  ·  	KAMERA PELURU  ·  
+GECE GÖRÜŞÜ	NIGHT VISION
+KAFA	KEPALA
+KOL	LENGAN
+BACAK	KAKI
+KARIN	PERUT
+GÖVDE	BADAN
+Kimliği belirsiz	Identitas tak jelas
+HEDEF DEĞİL	BUKAN TARGET
+TARANDI	TERPINDAI
+Masum — ateş etme	Tak bersalah — jangan tembak
+Dosyadaki yüzle karşılaştır — emin olunca İŞARETLE	Bandingkan dengan wajah di berkas — kalau yakin, TANDAI
+SİLAHLI	BERSENJATA
+BAYGIN	PINGSAN
+YERDE	TUMBANG
+Koru — ona bir şey olmamalı	Lindungi — dia tak boleh celaka
+Silahlı — sivil kılığında	Bersenjata — menyamar jadi warga sipil
+Sözleşme hedefi	Target kontrak
+” — sözleşme hedefi	” — target kontrak
+Silahlı — vurulabilir	Bersenjata — boleh ditembak
+Yaralı — 	Terluka — 
+!  NİŞAN ALIYOR	!  MEMBIDIK
+!  SANA ATEŞ EDİYOR	!  MENEMBAKMU
+GÖZCÜ	PENGINTAI
+Öldürüldü	Terbunuh
+Kaçıyor — güvenli yere	Kabur — menuju tempat aman
+Güvende — gözün üzerinde olsun	Aman — tetap awasi dia
+Kimliği doğrulanmadı — dosyadaki yüzü bul	Identitas belum terverifikasi — cari wajah di berkas
+Görüş dışında — bekle	Di luar pandangan — tunggu
+Baygın	Pingsan
+İğne isabet etti — bayılıyor	Jarum mengenai — dia mulai pingsan
+Yerde — sürünüyor	Tumbang — merangkak
+NİŞAN ALIYOR — HEMEN VUR!	MEMBIDIK — TEMBAK SEKARANG!
+KAÇIYOR!	KABUR!
+Sese doğru bakıyor — fırsat!	Menoleh ke arah suara — kesempatan!
+Siperin arkasında — dikkatini dağıt	Di balik perlindungan — alihkan perhatiannya
+Kalabalıkta — herkesi dürbünle tara	Di tengah keramaian — pindai semua orang dengan teropong
+Yaralı	Terluka
+Kimlik doğrulandı	Identitas terverifikasi
+Kimliği taranmadı — dürbünle tara	Identitas belum dipindai — pindai dengan teropong
+HEDEF:  	TARGET:  
+Sözleşme tamamlandı	Kontrak selesai
+Etkisiz hale getir: 	Lumpuhkan: 
+Ateş et: devre dışı bırak	Tembak: lumpuhkan
+Devam ediyor	Berlangsung
+KEŞİF  ·  	RECON  ·  
+ tehdit tarandı	 ancaman terpindai
+Fırsat penceresi	Celah kesempatan
+Bayraklara bak	Lihat benderanya
+Rüzgar yok	Tak ada angin
+Sağa esiyor »	Bertiup ke kanan »
+« Sola esiyor	« Bertiup ke kiri
+Karşıdan	Dari depan
+« Sola tut 	« Arahkan ke kiri 
+Sağa tut » 	Arahkan ke kanan » 
+TELSİZ  	RADIO  
+DOLDURULUYOR	MENGISI ULANG
+STANDART	STANDAR
+Yıldız kaçtı: 	Bintang terlewat: 
+SÖZLEŞME 	KONTRAK 
+Kalabalıkta silahlı adam(lar) var — kimliği bilinmiyor	Ada orang bersenjata di keramaian — identitas tak diketahui
+Hedef bu bölgede — dosyadaki yüzü bul, emin olunca İŞARETLE	Target ada di area ini — cari wajah di berkas, kalau yakin, TANDAI
+HEDEF	TARGET
+KORU	LINDUNGI
+Ekranı parmağınla sürükleyerek etrafa bak.	Seret layar dengan jarimu untuk melihat sekeliling.
+Sağdaki dürbün tuşuna dokunarak dürbünü aç.	Ketuk tombol teropong di kanan untuk membukanya.
+Kırmızı işaret hedefi gösterir. Nişangahı hedefin üzerine getir.	Tanda merah menunjukkan target. Arahkan bidikan ke target.
+Nişangahı kişinin üzerinde tut: kimliği taranıyor…	Tahan bidikan pada orang itu: identitasnya sedang dipindai…
+Soldaki NEFES tuşuna basılı tut: nişan sabitlenir.	Tahan tombol NAPAS di kiri: bidikan jadi stabil.
+Hazır! Büyük kırmızı tuşla ateş et.	Siap! Tembak dengan tombol merah besar.
+  <size=24><color=#A3AEB9>·  SEVİYE 	  <size=24><color=#A3AEB9>·  LEVEL 
+SEVİYE ATLADIN!	NAIK LEVEL!
+2× TOPLA	KLAIM 2×
+   ·   SEVİYE 	   ·   LEVEL 
+AÇILDI:  	TERBUKA:  
+GÜN BATIMI	SENJA
+GÜNDÜZ	SIANG
+YAĞMURLU	HUJAN
+YAĞMURLU GECE	MALAM HUJAN
+KARLI GÜN	SIANG BERSALJU
+DAĞDA GÜN BATIMI	SENJA DI GUNUNG
+KARLI GECE	MALAM BERSALJU
+TİPİ	BADAI SALJU
+VİDEO YOK	TAK ADA VIDEO
+Şu an gösterilecek video yok. Biraz sonra tekrar dene.	Saat ini tak ada video untuk ditampilkan. Coba lagi sebentar lagi.
+ÖDÜLLÜ TEST REKLAMI  ·  	IKLAN UJI BERHADIAH  ·  
+TEST REKLAMI  ·  her 	IKLAN UJI  ·  setiap 
+ görevde bir	 misi sekali
+Reklam sonunda ödül verilir	Hadiah diberikan di akhir iklan
+Reklamsız paketle bu ekran kalkar	Paket bebas iklan menghapus layar ini
+AVUÇ DOLUSU	SEGENGGAM
+KESE	KANTONG
+EN POPÜLER	TERPOPULER
+SANDIK	PETI
+KASA	BRANKAS
+EN İYİ DEĞER	PALING HEMAT
+HAZİNE	HARTA KARUN
+ZARF	AMPLOP
+ÇANTA	TAS
+%15 FAZLA	LEBIH 15%
+VALİZ	KOPER
+%33 FAZLA	LEBIH 33%
+%54 FAZLA	LEBIH 54%
+BAŞLANGIÇ PAKETİ	PAKET PEMULA
+500 elmas, $10.000 ve 10 zırh delici mermi. Sadece bir kez.	500 permata, $10.000, dan 10 peluru penembus zirah. Hanya sekali.
+%80 İNDİRİM	DISKON 80%
+REKLAMSIZ	BEBAS IKLAN
+Görev aralarındaki reklamlar sonsuza dek kalkar. Ödüllü videolar istersen açık kalır. Hediye: 100 elmas.	Iklan di antara misi hilang selamanya. Video berhadiah tetap tersedia kalau kamu mau. Hadiah: 100 permata.
+GÖLGE OPERASYON	OPERASI BAYANGAN
+Susturuculu GÖLGE SR-7 hemen senin: bütün hatları 3. kademede. Gece görüşü ve 150 elmas.	BAYANGAN SR-7 berperedam langsung jadi milikmu: semua jalur di tier 3. Night vision dan 150 permata.
+EN ÇOK SATAN	TERLARIS
+TİTAN PAKETİ	PAKET TITAN
+Efsane TİTAN .50: zırhı ve camı deler. Termal dürbün, 400 elmas ve 20 zırh delici mermi.	TITAN .50 legendaris: menembus zirah dan kaca. Teropong termal, 400 permata, dan 20 peluru penembus zirah.
+EFSANE	LEGENDARIS
+Bu paket zaten alındı.	Paket ini sudah dibeli.
+Elmasın yetmiyor.	Permatamu tidak cukup.
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.	Toko sedang tidak tersedia. Periksa koneksi internetmu dan coba lagi sebentar lagi.
+LİMAN — KRAL'IN AĞI	PELABUHAN — JARINGAN KRASNOV
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: 	Kamu tak punya nama. Tentara mencatatmu tewas tiga tahun lalu. KONTROL menemukanmu di rumah sakit militer dan memberi satu tawaran: 
+limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	hancurkan jaringan penyelundupan di pelabuhan, dan masa lalumu dihapus.\n\nSetiap kontrak adalah sebuah nama. Setiap nama adalah jalan menuju nama berikutnya.
+ŞEHİR — BARAN HOLDİNG	KOTA — WIJAYA HOLDING
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\n	Pelabuhan sudah runtuh, tapi uang terus mengalir. Nomor terakhir di ponsel Viktor Krasnov mengarah ke Menara Cempaka: Grup Wijaya.\n\n
+Bu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	Kali ini targetnya berjas. Di tengah keramaian, di balik dinding kaca, di samping polisi.
+KARTAL TEPE — KURUL	BUKIT RAJAWALI — DEWAN
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını 	Berkas dari brankas Wijaya memberi lima nama: Dewan. Lima orang yang bertahun-tahun mendanai dan melindungi Wijaya, dan menghabiskan pekan tahun baru 
+her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	setiap tahun di Bukit Rajawali.\n\nDi antara berkas itu ada satu tanda tangan lagi. Tanda tangan yang kamu kenal.
+Selim Kaya'nın cebinden çıkan rüşvet makbuzlarında tek bir imza var: liman yönetiminden C. Aydın.	Kuitansi suap dari saku Budi Hartono hanya punya satu tanda tangan: A. Saputra dari otoritas pelabuhan.
+Can Aydın'ın sildiği kayıtlar kurtarıldı. Gelecek sevkiyatın alıcısı: Kuzgun lakaplı Tarık Bal.	Catatan yang dihapus Andi Saputra berhasil dipulihkan. Penerima kiriman berikutnya: Bayu Santoso, berjuluk Si Gagak.
+Kuzgun'un arabasındaki çanta boş değil: depoları koruyan paralı askerlerin maaş listesi. Başlarında Rico Vargas.	Tas di mobil Si Gagak tidak kosong: daftar gaji tentara bayaran penjaga gudang. Pemimpinnya Rico Vargas.
+Rico'nun telsizinde bir uyarı: "Depoda köstebek var." Örgüt de kendi içinde birini arıyor.	Peringatan di radio Rico: "Ada tikus di gudang." Organisasi juga sedang memburu seseorang di dalam.
+Köstebek Kerim'in sattığı bilgi bir teslimata işaret ediyor: Tilki çalınan belgeleri rıhtımdan kaçıracak.	Info yang dijual Darto Si Tikus mengarah ke sebuah serah terima: Si Rubah akan menyelundupkan dokumen curian dari dermaga.
+Tilki'nin belgeleri bir gemi manifestosu: Meridian Star'ın ambarında örgütün silah yükü var.	Dokumen Si Rubah adalah manifes kapal: di palka Meridian Star ada muatan senjata organisasi.
+Kaptan Demir'in seyir defterinde tek bir isim tekrar ediyor: yükün sahibi Viktor Kral.	Di buku log Kapten Siregar satu nama terus muncul: pemilik muatan itu, Viktor Krasnov.
+Kral düştü. Telefonundaki son arama Kordon Plaza'ya: Baran Holding. Ama örgüt hâlâ nefes alıyor — ve bir tanığı susturmak istiyor.	Krasnov tumbang. Panggilan terakhir di ponselnya ke Menara Cempaka: Grup Wijaya. Tapi organisasi masih bernapas — dan ingin membungkam seorang saksi.
+Ayten Şahin ifadesini verdi. Örgütün para kuryesi Emre Doğan şehirden kaçmaya hazırlanıyor.	Ratna Sari sudah bersaksi. Kurir uang organisasi, Dimas Kurniawan, bersiap kabur dari kota.
+Kuryenin çantasındaki hesaplar bir kimyagere ödeme gösteriyor: Dr. Selin Aras.	Rekening di tas si kurir menunjukkan pembayaran ke seorang kimiawan: Dr. Dewi Kartika.
+Kartal karanlıkta kaldı. Silah sevkiyatının parası bir laboratuvara gidiyor: Meridian Star'ın ambarı.	Si Elang kini dalam gelap. Uang kiriman senjata mengalir ke sebuah laboratorium: palka Meridian Star.
+Dr. Aras konuştu: laboratuvarın asıl sahibi Baran Holding. Liman bitti; sırada şehir var.	Dr. Kartika buka mulut: pemilik asli laboratorium itu Grup Wijaya. Pelabuhan selesai; berikutnya kota.
+Defne Aksoy'un ekranında son işlem: Baran'ın rüşvet defteri Postacı'ya teslim edildi.	Transaksi terakhir di layar Maya Lestari: buku suap Wijaya diserahkan ke Si Tukang Pos.
+Rüşvet defteri ele geçti. Sayfalardan biri gemilerin sahibine ayrılmış: Cevdet Aydemir.	Buku suap sudah di tangan. Satu halamannya khusus untuk pemilik kapal-kapal: Hartawan Gunadi.
+Aydemir'in balkonda bıraktığı telefon: Baran, Başsavcı Nermin Arslan'ı susturmak için iki kişi tutmuş.	Ponsel yang ditinggal Gunadi di balkon: Wijaya menyewa dua orang untuk membungkam Jaksa Agung Sri Wahyuni.
+Savcı konuşmasını bitirdi. Tetikçinin cebinden bir not çıktı: "Muhasebeci konuşmadan işini bitir." Baran'ın muhasebecisi her şeyi biliyor — onu canlı istiyoruz.	Jaksa selesai berpidato. Dari saku si pembunuh bayaran keluar sebuah catatan: "Habisi si akuntan sebelum dia bicara." Akuntan Wijaya tahu segalanya — kita mau dia hidup-hidup.
+Muhasebeci Koç'un hesapları gazeteci Selin Ay'ın cinayetine ödeme gösteriyor. Tetikçi Çakal, dosyayı kapatan bir komiser.	Rekening Nugroho si akuntan menunjukkan bayaran untuk pembunuhan jurnalis Intan Permata. Pembunuhnya, Si Jakal, adalah komisaris yang menutup kasus itu.
+Çakal'ın motosikletinde Baran'ın güvenlik şefinin numarası: Tolga Demirel. Bize karşı her hamleyi o planlamış.	Di motor Si Jakal ada nomor kepala keamanan Wijaya: Reza Halim. Dialah yang merancang setiap langkah melawan kita.
+Demirel'in tabletinde senin kullandığın bütün atış noktaları var — hepsi işten önce kaydedilmiş. Bunları ona kim verdi? Dosyanın üstünde tek harf: "K."	Di tablet Halim ada semua titik tembak yang kamu pakai — semua tercatat sebelum pekerjaan. Siapa yang memberikannya? Di atas berkas hanya ada satu huruf: "K."
+Baran'ın son mesajı yarım kaldı: "KONTROL'e söyle, anlaşma hâlâ geçerli…" Dosyalar Kartal Tepe'yi ve beş ismi gösteriyor: Kurul.	Pesan terakhir Wijaya terputus: "Bilang ke KONTROL, kesepakatan masih berlaku…" Berkas-berkas menunjuk ke Bukit Rajawali dan lima nama: Dewan.
+Banker Kurt'un tableti Kurul'un ödeme defterine bağlanıyor. Her ödemenin altında aynı onay kodu: KONTROL.	Tablet Lim si bankir terhubung ke buku pembayaran Dewan. Di bawah setiap pembayaran ada kode persetujuan yang sama: KONTROL.
+Hakim Oral'ın kasasında Baran davalarının kararları — duruşmalardan önce yazılmış. Biri de senin eski birliğine ait.	Di brankas Hakim Sudirjo ada putusan kasus-kasus Wijaya — ditulis sebelum sidang. Salah satunya milik unit lamamu.
+Müteahhit Tan'ın telefonunda Kurul'un kuryesinin rotası: şifreli diskle vadiyi geçecek.	Di ponsel Tanjung si kontraktor ada rute kurir Dewan: dia akan menyeberangi lembah membawa disk terenkripsi.
+Kuryenin diski açıldı: Kurul'un bütün ödemeleri — ve KONTROL'e yapılan aylık ödemeler. Bize iş verenler, Kurul'un kendi temizlikçileri.	Disk si kurir terbuka: semua pembayaran Dewan — dan bayaran bulanan untuk KONTROL. Orang yang memberi kita pekerjaan adalah tukang bersih-bersih Dewan sendiri.
+Bülent Er'in konvoyundaki evraklar: Kurul'a karşı açılan her soruşturmayı KONTROL'ün talimatıyla kapatmış.	Dokumen di konvoi Wawan Setiadi: dia menutup setiap penyelidikan terhadap Dewan atas perintah KONTROL.
+Elif Demir yaşıyor ve yarın konuşacak. Tetikçileri tutan adamın adı onun dosyasında: Orhan Sezer, Kurul'un temizlikçisi.	Putri Anggraini masih hidup dan besok akan bersaksi. Nama orang yang menyewa para pembunuh ada di berkasnya: Iwan Kusuma, tukang bersih-bersih Dewan.
+Sezer'in telefonundaki son arama Patron'dan değil. KONTROL'den. Senden sonra temizlenecek kişi sendin.	Panggilan terakhir di ponsel Kusuma bukan dari Bos. Dari KONTROL. Orang berikutnya yang akan dibersihkan adalah kamu.
+Kurul bitti. Disk hâlâ sende.	Dewan sudah tamat. Disk masih ada padamu.
+Dr. Aras baygın, tekne bekliyor. Onu kime teslim edeceksin?	Dr. Kartika pingsan, perahu menunggu. Kepada siapa kamu akan menyerahkannya?
+KONTROL'E	KE KONTROL
+Kimyager KONTROL'ün hücresine gitti. Ondan bir daha haber alınmadı.	Si Kimiawan dibawa ke sel KONTROL. Kabarnya tak pernah terdengar lagi.
+SAVCILIĞA	KE KEJAKSAAN
+Kimyager savcılığa bırakıldı. İfadesi Baran'a açılan davanın ilk delili oldu.	Si Kimiawan diserahkan ke kejaksaan. Kesaksiannya jadi bukti pertama kasus melawan Wijaya.
+Baran'ın kasası açık: dosyalar ve iki milyon avro. Ne yapacaksın?	Brankas Wijaya terbuka: berkas-berkas dan dua juta euro. Apa yang akan kamu lakukan?
+PARAYI AL	AMBIL UANGNYA
+Parayı aldın (+20.000). KONTROL'e sadece dosyaları gönderdin.	Kamu mengambil uangnya (+20.000). Ke KONTROL kamu hanya mengirim berkasnya.
+DOKUNMA	JANGAN SENTUH
+Parayı bıraktın. Dosyaların kopyasını Başsavcı Arslan'a yolladın.	Kamu meninggalkan uangnya. Salinan berkasnya kamu kirim ke Jaksa Agung Wahyuni.
+Kurul'un bütün ödemeleri ve KONTROL'ün imzası bu diskte. Kime vereceksin?	Semua pembayaran Dewan dan tanda tangan KONTROL ada di disk ini. Kepada siapa kamu memberikannya?
+Diski KONTROL'e verdin. Ertesi sabah Kurul'un boş koltukları dolmaya başladı — yeni isimlerle. Sözleşme tamam; sen yine kimsesin.	Kamu memberikan disk ke KONTROL. Keesokan paginya kursi-kursi kosong Dewan mulai terisi — dengan nama-nama baru. Kontrak selesai; kamu kembali jadi bukan siapa-siapa.
+SAVCIYA	KE JAKSA
+Diski Başsavcı Nermin Arslan'a bıraktın. Bir hafta sonra KONTROL'ün kapısına polis dayandı. Adın yine yok — ama bu sefer kendi seçimin.	Kamu menyerahkan disk ke Jaksa Agung Sri Wahyuni. Seminggu kemudian polisi sudah di depan pintu KONTROL. Kamu tetap tak bernama — tapi kali ini atas pilihanmu sendiri.
+ Kimyagerin ifadesi davayı ayakta tutuyor.	 Kesaksian Si Kimiawan menjaga kasus tetap berjalan.
+ Baran'ın parasını aldığını KONTROL biliyor.	 KONTROL tahu kamu mengambil uang Wijaya.
+Seni kaybettiler — ama nişancı yuvasını arıyorlar	Mereka kehilangan jejakmu — tapi masih mencari sarang sniper
+Vuruldun — 	Kamu tertembak — 
+Vuruldun — yerin tespit edildi	Kamu tertembak — posisimu ketahuan
+ÇAYLAK	PEMULA
+TETİKÇİ	EKSEKUTOR
+NİŞANCI	PENEMBAK
+KESKİN NİŞANCI	SNIPER
+GÖLGE	BAYANGAN
+HAYALET	HANTU
+Günün sözleşmesi	Kontrak harian
+Elmasla son geliştirme kademeleri	Tier upgrade terakhir dengan permata
+Efsane rütbe yolu	Jalan pangkat legendaris
+TELEFERİK	KERETA GANTUNG
+Kartal Tepe teleferiği	Kereta gantung Bukit Rajawali
+Sinan Kurt zirvedeki kahvaltıya teleferikle çıkacak. Kabin zirve istasyonuna varırsa onu kaybederiz.	Hendrik Lim akan naik kereta gantung ke sarapan di puncak. Jika kabin sampai di stasiun puncak, kita kehilangan dia.
+Baran'ın dosyaları bizi Kartal Tepe'ye getirdi. Kurul — Baran'ı yıllarca besleyen ve koruyan beş kişi — yılbaşı haftasını her yıl burada geçiriyor.\n\nİlki Sinan Kurt, Kurul'un bankeri. Kayak barında kahvesini bitirince iki korumasıyla teleferiğe binip zirvedeki restorana çıkacak. Kabin hattın sonuna varırsa onu kaybederiz.	Berkas Wijaya membawa kita ke Bukit Rajawali. Dewan — lima orang yang bertahun-tahun mendanai dan melindungi Wijaya — menghabiskan pekan tahun baru di sini setiap tahun.\n\nYang pertama Hendrik Lim, bankir Dewan. Setelah menghabiskan kopinya di bar ski, dia akan naik kereta gantung bersama dua pengawalnya ke restoran di puncak. Jika kabin sampai di ujung jalur, kita kehilangan dia.
+Kabin camı mermiyi durdurmaz; yukarı çıkan kabine biraz önden ve yukarıdan nişan al. İstasyonun yanındaki motor dairesine iki atış hattı durdurur: kabinler sallanır, içindekiler çömelir.	Kaca kabin tak menahan peluru; bidik sedikit di depan dan di atas kabin yang sedang naik. Dua tembakan ke ruang mesin di samping stasiun menghentikan jalur: kabin berayun, penumpangnya merunduk.
+Uzun menzil: kabin 250 metreden 1 kilometreye kadar uzaklaşır	Jarak jauh: kabin menjauh dari 250 meter hingga 1 kilometer
+Teleferik motoru: istasyonun batısındaki beton kulübe	Mesin kereta gantung: pondok beton di barat stasiun
+Sinan Kurt istasyona kaçtı	Hendrik Lim kabur ke stasiun
+Platformdalar. Sıradaki kabine binecekler.	Mereka di peron. Akan naik kabin berikutnya.
+Kabine bindiler — yukarı çıkıyorlar	Mereka sudah naik kabin — sedang menuju atas
+Zirve istasyonuna	Ke stasiun puncak
+Sinan Kurt zirve istasyonuna vardı	Hendrik Lim sampai di stasiun puncak
+Teleferik durdu — kabinler sallanıyor!	Kereta gantung berhenti — kabin berayun!
+Teknisyenler hattı yeniden çalıştırdı! Kabin yine hareket ediyor.	Teknisi menyalakan jalur lagi! Kabin bergerak lagi.
+Kayak barında, korumalarıyla kahve içiyor. Platforma çıkınca sıradaki kabine binecek.	Di bar ski, minum kopi bersama pengawalnya. Begitu ke peron, dia akan naik kabin berikutnya.
+Hat saatte 18 kilometre gidiyor. Kabin uzaklaştıkça mermi düşüşü artar — hesabını yap.	Jalurnya melaju 18 kilometer per jam. Makin jauh kabin, makin besar peluru turun — perhitungkan.
+Sinan Kurt	Hendrik Lim
+Uzun gri palto, gözlük, kır saç. İki korumasıyla.	Mantel abu-abu panjang, kacamata, rambut beruban. Bersama dua pengawal.
+Sinan Kurt'u zirve istasyonuna varmadan etkisiz hale getir	Lumpuhkan Hendrik Lim sebelum dia sampai di stasiun puncak
+Teleferik motorunu durdurabilirsin (isteğe bağlı)	Kamu bisa menghentikan mesin kereta gantung (opsional)
+Sözleşmeyi tamamla	Selesaikan kontrak
+Kabin hareket halindeyken vur	Tembak saat kabin bergerak
+En fazla iki atış	Maksimal dua tembakan
+ŞÖMİNE	PERAPIAN
+Doğu yamacı — cam villa	Lereng timur — vila kaca
+Hakim Ferit Oral şöminenin başında. Villanın bütün ön cephesi cam — ve cam kırıldığı an içeridekiler anlar.	Hakim Bambang Sudirjo di depan perapian. Seluruh fasad vila dari kaca — dan begitu kaca pecah, orang di dalam akan tahu.
+Ferit Oral, Baran'ın her davasını düşüren hakim. Yıllardır Kurul'un yargıdaki adamı. Bu gece doğu yamacındaki cam villasında eşiyle.\n\nDışarıda, terasta bir koruma dolaşıyor; aşağıda araçta bir şoför bekliyor. Hakim 23:25'te yatmaya gidecek. Eşi odadayken ateş edersen tanık kalır.	Bambang Sudirjo, hakim yang menggugurkan setiap kasus Wijaya. Bertahun-tahun jadi orang Dewan di pengadilan. Malam ini dia bersama istrinya di vila kaca di lereng timur.\n\nDi luar, seorang pengawal berpatroli di teras; di bawah, seorang sopir menunggu di mobil. Hakim akan tidur pukul 23:25. Jika kamu menembak saat istrinya di ruangan, ada saksi.
+İlk mermi camı kırar ve sesi içeridekileri ürkütür: ilk atışın öldürücü olsun. Hakim zaman zaman cama gelip vadiye bakıyor — en açık an o.	Peluru pertama memecahkan kaca dan suaranya mengagetkan orang di dalam: pastikan tembakan pertamamu mematikan. Sesekali hakim mendekati kaca dan memandang lembah — itu momen paling terbuka.
+Hakim bölmenin arkasında. Cama ya da şömineye geri gelmesini bekle.	Hakim di balik sekat. Tunggu dia kembali ke kaca atau perapian.
+Hakim yatak odasına kilitlendi	Hakim mengunci diri di kamar tidur
+Hakimin yatmasına	Sampai hakim tidur
+Hakim yatak odasına gidiyor!	Hakim menuju kamar tidur!
+Hakim yatmaya gitti	Hakim sudah tidur
+Cam ön cephe vadiye bakıyor. Hakim kanepede, eşi masanın başında.	Fasad kaca menghadap lembah. Hakim di sofa, istrinya di meja.
+Eşi arada bir öbür odalara geçiyor. O sırada vurursan kimse bir şey görmez.	Sesekali istrinya pindah ke ruangan lain. Tembak saat itu dan tak ada yang melihat.
+Yolun aşağısındaki adamın elinde gece dürbünü var. Dürbün sana dönünce eğil.	Orang di bawah jalan memegang teropong malam. Merunduklah saat teropongnya mengarah padamu.
+Ferit Oral	Bambang Sudirjo
+Beyaz balıkçı yaka kazak, gözlük, beyaz saç. Cam villada.	Sweter turtleneck putih, kacamata, rambut putih. Di vila kaca.
+Hakim Ferit Oral'ı yatmaya gitmeden etkisiz hale getir	Lumpuhkan Hakim Bambang Sudirjo sebelum dia tidur
+Tanık bırakma: eşi odadayken ateş etme	Jangan tinggalkan saksi: jangan tembak saat istrinya di ruangan
+Camın ardından tek atış	Satu tembakan menembus kaca
+JAKUZİ	JACUZZI
+Kartal Dağ Oteli — spa terası	Hotel Gunung Rajawali — teras spa
+Selim Tan gün batımında jakuzide. Buhar onu bir saklıyor, bir gösteriyor — pencereni bekle.	Surya Tanjung berendam di jacuzzi saat senja. Uap kadang menyembunyikannya, kadang memperlihatkannya — tunggu celahmu.
+Selim Tan, Baran'ın limandaki depolarını, Kurul'un kara parayla yükselen bütün otellerini inşa eden müteahhit.\n\nOtelin spa terasında, jakuzide gün batımını izliyor. Kapıda bir koruması, yanında bir arkadaşı var; garson şampanya getirecek. Sudan çıktığında içeri girer.\n\nKoruma kapıdan dürbünle yamaçları tarıyor. Selim'in dibinde durduğu için onu vurmak Selim'i ürkütür: dürbün sana döndüğünde eğil.	Surya Tanjung, kontraktor yang membangun gudang-gudang Wijaya di pelabuhan dan semua hotel Dewan yang berdiri dari uang haram.\n\nDi teras spa hotel, dia menikmati senja di jacuzzi. Ada pengawal di pintu dan seorang teman di sampingnya; pelayan akan membawakan sampanye. Begitu keluar dari air, dia akan masuk.\n\nPengawal di pintu memindai lereng dengan teropong. Dia berdiri tepat di dekat Surya, jadi menembaknya akan membuat Surya kabur: merunduklah saat teropongnya mengarah padamu.
+Suyun üstünde yalnızca başı ve omuzları görünüyor. Buhar yoğunlaştığında hedef kaybolur, açıldığında birkaç saniyelik pencere doğar. Sudan çıkıp kapıya yürürken bütün boyuyla açıktadır — ama yalnızca birkaç saniye.	Di atas air hanya kepala dan bahunya yang terlihat. Saat uap menebal, target hilang; saat menipis, ada celah beberapa detik. Saat keluar dari air dan berjalan ke pintu, seluruh tubuhnya terbuka — tapi hanya beberapa detik.
+Selim Tan otele girdi	Surya Tanjung masuk ke hotel
+Selim sudan çıkıyor — kapıya yürüyor!	Surya keluar dari air — berjalan ke pintu!
+Sudan çıkmasına	Sampai dia keluar dari air
+Buhar bazen tamamen kapatıyor. Sabret: açıldığı an tek bir temiz atış yeter.	Kadang uap menutup sepenuhnya. Sabar: saat terbuka, satu tembakan bersih sudah cukup.
+Kapıdaki koruma dürbünle yamaçları tarıyor. Onu vurursan Selim içeri kaçar: dürbün sana dönünce eğil.	Pengawal di pintu memindai lereng dengan teropong. Kalau kamu menembaknya, Surya kabur ke dalam: merunduklah saat teropongnya mengarah padamu.
+Selim Tan	Surya Tanjung
+Müteahhit	Kontraktor
+Kalın yapılı, sakallı, koyu saç. Jakuzide.	Tubuh besar, berjanggut, rambut gelap. Di jacuzzi.
+Selim Tan'ı içeri girmeden etkisiz hale getir	Lumpuhkan Surya Tanjung sebelum dia masuk
+Kafadan vur	Tembak di kepala
+Buharın içinden vur	Tembak menembus uap
+KAR MOTORU	SNOWMOBILE
+Vadi tabanı — batı yamacı	Dasar lembah — lereng barat
+Kurye Kurul'un defterini kar motoruyla dağa kaçıracak. Ölmemeli: defterin şifresi onda.	Kurir akan membawa kabur buku Dewan ke gunung dengan snowmobile. Dia tak boleh mati: dia yang tahu sandi buku itu.
+Doğan Aksu, Kurul'un kuryesi. Bütün ödemelerin kaydı olan şifreli disk onda. Birazdan otelden çıkıp kar motoruyla vadiyi geçecek ve batı yamacından ormana girecek.\n\nOnu CANLI istiyoruz. Önce motoru durdur — motor bloğuna iki atış — sonra kaçmaya çalışırsa bacağından vur. Ekibimiz ratrakla gelip onu alacak.\n\nKurul onu bizim almamıza izin vermez: kurye düşünce spadan adamları çıkıp onu susturmaya gelecek. Ratrak gelene kadar onları durdur.	Yusuf Ramadhan, kurir Dewan. Dia membawa disk terenkripsi berisi catatan semua pembayaran. Sebentar lagi dia keluar dari hotel, menyeberangi lembah dengan snowmobile, lalu masuk hutan lewat lereng barat.\n\nKita mau dia HIDUP. Hentikan dulu mesinnya — dua tembakan ke blok mesin — lalu kalau dia mencoba kabur, tembak kakinya. Tim kita akan datang dengan ratrak untuk menjemputnya.\n\nDewan tak akan membiarkan kita mengambilnya: begitu kurir tumbang, orang-orang mereka akan keluar dari spa untuk membungkamnya. Tahan mereka sampai ratrak tiba.
+Kar motoru saatte 25 kilometreyle gidiyor: biraz önden nişan al. Sürücüye isabet edersen ölebilir; motor bloğu sürücünün önünde, hedefin altında. Motor durunca kurye en yakın dağ evine koşar: içeri girmeden bacağından vur.	Snowmobile melaju 25 kilometer per jam: bidik sedikit di depan. Kalau mengenai pengemudi, dia bisa mati; blok mesin ada di depan pengemudi, di bawah target. Begitu mesin mati, kurir akan lari ke pondok gunung terdekat: tembak kakinya sebelum dia masuk.
+Kurye bir dağ evine saklandı	Kurir bersembunyi di pondok gunung
+Kuryeyi BACAĞINDAN vur — ölmemeli	Tembak KAKI kurir — dia tak boleh mati
+Ekip gelene kadar onu hayatta tut	Jaga dia tetap hidup sampai tim datang
+Kar motoru çalışmıyor — kurye koşarak kaçıyor!	Snowmobile mati — kurir kabur berlari!
+Kurye ormana girdi	Kurir masuk ke hutan
+Kurye kar motorunda — vadiyi geçiyor!	Kurir di snowmobile — menyeberangi lembah!
+Motor durdu — kurye koşarak kaçıyor!	Mesin mati — kurir kabur berlari!
+Ratrakın ulaşmasına	Sampai ratrak tiba
+Spadan silahlı biri çıktı — kuryeye gidiyor!	Orang bersenjata keluar dari spa — menuju kurir!
+Etraf temiz — ratrak tam gaz geliyor!	Aman — ratrak datang dengan kecepatan penuh!
+Kurye uyudu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	Kurir tertidur! Ratrak berangkat — orang-orang Dewan akan keluar dari spa, jangan biarkan mereka mendekat.
+Bacağından vuruldu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	Kakinya tertembak! Ratrak berangkat — orang-orang Dewan akan keluar dari spa, jangan biarkan mereka mendekat.
+Ekip kuryeyi aldı	Tim sudah menjemput kurir
+Otelin spa kapısından çıkacak. Kar motoru otoparkın doğu ucunda.	Dia akan keluar dari pintu spa hotel. Snowmobile ada di ujung timur parkiran.
+Doğan Aksu	Yusuf Ramadhan
+Koyu yeşil kapüşonlu, gri bere, kargo pantolon. Kar motorunda.	Hoodie hijau gelap, kupluk abu-abu, celana kargo. Di snowmobile.
+Önce kar motorunu durdurabilirsin (motor bloğu: 2 atış)	Kamu bisa menghentikan snowmobile dulu (blok mesin: 2 tembakan)
+Kuryeyi canlı yakala	Tangkap kurir hidup-hidup
+En fazla beş atış	Maksimal lima tembakan
+Kurul'un adamları nişan alamasın	Jangan biarkan orang Dewan sempat membidik
+ÇIĞ	LONGSOR
+Batı yolu — çığ yamacı	Jalan barat — lereng longsor
+KAZA	KECELAKAAN
+Bülent Er'in konvoyu batı yolundan gelecek. Kaza gibi görünmeli: yamaçta bir çığ patlayıcısı var.	Konvoi Wawan Setiadi akan lewat jalan barat. Harus terlihat seperti kecelakaan: ada bahan peledak longsor di lereng.
+Bülent Er, emniyet istihbaratının başında ve Kurul'un maaş bordrosunda. Baran'a karşı açılan her soruşturmayı o kapattırdı. Bu sabah iki araçlık konvoyla batı yolundan otele geliyor.\n\nBir emniyet müdürünün kurşunla ölmesi ülkeyi ayağa kaldırır. Kaza olmalı: yolun üstündeki yamaçta çığ kontrol patlayıcısı var. Onu doğru anda vurursan yamaç kopar ve yolu örter. Bülent ikinci araçta.	Wawan Setiadi, kepala intelijen kepolisian dan ada di daftar gaji Dewan. Dialah yang menutup setiap penyelidikan terhadap Wijaya. Pagi ini dia datang ke hotel lewat jalan barat dengan konvoi dua mobil.\n\nKepala polisi yang mati ditembak akan mengguncang negeri. Harus kecelakaan: di lereng di atas jalan ada bahan peledak pengendali longsor. Tembak di saat yang tepat, lereng runtuh dan menimbun jalan. Wawan di mobil kedua.
+Çığ yola altı saniyede iner: sayaç altıya indiğinde patlayıcıyı vur. Erken vurursan konvoy kar yığınının önünde durur, geç kalırsan geçip gider; o zaman Bülent'i doğrudan vurmak zorundasın — ama kaza süsü gider.	Longsor sampai ke jalan dalam enam detik: tembak bahan peledak saat hitungan turun ke enam. Terlalu cepat, konvoi berhenti di depan timbunan salju; terlambat, mereka lewat begitu saja — lalu kamu terpaksa menembak Wawan langsung, dan kedok kecelakaan hilang.
+Çığ kontrol patlayıcısı: yolun üstündeki yamacın tepesinde, sarı tank	Bahan peledak pengendali longsor: tangki kuning di puncak lereng di atas jalan
+İkinci araçta — batı yolundan geliyor	Di mobil kedua — datang dari jalan barat
+Bülent Er otele girdi	Wawan Setiadi masuk ke hotel
+Yamaç koptu — çığ yola iniyor!	Lereng runtuh — longsor turun ke jalan!
+Konvoy otele vardı — Bülent arabadan iniyor!	Konvoi sampai di hotel — Wawan turun dari mobil!
+Konvoyun yamaca ulaşmasına	Sampai konvoi tiba di lereng
+Konvoy batı yolunda. Yamacın altındaki virajdan geçecekler.	Konvoi di jalan barat. Mereka akan melewati tikungan di bawah lereng.
+Çığ yolu kapattı, konvoy durdu. Bülent araçtan indi — kaza olmadı ama fırsat bu.	Longsor menutup jalan, konvoi berhenti. Wawan turun dari mobil — bukan kecelakaan, tapi ini kesempatanmu.
+Çığ boşa gitti! Konvoy otele devam ediyor — Bülent arabadan inince fırsatın var.	Longsor sia-sia! Konvoi lanjut ke hotel — saat Wawan turun dari mobil, itu kesempatanmu.
+Tepedeki adam kayak devriyesi, patlayıcıyı kontrol ediyor. O oradayken tetikleme.	Orang di puncak itu patroli ski, sedang memeriksa bahan peledak. Jangan picu selagi dia di sana.
+Çığ yamaçtan yola altı saniyede iner. Sayaç altıya indiği an patlayıcıyı vur.	Longsor turun dari lereng ke jalan dalam enam detik. Tembak bahan peledak tepat saat hitungan turun ke enam.
+Bülent Er	Wawan Setiadi
+Emniyet İstihbaratı	Intelijen Kepolisian
+İkinci araçta. Lacivert palto, şapka, gözlük.	Di mobil kedua. Mantel biru dongker, topi, kacamata.
+Bülent Er'i etkisiz hale getir — kaza gibi görünmeli	Lumpuhkan Wawan Setiadi — harus terlihat seperti kecelakaan
+Kaza süsü ver: çığla	Buat kedok kecelakaan: dengan longsor
+Çığ devriyesine zarar verme	Jangan celakai patroli longsor
+KAYAK HOCASI	INSTRUKTUR SKI
+Acemi pisti	Lintasan pemula
+Elif Demir yarın mahkemede Kurul'a karşı tanıklık edecek. Bugün onu öldürmeye üç kişi geliyor.	Putri Anggraini besok akan bersaksi melawan Dewan di pengadilan. Hari ini tiga orang datang untuk membunuhnya.
+Kayak hocası Elif Demir, geçen kış teleferik makinisti Hasan Usta'nın Kurul'un adamlarınca öldürülüşünü gördü. Yarın mahkemede tanıklık edecek; Kurul onu bugün susturmak istiyor.\n\nElif acemi pistinde ders veriyor. Üç tetikçi var: istasyonun çatısında bir nişancı, otelden yürüyerek gelen biri ve kar motoruyla gelecek biri. Jandarma 11:33'te geliyor. O zamana kadar onu hayatta tut.	Instruktur ski Putri Anggraini musim dingin lalu melihat masinis kereta gantung Pak Slamet dibunuh orang-orang Dewan. Besok dia bersaksi di pengadilan; Dewan ingin membungkamnya hari ini.\n\nPutri sedang mengajar di lintasan pemula. Ada tiga pembunuh: seorang penembak di atap stasiun, seorang yang berjalan kaki dari hotel, dan seorang yang akan datang dengan snowmobile. Gendarmeri tiba pukul 11:33. Jaga dia tetap hidup sampai saat itu.
+Nişancıyı önce bul: teleferik istasyonunun düz çatısında, kar kadar beyaz. Ateş ettiğin an namlu alevini görür ve sana döner. Silah çeken birini kolundan vurursan silahını düşürür.	Temukan penembaknya dulu: di atap datar stasiun kereta gantung, seputih salju. Begitu kamu menembak, dia melihat kilatan moncong dan berbalik ke arahmu. Tembak lengan orang yang menarik senjata, senjatanya akan jatuh.
+Susturucu nişancının seni görmesini geciktirir	Peredam memperlambat penembak melihatmu
+İstihbarat: üç tetikçi — biri yüksekte	Intel: tiga pembunuh — satu di tempat tinggi
+Elif Demir	Putri Anggraini
+TANIK	SAKSI
+Kayak hocası — koru	Instruktur ski — lindungi
+Elif'i jandarma gelene kadar koru	Lindungi Putri sampai gendarmeri datang
+Çatıdaki Nişancı	Penembak di Atap
+Haki yeşil palto, kalpak — teleferik istasyonunun çatısında	Mantel hijau khaki, topi bulu — di atap stasiun kereta gantung
+İstasyonun çatısında biri doğruldu — Elif'e nişan alıyor!	Seseorang bangkit di atap stasiun — membidik Putri!
+Çatıdaki nişancı seni vurdu	Penembak di atap menembakmu
+Yürüyen Adam	Pria Pejalan Kaki
+Siyah kapüşonlu, siyah bere, sakallı	Hoodie hitam, kupluk hitam, berjanggut
+Kar Motorlu Adam	Pria Snowmobile
+Gri kapüşonlu, siyah bere, spor gözlük — kar motorunda	Hoodie abu-abu, kupluk hitam, kacamata sport — di snowmobile
+Doğudan bir kar motoru geliyor, hızlı!	Snowmobile datang dari timur, cepat!
+Kar motorlu indi — Elif'e koşuyor!	Pria snowmobile turun — berlari ke arah Putri!
+Üç tetikçiyi de durdur	Hentikan ketiga pembunuh
+Üç tetikçiyi de durdur  	Hentikan ketiga pembunuh  
+Jandarmanın gelmesine	Sampai gendarmeri datang
+Jandarma geldi — Elif güvende	Gendarmeri tiba — Putri aman
+Üç tetikçi var. Yüksekteki önce: istasyonun çatısını tara.	Ada tiga pembunuh. Yang di tempat tinggi dulu: pindai atap stasiun.
+Tanık	Saksi
+Kırmızı mont, beyaz bere, at kuyruğu. Acemi pistinde ders veriyor.	Jaket merah, kupluk putih, rambut kuncir kuda. Mengajar di lintasan pemula.
+Elif Demir'i jandarma gelene kadar koru	Lindungi Putri Anggraini sampai gendarmeri datang
+Üç tetikçiyi bul ve durdur (bonus)	Temukan dan hentikan ketiga pembunuh (bonus)
+Tanığı koru	Lindungi saksi
+Nişancıyı nişan alamadan durdur	Hentikan penembak sebelum dia sempat membidik
+Öğrencilere zarar verme	Jangan celakai para murid
+Köy — tipi altında	Desa — di tengah badai salju
+Orhan Sezer tipiyi fırsat bilip ratrakla dağı aşacak. Göz gözü görmüyor — termal dürbün hazır olsun.	Iwan Kusuma memanfaatkan badai salju untuk melintasi gunung dengan ratrak. Jarak pandang nol — siapkan teropong termal.
+Orhan Sezer, Kurul'un temizlikçisi: tanıkları ortadan kaldıran, delilleri yok eden adam. Elif'e gönderilen tetikçileri o tutmuştu. Tipiyi fırsat bilip ratrakla dağı aşacak; zirvenin ötesinde bir helikopter bekliyor.\n\nOtelden çıkıp köyü yürüyerek geçecek ve istasyonun yanındaki ratraka binecek. Kar fırtınasında 200 metrenin ötesi görünmüyor; termal dürbün vücut ısısını sisin içinden gösterir. Rüzgar çok sert.	Iwan Kusuma, tukang bersih-bersih Dewan: orang yang melenyapkan saksi dan memusnahkan bukti. Dialah yang menyewa para pembunuh yang dikirim ke Putri. Dia memanfaatkan badai salju untuk melintasi gunung dengan ratrak; di balik puncak sebuah helikopter menunggu.\n\nDia akan keluar dari hotel, berjalan melintasi desa, lalu naik ratrak di samping stasiun. Dalam badai salju, tak ada yang terlihat lebih dari 200 meter; teropong termal menampilkan panas tubuh menembus kabut. Anginnya sangat kencang.
+Termal dürbün herkesi beyaz gösterir: tarayıp kimliği oku. Rüzgar saatte 30 kilometreden fazla esiyor; nişanı rüzgarın geldiği yöne kaydır.	Teropong termal menampilkan semua orang putih: pindai dan baca identitasnya. Angin bertiup lebih dari 30 kilometer per jam; geser bidikan ke arah datangnya angin.
+Termal dürbün şart	Wajib teropong termal
+Orhan istasyona kaçtı	Iwan kabur ke stasiun
+Ratrak hareket etti — dağa tırmanıyor!	Ratrak bergerak — mendaki gunung!
+Ratrakın sırtı aşmasına	Sampai ratrak melewati punggung bukit
+Ratrak sırtı aştı	Ratrak sudah melewati punggung bukit
+Görüş 200 metrenin altında. Termal dürbünle sıcak noktaları ara, sonra kimliği tara.	Jarak pandang di bawah 200 meter. Cari titik panas dengan teropong termal, lalu pindai identitasnya.
+Rüzgar doğudan sert esiyor. Uzak atışta mermi metrelerce sürüklenir.	Angin bertiup kencang dari timur. Pada tembakan jauh peluru terbawa bermeter-meter.
+Orhan Sezer	Iwan Kusuma
+Temizlikçi	Tukang Bersih
+Lacivert uzun palto, kalpak, gözlük. İki korumasıyla.	Mantel panjang biru dongker, topi bulu, kacamata. Bersama dua pengawal.
+Orhan Sezer'i ratrak sırtı aşmadan etkisiz hale getir	Lumpuhkan Iwan Kusuma sebelum ratrak melewati punggung bukit
+Tek atış	Satu tembakan
+Termal dürbün kullanmadan	Tanpa teropong termal
+ZİRVE	PUNCAK
+Kartal Dağ Oteli — yılbaşı gecesi	Hotel Gunung Rajawali — malam tahun baru
+Gece yarısı havai fişekler başlayınca vadi gürültüyle dolacak. Patlamalar senin silahının sesini yutar.	Saat kembang api dimulai tengah malam, lembah akan penuh kebisingan. Ledakan menelan suara senjatamu.
+Kurul'dan geriye bir kişi kaldı: Nedim Kurt — Patron. Baran'ı yaratan, yıllarca ayakta tutan ve her şeyin hesabını tutan adam.\n\nYılbaşı gecesi otelin önündeki terasta misafirleriyle. Gece yarısı gölün üstünde havai fişek gösterisi var: Patron izlemek için terasın ucuna yürüyecek. Patlamalar yankılanırken atılan bir kurşunu kimse duymaz. Gösteri bitince içeri girer — bir daha çıkmaz.\n\nPatron tedbirli: güvenlik şefi terasın önünden gece dürbünüyle yamaçları tarıyor. Seni görürse korumalar yerini öğrenir.	Dari Dewan tinggal satu orang: Darmawan Lim — Si Bos. Orang yang menciptakan Wijaya, menopangnya bertahun-tahun, dan mencatat semuanya.\n\nMalam tahun baru dia di teras depan hotel bersama para tamunya. Tengah malam ada pertunjukan kembang api di atas danau: Si Bos akan berjalan ke ujung teras untuk menonton. Saat ledakan bergema, tak ada yang mendengar sebutir peluru. Begitu pertunjukan usai, dia masuk — dan tak keluar lagi.\n\nSi Bos waspada: kepala keamanannya memindai lereng dengan teropong malam dari depan teras. Kalau dia melihatmu, para pengawal akan tahu posisimu.
+Havai fişek patlamasının sesi yuvaya ulaştığı an tetiğe bas: o anki atışı kimse duymaz. Patron'un iki koruması var; kalabalığın içinde ateş etme. Güvenlik şefinin dürbünü sana dönünce eğil (SİPER).	Tarik pelatuk tepat saat suara ledakan kembang api sampai di sarangmu: tembakan saat itu tak terdengar siapa pun. Si Bos punya dua pengawal; jangan menembak ke tengah keramaian. Merunduklah (BERLINDUNG) saat teropong kepala keamanan mengarah padamu.
+Gece yarısı: göl üstünde havai fişek	Tengah malam: kembang api di atas danau
+Patron içeri girdi	Si Bos masuk ke dalam
+Gece yarısına	Sampai tengah malam
+MİSAFİRLER	PARA TAMU
+On! Dokuz! Sekiz! Yedi...	Sepuluh! Sembilan! Delapan! Tujuh...
+Mutlu yıllar! — havai fişekler başladı	Selamat tahun baru! — kembang api dimulai
+Gösterinin bitmesine	Sampai pertunjukan usai
+Gösteri bitti — Patron içeri dönüyor!	Pertunjukan usai — Si Bos kembali ke dalam!
+Kalabalığın ortasında. Gece yarısı gösteriyi izlemek için terasın ucuna yürüyecek.	Di tengah keramaian. Tengah malam dia akan berjalan ke ujung teras untuk menonton pertunjukan.
+Patlamanın sesi sana ulaştığı an ateş et — o anki atışı kimse duymaz.	Tembak tepat saat suara ledakan sampai padamu — tembakan saat itu tak terdengar siapa pun.
+Gece dürbünüyle yamaçları tarıyor — seni görürse yerini bildirir	Memindai lereng dengan teropong malam — kalau melihatmu, dia akan melaporkan posisimu
+Terasın önünde gece dürbünlü biri var: Patron'un güvenlik şefi. Dürbün sana dönünce eğil — gece yarısından önce atış sesi duyulur.	Ada orang dengan teropong malam di depan teras: kepala keamanan Si Bos. Merunduklah saat teropongnya mengarah padamu — sebelum tengah malam suara tembakan akan terdengar.
+Nedim Kurt	Darmawan Lim
+Beyaz smokin ceket, papyon, kır sakal. Otel terasında.	Jas tuksedo putih, dasi kupu-kupu, janggut beruban. Di teras hotel.
+Nedim Kurt'u gösteri bitmeden etkisiz hale getir	Lumpuhkan Darmawan Lim sebelum pertunjukan usai
+Kurul'u bitir	Habisi Dewan
+Her atışı havai fişeklerin sesine gizle	Sembunyikan setiap tembakan di balik suara kembang api
+Balıkçı	Nelayan
+KARTAL K-98	ELANG K-98
+Güvenilir sürgülü tüfek. Her suikastçının ilk ortağı.	Senapan bolt-action yang andal. Partner pertama setiap pembunuh bayaran.
+GÖLGE SR-7	BAYANGAN SR-7
+7.62×51 susturuculu	7.62×51 berperedam
+Entegre susturucu: atış sesi duyulmaz, mermi daha yavaş gider. Gizli işler için.	Peredam terintegrasi: suara tembakan tak terdengar, peluru melaju lebih lambat. Untuk pekerjaan senyap.
+FIRTINA DMR	BADAI DMR
+7.62×51 yarı otomatik	7.62×51 semi-otomatis
+Yarı otomatik: sürgü çekmeden peş peşe ateş. Kaçan ve kalabalık hedefler için.	Semi-otomatis: tembak beruntun tanpa menarik bolt. Untuk target yang kabur dan bergerombol.
+ATMACA .338 LR	ALAP-ALAP .338 LR
+Uzun menzil: yüksek namlu çıkış hızı, az düşüş, 20× dürbün. İnce siperleri deler.	Jarak jauh: kecepatan moncong tinggi, sedikit turun, teropong 20×. Menembus perlindungan tipis.
+TİTAN .50	TITAN .50
+Anti-materyel tüfek: duvar, araç kapısı ve motor bloğu deler. Her isabet öldürür.	Senapan anti-materiel: menembus dinding, pintu kendaraan, dan blok mesin. Setiap tembakan kena mematikan.
+Dürbüne takılır: karanlıkta her şeyi yeşil ışıkta görürsün.	Dipasang di teropong: dalam gelap kamu melihat segalanya dalam cahaya hijau.
+TERMAL DÜRBÜN	TEROPONG TERMAL
+İnsan vücudu beyaz parlar: sis, karanlık ve kalabalıkta hedefi bul.	Tubuh manusia bersinar putih: temukan target di kabut, gelap, dan keramaian.
+KEŞİF DRONU	DRONE RECON
+Görev başına bir kez: bölgedeki herkesi 15 saniye işaretler ve kimliklerini tarar.	Sekali per misi: menandai semua orang di area selama 15 detik dan memindai identitas mereka.
+Sınırsız.	Tak terbatas.
+ZIRH DELİCİ	PENEMBUS ZIRAH
+İnce siperleri, araç kapılarını ve camları delip geçer.	Menembus perlindungan tipis, pintu kendaraan, dan kaca.
+UYUŞTURUCU İĞNE	JARUM BIUS
+Öldürmez, bayıltır. Sessizdir ama yavaştır: çok düşer.	Tidak membunuh, membuat pingsan. Senyap tapi lambat: banyak turun.
+PATLAYICI	PELEDAK
+Çarptığı yerde patlar: araçları ve jeneratörleri tek atışta durdurur.	Meledak saat kena: menghentikan kendaraan dan generator dalam satu tembakan.
+HASAR	DAMAGE
+DÜRBÜN	TEROPONG
+DENGE	STABILITAS
+ŞARJÖR	MAGASIN
+HIZ	KECEPATAN
+Daha ağır mermi: zırhlı gövdeyi deler, kurşun daha hızlı ve düz gider.	Peluru lebih berat: menembus tubuh berzirah, peluru melaju lebih cepat dan lurus.
+Dürbünün en büyük yakınlaştırması artar.	Perbesaran maksimum teropong bertambah.
+Dürbündeki sallantı ve geri tepme azalır.	Goyangan dan hentakan di teropong berkurang.
+Şarjöre daha çok fişek sığar.	Magasin memuat lebih banyak peluru.
+Sürgü ve şarjör değişimi hızlanır.	Tarik bolt dan ganti magasin lebih cepat.
+YAYGIN	UMUM
+NADİR	LANGKA
+EPİK	EPIK
+ fişek	 peluru
+Bu açıdan 	Dari sudut ini 
+ görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	 tak terlihat. Pindah ke tempat lain dengan PINDAH POSISI.
+Bundan sonra hedef işaretli gelmez. Dürbüne gir: sağdaki DOSYA'daki yüzü kalabalıkta bul, kişiyi tara, emin olunca İŞARETLE. Yanlış kişiyi vurursan sözleşme iptal.	Mulai sekarang target tak lagi ditandai. Buka teropong: cari wajah dari BERKAS di kanan di tengah keramaian, pindai orangnya, kalau yakin, TANDAI. Salah tembak orang, kontrak batal.
+Uzak hedefte mermi düşer. Sol alttaki MENZİL ile dürbünü hedefin mesafesine ayarla (telemetre dürbünün altında) ya da sarı çizgilerden tut: 2 = 200 m, 3 = 300 m.	Pada target jauh peluru turun. Atur teropong ke jarak target dengan JARAK di kiri bawah (pengukur jarak ada di bawah teropong) atau bidik pakai garis kuning: 2 = 200 m, 3 = 300 m.
+Bundan sonra isabet noktası sadece NEFES tutarken görünür. Nefesini doğru ana sakla.	Mulai sekarang titik kena hanya terlihat saat menahan NAPAS. Simpan napasmu untuk saat yang tepat.
+Şehirde isabet noktası yok. Menzili ayarla, rüzgâr panelindeki yöne göre sarı noktalardan (1 nokta = 1 mil) tut.	Di kota tak ada titik kena. Atur jarak, lalu bidik pakai titik kuning (1 titik = 1 mil) sesuai arah di panel angin.
+Dağda rüzgâr sert ve değişken; paneldeki ok ve güç anlık değişir. Okun yönünü ve gücünü izle, rüzgârın dindiği anı bekle.	Di gunung angin kencang dan berubah-ubah; panah dan kekuatannya di panel berubah seketika. Perhatikan arah dan kekuatan panah, tunggu saat angin reda.
+Alarm engellendi	Alarm dicegah
+Son 10 saniye!	10 detik terakhir!
+Süre doldu	Waktu habis
+Takviye — mevzi alıp yuvana ateş edecek	Bala bantuan — akan berposisi dan menembaki sarangmu
+ silahlı adam mevzi alıyor — yuvanı arıyorlar!	 orang bersenjata mengambil posisi — mereka mencari sarangmu!
+Alarm çaldı, takviye geliyor. Başını eğik tut, önce silahlıları sustur.	Alarm berbunyi, bala bantuan datang. Tetap merunduk, bungkam yang bersenjata dulu.
+Hedef düştü ama adamları seni arıyor. Siper al ya da silahlıları sustur — sonra çık.	Target tumbang tapi anak buahnya mencarimu. Berlindung atau bungkam yang bersenjata — lalu pergi.
+Iskalaman dikkat çekti — silahlılar dışarı çıkıyor. Siper al, sonra işini bitir.	Tembakan melesetmu menarik perhatian — orang bersenjata keluar. Berlindung, lalu selesaikan tugasmu.
+İŞÇİ	PEKERJA
+SİVİL	SIPIL
+Hedef saklandı	Target bersembunyi
+Hedef kaçtı	Target kabur
+Silahlı adam kaçtı	Orang bersenjata kabur
+Hedef öldü — onu canlı istiyorduk	Target tewas — kita mau dia hidup
+Korunan kişi	Orang yang dilindungi
+ öldürüldü	 terbunuh
+İsabet — 	Kena — 
+ atış daha	 tembakan lagi
+Görev başarısız	Misi gagal
+YENİ HEDEF: 	TARGET BARU: 
+  ·  DÜELLO	  ·  DUEL
+  ·  SON ANDA	  ·  DETIK TERAKHIR
+  ·  SİPERİN İÇİNDEN	  ·  TEMBUS PERLINDUNGAN
+  ·  CAMIN İÇİNDEN	  ·  TEMBUS KACA
+  ·  HAREKETLİ HEDEF	  ·  TARGET BERGERAK
+ZIRH DURDURDU — kafaya nişan al, zırh delici kullan ya da HASAR geliştir	DITAHAN ZIRAH — bidik kepala, pakai peluru AP, atau upgrade DAMAGE
+SİLAHLI ADAM BULUNDU: 	ORANG BERSENJATA DITEMUKAN: 
+HEDEF DOĞRULANDI: 	TARGET TERVERIFIKASI: 
+Hedef değil — masum konuk	Bukan target — tamu tak bersalah
+Üç yanlış teşhis — sözleşme iptal	Tiga kali salah identifikasi — kontrak batal
+KONTROL: O değildi — masum birini vurdun!	KONTROL: Bukan dia — kamu menembak orang tak bersalah!
+KONTROL: Yine yanlış kişi. Bir daha olursa iptal.	KONTROL: Salah orang lagi. Sekali lagi, batal.
+KİMLİK DOĞRULANDI: 	IDENTITAS TERVERIFIKASI: 
+KONTROL: Hayır, o değil. Dosyaya tekrar bak.	KONTROL: Bukan, bukan dia. Lihat berkasnya lagi.
+KONTROL: O da değil. Bir daha yanılırsan iptal.	KONTROL: Itu juga bukan. Salah sekali lagi, batal.
+YENİ YER: 	POSISI BARU: 
+Dron bölgeyi taradı — 	Drone memindai area — 
+ kişi tanımlandı	 orang teridentifikasi
+Dron silahlı birini işaretledi!	Drone menandai orang bersenjata!
+ vuruldu!	 tertembak!
+SUİKASTÇI ETKİSİZ — KAFADAN	PEMBUNUH LUMPUH — TEMBAKAN KEPALA
+SUİKASTÇI ETKİSİZ	PEMBUNUH LUMPUH
+KAFADAN VURUŞ — HEDEF ETKİSİZ	TEMBAKAN KEPALA — TARGET LUMPUH
+HEDEF ETKİSİZ	TARGET LUMPUH
+ öldü!	 tewas!
+Koruma etkisiz — kafadan	Pengawal lumpuh — tembakan kepala
+Koruma etkisiz	Pengawal lumpuh
+Yanlış kişi — o bir dublördü	Salah orang — itu pemeran pengganti
+Yanlış kişi — masum birini vurdun	Salah orang — kamu menembak orang tak bersalah
+Çok fazla sivil kayıp	Terlalu banyak korban sipil
+SİVİL KAYIP! Bir daha olursa görev iptal.	KORBAN SIPIL! Sekali lagi, misi batal.
+ hedef kaldı	 target tersisa
+Yanlış yer — BACAĞINDAN vurmalısın	Salah sasaran — kamu harus menembak KAKINYA
+Yanlış yer — KOLUNDAN vurmalısın	Salah sasaran — kamu harus menembak LENGANNYA
+ yaralandı — artık yürüyemiyor	 terluka — tak bisa berjalan lagi
+Silahını düşürdü!	Senjatanya jatuh!
+HEDEF YERE DÜŞTÜ	TARGET TUMBANG
+HEDEF YARALANDI	TARGET TERLUKA
+Koruma yaralandı — hâlâ telsize uzanabilir	Pengawal terluka — masih bisa meraih radio
+Masum biri yaralandı!	Orang tak bersalah terluka!
+ bayıldı — güvenli yere ulaşamaz	 pingsan — tak bisa mencapai tempat aman
+İĞNE İSABET — hedef birkaç saniyede bayılacak	JARUM KENA — target pingsan dalam beberapa detik
+Koruma bayılıyor	Pengawal mulai pingsan
+Masum birini bayılttın	Kamu membuat orang tak bersalah pingsan
+KARŞI NİŞANCI SANA NİŞAN ALDI — ÖNCE SEN VUR!	SNIPER LAWAN MEMBIDIKMU — TEMBAK DULUAN!
+SİLAHLI ADAM NİŞAN ALIYOR — ŞİMDİ VUR!	ORANG BERSENJATA MEMBIDIK — TEMBAK SEKARANG!
+GÖZCÜ SENİ GÖRDÜ!	PENGINTAI MELIHATMU!
+GÖZCÜ SENİ GÖRDÜ — telsize uzanıyor, onu durdur!	PENGINTAI MELIHATMU — dia meraih radio, hentikan dia!
+Koruma telsize uzanıyor — onu durdur!	Pengawal meraih radio — hentikan dia!
+GÖZCÜ YERİNİ BİLDİRDİ!	PENGINTAI MELAPORKAN POSISIMU!
+ALARM VERİLDİ — HEDEF KAÇIYOR	ALARM BERBUNYI — TARGET KABUR
+Hedef tedirgin oldu ve kaçıyor!	Target curiga dan kabur!
+Hedef saklandığı yerden çıkmadı	Target tak keluar dari persembunyiannya
+Hedef içeri saklandı — bekle, bakmak için tekrar çıkabilir	Target bersembunyi di dalam — tunggu, dia mungkin keluar lagi untuk melihat
+Hedef kapıda göründü — şimdi!	Target muncul di pintu — sekarang!
+Hedef siperin arkasında, görünmüyor. Yakınına ateş et: sesi duyunca bakmak için açığa çıkar. Bir daha ateş edersen kaçar — o sırada vur.	Target di balik perlindungan, tak terlihat. Tembak di dekatnya: mendengar suara, dia akan keluar untuk melihat. Kalau kamu menembak lagi, dia kabur — tembak saat itu.
+ISKALADIN — 	MELESET — 
+ KAÇIYOR!	 KABUR!
+Iskaladın — biri ürktü ve kaçıyor!	Meleset — seseorang kaget dan kabur!
+Sana ateş edenleri sustur	Bungkam yang menembakmu
+Sana ateş edenleri sustur  ·  	Bungkam yang menembakmu  ·  
+ kaldı	 tersisa
+HEDEF TAMAM — AMA SENİ BULDULAR: SİLAHLILARI SUSTUR	TARGET BERES — TAPI MEREKA MENEMUKANMU: BUNGKAM YANG BERSENJATA
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — 	Target tumbang tapi posisimu ketahuan. Jangan biarkan ada yang mengejarmu — 
+ silahlı var, hepsini sustur. Gerekirse siper al.	 orang bersenjata, bungkam semuanya. Berlindung kalau perlu.
+Kalan silahlılar geri çekildi	Sisa orang bersenjata mundur
+BÖLGE TEMİZ — GÖREV TAMAM	AREA BERSIH — MISI SELESAI
+Sözleşme ücreti	Bayaran kontrak
+Yıldız hedefleri  ×	Target bintang  ×
+Sessiz iş — alarm yok	Kerja senyap — tanpa alarm
+Uzak atış  ·  	Tembakan jauh  ·  
+Keşif  ·  	Recon  ·  
+ tehdit	 ancaman
+Sivil kaybı  ×	Korban sipil  ×
+Yaralı sivil  ×	Sipil terluka  ×
+Tekrar oynanış  ×%	Main ulang  ×%
+Günün sözleşmesi (+%33: ücretin 2 katı)	Kontrak harian (+33%: 2× bayaran)
+GÜMRÜK KAPISI	GERBANG BEA CUKAI
+Liman giriş kapısı	Gerbang masuk pelabuhan
+Selim Kaya kapıda denetimde. Kimliğini tara, sonra işini bitir.	Budi Hartono sedang inspeksi di gerbang. Pindai identitasnya, lalu selesaikan tugasmu.
+Gümrük müdürü Selim Kaya, rüşvet karşılığında kaçakçılara liman kapısını açıyor. Her sabah kapıdaki güvenlik noktasını denetliyor.\n\nKapıdan ayrılmadan onu etkisiz hale getir. Alarm verilirse otoparktaki aracına koşar.	Kepala bea cukai Budi Hartono membukakan gerbang pelabuhan bagi penyelundup demi suap. Setiap pagi dia memeriksa pos keamanan di gerbang.\n\nLumpuhkan dia sebelum meninggalkan gerbang. Jika alarm berbunyi, dia akan lari ke mobilnya di parkiran.
+Dürbünü aç ve nişangahı birinin üzerinde tut: kimliği otomatik taranır. Kırmızı işaret hedefi gösterir.	Buka teropong dan tahan bidikan pada seseorang: identitasnya otomatis dipindai. Tanda merah menunjukkan target.
+Selim Kaya	Budi Hartono
+Gümrük Müdürü	Kepala Bea Cukai
+Lacivert takım elbise, kırmızı kravat, gözlük.	Setelan biru dongker, dasi merah, kacamata.
+Gümrük müdürü Selim Kaya'yı etkisiz hale getir	Lumpuhkan kepala bea cukai Budi Hartono
+LİMAN OFİSİ	KANTOR PELABUHAN
+Liman yönetim binası	Gedung otoritas pelabuhan
+Aydın sigara için dışarı çıkacak. Kapıdan uzaklaştığı an senin anın.	Saputra akan keluar untuk merokok. Begitu dia menjauh dari pintu, itulah momenmu.
+Liman müdür yardımcısı Can Aydın, kaçak sevkiyatların kayıtlarını siliyor. Binadan sadece sigara molalarında çıkıyor.\n\nKapıdan çıktığında fırsatı kaçırma: alarm verilirse binaya kapanır ve görev başarısız olur.	Wakil kepala pelabuhan Andi Saputra menghapus catatan kiriman selundupan. Dia hanya keluar gedung saat istirahat merokok.\n\nJangan lewatkan kesempatan saat dia keluar: jika alarm berbunyi, dia mengurung diri di gedung dan misi gagal.
+Hedef bina içindeyken bekle. Kapıdan çıkınca sigara içtiği noktada sabit durur — nefesini tut ve kafasına nişan al.	Tunggu selagi target di dalam gedung. Begitu keluar, dia diam di titik tempat dia merokok — tahan napas dan bidik kepalanya.
+Can Aydın	Andi Saputra
+Müdür Yardımcısı	Wakil Kepala
+Mavi polo tişört, siyah pantolon. Sigara molasında dışarı çıkar.	Kaus polo biru, celana hitam. Keluar saat istirahat merokok.
+Can Aydın'ı binaya geri girmeden vur	Tembak Andi Saputra sebelum dia kembali ke gedung
+Alarm verdirme	Jangan picu alarm
+Hedefi kafadan vur	Tembak kepala target
+KONTEYNER TAKASI	TRANSAKSI KONTAINER
+Konteyner sahası	Area kontainer
+Kuzgun limana giriyor. Takas yeri çatıdan görünmüyor — onu dışarı çekmen gerekecek.	Si Gagak memasuki pelabuhan. Lokasi transaksi tak terlihat dari atap — kamu harus memancingnya keluar.
+Kuzgun lakaplı kaçakçı Tarık Bal arabasıyla limana gelecek ve konteynerlerin arasında bir alıcıyla buluşacak. Takas bitince arabasına binip gidecek.\n\nTakas yeri çatıdan görünmüyor. Ya yürürken vur ya da onu açığa çıkar: arabasının alarmı ya da yakınına düşen bir kurşun. İkinci kez ürkerse arabasına koşar.	Penyelundup Bayu Santoso, berjuluk Si Gagak, akan datang ke pelabuhan dengan mobilnya dan bertemu pembeli di antara kontainer. Setelah transaksi selesai, dia naik mobil dan pergi.\n\nLokasi transaksi tak terlihat dari atap. Tembak dia saat berjalan atau pancing dia keluar: alarm mobilnya atau peluru yang jatuh di dekatnya. Kalau kaget untuk kedua kalinya, dia lari ke mobilnya.
+Hedef görünmüyorsa yakınına ateş et: sese bakmak için açığa çıkar. Arabasını vurursan alarm çalar, kontrol etmeye gelir.	Jika target tak terlihat, tembak di dekatnya: dia akan keluar untuk melihat asal suara. Tembak mobilnya, alarm berbunyi dan dia datang memeriksa.
+Tarık konteynerlerin arasında, buradan görünmüyor. Arabasına ateş et: alarm çalınca kontrol etmeye gelir. Ya da ara yolun açık kısmına ateş et, sese bakmak için oraya yürür.	Bayu di antara kontainer, tak terlihat dari sini. Tembak mobilnya: saat alarm berbunyi, dia datang memeriksa. Atau tembak bagian terbuka di gang, dia akan berjalan ke sana untuk melihat asal suara.
+Arabasında — limana geliyor	Di mobilnya — menuju pelabuhan
+Hedef arabasıyla kaçtı	Target kabur dengan mobilnya
+Takas bitti — hedef arabasına dönüyor!	Transaksi selesai — target kembali ke mobilnya!
+Takasın bitmesine	Sampai transaksi selesai
+Hedefin arabası kapıdan girdi	Mobil target masuk lewat gerbang
+Araç alarmı çalıyor!	Alarm mobil berbunyi!
+Tarık Bal	Bayu Santoso
+Gri tişört, kot pantolon, kırmızı bere. Kolları dövmeli.	Kaus abu-abu, celana jins, kupluk merah. Lengan bertato.
+Kuzgun'u takas bitmeden etkisiz hale getir	Lumpuhkan Si Gagak sebelum transaksi selesai
+En fazla 3 atış	Maksimal 3 tembakan
+GECE NÖBETİ	JAGA MALAM
+Depolar ve gözetleme kulesi	Gudang dan menara pengawas
+Rico ve adamları ateşin başında. Kuledeki gözcü her şeyi görür — önce onu düşün.	Rico dan anak buahnya di dekat api. Pengintai di menara melihat segalanya — pikirkan dia dulu.
+Paralı asker Rico Vargas ve adamları depoları koruyor. Gece soğuğunda ateş varilinin başında toplanıyorlar.\n\nKuledeki gözcü cesetleri görürse alarm verir. Önce onu susturmak işini kolaylaştırır.	Tentara bayaran Rico Vargas dan anak buahnya menjaga gudang. Di malam yang dingin mereka berkumpul di dekat tong api.\n\nJika pengintai di menara melihat mayat, dia membunyikan alarm. Membungkamnya lebih dulu akan memudahkan tugasmu.
+Ateşin yanındaki kırmızı yakıt bidonu tek atışta patlar ve yanındakileri götürür — ama yanlarındaki bekçi de ölür (sivil kayıp, yıldız kaybı) ve patlama sessiz iş primini yakar. Temiz iş için Rico'yu doğrudan vur.	Jeriken bahan bakar merah di dekat api meledak dengan satu tembakan dan ikut menghabisi orang di sekitarnya — tapi penjaga di dekat mereka juga tewas (korban sipil, bintang berkurang) dan ledakan menghanguskan bonus kerja senyap. Untuk kerja bersih, tembak Rico langsung.
+Paralı Asker	Tentara Bayaran
+Kel ve sakallı. Taktik yelek, kırmızı tişört.	Botak dan berjanggut. Rompi taktis, kaus merah.
+Rico Vargas'ı etkisiz hale getir	Lumpuhkan Rico Vargas
+Bekçiye zarar verme	Jangan celakai penjaga
+DEPODAKİ KÖSTEBEK	TIKUS DI GUDANG
+A deposu yükleme alanı	Area muat gudang A
+Köstebek kasa taşıyanlardan biri. Masumları vurma: önce tara.	Si Tikus salah satu pengangkut peti. Jangan tembak orang tak bersalah: pindai dulu.
+Depoda çalışan Kerim, örgütün sevkiyat bilgilerini rakiplere satıyor. Diğer işçilerle birlikte kasa taşıyor.\n\nİşçiler masum: hedefi kıyafetinden tanı ve ateş etmeden önce mutlaka tara.	Darto, pekerja gudang, menjual info pengiriman organisasi ke pesaing. Dia mengangkut peti bersama pekerja lain.\n\nPara pekerja tak bersalah: kenali target dari pakaiannya dan selalu pindai sebelum menembak.
+Hareket eden hedefi vururken kurşunun uçuş süresini hesaba kat: yürüdüğü yönün biraz önüne nişan al.	Saat menembak target bergerak, perhitungkan waktu terbang peluru: bidik sedikit di depan arah jalannya.
+Kerim Usta	Pak Darto
+Köstebek	Si Tikus
+Kırmızı kazak, siyah pantolon, bere. Kasa taşıyor.	Sweter merah, celana hitam, kupluk. Mengangkut peti.
+Köstebeği bul ve etkisiz hale getir	Temukan dan lumpuhkan Si Tikus
+Sivillere zarar verme	Jangan celakai warga sipil
+RIHTIM KAÇAĞI	PELARIAN DERMAGA
+Rıhtım ve iskele	Dermaga dan jeti
+Tilki belgeleri teslim edip tekneye koşacak. Tekneyi vurursan yaya kalır.	Si Rubah akan menyerahkan dokumen lalu lari ke perahu. Tembak perahunya, dia terpaksa jalan kaki.
+Tilki lakaplı Deniz Kara, çalınan belgeleri rıhtımda bir adama teslim edecek. Ardından iskeledeki sürat teknesiyle kaçacak.\n\nTekneye binerse onu kaybederiz. Hareketli hedefe önden nişan al.	Rizky Pratama, berjuluk Si Rubah, akan menyerahkan dokumen curian ke seseorang di dermaga. Lalu dia kabur dengan speedboat di jeti.\n\nJika dia naik perahu, kita kehilangan dia. Bidik di depan target yang bergerak.
+300 metrede kurşun yaklaşık 0,4 saniye uçar. Koşan hedefte nişanı yaklaşık bir gövde önüne al. İskeledeki sürat teknesini önceden vurursan motoru çalışmaz: tekneyle kaçamaz, iskeleden koşmak zorunda kalır.	Di jarak 300 meter peluru terbang sekitar 0,4 detik. Pada target yang berlari, bidik sekitar satu badan di depannya. Tembak speedboat di jeti lebih dulu, mesinnya tak akan menyala: dia tak bisa kabur dengan perahu dan terpaksa lari dari jeti.
+Tekne çalışmıyor — hedef iskeleden kaçıyor!	Perahu tak menyala — target kabur dari jeti!
+Tekne vuruldu — motor çalışmıyor, tekneyle kaçamaz!	Perahu tertembak — mesin mati, dia tak bisa kabur dengan perahu!
+Deniz Kara	Rizky Pratama
+Kahverengi kapüşonlu, kasket, koyu pantolon.	Hoodie cokelat, topi pet, celana gelap.
+Tilki'yi tekneyle kaçmadan durdur	Hentikan Si Rubah sebelum kabur dengan perahu
+Önce teknesini vur	Tembak perahunya dulu
+KAPTAN KÖŞKÜ	ANJUNGAN KAPTEN
+Meridian Star köprüüstü	Anjungan Meridian Star
+Kaptan köprüüstünün kanadına çıkacak. Uzun atış, sert rüzgar — rüzgar okuna bak.	Kapten akan keluar ke sayap anjungan. Tembakan jauh, angin kencang — lihat panah angin.
+Meridian Star'ın kaptanı Orhan Demir, örgütün silah yükünü teslim etmeden limandan ayrılmak üzere. Köprüüstünün açık kanadına çıkıyor.\n\nMesafe uzun ve rüzgar sert. Kaçırırsan köşke kapanır.	Kapten Meridian Star, Yohanes Siregar, hendak meninggalkan pelabuhan sebelum menyerahkan muatan senjata organisasi. Dia keluar ke sayap terbuka anjungan.\n\nJaraknya jauh dan anginnya kencang. Kalau meleset, dia mengurung diri di anjungan.
+Uzun mesafede kurşun düşer. Nişan yardımı açıksa dürbündeki kırmızı nokta kurşunun gideceği yeri gösterir.	Di jarak jauh peluru turun. Jika bantuan bidik aktif, titik merah di teropong menunjukkan ke mana peluru akan pergi.
+Orhan Demir	Yohanes Siregar
+Yeşil mont, kot pantolon. Köprüüstü kanadında.	Jaket hijau, celana jins. Di sayap anjungan.
+Kaptan Orhan Demir'i köşke kapanmadan vur	Tembak Kapten Yohanes Siregar sebelum dia mengurung diri di anjungan
+YAT PARTİSİ	PESTA YACHT
+İskeledeki yat	Yacht di jeti
+Kral'ın partisi. Beyaz smokinli iki adam var — bıyıklı ve gözlüklü olan bizim adam.	Pesta Krasnov. Ada dua pria bertuksedo putih — yang berkumis dan berkacamata, itu orang kita.
+Örgütün başı Viktor Kral yatında kutlama yapıyor. Korumaları her yerde.\n\nKonuklardan biri de beyaz smokin giymiş: taramadan ateş etme. Kral bir süre sonra iskeleden ayrılıp depolara yürüyecek.	Pemimpin organisasi Viktor Krasnov sedang berpesta di yacht-nya. Pengawalnya di mana-mana.\n\nSalah satu tamu juga memakai tuksedo putih: jangan menembak sebelum memindai. Sebentar lagi Krasnov akan meninggalkan jeti dan berjalan ke gudang.
+Gerçek hedef bıyıklı ve güneş gözlüklü. Emin değilsen nişangahı üzerinde tut ve kimlik kartını oku.	Target asli berkumis dan berkacamata hitam. Kalau ragu, tahan bidikan padanya dan baca kartu identitasnya.
+Kral'ın ayrılmasına	Sampai Krasnov pergi
+Viktor Kral	Viktor Krasnov
+Örgüt Lideri	Pemimpin Organisasi
+Beyaz smokin, papyon. Bıyıklı ve güneş gözlüklü.	Tuksedo putih, dasi kupu-kupu. Berkumis dan berkacamata hitam.
+Viktor Kral'ı yattan ayrılmadan etkisiz hale getir	Lumpuhkan Viktor Krasnov sebelum dia meninggalkan yacht
+Konuklara zarar verme	Jangan celakai para tamu
+Korumalara dokunma	Jangan sentuh para pengawal
+Giriş kapısı ve yönetim binası	Gerbang masuk dan gedung otoritas
+Ayten Şahin bugün örgüte karşı ifade verecek. Polis onu ofise götürüyor. Kalabalıkta iki tetikçi var.	Hari ini Ratna Sari bersaksi melawan organisasi. Polisi membawanya ke kantor. Ada dua pembunuh di keramaian.
+Gümrük memuru Ayten Şahin, örgütün rüşvet ağına karşı tanıklık edecek. Polis onu sabah liman yönetim binasına getiriyor.\n\nÖrgüt iki tetikçi yolladı: işçi kılığında kalabalığa karışmışlar. Herkesi dürbünle tara — silahlılar kimlik kartında görünür. Ayten binaya girene kadar hayatta kalmalı.\n\nÖrgüt yalnız gelmedi: gözetleme kulesinde dürbünlü bir gözcü, kapının iki yanında silahlı adamları var. Yerini bulurlarsa sana ateş ederler.	Petugas bea cukai Ratna Sari akan bersaksi melawan jaringan suap organisasi. Pagi ini polisi membawanya ke gedung otoritas pelabuhan.\n\nOrganisasi mengirim dua pembunuh: menyamar jadi pekerja dan berbaur di keramaian. Pindai semua orang dengan teropong — yang bersenjata terlihat di kartu identitas. Ratna harus tetap hidup sampai masuk gedung.\n\nOrganisasi tak datang sendirian: ada pengintai berteropong di menara pengawas dan orang bersenjata di kedua sisi gerbang. Jika posisimu ketahuan, mereka akan menembakmu.
+Tetikçi silah çekince işaretçisinin etrafındaki kırmızı halka dolmadan vur. Kolundan vurursan silahını düşürür. Kuledeki gözcünün dürbünü sana dönünce eğil (SİPER) ya da önce onu indir.	Saat pembunuh menarik senjata, tembak sebelum lingkaran merah di sekitar penandanya penuh. Tembak lengannya, senjatanya jatuh. Merunduklah (BERLINDUNG) saat teropong pengintai di menara mengarah padamu, atau jatuhkan dia lebih dulu.
+Termal dürbün kalabalıkta işe yarar	Teropong termal berguna di keramaian
+Ayten Şahin	Ratna Sari
+Bej trençkot — polis eşliğinde	Mantel trench krem — dikawal polisi
+Tanığı ofise kadar koru	Lindungi saksi sampai ke kantor
+Bilinmeyen İşçi	Pekerja Tak Dikenal
+Temizlikçi kılığında — silahlı	Menyamar jadi petugas kebersihan — bersenjata
+İşçi kılığında — silahlı	Menyamar jadi pekerja — bersenjata
+Tetikçileri durdur	Hentikan para pembunuh
+Tetikçileri durdur  	Hentikan para pembunuh  
+Kulede dürbünlü biri var. Dürbünü sana döndüğünde eğil — seni görürse telsizle herkese bildirir.	Ada orang berteropong di menara. Merunduklah saat teropongnya mengarah padamu — kalau melihatmu, dia akan mengabari semua orang lewat radio.
+Polis arabasında — yolda	Di mobil polisi — dalam perjalanan
+Tanık arabadan indi, kapıya yürüyor. Gözünü dört aç.	Saksi turun dari mobil, berjalan ke gerbang. Buka matamu lebar-lebar.
+POLİS	POLISI
+Silah! Arkamda kal, eğil!	Senjata! Tetap di belakangku, merunduk!
+Herkesi tara. Kartında SİLAHLI yazan adam bizim adamımız değil.	Pindai semua orang. Pria yang kartunya bertulisan BERSENJATA bukan orang kita.
+Bej trençkot, kahverengi saç. Polis memuruyla yürüyor.	Mantel trench krem, rambut cokelat. Berjalan bersama polisi.
+Tanığı ofise girene kadar hayatta tut	Jaga saksi tetap hidup sampai dia masuk kantor
+Kalabalıktaki iki tetikçiyi bul ve durdur (bonus)	Temukan dan hentikan dua pembunuh di keramaian (bonus)
+İki tetikçiyi de silah çekmeden durdur	Hentikan kedua pembunuh sebelum mereka menarik senjata
+KURYE	KURIR
+Kurye çantayla depodan çıkacak. Müşteri onu canlı istiyor: bacağından vur, gerisini ekip halleder.	Kurir akan keluar dari gudang membawa tas. Klien mau dia hidup: tembak kakinya, sisanya urusan tim.
+Emre Doğan, örgütün banka hesaplarını taşıyan kurye. Birazdan A deposundan çıkıp arabasına yürüyecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, yere düşsün. Ekibimiz arabayla gelip onu alacak. Öldürürsen bilgi kaybolur. Dikkat: örgüt, kuryesinin konuşmasındansa ölmesini tercih eder — korumaları ona silah çekecek, depodaki adamları da dışarı çıkıp onu susturmaya çalışacak.	Dimas Kurniawan, kurir yang membawa data rekening bank organisasi. Sebentar lagi dia keluar dari gudang A dan berjalan ke mobilnya.\n\nKlien mau dia HIDUP: tembak kakinya, biar dia tumbang. Tim kita akan datang dengan mobil untuk menjemputnya. Kalau kamu membunuhnya, informasinya hilang. Hati-hati: organisasi lebih memilih kurirnya mati daripada bicara — pengawalnya akan menodongkan senjata padanya, dan orang-orang di gudang akan keluar untuk membungkamnya.
+Bacağından vurulan yere düşer. Korumalar onu susturmak için silah çekerse kırmızı halka dolmadan indir — kolundan vurursan silahını düşürür. Iskalarsan kurye arabasına koşar.	Yang tertembak di kaki akan tumbang. Jika pengawal menarik senjata untuk membungkamnya, jatuhkan mereka sebelum lingkaran merah penuh — tembak lengannya, senjatanya jatuh. Kalau meleset, kurir lari ke mobilnya.
+Kurye arabasıyla kaçtı	Kurir kabur dengan mobilnya
+Ekip gelene kadar kuryeyi hayatta tut	Jaga kurir tetap hidup sampai tim datang
+Kurye dışarıda. Bacağına nişan al.	Kurir sudah di luar. Bidik kakinya.
+Depodaki Adam	Orang di Gudang
+Depodan silahlı biri çıktı — kuryeye gidiyor!	Orang bersenjata keluar dari gudang — menuju kurir!
+Yol temiz — ekip gaza bastı, geliyorlar!	Jalan aman — tim tancap gas, mereka datang!
+Ekip kuryeyi aldı!	Tim sudah menjemput kurir!
+Ekibin gelmesine	Sampai tim datang
+Kurye yerde! Ekip yolda — 	Kurir tumbang! Tim dalam perjalanan — 
+ saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	 detik. Orang-orang organisasi akan mencoba membungkamnya, dan mereka juga akan keluar dari gudang!
+Emre Doğan	Dimas Kurniawan
+Mavi polo tişört, siyah pantolon. Elinde siyah bir çanta.	Kaus polo biru, celana hitam. Membawa tas hitam.
+Ekip gelene kadar onu silahlı adamlardan koru	Lindungi dia dari orang bersenjata sampai tim datang
+Kuryeyi canlı teslim et	Serahkan kurir hidup-hidup
+İlk atışta bacağından vur	Tembak kakinya di tembakan pertama
+Kimse kuryeye nişan alamasın	Jangan biarkan siapa pun membidik kurir
+KARARTMA	PEMADAMAN
+Merkez saha — gece sevkiyatı	Area pusat — pengiriman malam
+Kartal sevkiyatı bizzat denetliyor. Işıklar onun lehine — ama elektrik panosu direğin dibinde.	Si Elang mengawasi pengiriman sendiri. Lampu menguntungkannya — tapi panel listrik ada di kaki tiang.
+Silah tüccarı Hakan Er, namıdiğer Kartal, gece yarısı limanın merkez sahasında bir sevkiyatı denetliyor. Etrafı aydınlık ve korumalarla dolu.\n\nIşık direğinin dibindeki elektrik panosunu vurursan bütün liman karanlığa gömülür: korumalar kör kalır, ama Kartal da arabasına yürür. Gece görüşü dürbünü bu iş için sende.	Pedagang senjata Agus Setiawan, alias Si Elang, tengah malam mengawasi sebuah pengiriman di area pusat pelabuhan. Sekelilingnya terang dan penuh pengawal.\n\nTembak panel listrik di kaki tiang lampu, seluruh pelabuhan tenggelam dalam gelap: pengawal jadi buta, tapi Si Elang juga akan berjalan ke mobilnya. Teropong night vision untuk pekerjaan ini sudah kamu bawa.
+Gece görüşünü dürbündeki göz tuşuyla aç. Karanlıkta korumalar yakından geçmedikçe cesetleri göremez. Kartal arabasına binerse kaçar.	Nyalakan night vision dengan tombol mata di teropong. Dalam gelap, pengawal tak melihat mayat kecuali lewat dari dekat. Jika Si Elang naik mobil, dia kabur.
+Kartal arabasıyla kaçtı	Si Elang kabur dengan mobilnya
+Kartal'ı etkisiz hale getir	Lumpuhkan Si Elang
+Kartal arabasına yürüyor!	Si Elang berjalan ke mobilnya!
+Sevkiyatın bitmesine	Sampai pengiriman selesai
+KARARTMA — liman karanlığa gömüldü	PEMADAMAN — pelabuhan tenggelam dalam gelap
+Işıklar gitti! Gece görüşünü aç — Kartal arabasına gidiyor!	Lampu padam! Nyalakan night vision — Si Elang menuju mobilnya!
+Hakan Er	Agus Setiawan
+Lacivert takım, kırmızı kravat, gözlük. Sevkiyatı denetliyor.	Setelan biru dongker, dasi merah, kacamata. Mengawasi pengiriman.
+Silah tüccarı Kartal'ı etkisiz hale getir	Lumpuhkan pedagang senjata Si Elang
+İstersen önce elektrik panosunu vurup limanı karart	Kalau mau, tembak panel listrik dulu untuk memadamkan pelabuhan
+Işıkları söndür ve karanlıkta vur	Matikan lampu dan tembak dalam gelap
+İĞNE	JARUM
+Rıhtım — Meridian Star iskelesi	Dermaga — jeti Meridian Star
+Kimyager gemiye binmeden onu uyut. Kimse ölmeyecek — bu iş temiz olmalı.	Tidurkan Si Kimiawan sebelum dia naik kapal. Tak ada yang boleh mati — pekerjaan ini harus bersih.
+Dr. Selin Aras, örgütün sentetik uyuşturucu laboratuvarını yöneten kimyager. Şafak sökmeden iki korumasıyla rıhtım boyunca yürüyüp Meridian Star'a binecek.\n\nİstihbarat onu canlı istiyor. Sana yedi uyuşturucu iğne veriyoruz: kimyageri bayılt. Korumaları da bayıltırsan ekibimiz tekneyle gelip onu sessizce alır. Korumalar — ya da gemiden inen biri — baygın kadına ulaşırsa onu gemiye taşırlar.	Dr. Dewi Kartika, kimiawan yang mengelola lab narkoba sintetis organisasi. Sebelum fajar dia akan berjalan menyusuri dermaga bersama dua pengawal dan naik ke Meridian Star.\n\nIntelijen mau dia hidup. Kami memberimu tujuh jarum bius: buat kimiawan itu pingsan. Kalau pengawalnya juga kamu bius, tim kita datang dengan perahu dan menjemputnya diam-diam. Jika pengawal — atau orang yang turun dari kapal — mencapai wanita yang pingsan itu, mereka akan menggotongnya ke kapal.
+Mermi seçici tuşuyla UYUŞTURUCU İĞNE'ye geç. İğne yavaş uçar ve çok düşer: kırmızı nokta isabet yerini gösterir. Önce korumaları bayıltmak işi kolaylaştırır.	Ganti ke JARUM BIUS dengan tombol pemilih peluru. Jarum terbang lambat dan banyak turun: titik merah menunjukkan titik kena. Membius pengawal lebih dulu akan memudahkan tugas.
+Kimyager gemiye bindi	Si Kimiawan naik ke kapal
+Kimyageri uyuşturucu iğneyle bayılt	Buat Si Kimiawan pingsan dengan jarum bius
+Ekip tekneyle gelene kadar onu korumalardan uzak tut	Jauhkan dia dari pengawal sampai tim datang dengan perahu
+Meridian Star'ın adamı — kimyageri gemiye taşımak isteyecek	Orang Meridian Star — akan mencoba menggotong Si Kimiawan ke kapal
+Ekip kimyageri tekneye aldı!	Tim sudah membawa Si Kimiawan ke perahu!
+Teknenin gelmesine	Sampai perahu tiba
+Gemiden iki kişi iniyor — kimyagere gidiyorlar!	Dua orang turun dari kapal — menuju Si Kimiawan!
+Herkes yerde. Tekne hızlanıyor!	Semua tumbang. Perahu tancap gas!
+Korumalar temiz. Tekne geliyor — 	Pengawal beres. Perahu datang — 
+ saniye.	 detik.
+İğne tuttu! Korumaları durdur, sonra ekibi gönderiyorum.	Jarumnya kena! Hentikan pengawal, lalu aku kirim tim.
+Koruma kimyagere ulaştı — onu taşıyacak!	Pengawal mencapai Si Kimiawan — dia akan menggotongnya!
+Mürettebat kimyagere ulaştı — onu kaldırıyorlar!	Awak kapal mencapai Si Kimiawan — mereka mengangkatnya!
+Kimyageri gemiye taşıdılar	Mereka menggotong Si Kimiawan ke kapal
+Dr. Selin Aras	Dr. Dewi Kartika
+Siyah mont, sarı saç. İki korumayla yürüyor.	Jaket hitam, rambut pirang. Berjalan dengan dua pengawal.
+Korumaları durdur, ekip onu tekneyle alsın	Hentikan pengawal, biar tim menjemputnya dengan perahu
+Kimyageri canlı teslim et	Serahkan Si Kimiawan hidup-hidup
+Kimseyi öldürme	Jangan bunuh siapa pun
+Önce korumaları bayılt	Bius pengawal dulu
+CAM KULE	MENARA KACA
+Kordon Plaza — 11. kat	Menara Cempaka — lantai 11
+Defne Aksoy hâlâ ofiste. Cam mermiyi durdurmaz — ama kırıldığı an içerideki herkes duyar.	Maya Lestari masih di kantor. Kaca tak menahan peluru — tapi begitu pecah, semua orang di dalam mendengarnya.
+Liman ağı çöktü ama paranın aktığı yer hâlâ ayakta: Baran Holding. Finans direktörü Defne Aksoy, örgütün kirli parasını aklıyor ve bu gece hesapları yurtdışına taşıyacak.\n\nKordon Plaza'nın 11. katında, ışıkları yanan ofiste tek başına çalışıyor. Katta bir güvenlik görevlisi devriye geziyor. Saat 22:42'de asansörle iniyor: ondan önce bitir.	Jaringan pelabuhan runtuh, tapi tempat uang mengalir masih berdiri: Grup Wijaya. Direktur keuangan Maya Lestari mencuci uang kotor organisasi dan malam ini akan memindahkan rekening ke luar negeri.\n\nDia bekerja sendirian di kantor yang lampunya menyala di lantai 11 Menara Cempaka. Seorang satpam berpatroli di lantai itu. Pukul 22:42 dia turun dengan lift: selesaikan sebelum itu.
+Cam mermiyi yavaşlatır ama durdurmaz. İlk atışta cam kırılır ve içeridekiler sesi duyar: Defne kırık cama bakmaya gelir, ikinci kez ürkerse asansöre koşar.	Kaca memperlambat peluru tapi tak menahannya. Tembakan pertama memecahkan kaca dan orang di dalam mendengar suaranya: Maya akan datang melihat kaca yang pecah, dan kalau kaget kedua kalinya, dia lari ke lift.
+Defne masaların arkasında, görünmüyor. Ofisin camına yakın bir yere ateş et: kırılan camı görmeye pencereye gelir.	Maya di balik meja, tak terlihat. Tembak dekat kaca kantor: dia akan datang ke jendela untuk melihat kaca yang pecah.
+Defne asansöre bindi	Maya naik lift
+Asansöre inmesine	Sampai dia turun ke lift
+Defne çantasını aldı — asansöre yürüyor!	Maya mengambil tasnya — berjalan ke lift!
+Katta bir güvenlik görevlisi var. Cesedi görürse alarm verir, Defne de kaçar.	Ada satpam di lantai itu. Jika melihat mayat, dia membunyikan alarm, dan Maya kabur.
+Pencereye her gelişinde birkaç saniye durup şehre bakıyor. Sabırlı ol.	Setiap kali ke jendela, dia berhenti beberapa detik memandang kota. Bersabarlah.
+Defne Aksoy	Maya Lestari
+Siyah ceket, mavi etek, kızıl saç, gözlük. Kordon Plaza 11. kat.	Jaket hitam, rok biru, rambut merah, kacamata. Menara Cempaka lantai 11.
+Defne Aksoy'u asansöre binmeden etkisiz hale getir	Lumpuhkan Maya Lestari sebelum dia naik lift
+TRAMVAY	TREM
+Saat Kulesi tramvay durağı	Halte trem Menara Jam
+Postacı defteri tramvayla şehirden çıkaracak. 19:06 tramvayı durağa girdiğinde iş biter.	Si Tukang Pos akan membawa buku itu keluar kota dengan trem. Saat trem 19:06 masuk halte, semuanya berakhir.
+Mert Tunç, nam-ı diğer Postacı, Baran'ın rüşvet defterini taşıyor: kime ne ödendiyse hepsi orada. Kordon'dan yürüyüp Saat Kulesi durağında tramvay bekleyecek.\n\nDurak kalabalık. Postacı'ya çok benzeyen bir yolcu da orada: kapüşonlu, kasketli. Ateş etmeden önce tara. Tramvaya binerse onu kaybederiz.	Eko Prasetyo, alias Si Tukang Pos, membawa buku suap Wijaya: siapa dibayar berapa, semuanya ada di sana. Dia akan berjalan dari Pantai Cempaka dan menunggu trem di halte Menara Jam.\n\nHaltenya ramai. Ada juga penumpang yang sangat mirip Si Tukang Pos: berhoodie, bertopi pet. Pindai sebelum menembak. Jika dia naik trem, kita kehilangan dia.
+Yürüyen hedefe biraz önden nişan al. Durakta bekleyenlerden biri Postacı'ya çok benziyor: nişangahı üzerinde tut, kimlik kartını oku.	Bidik sedikit di depan target yang berjalan. Salah satu orang yang menunggu di halte sangat mirip Si Tukang Pos: tahan bidikan padanya, baca kartu identitasnya.
+Postacı kaçtı	Si Tukang Pos kabur
+Hedef değil — Postacı'ya benzeyen bir yolcu	Bukan target — penumpang yang mirip Si Tukang Pos
+Tramvayın gelmesine	Sampai trem tiba
+Tramvay yola çıktı. Durağa girdiği an Postacı biner.	Trem sudah berangkat. Begitu masuk halte, Si Tukang Pos naik.
+Tramvay durakta — herkes biniyor!	Trem di halte — semua naik!
+Postacı tramvaya bindi	Si Tukang Pos naik trem
+Postacı Kordon'dan durağa yürüyor. Durakta ona benzeyen biri var — önce tara.	Si Tukang Pos berjalan dari Pantai Cempaka ke halte. Ada yang mirip dia di halte — pindai dulu.
+Mert Tunç	Eko Prasetyo
+Postacı	Tukang Pos
+Koyu kapüşonlu, gri kasket, kot pantolon. Durağa yürüyor.	Hoodie gelap, topi pet abu-abu, celana jins. Berjalan ke halte.
+Postacı'yı tramvaya binmeden etkisiz hale getir	Lumpuhkan Si Tukang Pos sebelum dia naik trem
+Postacı'yı yürürken vur	Tembak Si Tukang Pos saat berjalan
+Yolculara zarar verme	Jangan celakai penumpang
+Devlet Opera ve Balesi	Opera dan Balet Negara
+Aydemir'in dublörü önden gelir. Limuzinden inen adama inanma — önce tara.	Pemeran pengganti Gunadi datang duluan. Jangan percaya pria yang turun dari limusin — pindai dulu.
+Armatör Cevdet Aydemir, Baran'ın gemilerinin sahibi. Bu gece operanın sezon açılışında: kırmızı halı, fotoğrafçılar, polis.\n\nAydemir kalabalığa asla önce kendisi çıkmaz: limuzinden önce dublörü iner. Gerçek Aydemir birkaç dakika sonra siyah bir sedanla gelir, eşiyle halıda poz verir ve içeri girer. Perde arasında balkona çıkacağı biliniyor.	Pemilik kapal Hartawan Gunadi, pemilik kapal-kapal Wijaya. Malam ini di pembukaan musim opera: karpet merah, fotografer, polisi.\n\nGunadi tak pernah muncul duluan di keramaian: pemeran penggantinya turun dari limusin lebih dulu. Gunadi asli datang beberapa menit kemudian dengan sedan hitam, berpose dengan istrinya di karpet, lalu masuk. Dia diketahui akan keluar ke balkon saat jeda pertunjukan.
+Flaşlar patlarken dürbünde parlama olur, panik yapma. Dublörü vurursan herkes kaçar ve gerçek Aydemir'in arabası durmadan geçer.	Saat lampu kilat menyala, teropong akan silau, jangan panik. Jika kamu menembak pemeran pengganti, semua orang kabur dan mobil Gunadi asli lewat tanpa berhenti.
+Dikkat: limuzinden inen adam Aydemir'in dublörü olabilir	Awas: pria yang turun dari limusin mungkin pemeran pengganti Gunadi
+DUBLÖR — bu Aydemir değil!	PEMERAN PENGGANTI — ini bukan Gunadi!
+Sedanda — operaya geliyor	Di sedan — menuju opera
+Aydemir operaya kaçtı	Gunadi kabur ke dalam opera
+Aydemir salona döndü — fırsat kaçtı	Gunadi kembali ke aula — kesempatan hilang
+Aydemir balkona çıktı!	Gunadi keluar ke balkon!
+CANLI  ·  OPERA GİRİŞİ	LANGSUNG  ·  PINTU MASUK OPERA
+Siyah bir sedan bulvara girdi, operaya geliyor. Kim olduğunu taramadan ateş etme.	Sedan hitam masuk ke bulevar, menuju opera. Jangan menembak sebelum memindai siapa dia.
+Aydemir'in arabası durmadan geçti	Mobil Gunadi lewat tanpa berhenti
+İçeri giren dublördü. Asıl adam birazdan geliyor — sabır.	Yang masuk tadi pemeran pengganti. Orang aslinya sebentar lagi datang — sabar.
+Cevdet Aydemir	Hartawan Gunadi
+Armatör	Pemilik Kapal
+Kır saç, bıyık, gri smokin ve papyon. Eşi kırmızı elbiseli.	Rambut beruban, kumis, tuksedo abu-abu dan dasi kupu-kupu. Istrinya bergaun merah.
+Cevdet Aydemir'i gala gecesinde etkisiz hale getir	Lumpuhkan Hartawan Gunadi di malam gala
+Kırmızı halıda vur	Tembak di karpet merah
+Dublöre ve davetlilere dokunma	Jangan sentuh pemeran pengganti dan para undangan
+MİTİNG	RAPAT UMUM
+Saat Kulesi Meydanı	Alun-alun Menara Jam
+Başsavcı bugün Baran hakkında iddianameyi açıklıyor. Onu öldürmek isteyen tek kişi değiliz bu sefer — onu korumak bizim işimiz.	Hari ini Jaksa Agung membacakan dakwaan terhadap Wijaya. Kali ini bukan cuma kita yang ingin dia mati — tugas kita melindunginya.
+Başsavcı Nermin Arslan, meydandaki halk buluşmasında Baran'a açılan davayı anlatacak. Baran onu konuşturmamak için iki kişi tuttu: meydanı yukarıdan gören bir keskin nişancı ve kalabalığa karışmış silahlı biri.\n\nNişancıyı önce bul. Dikkat: bir atış yaparsan namlu alevini görür ve sana döner. Savcı konuşmasını bitirip sahneden inene kadar hayatta kalmalı.	Jaksa Agung Sri Wahyuni akan memaparkan kasus terhadap Wijaya di pertemuan publik di alun-alun. Wijaya menyewa dua orang agar dia tak sempat bicara: seorang sniper yang mengawasi alun-alun dari atas dan seorang bersenjata yang berbaur di keramaian.\n\nTemukan sniper itu dulu. Hati-hati: begitu kamu menembak, dia melihat kilatan moncong dan berbalik ke arahmu. Jaksa harus tetap hidup sampai selesai bicara dan turun dari panggung.
+Keskin nişancının dürbünü güneşi yakaladıkça parlar. Sana nişan alırsa kırmızı halka dolmadan onu indir. Kalabalıktaki adam silah çekince kolundan vurursan silahını düşürür.	Teropong sniper berkilau setiap kali menangkap matahari. Jika dia membidikmu, jatuhkan dia sebelum lingkaran merah penuh. Saat pria di keramaian menarik senjata, tembak lengannya, senjatanya jatuh.
+Susturuculu tüfekle nişancı seni daha geç fark eder	Dengan senapan berperedam, sniper lebih lambat menyadarimu
+İstihbarat: meydanı yukarıdan gören bir nişancı ve kalabalıkta silahlı biri var	Intel: ada sniper yang mengawasi alun-alun dari atas dan orang bersenjata di keramaian
+Nermin Arslan	Sri Wahyuni
+BAŞSAVCI	JAKSA AGUNG
+Başsavcı — konuşması bitene kadar koru	Jaksa Agung — lindungi sampai pidatonya selesai
+Başsavcıyı konuşması bitene kadar koru	Lindungi Jaksa Agung sampai pidatonya selesai
+Kuledeki Nişancı	Sniper di Menara
+Siyah gömlek, güneş gözlüğü — saat kulesinin çan katında	Kemeja hitam, kacamata hitam — di lantai lonceng menara jam
+Kalabalıktaki Adam	Pria di Keramaian
+Siyah kapüşonlu, kırmızı bere, sakallı	Hoodie hitam, kupluk merah, berjanggut
+Nişancıyı ve silahlıyı durdur	Hentikan sniper dan orang bersenjata
+Nişancıyı ve silahlıyı durdur  	Hentikan sniper dan orang bersenjata  
+Kalabalıkta biri öne doğru itiliyor — silahı var!	Seseorang mendesak ke depan di keramaian — dia bersenjata!
+Bir dürbün parladı! Savcıya nişan alıyorlar — bul onu!	Ada teropong berkilau! Mereka membidik jaksa — temukan dia!
+Kuledeki nişancı seni vurdu	Sniper di menara menembakmu
+Meydanı tepeden gören her yere bak. Bir nişancı varsa dürbünü güneşte parlar.	Periksa setiap tempat yang memandang alun-alun dari atas. Jika ada sniper, teropongnya berkilau terkena matahari.
+Başsavcı	Jaksa Agung
+Gri takım, küt kesim saç. Sahnede, kürsüde konuşuyor.	Setelan abu-abu, rambut bob. Berpidato di podium di atas panggung.
+Nişancıyı ve kalabalıktaki silahlıyı bul ve durdur (bonus)	Temukan dan hentikan sniper dan orang bersenjata di keramaian (bonus)
+Başsavcıyı koru	Lindungi Jaksa Agung
+Kimse nişan alamadan ikisini de durdur	Hentikan keduanya sebelum ada yang sempat membidik
+Kalabalığa zarar verme	Jangan celakai keramaian
+İSKELE	JETI
+Kordon vapur iskelesi	Dermaga feri Pantai Cempaka
+Muhasebeci sabah vapurundan inecek. Müşteri onu canlı istiyor: bacağından.	Si akuntan akan turun dari feri pagi. Klien mau dia hidup: tembak kakinya.
+Ertan Koç, Baran'ın bütün hesaplarını bilen muhasebeci. Sabah vapuruyla şehre geliyor, iskeleden yürüyüp taksiye binecek ve havalimanına gidecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, taksi durağında bekleyen ekibimiz koşup onu alsın. Baran da onu izletiyor: muhasebeci yere düştüğü an susturmak için birini gönderecek.	Fajar Nugroho, akuntan yang tahu semua rekening Wijaya. Dia tiba di kota dengan feri pagi, berjalan dari dermaga, naik taksi, lalu ke bandara.\n\nKlien mau dia HIDUP: tembak kakinya, biar tim kita yang menunggu di pangkalan taksi berlari menjemputnya. Wijaya juga mengawasinya: begitu si akuntan tumbang, dia akan mengirim orang untuk membungkamnya.
+Vapurdan inen kalabalıkta herkesi tara. Muhasebeci yere düşünce Baran'ın adamı motosikletle promenattan gelir: silah çekmeden önce onu durdur.	Pindai semua orang di keramaian yang turun dari feri. Begitu si akuntan tumbang, orang Wijaya datang dengan motor dari promenade: hentikan dia sebelum menarik senjata.
+Muhasebeci taksiyle kaçtı	Si akuntan kabur dengan taksi
+Muhasebeciyi BACAĞINDAN vur — ölmemeli	Tembak KAKI si akuntan — dia tak boleh mati
+Vapurda — iskeleye yanaşıyor	Di feri — merapat ke dermaga
+CANLI  ·  VAPUR İSKELESİ	LANGSUNG  ·  DERMAGA FERI
+Gri tişört, kırmızı bere — Baran'ın tetikçisi	Kaus abu-abu, kupluk merah — pembunuh bayaran Wijaya
+Bekleyen Adam	Pria yang Menunggu
+Gri ceket — tramvay durağında, silahlı	Jaket abu-abu — di halte trem, bersenjata
+Baran'ın adamlarını durdur	Hentikan orang-orang Wijaya
+Baran'ın adamlarını durdur  	Hentikan orang-orang Wijaya  
+Ekibin ulaşmasına	Sampai tim tiba
+Muhasebeci yerde! Ekip koşuyor — 	Si akuntan tumbang! Tim berlari — 
+ saniye. Baran'ın adamı da yolda!	 detik. Orang Wijaya juga dalam perjalanan!
+Tramvay durağındaki gri ceketli de Baran'ın adamı — muhasebeciye gidiyor!	Pria berjaket abu-abu di halte trem juga orang Wijaya — menuju si akuntan!
+Tehlike geçti — ekip koşuyor!	Bahaya lewat — tim berlari!
+Ekip muhasebeciyi aldı!	Tim sudah menjemput si akuntan!
+Vapur yanaşıyor. Muhasebeci elinde siyah bir evrak çantasıyla inecek.	Feri merapat. Si akuntan akan turun membawa tas kerja hitam.
+Ertan Koç	Fajar Nugroho
+Kahverengi deri mont, kot pantolon, gözlük. Elinde siyah evrak çantası.	Jaket kulit cokelat, celana jins, kacamata. Membawa tas kerja hitam.
+Ekip gelene kadar onu Baran'ın adamlarından koru	Lindungi dia dari orang-orang Wijaya sampai tim datang
+Muhasebeciyi canlı teslim et	Serahkan si akuntan hidup-hidup
+Baran'ın adamları nişan alamasın	Jangan biarkan orang Wijaya sempat membidik
+YAĞMUR	HUJAN
+Saat Kulesi Meydanı — çeşme	Alun-alun Menara Jam — air mancur
+ÇİFT HEDEF	TARGET GANDA
+İkisi de şemsiye altında. Biri düştüğü an öteki kaçar — ikinci atışın hazır olsun.	Keduanya di bawah payung. Begitu satu tumbang, yang lain kabur — siapkan tembakan kedua.
+Gazeteci Selin Ay'ı öldüren tetikçi Erol Kaya, nam-ı diğer Çakal, bu gece parasını alacak. Parayı getiren, cinayet dosyasını kapatan Komiser Tuncay Er.\n\nYağmurda, çeşmenin başında buluşacaklar. İkisi de bu işin bedelini ödeyecek. Biri vurulduğu an öteki aracına koşar: Komiser'in arabası Plaza Sokak'ta, Çakal'ın motosikleti meydanın köşesinde. Sana yarı otomatik bir tüfek ve termal dürbün veriyoruz.	Pembunuh bayaran yang membunuh jurnalis Intan Permata, Rudi Hermawan, alias Si Jakal, malam ini akan menerima bayarannya. Yang membawa uang adalah Komisaris Teguh Mulyadi, yang menutup berkas pembunuhan itu.\n\nMereka akan bertemu di dekat air mancur, di tengah hujan. Keduanya akan membayar perbuatan ini. Begitu satu tertembak, yang lain lari ke kendaraannya: mobil Komisaris di Jalan Cempaka, motor Si Jakal di sudut alun-alun. Kami memberimu senapan semi-otomatis dan teropong termal.
+Şemsiyeler yukarıdan bakınca başı saklar ama kurşunu durdurmaz. Termal dürbün yağmurda vücut ısısını gösterir. Yarı otomatik tüfekle sürgü çekmeden ikinci atışı yaparsın.	Dari atas, payung menutupi kepala tapi tak menahan peluru. Teropong termal menampilkan panas tubuh di tengah hujan. Dengan senapan semi-otomatis kamu bisa menembak kedua kalinya tanpa menarik bolt.
+Ödünç: FIRTINA DMR (yarı otomatik) ve termal dürbün	Pinjaman: BADAI DMR (semi-otomatis) dan teropong termal
+Komiser arabasıyla kaçtı	Komisaris kabur dengan mobilnya
+Çakal motosikletle kaçtı	Si Jakal kabur dengan motor
+Komiser çeşmenin başında bekliyor. Çakal meydanın güneyinden geliyor — kırmızı şemsiyeli.	Komisaris menunggu di dekat air mancur. Si Jakal datang dari selatan alun-alun — berpayung merah.
+Biri düştüğü an öteki koşar. İkisini de aynı anda görebileceğin yeri bekle.	Begitu satu tumbang, yang lain lari. Tunggu posisi saat kamu bisa melihat keduanya sekaligus.
+Erol Kaya	Rudi Hermawan
+Çakal	Si Jakal
+Siyah kapüşonlu, kırmızı bere, sakallı. Kırmızı şemsiye.	Hoodie hitam, kupluk merah, berjanggut. Payung merah.
+Tuncay Er	Teguh Mulyadi
+Lacivert polo, kep, bıyıklı. Siyah şemsiye.	Polo biru dongker, topi, berkumis. Payung hitam.
+Çakal'ı etkisiz hale getir	Lumpuhkan Si Jakal
+Komiser Tuncay Er'i etkisiz hale getir	Lumpuhkan Komisaris Teguh Mulyadi
+İkisini 4 saniye içinde vur	Tembak keduanya dalam 4 detik
+İkisini de kafadan vur	Tembak kepala keduanya
+HELİPAD	HELIPAD
+Palas Oteli çatısı	Atap Hotel Mutiara
+Demirel'i almaya bir helikopter geliyor. Kapısı kapandığı an iş biter.	Helikopter datang menjemput Halim. Begitu pintunya tertutup, semuanya berakhir.
+Tolga Demirel, eski özel kuvvetler subayı, Baran'ın güvenlik şefi. Sana ve ekibimize karşı yürütülen her şeyi o planlıyor. Bu akşam Palas Oteli'nin çatısından helikopterle şehirden çıkacak.\n\nHelikopter piste indikten sonra Demirel iki korumasıyla çatı kapısından çıkıp yürüyecek. Mesafe uzun ve çatıda rüzgar sert. Helikopterin motorunu önceden vurursan yerde kalır: Demirel binaya geri döner — ama o yürüyüş açıkta geçer.	Reza Halim, mantan perwira pasukan khusus, kepala keamanan Wijaya. Dialah yang merancang semua operasi melawanmu dan tim kita. Sore ini dia akan meninggalkan kota dengan helikopter dari atap Hotel Mutiara.\n\nSetelah helikopter mendarat, Halim keluar dari pintu atap bersama dua pengawal dan berjalan. Jaraknya jauh dan angin di atap kencang. Tembak mesin helikopter lebih dulu, helikopter tertahan di darat: Halim kembali ke gedung — tapi jalan pulangnya terbuka.
+Uzun atışta rüzgar okuna ve kurşun düşüşüne dikkat. Helikopterin gövdesine iki isabet motoru durdurur; patlayıcı mermi tek atışta yeter.	Pada tembakan jauh, perhatikan panah angin dan turunnya peluru. Dua tembakan ke badan helikopter menghentikan mesinnya; peluru peledak cukup sekali tembak.
+Otelin çatısının batı köşesinde dürbünlü biri var. Dürbün sana dönünce eğil — ya da önce onu indir.	Ada orang berteropong di sudut barat atap hotel. Merunduklah saat teropongnya mengarah padamu — atau jatuhkan dia lebih dulu.
+Binada — çatıya çıkacak	Di gedung — akan naik ke atap
+Demirel helikopterle kaçtı	Halim kabur dengan helikopter
+Demirel çatıya çıktı!	Halim keluar ke atap!
+Demirel binaya geri döndü	Halim kembali ke gedung
+Motor durdu — helikopter yerde kaldı!	Mesin mati — helikopter tertahan di darat!
+Güzel! Helikopter gitmiyor. Demirel binaya dönecek — yürürken yakala!	Bagus! Helikopter tak bisa pergi. Halim akan kembali ke gedung — sergap dia saat berjalan!
+CANLI  ·  PALAS HELİPADI	LANGSUNG  ·  HELIPAD HOTEL MUTIARA
+Helikopter denizden geliyor. Demirel inişten sonra çatı kapısından çıkacak.	Helikopter datang dari laut. Halim akan keluar dari pintu atap setelah mendarat.
+Tolga Demirel	Reza Halim
+Güvenlik Şefi	Kepala Keamanan
+Kel, sakallı, güneş gözlüklü. Siyah kruvaze takım.	Botak, berjanggut, berkacamata hitam. Setelan double-breasted hitam.
+Tolga Demirel'i helikoptere binmeden etkisiz hale getir	Lumpuhkan Reza Halim sebelum dia naik helikopter
+Helikopteri havalanmadan yere çak	Tahan helikopter di darat sebelum lepas landas
+SON PERDE	BABAK TERAKHIR
+Palas Oteli — çatı katı	Hotel Mutiara — penthouse
+Baran biliyor. Çatıda bir nişancısı, bir projektörü ve bekleyen bir helikopteri var. Bu gece bitiyor.	Wijaya tahu. Di atap ada sniper, lampu sorot, dan helikopter yang menunggu. Malam ini semuanya berakhir.
+Kenan Baran. Limandaki kaçakçılık, kirli para, satın alınmış polisler, susturulan tanıklar: hepsinin arkasındaki adam. Bu gece Palas Oteli'nin çatı katında, cam duvarların ardında küçük bir parti veriyor.\n\nBaran bizi bekliyor. Çatıda projektörle damları tarayan bir adam ve bir keskin nişancı var: ışık seni bulursa nişancı sana döner. Ateş edersen Baran merdivenden çatıya, bekleyen helikoptere koşar. Bu son iş — temiz bitir.	Hendra Wijaya. Penyelundupan di pelabuhan, uang kotor, polisi bayaran, saksi yang dibungkam: dialah orang di balik semuanya. Malam ini dia menggelar pesta kecil di penthouse Hotel Mutiara, di balik dinding kaca.\n\nWijaya menunggu kita. Di atap ada orang yang memindai atap-atap dengan lampu sorot dan seorang sniper: jika cahaya menemukanmu, sniper berbalik ke arahmu. Kalau kamu menembak, Wijaya lari lewat tangga ke atap, ke helikopter yang menunggu. Ini pekerjaan terakhir — selesaikan dengan bersih.
+Önce çatıdaki nişancıyı bul: dürbünü yeşil parlar. Projektör ışığı üzerine gelince nişancı sana nişan alır. Cam duvarlar mermiyi durdurmaz.	Temukan sniper di atap dulu: teropongnya berkilau hijau. Saat cahaya lampu sorot mengenaimu, sniper membidikmu. Dinding kaca tak menahan peluru.
+Çatıda projektör ve bir karşı nişancı var — ışık seni bulmadan onu bul	Ada lampu sorot dan sniper lawan di atap — temukan dia sebelum cahaya menemukanmu
+Kenan Baran'ı etkisiz hale getir	Lumpuhkan Hendra Wijaya
+Baran helikopterle kaçtı	Wijaya kabur dengan helikopter
+Palas'ın çatısında, korkuluğun arkasında	Di atap Mutiara, di balik pagar pembatas
+PROJEKTÖR ÜZERİNDE — GÖRÜLDÜN!	LAMPU SOROT MENGENAIMU — KAMU TERLIHAT!
+Projektör damları tarıyor, sana yaklaşıyor! Işık seni bulmadan nişancıyı indir.	Lampu sorot memindai atap, makin dekat padamu! Jatuhkan sniper sebelum cahaya menemukanmu.
+Baran binaya geri döndü	Wijaya kembali ke gedung
+Merdivende — çatıya çıkıyor	Di tangga — naik ke atap
+Baran çatıya kaçıyor — helikoptere!	Wijaya lari ke atap — ke helikopter!
+Helikopter yerde kaldı!	Helikopter tertahan di darat!
+BARAN	WIJAYA
+Biliyorum oradasın, tetikçi. Bu camların ardında bana dokunamazsın.	Aku tahu kau di sana, pembunuh bayaran. Di balik kaca ini kau tak bisa menyentuhku.
+Telsizini dinliyoruz. Çatıda projektör ve bir nişancı var — önce onu bul.	Kami menyadap radionya. Di atap ada lampu sorot dan seorang sniper — temukan dia dulu.
+Baran düştü. Bitti... Şehir artık nefes alabilir.	Wijaya tumbang. Selesai... Kota ini akhirnya bisa bernapas.
+Kenan Baran	Hendra Wijaya
+Gümüş saç ve sakal, koyu takım, kırmızı kravat.	Rambut dan janggut perak, setelan gelap, dasi merah.
+Çatıdaki nişancı sana nişan alamasın	Jangan biarkan sniper di atap sempat membidikmu
+Davetlilere zarar verme	Jangan celakai para undangan
+Buluşmanın bitmesine	Sampai pertemuan selesai
+Buluşma başladı	Pertemuan dimulai
+Kurşun siperine çarptı — nişancı başını kaldırmanı bekliyor	Peluru mengenai perlindunganmu — sniper menunggumu mengangkat kepala
+Iskaladı — nişancı yeniden nişan alıyor	Dia meleset — sniper membidik lagi
+Nişancı yine aşağıya nişan alıyor!	Sniper membidik ke bawah lagi!
+Seni gördü! Ateş etmeden onu indir — ya da siperine eğil!	Dia melihatmu! Jatuhkan dia sebelum menembak — atau merunduk di balik perlindungan!
+2 sözleşme tamamla	Selesaikan 2 kontrak
+3 kafadan vuruş yap	Lakukan 3 tembakan kepala
+250 m'den uzak bir isabet	Kena dari jarak lebih dari 250 m
+Alarm vermeden bir iş bitir	Selesaikan satu pekerjaan tanpa alarm
+S derecesi al	Raih peringkat S
+5 yıldız topla	Kumpulkan 5 bintang
+2 zırhlı adamı sustur	Bungkam 2 orang berzirah
+VETERAN olarak bir iş bitir	Selesaikan satu pekerjaan sebagai VETERAN
+Sivillere dokunmadan 2 iş bitir	Selesaikan 2 pekerjaan tanpa mencelakai sipil
+Dürbün, nefes tutma ve ilk atış.	Teropong, menahan napas, dan tembakan pertama.
+MENZİL ayarı: uzak hedefte mermi düşer, sarı çizgilerle tut.	Atur JARAK: pada target jauh peluru turun, bidik pakai garis kuning.
+Dikkat dağıtma: yakınına düşen kurşun ya da araba alarmı hedefi siperden çıkarır.	Pengalih perhatian: peluru yang jatuh di dekatnya atau alarm mobil memancing target keluar dari perlindungan.
+Gece ve gözcü: önce seni görebilecek olanı düşün.	Malam dan pengintai: pikirkan dulu siapa yang bisa melihatmu.
+Hedefi kendin bul. İsabet noktası artık sadece nefes tutarken görünür.	Temukan sendiri targetnya. Titik kena kini hanya terlihat saat menahan napas.
+Hareketli hedef: yürüyüşüne göre önden nişan al.	Target bergerak: bidik di depan sesuai langkahnya.
+Uzun atış ve sert rüzgâr: rüzgâr panelindeki mil değerine göre kaydır.	Tembakan jauh dan angin kencang: geser sesuai nilai mil di panel angin.
+Koruma: kalabalıktaki tetikçileri bul, tanık yaşasın.	Perlindungan: temukan pembunuh di keramaian, saksi harus hidup.
+Canlı yakala: bacaktan vur, öldürme.	Tangkap hidup: tembak kaki, jangan bunuh.
+Karanlık: ışığı kesmek korumaları kör eder.	Gelap: memutus listrik membuat pengawal buta.
+Uyuşturucu iğne: kimse ölmeyecek.	Jarum bius: tak ada yang boleh mati.
+Şehir: isabet noktası yok. Iskalarsan hedef kaçar; iş bitince yerin biliniyorsa çıkış var.	Kota: tanpa titik kena. Meleset, target kabur; jika posisimu ketahuan setelah tugas selesai, ada jalan keluar.
+Dublör: yüze iyi bak, yanlış kişiyi vurursan iş biter.	Pemeran pengganti: perhatikan wajahnya, salah tembak orang, tamat.
+Karşı nişancı: önce o seni bulmasın.	Sniper lawan: jangan sampai dia menemukanmu duluan.
+Çift hedef: biri düşünce öteki kaçar, ikinci atış hazır olsun.	Target ganda: begitu satu tumbang, yang lain kabur, siapkan tembakan kedua.
+Zaman penceresi: helikopterin kapısı kapanınca iş biter.	Celah waktu: begitu pintu helikopter tertutup, semuanya berakhir.
+Dağ: rüzgâr sert ve değişken. Paneldeki yön ve gücü izle, dindiği anı bekle.	Gunung: angin kencang dan berubah-ubah. Perhatikan arah dan kekuatan di panel, tunggu saat reda.
+Kaza: kurşun değil, çığ.	Kecelakaan: bukan peluru, tapi longsor.
+Tipi: termal dürbün olmadan göremezsin.	Badai salju: tanpa teropong termal kamu tak bisa melihat.
+Ses örtüsü: havai fişek patlarken atış duyulmaz.	Kedok suara: saat kembang api meledak, tembakan tak terdengar.
+HAFİF	RINGAN
+ORTA	SEDANG
+SERT	KENCANG
+FIRTINA	BADAI
+LİMAN	PELABUHAN
+Konteyner limanı	Pelabuhan kontainer
+Kaçakçılar, silah tüccarları ve rüşvet ağı. Her şey limanda başladı.	Penyelundup, pedagang senjata, dan jaringan suap. Semuanya dimulai di pelabuhan.
+Liman kuruluyor	Menyiapkan pelabuhan
+ŞEHİR MERKEZİ	PUSAT KOTA
+ŞEHİR OPERASYONU	OPERASI KOTA
+Örgütün parası ve koruyucuları şehirde. Opera, gökdelen, otel — ve deniz kıyısında bir meydan.	Uang dan para pelindung organisasi ada di kota. Opera, pencakar langit, hotel — dan alun-alun di tepi laut.
+Şehir kuruluyor	Menyiapkan kota
+Liman'da 6. görevi bitir	Selesaikan misi ke-6 di Pelabuhan
+KARTAL TEPE	BUKIT RAJAWALI
+DAĞ OPERASYONU	OPERASI GUNUNG
+Kartal Tepe Kayak Merkezi	Resor Ski Bukit Rajawali
+Örgütün konseyi karlı bir dağ otelinde toplanıyor. Teleferik, dağ evleri, donmuş göl — ve tipi.	Dewan organisasi berkumpul di hotel gunung bersalju. Kereta gantung, pondok gunung, danau beku — dan badai salju.
+Dağ kuruluyor	Menyiapkan gunung
+Şehirde 16. görevi bitir	Selesaikan misi ke-16 di Kota
+Başlatılıyor	Memulai
+Hazırlanıyor	Menyiapkan
+Hazır	Siap
+Ceset suya gömüldü — kimse bulamayacak	Mayat tenggelam ke dalam air — tak akan ada yang menemukannya
+Bu paket için {0} elmas gerekiyor, sende {1} var.	Paket ini butuh {0} permata, kamu punya {1}.
+{0} kuşanıldı. Cephanelikte seni bekliyor.	{0} terpasang. Sudah menunggumu di gudang senjata.
+{0} satın alım geri yüklendi.	{0} pembelian dipulihkan.
+Bugün {0} / {1} hakkın kaldı	Sisa {0} / {1} kesempatan hari ini
+{0}. GÜN	HARI {0}
+{0} Z. DELİCİ	{0} AP
+TAKTİK HARİTA  ·  GÖREV {0}  ·  {1}	PETA TAKTIS  ·  MISI {0}  ·  {1}
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     <color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#46C8F2>●</color> Posisi tembak     <color=#FF4545>●</color> Area target     <color=#FFFFFF>- -</color> Rute diketahui     Lingkaran: tiap 100 m dari sarang utama     Atas: arah pandang sarang utama
+ZORLUK  {0}/10	KESULITAN  {0}/10
+Bu iş {0} olmadan yapılamaz. Cephaneliğe git?	Pekerjaan ini tak bisa tanpa {0}. Ke gudang senjata?
+Bu sözleşme için önerilen güç {0}, {1} şu an {2}.\nGeliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	Power yang disarankan untuk kontrak ini {0}, {1} saat ini {2}.\nKamu bisa mencoba tanpa upgrade, tapi musuh berzirah dan target jauh akan menyulitkan.
+<b><color=#E8B04A>YENİ:</color></b> {0}\n{1}	<b><color=#E8B04A>BARU:</color></b> {0}\n{1}
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n{0}	<b><color=#FFB21E>VETERAN:</color></b> tanpa titik kena, angin lebih kencang dan berubah-ubah, senapan lebih goyang, target tak ditandai. Hadiah ×1,5.\n{0}
+BÖLÜM {0}	BAB {0}
+GÖREV {0}  ·  {1}	MISI {0}  ·  {1}
+TÜFEK:  {0}   <size=26><color={1}>GÜÇ {2}</color><color=#6B7682>  /  önerilen {3}</color></size>	SENAPAN:  {0}   <size=26><color={1}>POWER {2}</color><color=#6B7682>  /  disarankan {3}</color></size>
+   ·   Verilen: {0}	   ·   Diberikan: {0}
+GÖREV {0} · {1}	MISI {0} · {1}
+Baran'ın kasası: {0}	Brankas Wijaya: {0}
++{0} ELMAS	+{0} PERMATA
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.{0}	Kontrak tak selesai — tak ada bayaran.\nKamu bisa mengulang pekerjaan yang sama; apa yang salah terlihat di atas.{0}
+Bu iş için önerilen güç {0}, senin tüfeğin {1}. Geliştir ya da {2} hemen güçlen.	Power yang disarankan untuk pekerjaan ini {0}, senapanmu {1}. Upgrade atau langsung jadi lebih kuat {2}.
++{0} TP	+{0} XP
+TELAFİ +{0}	KOMPENSASI +{0}
+GÖREV {0}	MISI {0}
+{0}Rüzgâr {1} m/s   ·   {2}\nZORLUK {3}/10{4}	{0}Angin {1} m/s   ·   {2}\nKESULITAN {3}/10{4}
+Önerilen güç <b>{0}</b>   ·   Tüfeğin <color={1}><b>{2}</b></color>	Power disarankan <b>{0}</b>   ·   Senapanmu <color={1}><b>{2}</b></color>
+Yenisi {0} sa {1} dk sonra	Yang baru dalam {0} j {1} mnt
+{0} · {1}  —  VETERAN kurallarıyla	{0} · {1}  —  dengan aturan VETERAN
+Güç {0} / {1}	Power {0} / {1}
+Görev aralarındaki reklamları {0} karşılığında sonsuza dek kaldır. Hediye: {1} elmas.	Hapus iklan di antara misi selamanya hanya dengan {0}. Hadiah: {1} permata.
+{0} için {1} elmas gerekiyor, sende {2} var.	{0} butuh {1} permata, kamu punya {2}.
+{0} {1} elmasla hemen senin olsun mu?	{0} seharga {1} permata, ambil sekarang?
+SEVİYE {0} GEREKLİ	BUTUH LEVEL {0}
+Son kademe (elmasla) {0}. seviyede açılır. Sözleşmelerden tecrübe kazan.	Tier terakhir (dengan permata) terbuka di level {0}. Kumpulkan pengalaman dari kontrak.
+Bu geliştirme için {0} eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.\nBugün {1} hakkın var.	Upgrade ini kurang {0}. Tonton video singkat, kekurangan uangnya ditutup dan upgrade langsung dilakukan.\nHari ini kamu punya {1} kesempatan.
+Son kademe {0} elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	Tier terakhir {0} permata. Beli permata di toko atau kumpulkan dari hadiah harian.
+Bu geliştirme {0}. Sözleşmelerden para kazan ya da mağazaya bak.	Upgrade ini {0}. Dapatkan uang dari kontrak atau lihat toko.
+GÜÇ <color=#FFB21E>{0}</color>   ·   {1}	POWER <color=#FFB21E>{0}</color>   ·   {1}
+{0}   ·   {1} ★ ile açılır	{0}   ·   {1} ★ untuk membuka
+{0}  <color=#46C8F2>EN ÜST</color>	{0}  <color=#46C8F2>TERATAS</color>
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> {0}. kademe ya da zırh delici mermi gerekir.	Untuk menembus tubuh orang berzirah kamu butuh <color=#FFB21E>DAMAGE</color> tier {0} atau peluru penembus zirah.
+SATIN AL   {0}	BELI   {0}
+{0} ★ YA DA   	{0} ★ ATAU   
+{0} ELMASLA AL	{0} PERMATA
+{0} yıldızla açılır	{0} bintang untuk membuka
+SATIN AL  {0}	BELI  {0}
+YÜKSELT  {0}	TINGKATKAN  {0}
+YER DEĞİŞTİRİYORSUN\n<size=30>{0}  ·  {1} sn</size>	PINDAH POSISI\n<size=30>{0}  ·  {1} dtk</size>
+KURŞUN KAMERASI  ·  {0}	KAMERA PELURU  ·  {0}
+“{0}” — sözleşme hedefi	“{0}” — target kontrak
+Yaralı — {0}	Terluka — {0}
+KEŞİF  ·  {0} / {1} tehdit tarandı	RECON  ·  {0} / {1} ancaman terpindai
+TELSİZ  {0},{1} sn	RADIO  {0},{1} dtk
+Yıldız kaçtı: {0}	Bintang terlewat: {0}
+SÖZLEŞME {0}  ·  {1}{2}	KONTRAK {0}  ·  {1}{2}
+{0}  <size=24><color=#A3AEB9>·  SEVİYE {1}</color></size>	{0}  <size=24><color=#A3AEB9>·  LEVEL {1}</color></size>
+{0} / {1} TP	{0} / {1} XP
+{0}   ·   SEVİYE {1}	{0}   ·   LEVEL {1}
+AÇILDI:  {0}	TERBUKA:  {0}
+ÖDÜLLÜ TEST REKLAMI  ·  {0}	IKLAN UJI BERHADIAH  ·  {0}
+TEST REKLAMI  ·  her {0} görevde bir	IKLAN UJI  ·  setiap {0} misi sekali
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	Kamu tak punya nama. Tentara mencatatmu tewas tiga tahun lalu. KONTROL menemukanmu di rumah sakit militer dan memberi satu tawaran: hancurkan jaringan penyelundupan di pelabuhan, dan masa lalumu dihapus.\n\nSetiap kontrak adalah sebuah nama. Setiap nama adalah jalan menuju nama berikutnya.
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\nBu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	Pelabuhan sudah runtuh, tapi uang terus mengalir. Nomor terakhir di ponsel Viktor Krasnov mengarah ke Menara Cempaka: Grup Wijaya.\n\nKali ini targetnya berjas. Di tengah keramaian, di balik dinding kaca, di samping polisi.
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	Berkas dari brankas Wijaya memberi lima nama: Dewan. Lima orang yang bertahun-tahun mendanai dan melindungi Wijaya, dan menghabiskan pekan tahun baru setiap tahun di Bukit Rajawali.\n\nDi antara berkas itu ada satu tanda tangan lagi. Tanda tangan yang kamu kenal.
+Vuruldun — {0}	Kamu tertembak — {0}
+Üç tetikçiyi de durdur  {0}/3	Hentikan ketiga pembunuh  {0}/3
+{0} fişek	{0} peluru
+Bu açıdan {0} görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	Dari sudut ini {0} tak terlihat. Pindah ke tempat lain dengan PINDAH POSISI.
+{0} silahlı adam mevzi alıyor — yuvanı arıyorlar!	{0} orang bersenjata mengambil posisi — mereka mencari sarangmu!
+Etkisiz hale getir: {0}	Lumpuhkan: {0}
+{0} öldürüldü	{0} terbunuh
+İsabet — {0} atış daha	Kena — {0} tembakan lagi
+YENİ HEDEF: {0}	TARGET BARU: {0}
+SİLAHLI ADAM BULUNDU: {0}	ORANG BERSENJATA DITEMUKAN: {0}
+HEDEF DOĞRULANDI: {0}	TARGET TERVERIFIKASI: {0}
+KİMLİK DOĞRULANDI: {0}	IDENTITAS TERVERIFIKASI: {0}
+YENİ YER: {0}	POSISI BARU: {0}
+Dron bölgeyi taradı — {0} kişi tanımlandı	Drone memindai area — {0} orang teridentifikasi
+{0} öldü!	{0} tewas!
+{0} hedef kaldı	{0} target tersisa
+{0} yaralandı — artık yürüyemiyor	{0} terluka — tak bisa berjalan lagi
+{0} bayıldı — güvenli yere ulaşamaz	{0} pingsan — tak bisa mencapai tempat aman
+ISKALADIN — {0} KAÇIYOR!	MELESET — {0} KABUR!
+Sana ateş edenleri sustur  ·  {0} kaldı	Bungkam yang menembakmu  ·  {0} tersisa
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — {0} silahlı var, hepsini sustur. Gerekirse siper al.	Target tumbang tapi posisimu ketahuan. Jangan biarkan ada yang mengejarmu — {0} orang bersenjata, bungkam semuanya. Berlindung kalau perlu.
+Yıldız hedefleri  ×{0}	Target bintang  ×{0}
+Uzak atış  ·  {0} m	Tembakan jauh  ·  {0} m
+Keşif  ·  {0}/{1} tehdit	Recon  ·  {0}/{1} ancaman
+Sivil kaybı  ×{0}	Korban sipil  ×{0}
+Yaralı sivil  ×{0}	Sipil terluka  ×{0}
+Tekrar oynanış  ×%{0}	Main ulang  ×%{0}
+Tetikçileri durdur  {0}/2	Hentikan para pembunuh  {0}/2
+Kurye yerde! Ekip yolda — {0} saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	Kurir tumbang! Tim dalam perjalanan — {0} detik. Orang-orang organisasi akan mencoba membungkamnya, dan mereka juga akan keluar dari gudang!
+Korumalar temiz. Tekne geliyor — {0} saniye.	Pengawal beres. Perahu datang — {0} detik.
+Nişancıyı ve silahlıyı durdur  {0}/2	Hentikan sniper dan orang bersenjata  {0}/2
+Baran'ın adamlarını durdur  {0}/2	Hentikan orang-orang Wijaya  {0}/2
+Muhasebeci yerde! Ekip koşuyor — {0} saniye. Baran'ın adamı da yolda!	Si akuntan tumbang! Tim berlari — {0} detik. Orang Wijaya juga dalam perjalanan!
+{0} ELMAS	{0} PERMATA
+Kimyager: {0}	Si Kimiawan: {0}
+Toplam: {0}	Total: {0}
+SV {0}	LV {0}
+Hedef: {0}{1}	Target: {0}{1}
+HEDEF:  {0}	TARGET:  {0}
+{0} vuruldu!	{0} tertembak!
+Kullanım Koşulları (EULA)	Ketentuan Penggunaan (EULA)
+Gizlilik Politikası	Kebijakan Privasi
+Oyunu beğendin mi?	Suka game ini?
+PUANLA	BERI NILAI
+BURAYA	DI SINI
+Önce dürbünü aç.	Buka teropong dulu.
+EĞİTİM	LATIHAN
+Yakınlaştır: soldaki kaydırıcıyı yukarı it ya da iki parmakla ekranı aç.	Perbesar: dorong slider di kiri ke atas atau renggangkan dua jari di layar.
+Halka boşalmadan ateş et: nefes biterse nişan titrer.	Tembak sebelum lingkaran kosong: kalau napas habis, bidikan goyang.
+Kırmızı nokta merminin ineceği yeri gösterir.	Titik merah menunjukkan tempat peluru akan kena.
+Kırmızı halka: bu adam sana nişan alıyor!	Lingkaran merah: orang ini sedang membidikmu!
+Halka dolmadan onu vur ya da SİPER'e eğil.	Tembak dia sebelum lingkaran penuh, atau BERLINDUNG.
+Vuruluyorsun! SİPER tuşuna bas: duvarın arkasına eğil.	Kamu kena tembak! Tekan BERLINDUNG: merunduk di balik tembok.
+Siperde can yenilenir.	Saat berlindung, darahmu pulih.
+Ateş kesilince dürbünle doğrul ve karşılık ver: önce sana nişan alanı vur.	Saat tembakan berhenti, bangkit dengan teropong dan balas tembak: jatuhkan dulu yang membidikmu.
+Hedef {0} m uzakta. Mermi yol boyunca düşer.	Target berjarak {0} m. Peluru turun sepanjang lintasan.
+Kırmızı nokta merminin ineceği yer: nişangahın {0} cm altında. Kafaya nişan alırsan ıskalarsın.	Titik merah adalah tempat peluru kena: {0} cm di bawah bidikan. Kalau membidik kepala, kamu akan meleset.
+MENZİL'i hedefin mesafesine getir: + tuşuna bas.	Samakan JARAK dengan jarak target: tekan +.
+MENZİL'i hedefin mesafesine getir: − tuşuna bas.	Samakan JARAK dengan jarak target: tekan −.
+MENZİL {0} m  ·  hedef {1} m	JARAK {0} m  ·  target {1} m
+Tam ayar! Nokta nişangaha döndü.	Pas! Titiknya kembali ke bidikan.
+Uzak hedefte önce mesafeyi oku, MENZİL'i ona getir, sonra ateş et.	Pada target jauh, baca jaraknya dulu, samakan JARAK, lalu tembak.
+Hedef yürüyor: mermi oraya varana kadar o da ilerler.	Target berjalan: sampai peluru tiba, dia sudah bergeser.
+Nişangahı yürüdüğü yöne, mavi halkanın üzerine al.	Arahkan bidikan ke arah langkahnya, di atas lingkaran biru.
+İşte bu! Önünde kal ve ateş et.	Begitu! Tetap di depannya dan tembak.
+Koşan adamda pay daha büyük, duran adamda hiç yok.	Yang berlari perlu bidikan lebih jauh ke depan, yang diam tidak sama sekali.
+Rüzgâr mermiyi yana iter. Yönü ve gücü bu panelde.	Angin mendorong peluru ke samping. Arah dan kekuatannya ada di panel ini.
+Bak: rüzgâr mermiyi {0} cm sağa götürüyor.	Lihat: angin membawa peluru {0} cm ke kanan.
+Bak: rüzgâr mermiyi {0} cm sola götürüyor.	Lihat: angin membawa peluru {0} cm ke kiri.
+Kırmızı nokta merminin ineceği yer.	Titik merah adalah tempat peluru kena.
+Rüzgâra karşı tut: nişangahı {0} mil sola kaydır.	Lawan angin: geser bidikan {0} mil ke kiri.
+Rüzgâra karşı tut: nişangahı {0} mil sağa kaydır.	Lawan angin: geser bidikan {0} mil ke kanan.
+Sarı noktalar 1 mil aralıklı. Kırmızı nokta hedefe gelince ateş et.	Titik kuning berjarak 1 mil. Tembak saat titik merah sampai di target.
+Tam üstünde! Şimdi ateş et.	Tepat di atasnya! Tembak sekarang.
+Rüzgâr dinip artar: ateşten önce paneldeki değere bir daha bak.	Angin reda lalu menguat lagi: cek lagi nilai di panel sebelum menembak.
+Bu işte kimse ölmeyecek: bu tuşla İĞNE'ye geç.	Tak ada yang boleh mati di tugas ini: ganti ke JARUM dengan tombol ini.
+Mermi seçici: her basış bir sonraki türü takar.	Pemilih peluru: setiap ditekan, jenis berikutnya terpasang.
+İğne yavaş uçar ve çok düşer: biraz yukarı nişan al.	Jarum terbang lambat dan banyak turun: bidik sedikit lebih tinggi.
+Kırmızı nokta iğnenin ineceği yeri gösterir.	Titik merah menunjukkan tempat jarum akan kena.
+Zırhlı adam! Gövdesine mermi işlemez.	Musuh berzirah! Peluru tak tembus tubuhnya.
+Bu tuşla ZIRH DELİCİ'ye geç ya da kafasına nişan al.	Ganti ke PENEMBUS ZIRAH dengan tombol ini, atau bidik kepalanya.
+Kafasına nişan al. Zırh delici mermiyi cephanelikten alabilirsin.	Bidik kepalanya. Peluru penembus zirah bisa kamu dapat di gudang senjata.
+Yerin belli oldu. YER DEĞİŞTİR: yeni yerde seni kimse bilmez.	Posisimu ketahuan. PINDAH POSISI: di tempat baru, tak ada yang tahu keberadaanmu.
+Taşınırken dünya durmaz: hedef kaçmadan dön.	Dunia tak berhenti saat kamu pindah: kembali sebelum target kabur.
+Bu yüz dosyadakiyle aynıysa İŞARETLE — HEDEF BU.	Kalau wajah ini cocok dengan berkas, tekan TANDAI — INI TARGETNYA.
+Emin değilsen basma: yanlış kişiyi vurmak işi bitirir.	Kalau ragu, jangan tekan: salah tembak orang, tugas berakhir.
+Karanlıkta gece görüşü kullan: bu tuşla modu değiştir.	Dalam gelap, pakai night vision: ganti mode dengan tombol ini.
+Termal dürbünde insanlar beyaz parlar: sis ve kar arkasında bile.	Di teropong termal, orang tampak putih menyala: bahkan di balik kabut dan salju.
+DRON'u gönder: bölgeyi tarar, tehditleri işaretler.	Kirim DRONE: memindai area dan menandai ancaman.
+Her sözleşmede bir kez.	Sekali per kontrak.
+Son anda kıpırdadı. Nişanı tazele, tekrar dene.	Dia bergerak di detik terakhir. Bidik ulang, coba lagi.
+Siperine takıldı. Açığa çıkmasını bekle ya da başka açıdan dene.	Kena perlindungannya. Tunggu dia muncul atau coba dari sudut lain.
+Iska: {0} cm alçak.	Meleset: {0} cm terlalu rendah.
+Iska: {0} cm yüksek.	Meleset: {0} cm terlalu tinggi.
+Iska: {0} cm solda.	Meleset: {0} cm ke kiri.
+Iska: {0} cm sağda.	Meleset: {0} cm ke kanan.
+Mermi düştü: hedef {0} m, MENZİL {1}. MENZİL'i hedefin mesafesine getir.	Peluru turun: target {0} m, JARAK {1}. Samakan JARAK dengan jarak target.
+Fazla yüksek: hedef {0} m, MENZİL {1}. MENZİL'i düşür.	Terlalu tinggi: target {0} m, JARAK {1}. Turunkan JARAK.
+Arkasından geçti: yürüdüğü yöne daha önden nişan al.	Lewat di belakangnya: bidik lebih jauh ke depan, searah langkahnya.
+Önünden geçti: payı biraz azalt.	Lewat di depannya: kurangi sedikit bidikan ke depan.
+Rüzgâr sağa itti: biraz sola tut.	Angin mendorongnya ke kanan: bidik sedikit ke kiri.
+Rüzgâr sola itti: biraz sağa tut.	Angin mendorongnya ke kiri: bidik sedikit ke kanan.
+Nefesini tut: nişan sabitlenince ateş et.	Tahan napas: tembak saat bidikan stabil.
+Nişangahı vücudun ortasına al.	Arahkan bidikan ke tengah badan.
+Sabır: hedef dışarı çıkana kadar bekle, nefesini tut ve kafaya nişan al.	Sabar: tunggu sampai target keluar, tahan napas, dan bidik kepala.
+MENZİL ayarı: uzak hedefte mermi düşer. Dikkat dağıtma: yakına düşen kurşun hedefi açığa çıkarır.	Atur JARAK: pada target jauh peluru turun. Pengalih perhatian: peluru yang jatuh di dekatnya memancing target keluar.
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.{0}	Toko sedang tidak tersedia. Periksa koneksi internetmu dan coba lagi sebentar lagi.{0}
+GEÇ	LEWATI
+Yer seviyesi — siper arkası	Di tanah — di balik perlindungan
+Alçak mevzi — yakın çatı	Posisi rendah — atap terdekat
+Orta yükseklik	Ketinggian sedang
+Hedeflerle aynı seviyede ve yakın. Net atış, ama seni de çabuk görürler.	Dekat, sejajar dengan target. Tembakan bersih, tapi mereka juga cepat melihatmu.
+Birkaç kat yukarıda: yakın ve geniş açı.	Beberapa lantai di atas: dekat dengan pandangan luas.
+Sahaya yukarıdan ama yakından bakar.	Melihat area dari atas, tapi dari dekat.
+Dil  ·  Language	Bahasa  ·  Language

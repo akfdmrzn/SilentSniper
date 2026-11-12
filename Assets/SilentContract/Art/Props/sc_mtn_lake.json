@@ -1,0 +1,41 @@
+{
+ "id": "sc_mtn_lake",
+ "category": "level",
+ "tris": 64,
+ "tris_src": 64,
+ "size": [
+  126.48,
+  0.0,
+  81.6
+ ],
+ "center": [
+  -150.0,
+  -1.55,
+  112.0
+ ],
+ "materials": [
+  {
+   "name": "shared__mtn_ice",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "shared__mtn_ice_albedo.jpg",
+   "normal": null,
+   "ms": "shared__mtn_ice_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_ice",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "Silent Contract (procedural)",
+ "tags": []
+}

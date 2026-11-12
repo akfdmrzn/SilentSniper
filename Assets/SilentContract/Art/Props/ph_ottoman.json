@@ -1,0 +1,39 @@
+{
+ "id": "ph_ottoman",
+ "category": "prop",
+ "tris": 1200,
+ "tris_src": 4240,
+ "size": [
+  0.885,
+  0.624,
+  0.621
+ ],
+ "center": [
+  0.0,
+  0.312,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_ottoman__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_ottoman_m0_albedo.jpg",
+   "normal": "ph_ottoman_m0_normal.jpg",
+   "ms": "ph_ottoman_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

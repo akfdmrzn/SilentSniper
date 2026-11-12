@@ -1,0 +1,136 @@
+{
+ "id": "sc_sts_crane_red",
+ "category": "structure",
+ "tris": 3262,
+ "tris_src": 3262,
+ "size": [
+  23.8,
+  77.579,
+  118.366
+ ],
+ "center": [
+  0.2,
+  38.81,
+  -35.008
+ ],
+ "materials": [
+  {
+   "name": "sc_sts_crane_red__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "sc_sts_crane_red_m0_albedo.jpg",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "crane3_stripe",
+   "window": false
+  },
+  {
+   "name": "sc_sts_crane_red__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "sc_sts_crane_red_m1_albedo.jpg",
+   "normal": "sc_sts_crane_red_m1_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "crane3_dark",
+   "window": false
+  },
+  {
+   "name": "sc_sts_crane_red__m2",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.45,
+   "albedo": "sc_sts_crane_red_m2_albedo.jpg",
+   "normal": "sc_sts_crane_red_m2_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "crane3_paint_red",
+   "window": false
+  },
+  {
+   "name": "sc_sts_crane_red__m3",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "albedo": "sc_sts_crane_red_m3_albedo.jpg",
+   "normal": "sc_sts_crane_red_m3_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "crane3_house",
+   "window": false
+  },
+  {
+   "name": "sc_sts_crane_red__m4",
+   "color": [
+    0.05,
+    0.08,
+    0.1,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.92,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "crane3_glass",
+   "window": false
+  },
+  {
+   "name": "sc_sts_crane_red__m5",
+   "color": [
+    0.9,
+    0.85,
+    0.7,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "crane3_lamp",
+   "window": false,
+   "emission": [
+    6.0,
+    5.1,
+    3.6
+   ]
+  }
+ ],
+ "lods": 1,
+ "collider": "custom",
+ "static": true,
+ "credit": "Silent Contract (procedural, Poly Haven CC0 textures)",
+ "tags": []
+}

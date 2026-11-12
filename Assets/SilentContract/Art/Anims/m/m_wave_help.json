@@ -1,0 +1,16 @@
+{
+ "name": "m_wave_help",
+ "frames": 152,
+ "fps": 30,
+ "length": 5.0333,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Wave_for_Help.glb",
+ "tags": [
+  "gesture"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

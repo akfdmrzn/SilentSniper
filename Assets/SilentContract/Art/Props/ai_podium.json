@@ -1,0 +1,41 @@
+{
+ "id": "ai_podium",
+ "category": "prop",
+ "tris": 4000,
+ "tris_src": 6441,
+ "size": [
+  0.553,
+  1.25,
+  0.573
+ ],
+ "center": [
+  0.0,
+  0.625,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_podium__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ai_podium_m0_albedo.jpg",
+   "normal": "ai_podium_m0_normal.jpg",
+   "ms": "ai_podium_m0_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 2,
+ "collider": "box",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

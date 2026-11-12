@@ -1,0 +1,12 @@
+{
+ "name": "m_run2",
+ "frames": 24,
+ "fps": 30,
+ "length": 0.7667,
+ "loop": true,
+ "speed": 3.7199,
+ "source": "35_22.bvh",
+ "tags": [
+  "run"
+ ]
+}

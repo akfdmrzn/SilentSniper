@@ -1,0 +1,17 @@
+{
+ "name": "f_death_blown",
+ "frames": 81,
+ "fps": 30,
+ "length": 2.6667,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Shot_and_Blown_Back.glb",
+ "tags": [
+  "death",
+  "ho=1.13"
+ ],
+ "offset": [
+  0.7059,
+  -3.7526
+ ]
+}

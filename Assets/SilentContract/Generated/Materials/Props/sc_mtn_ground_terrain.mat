@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: sc_mtn_ground_terrain
+  m_Shader: {fileID: 4800000, guid: d11111377e3ee4735b3174000d347adc, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AOTex:
+        m_Texture: {fileID: 2800000, guid: 775beb7bf0c6f4d12b38812e61cf37e8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: a12e528b738464d59853f1832dcb37e9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 35fe401de41ec4b79bb47440627239eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RockBump:
+        m_Texture: {fileID: 2800000, guid: 7d75854bf513149b9a3c23d33e9809f3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RockTex:
+        m_Texture: {fileID: 2800000, guid: b1ff17272c83f421b929cdf91189bc39, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AOStrength: 1
+    - _RockTile: 0.55
+    - _Sparkle: 0.8
+    m_Colors:
+    - _AORect: {r: -300, g: 20, b: 0.0016666667, a: 0.0033333334}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ForestFloor: {r: 0.6, g: 0.65, b: 0.72, a: 1}
+    - _RockColor: {r: 1, g: 1, b: 1, a: 1}
+    - _SnowFar: {r: 0.9, g: 0.92, b: 0.95, a: 1}
+    - _TrodColor: {r: 0.78, g: 0.8, b: 0.8399999, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

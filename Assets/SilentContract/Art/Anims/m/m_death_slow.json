@@ -1,0 +1,17 @@
+{
+ "name": "m_death_slow",
+ "frames": 133,
+ "fps": 30,
+ "length": 4.4,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Shot_and_Slow_Fall_Backward.glb",
+ "tags": [
+  "death",
+  "ho=2.63"
+ ],
+ "offset": [
+  0.8753,
+  -0.7101
+ ]
+}

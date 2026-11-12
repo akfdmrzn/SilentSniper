@@ -1,0 +1,16 @@
+{
+ "name": "m_fall_down",
+ "frames": 69,
+ "fps": 30,
+ "length": 2.2667,
+ "loop": false,
+ "speed": 0.0,
+ "source": "falling_down.glb",
+ "tags": [
+  "fall"
+ ],
+ "offset": [
+  -0.611,
+  -0.7751
+ ]
+}

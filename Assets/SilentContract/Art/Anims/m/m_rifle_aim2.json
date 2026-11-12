@@ -1,0 +1,16 @@
+{
+ "name": "m_rifle_aim2",
+ "frames": 10,
+ "fps": 30,
+ "length": 0.3,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Gun_Hold_Left_Turn.glb",
+ "tags": [
+  "combat"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

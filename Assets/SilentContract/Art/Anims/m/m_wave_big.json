@@ -1,0 +1,16 @@
+{
+ "name": "m_wave_big",
+ "frames": 161,
+ "fps": 30,
+ "length": 5.3333,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Big_Wave_Hello.glb",
+ "tags": [
+  "gesture"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

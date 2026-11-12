@@ -1,0 +1,13 @@
+{
+ "name": "m_rifle_walk_fire",
+ "frames": 97,
+ "fps": 30,
+ "length": 3.2,
+ "loop": true,
+ "speed": 0.2854,
+ "source": "Walk_Forward_While_Shooting.glb",
+ "tags": [
+  "walk",
+  "combat"
+ ]
+}

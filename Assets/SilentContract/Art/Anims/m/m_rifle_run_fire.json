@@ -1,0 +1,13 @@
+{
+ "name": "m_rifle_run_fire",
+ "frames": 20,
+ "fps": 30,
+ "length": 0.6333,
+ "loop": true,
+ "speed": 2.2778,
+ "source": "Run_and_Shoot.glb",
+ "tags": [
+  "run",
+  "combat"
+ ]
+}

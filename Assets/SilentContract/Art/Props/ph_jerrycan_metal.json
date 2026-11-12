@@ -1,0 +1,39 @@
+{
+ "id": "ph_jerrycan_metal",
+ "category": "prop",
+ "tris": 1499,
+ "tris_src": 20022,
+ "size": [
+  0.35,
+  0.455,
+  0.172
+ ],
+ "center": [
+  0.0,
+  0.228,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_jerrycan_metal__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_jerrycan_metal_m0_albedo.jpg",
+   "normal": "ph_jerrycan_metal_m0_normal.jpg",
+   "ms": "ph_jerrycan_metal_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

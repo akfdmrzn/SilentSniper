@@ -1,0 +1,16 @@
+{
+ "name": "m_pistol_roll",
+ "frames": 101,
+ "fps": 30,
+ "length": 3.3333,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Forward_Roll_and_Fire.glb",
+ "tags": [
+  "combat"
+ ],
+ "offset": [
+  1.4458,
+  2.5132
+ ]
+}

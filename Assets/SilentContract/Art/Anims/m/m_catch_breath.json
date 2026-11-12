@@ -1,0 +1,16 @@
+{
+ "name": "m_catch_breath",
+ "frames": 211,
+ "fps": 30,
+ "length": 7.0,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Catching_Breath.glb",
+ "tags": [
+  "idle"
+ ],
+ "offset": [
+  0.5439,
+  5.3491
+ ]
+}

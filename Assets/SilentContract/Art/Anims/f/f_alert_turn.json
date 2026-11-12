@@ -1,0 +1,16 @@
+{
+ "name": "f_alert_turn",
+ "frames": 84,
+ "fps": 30,
+ "length": 2.7667,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Alert_Quick_Turn_Right.glb",
+ "tags": [
+  "react"
+ ],
+ "offset": [
+  -0.0095,
+  0.002
+ ]
+}

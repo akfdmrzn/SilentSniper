@@ -1,0 +1,13 @@
+{
+ "name": "m_idle_arms",
+ "frames": 181,
+ "fps": 30,
+ "length": 6.0,
+ "loop": true,
+ "speed": 0.0,
+ "source": "111_28.bvh",
+ "tags": [
+  "idle",
+  "guard"
+ ]
+}

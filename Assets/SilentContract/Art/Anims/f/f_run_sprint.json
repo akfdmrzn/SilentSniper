@@ -1,0 +1,12 @@
+{
+ "name": "f_run_sprint",
+ "frames": 17,
+ "fps": 30,
+ "length": 0.5333,
+ "loop": true,
+ "speed": 4.0221,
+ "source": "Lean_Forward_Sprint.glb",
+ "tags": [
+  "run"
+ ]
+}

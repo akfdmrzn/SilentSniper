@@ -1,0 +1,41 @@
+{
+ "id": "ai_speakers",
+ "category": "prop",
+ "tris": 5000,
+ "tris_src": 7876,
+ "size": [
+  2.308,
+  3.199,
+  2.272
+ ],
+ "center": [
+  0.0,
+  1.599,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_speakers__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.012,
+   "smoothness": 0.639,
+   "albedo": "ai_speakers_m0_albedo.jpg",
+   "normal": "ai_speakers_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 2,
+ "collider": "box",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

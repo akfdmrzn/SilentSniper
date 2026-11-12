@@ -1,0 +1,26 @@
+{
+ "id": "baran",
+ "gender": "m",
+ "tris": 24607,
+ "height": 1.86,
+ "materials": [
+  {
+   "name": "baran_opaque",
+   "albedo": "baran_albedo.jpg",
+   "normal": "baran_normal.jpg",
+   "ms": "baran_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "baran",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

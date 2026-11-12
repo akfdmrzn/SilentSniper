@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "com.google.ads.mobile": "11.5.0",
+    "com.google.external-dependency-manager": "1.2.190",
+    "com.google.firebase.analytics": "file:firebase/com.google.firebase.analytics-14.0.0.tgz",
+    "com.google.firebase.app": "file:firebase/com.google.firebase.app-14.0.0.tgz",
+    "com.google.firebase.crashlytics": "file:firebase/com.google.firebase.crashlytics-14.0.0.tgz",
+    "com.google.firebase.remote-config": "file:firebase/com.google.firebase.remote-config-14.0.0.tgz",
+    "com.revenuecat.purchases-unity": "9.14.0",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.screencapture": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.ugui": "2.0.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "OpenUPM",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.google.external-dependency-manager",
+        "com.revenuecat.purchases-unity",
+        "com.google.ads.mobile"
+      ]
+    }
+  ]
+}

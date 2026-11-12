@@ -1,0 +1,39 @@
+{
+ "id": "ai_speedboat",
+ "category": "vehicle",
+ "tris": 5999,
+ "tris_src": 10815,
+ "size": [
+  2.836,
+  2.796,
+  8.971
+ ],
+ "center": [
+  0.0,
+  1.398,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_speedboat__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ai_speedboat_m0_albedo.jpg",
+   "normal": "ai_speedboat_m0_normal.jpg",
+   "ms": "ai_speedboat_m0_ms.png",
+   "cutout": false,
+   "double_sided": false
+  }
+ ],
+ "lods": 1,
+ "collider": "mesh",
+ "static": false,
+ "credit": "Silent Contract (AI-generated model)",
+ "tags": []
+}

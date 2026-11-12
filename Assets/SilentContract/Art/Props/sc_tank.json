@@ -1,0 +1,95 @@
+{
+ "id": "sc_tank",
+ "category": "structure",
+ "tris": 836,
+ "tris_src": 836,
+ "size": [
+  24.24,
+  19.262,
+  25.017
+ ],
+ "center": [
+  0.0,
+  9.631,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "sc_tank__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "albedo": "sc_tank_m0_albedo.jpg",
+   "normal": "sc_tank_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "tank3_shell",
+   "window": false
+  },
+  {
+   "name": "sc_tank__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.35,
+   "albedo": "sc_tank_m1_albedo.jpg",
+   "normal": "sc_tank_m1_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "tank3_roof",
+   "window": false
+  },
+  {
+   "name": "sc_tank__m2",
+   "color": [
+    0.75,
+    0.12,
+    0.1,
+    1.0
+   ],
+   "metallic": 0.3,
+   "smoothness": 0.5,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "tank_rail",
+   "window": false
+  },
+  {
+   "name": "sc_tank__m3",
+   "color": [
+    0.08,
+    0.32,
+    0.55,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "tank_band",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": true,
+ "credit": "Silent Contract (procedural, Poly Haven CC0 textures)",
+ "tags": []
+}

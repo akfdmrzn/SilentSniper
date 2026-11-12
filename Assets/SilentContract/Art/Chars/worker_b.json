@@ -1,0 +1,26 @@
+{
+ "id": "worker_b",
+ "gender": "m",
+ "tris": 24944,
+ "height": 1.82,
+ "materials": [
+  {
+   "name": "worker_b_opaque",
+   "albedo": "worker_b_albedo.jpg",
+   "normal": "worker_b_normal.jpg",
+   "ms": "worker_b_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "worker_b",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

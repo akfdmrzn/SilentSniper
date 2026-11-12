@@ -1,0 +1,12 @@
+{
+ "name": "m_walk_injured",
+ "frames": 42,
+ "fps": 30,
+ "length": 1.3667,
+ "loop": true,
+ "speed": 0.5878,
+ "source": "Injured_Walk_inplace.glb",
+ "tags": [
+  "walk"
+ ]
+}

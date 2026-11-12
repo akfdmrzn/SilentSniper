@@ -1,0 +1,16 @@
+{
+ "name": "m_rifle_kneel_reload",
+ "frames": 207,
+ "fps": 30,
+ "length": 6.8667,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Kneeling_Reload.glb",
+ "tags": [
+  "combat"
+ ],
+ "offset": [
+  0.0,
+  -0.0
+ ]
+}

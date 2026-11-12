@@ -1,0 +1,39 @@
+{
+ "id": "ai_suv",
+ "category": "vehicle",
+ "tris": 5000,
+ "tris_src": 13919,
+ "size": [
+  2.258,
+  1.951,
+  4.603
+ ],
+ "center": [
+  0.0,
+  0.976,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_suv__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ai_suv_m0_albedo.jpg",
+   "normal": "ai_suv_m0_normal.jpg",
+   "ms": "ai_suv_m0_ms.png",
+   "cutout": false,
+   "double_sided": false
+  }
+ ],
+ "lods": 3,
+ "collider": "box",
+ "static": true,
+ "credit": "Silent Contract (AI-generated model)",
+ "tags": []
+}

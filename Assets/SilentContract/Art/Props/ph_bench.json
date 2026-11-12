@@ -1,0 +1,39 @@
+{
+ "id": "ph_bench",
+ "category": "prop",
+ "tris": 630,
+ "tris_src": 630,
+ "size": [
+  1.165,
+  0.889,
+  0.497
+ ],
+ "center": [
+  0.0,
+  0.445,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_bench__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_bench_m0_albedo.jpg",
+   "normal": "ph_bench_m0_normal.jpg",
+   "ms": "ph_bench_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

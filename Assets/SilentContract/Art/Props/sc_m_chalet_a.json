@@ -1,0 +1,149 @@
+{
+ "id": "sc_m_chalet_a",
+ "category": "struct",
+ "tris": 1692,
+ "tris_src": 1692,
+ "size": [
+  12.8,
+  10.121,
+  11.41
+ ],
+ "center": [
+  0.0,
+  5.061,
+  -0.085
+ ],
+ "materials": [
+  {
+   "name": "shared__mtn_stone",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "shared__mtn_stone_albedo.jpg",
+   "normal": "shared__mtn_stone_normal.jpg",
+   "ms": "shared__mtn_stone_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_stone",
+   "window": false
+  },
+  {
+   "name": "shared__win_res",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__win_res_albedo.png",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "win_res",
+   "window": true
+  },
+  {
+   "name": "shared__frame_wood",
+   "color": [
+    0.22,
+    0.13,
+    0.08,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "frame_wood",
+   "window": false
+  },
+  {
+   "name": "shared__mtn_timber",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.153,
+   "albedo": "shared__mtn_timber_albedo.jpg",
+   "normal": "shared__mtn_timber_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_timber",
+   "window": false
+  },
+  {
+   "name": "shared__mtn_shutter_1",
+   "color": [
+    0.42,
+    0.1,
+    0.08,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_shutter_1",
+   "window": false
+  },
+  {
+   "name": "shared__mtn_balustrade",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__mtn_balustrade_albedo.png",
+   "normal": null,
+   "ms": null,
+   "cutout": true,
+   "double_sided": true,
+   "src": "mtn_balustrade",
+   "window": false
+  },
+  {
+   "name": "shared__mtn_roof_snow",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.195,
+   "albedo": "shared__mtn_roof_snow_albedo.jpg",
+   "normal": "shared__mtn_roof_snow_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "mtn_roof_snow",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "mesh",
+ "static": true,
+ "credit": "",
+ "tags": []
+}

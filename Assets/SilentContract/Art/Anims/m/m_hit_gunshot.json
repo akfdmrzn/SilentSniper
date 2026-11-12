@@ -1,0 +1,16 @@
+{
+ "name": "m_hit_gunshot",
+ "frames": 91,
+ "fps": 30,
+ "length": 3.0,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Gunshot_Reaction.glb",
+ "tags": [
+  "hit"
+ ],
+ "offset": [
+  -0.0401,
+  -0.1181
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "name": "f_wave",
+ "frames": 58,
+ "fps": 30,
+ "length": 1.9,
+ "loop": false,
+ "speed": 0.0,
+ "source": "141_16.bvh",
+ "tags": [
+  "gesture"
+ ]
+}

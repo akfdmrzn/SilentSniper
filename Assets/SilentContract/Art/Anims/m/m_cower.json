@@ -1,0 +1,12 @@
+{
+ "name": "m_cower",
+ "frames": 175,
+ "fps": 30,
+ "length": 5.8,
+ "loop": true,
+ "speed": 0.0,
+ "source": "79_73.bvh",
+ "tags": [
+  "panic"
+ ]
+}

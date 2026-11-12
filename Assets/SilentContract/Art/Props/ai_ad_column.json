@@ -1,0 +1,41 @@
+{
+ "id": "ai_ad_column",
+ "category": "prop",
+ "tris": 4000,
+ "tris_src": 8086,
+ "size": [
+  1.449,
+  3.601,
+  1.449
+ ],
+ "center": [
+  0.0,
+  1.8,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_ad_column__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ai_ad_column_m0_albedo.jpg",
+   "normal": "ai_ad_column_m0_normal.jpg",
+   "ms": "ai_ad_column_m0_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 2,
+ "collider": "box",
+ "static": true,
+ "credit": "AI",
+ "tags": []
+}

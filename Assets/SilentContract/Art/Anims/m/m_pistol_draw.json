@@ -1,0 +1,16 @@
+{
+ "name": "m_pistol_draw",
+ "frames": 236,
+ "fps": 30,
+ "length": 7.8333,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Draw_and_Shoot_from_Back.glb",
+ "tags": [
+  "combat"
+ ],
+ "offset": [
+  0.0,
+  -0.0
+ ]
+}

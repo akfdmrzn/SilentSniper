@@ -1,0 +1,803 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be55cbcf46d62477ebb3e6a3cdede2cf, type: 3}
+  m_Name: AnimBank
+  m_EditorClassIdentifier: Assembly-CSharp::SilentContract.AnimBank
+  entries:
+  - name: alert
+    gender: m
+    clip: {fileID: -623603649343465320, guid: ebc77362dd30c43e8bd4aa2129c837b2, type: 3}
+    loop: 1
+    speed: 0
+    length: 4.0000005
+    tags:
+    - idle
+    offset: {x: -0, y: 0, z: -0}
+  - name: argue
+    gender: m
+    clip: {fileID: -623603649343465320, guid: d58ce7c133ba040e3830f481b082b98a, type: 3}
+    loop: 1
+    speed: 0
+    length: 7.9000006
+    tags:
+    - talk
+    offset: {x: 0, y: 0, z: 0}
+  - name: bow
+    gender: m
+    clip: {fileID: -623603649343465320, guid: b1d097a13d43346f18ec98ef89b98cba, type: 3}
+    loop: 0
+    speed: 0
+    length: 7.666667
+    tags:
+    - gesture
+    offset: {x: -0, y: 0, z: -0}
+  - name: catch_breath
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 12bf65d0b024c45ac986bd610b9db02e, type: 3}
+    loop: 0
+    speed: 0
+    length: 7.0000005
+    tags:
+    - idle
+    offset: {x: 0.5439, y: 0, z: 5.3491}
+  - name: chat
+    gender: m
+    clip: {fileID: -623603649343465320, guid: d67ffb0cf28fd4c3aa3640000b0d0187, type: 3}
+    loop: 1
+    speed: 0
+    length: 5.166667
+    tags:
+    - talk
+    offset: {x: -0, y: 0, z: -0}
+  - name: cheer
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 40c979883308644f49352fc007e38a2b, type: 3}
+    loop: 1
+    speed: 0
+    length: 9.333333
+    tags:
+    - cheer
+    offset: {x: -0, y: 0, z: -0}
+  - name: cheer2
+    gender: m
+    clip: {fileID: -623603649343465320, guid: bf14c6fe0456344e38cb9e03ed4a31e4, type: 3}
+    loop: 1
+    speed: 0
+    length: 2.9333336
+    tags:
+    - cheer
+    offset: {x: -0, y: 0, z: -0}
+  - name: cheer_up
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 38ecb04554f254c5db11bcf0ecba76af, type: 3}
+    loop: 1
+    speed: 0
+    length: 1.8333335
+    tags:
+    - cheer
+    offset: {x: -0, y: 0, z: -0}
+  - name: coffee
+    gender: m
+    clip: {fileID: -623603649343465320, guid: bb354a8cb7b6749d1a3c490941555dc0, type: 3}
+    loop: 1
+    speed: 0
+    length: 9.8
+    tags:
+    - drink
+    offset: {x: 0, y: 0, z: 0}
+  - name: coil_rope
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 69ca037b9ad41414fac016ecef62e39e, type: 3}
+    loop: 1
+    speed: 0
+    length: 12
+    tags:
+    - work
+    offset: {x: 0, y: 0, z: 0}
+  - name: cower
+    gender: m
+    clip: {fileID: -623603649343465320, guid: d3ea8d064b67a437f8263afcd472646b, type: 3}
+    loop: 1
+    speed: 0
+    length: 5.8
+    tags:
+    - panic
+    offset: {x: 0, y: 0, z: 0}
+  - name: crawl
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 238ed8e82742c46d6b29009fad1ed8bf, type: 3}
+    loop: 1
+    speed: 0.4315
+    length: 2.5000002
+    tags:
+    - crawl
+    offset: {x: 0, y: 0, z: 0}
+  - name: dance1
+    gender: m
+    clip: {fileID: -623603649343465320, guid: f410e648fffd04b4c88a5a8c5f252758, type: 3}
+    loop: 1
+    speed: 0
+    length: 6.533334
+    tags:
+    - dance
+    offset: {x: -0, y: 0, z: -0}
+  - name: dance2
+    gender: m
+    clip: {fileID: -623603649343465320, guid: f4afca50518404f0c847f100862d7122, type: 3}
+    loop: 1
+    speed: 0
+    length: 7.0000005
+    tags:
+    - dance
+    offset: {x: -0, y: 0, z: -0}
+  - name: dance3
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 697d5f33758a84738af452a8585f505e, type: 3}
+    loop: 1
+    speed: 0
+    length: 8.133333
+    tags:
+    - dance
+    offset: {x: -0, y: 0, z: -0}
+  - name: drink
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 87bc78b0c049d4aecb30000ca75bb7b0, type: 3}
+    loop: 1
+    speed: 0
+    length: 11.066667
+    tags:
+    - drink
+    offset: {x: 0, y: 0, z: 0}
+  - name: drink_stand
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 951f5e21579da4e0e87c340fe2e155a9, type: 3}
+    loop: 1
+    speed: 0
+    length: 8.866667
+    tags:
+    - idle
+    offset: {x: -0, y: 0, z: -0}
+  - name: duck
+    gender: m
+    clip: {fileID: -623603649343465320, guid: fffa3230e3eb347abaf5898eac46f425, type: 3}
+    loop: 0
+    speed: 0
+    length: 7.0000005
+    tags:
+    - react
+    offset: {x: 0, y: 0, z: 0}
+  - name: fall_down
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 0b4bbc87ef30b45be8e2627272813571, type: 3}
+    loop: 0
+    speed: 0
+    length: 2.266667
+    tags:
+    - fall
+    offset: {x: -0.611, y: 0, z: -0.7751}
+  - name: flashlight
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 2a29dd17441f74e79aa158f1aa70dc2b, type: 3}
+    loop: 1
+    speed: 0
+    length: 3.4
+    tags:
+    - guard
+    offset: {x: 0, y: 0, z: 0}
+  - name: guard_pose
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 1a735a9a9e170469e95a3ffeb7b8ab26, type: 3}
+    loop: 1
+    speed: 0
+    length: 2.8000002
+    tags:
+    - guard
+    offset: {x: 0, y: 0, z: 0}
+  - name: hand_on_gun
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 4eb58cc3f4d0648b6afab413a0889360, type: 3}
+    loop: 1
+    speed: 0
+    length: 6.166667
+    tags:
+    - idle
+    offset: {x: -0, y: 0, z: -0}
+  - name: handshake
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 34b786eaea1ab4c5c941bd05c1a71f91, type: 3}
+    loop: 0
+    speed: 0
+    length: 6.0000005
+    tags:
+    - gesture
+    offset: {x: 0, y: 0, z: 0}
+  - name: hit
+    gender: m
+    clip: {fileID: -623603649343465320, guid: a940ce61119f34a0888945051c64b085, type: 3}
+    loop: 0
+    speed: 0
+    length: 1.6333334
+    tags:
+    - hit
+    offset: {x: -0.5219, y: 0, z: -0.9463}
+  - name: hit_gunshot
+    gender: m
+    clip: {fileID: -623603649343465320, guid: e70e1fd8f08244c4485b745c06c97b75, type: 3}
+    loop: 0
+    speed: 0
+    length: 3.0000002
+    tags:
+    - hit
+    offset: {x: -0.0401, y: 0, z: -0.1181}
+  - name: idle
+    gender: m
+    clip: {fileID: -623603649343465320, guid: b8d1315e57d4940259ab396eebe98dfb, type: 3}
+    loop: 1
+    speed: 0
+    length: 6.6000004
+    tags:
+    - idle
+    offset: {x: 0, y: 0, z: 0}
+  - name: idle2
+    gender: m
+    clip: {fileID: -623603649343465320, guid: a9cdb1d26b0bd43c2aea336cd785ee73, type: 3}
+    loop: 1
+    speed: 0
+    length: 7.0000005
+    tags:
+    - idle
+    offset: {x: 0, y: 0, z: 0}
+  - name: idle_arms
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 0d6d440ab0eae4f66b3e4bffe08c9c25, type: 3}
+    loop: 1
+    speed: 0
+    length: 6.0000005
+    tags:
+    - idle
+    - guard
+    offset: {x: 0, y: 0, z: 0}
+  - name: idle_bus
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 9e97d0187b6924ad7965da0b643cac78, type: 3}
+    loop: 1
+    speed: 0
+    length: 12
+    tags:
+    - idle
+    offset: {x: 0, y: 0, z: 0}
+  - name: idle_look
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 81c8b2e5c0bcb43a096b9c3f0cd271fa, type: 3}
+    loop: 1
+    speed: 0
+    length: 14.066667
+    tags:
+    - idle
+    - guard
+    offset: {x: 0, y: 0, z: 0}
+  - name: idle_shift
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 28aabe6c3896a49ed839cb680da862cd, type: 3}
+    loop: 1
+    speed: 0
+    length: 6.5000005
+    tags:
+    - idle
+    offset: {x: 0, y: 0, z: 0}
+  - name: idle_wait
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 2829b474445eb49ff81c73629e5e2595, type: 3}
+    loop: 1
+    speed: 0
+    length: 11
+    tags:
+    - idle
+    offset: {x: 0, y: 0, z: 0}
+  - name: open_door
+    gender: m
+    clip: {fileID: -623603649343465320, guid: b049cbae256b54e70947d12a24c89415, type: 3}
+    loop: 0
+    speed: 0
+    length: 5.166667
+    tags:
+    - gesture
+    offset: {x: -0.0002, y: 0, z: -0.0001}
+  - name: pain_head
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 3f2669b26372e404291641543aab4cff, type: 3}
+    loop: 1
+    speed: 0
+    length: 3.7000003
+    tags:
+    - pain
+    offset: {x: -0, y: 0, z: -0}
+  - name: pay
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 64e67de5478574cc1a2aa19ce52c7690, type: 3}
+    loop: 1
+    speed: 0
+    length: 6.9000006
+    tags:
+    - gesture
+    offset: {x: 0, y: 0, z: 0}
+  - name: phone_talk
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 0365d26de0fa340438e54e0863a750fd, type: 3}
+    loop: 1
+    speed: 0
+    length: 6.033334
+    tags:
+    - phone
+    offset: {x: 0, y: 0, z: 0}
+  - name: phone
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 8dd68c7c33f394755951783f6e376eaf, type: 3}
+    loop: 1
+    speed: 0
+    length: 6.5000005
+    tags:
+    - phone
+    offset: {x: 0, y: 0, z: 0}
+  - name: phone_conv
+    gender: m
+    clip: {fileID: -623603649343465320, guid: b8713ec47f6024196a5d162ea104adab, type: 3}
+    loop: 1
+    speed: 0
+    length: 4.8333335
+    tags:
+    - phone
+    offset: {x: -0, y: 0, z: -0}
+  - name: pull_gun
+    gender: m
+    clip: {fileID: -623603649343465320, guid: a7d89250c12484398a3a3138505f278e, type: 3}
+    loop: 0
+    speed: 0
+    length: 3.4
+    tags:
+    - guard
+    offset: {x: 0, y: 0, z: 0}
+  - name: rifle_aim
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 070026f6291c442bb82f5686bcd6efff, type: 3}
+    loop: 1
+    speed: 0
+    length: 0.10000001
+    tags:
+    - guard
+    offset: {x: -0, y: 0, z: -0}
+  - name: rifle_kneel
+    gender: m
+    clip: {fileID: -623603649343465320, guid: e47cc32ca1aff4f9e9b1db9586662953, type: 3}
+    loop: 1
+    speed: 0
+    length: 0.10000001
+    tags:
+    - guard
+    offset: {x: -0, y: 0, z: -0}
+  - name: run_panic
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 3a6b76a1b60a3467eb334a783b50daf9, type: 3}
+    loop: 1
+    speed: 5.0087
+    length: 0.6666667
+    tags:
+    - run
+    offset: {x: 0, y: 0, z: 0}
+  - name: run
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 40c20b4b7e7a84d5990767231042d940, type: 3}
+    loop: 1
+    speed: 3.7199
+    length: 0.7666667
+    tags:
+    - run
+    offset: {x: 0, y: 0, z: 0}
+  - name: scheme
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 4bbd128faca074eae8b07cba596ce34e, type: 3}
+    loop: 1
+    speed: 0
+    length: 3.266667
+    tags:
+    - idle
+    offset: {x: -0, y: 0, z: -0}
+  - name: shout
+    gender: m
+    clip: {fileID: -623603649343465320, guid: ce732f9be3de5446992947534adec9dd, type: 3}
+    loop: 1
+    speed: 0
+    length: 7.166667
+    tags:
+    - talk
+    offset: {x: -0, y: 0, z: -0}
+  - name: shrug
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 61293e30d3792478e9340cc571af464e, type: 3}
+    loop: 0
+    speed: 0
+    length: 1.9666667
+    tags:
+    - gesture
+    offset: {x: -0.0002, y: 0, z: -0.0007}
+  - name: signal
+    gender: m
+    clip: {fileID: -623603649343465320, guid: e68865ff01c5f42299931fbbd704f762, type: 3}
+    loop: 1
+    speed: 0
+    length: 13
+    tags:
+    - work
+    offset: {x: 0, y: 0, z: 0}
+  - name: sit_drink
+    gender: m
+    clip: {fileID: -623603649343465320, guid: b7bca88bb72344063848bda892b80943, type: 3}
+    loop: 1
+    speed: 0
+    length: 11.166667
+    tags:
+    - sit
+    offset: {x: -0, y: 0, z: -0}
+  - name: sit_idle
+    gender: m
+    clip: {fileID: -623603649343465320, guid: fd4431336ebb44268a52729c69bda5c4, type: 3}
+    loop: 1
+    speed: 0
+    length: 10.666667
+    tags:
+    - sit
+    offset: {x: -0, y: 0, z: -0}
+  - name: sit_talk
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 307b9e7c46e51444d8852c3e366517d1, type: 3}
+    loop: 1
+    speed: 0
+    length: 9.666667
+    tags:
+    - sit
+    offset: {x: -0, y: 0, z: -0}
+  - name: sleep_desk
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 255e18e74ce124b4f986c35e057319d6, type: 3}
+    loop: 1
+    speed: 0
+    length: 23.833336
+    tags:
+    - sit
+    offset: {x: 0, y: 0, z: -0}
+  - name: smoke
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 7c05109fc987a4aae9cb0008af71e374, type: 3}
+    loop: 1
+    speed: 0
+    length: 8.166667
+    tags:
+    - smoke
+    offset: {x: 0, y: 0, z: 0}
+  - name: sweep
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 9ca4346ff92234329b3766e45e808556, type: 3}
+    loop: 1
+    speed: 0
+    length: 4.2000003
+    tags:
+    - work
+    offset: {x: 0, y: 0, z: 0}
+  - name: talk
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 705f14b52dbb247c68f406720f4815a4, type: 3}
+    loop: 1
+    speed: 0
+    length: 8.5
+    tags:
+    - talk
+    offset: {x: 0, y: 0, z: 0}
+  - name: talk2
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 5218d9b6fac0a4fe5ae5bca4546fbd05, type: 3}
+    loop: 1
+    speed: 0
+    length: 8
+    tags:
+    - talk
+    offset: {x: 0, y: 0, z: 0}
+  - name: talk_open
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 4d93609b0041349fa97eecfade142f33, type: 3}
+    loop: 1
+    speed: 0
+    length: 3.9333336
+    tags:
+    - talk
+    offset: {x: -0, y: 0, z: -0}
+  - name: talk_passion
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 1b650c8ab9af346e5a2682473a78a5ab, type: 3}
+    loop: 1
+    speed: 0
+    length: 10.233334
+    tags:
+    - talk
+    offset: {x: -0, y: 0, z: -0}
+  - name: walk_slow
+    gender: m
+    clip: {fileID: -623603649343465320, guid: b8cecb558c8424c42a2328a15e43a50a, type: 3}
+    loop: 1
+    speed: 0.7927
+    length: 1.5000001
+    tags:
+    - walk
+    offset: {x: 0, y: 0, z: 0}
+  - name: walk
+    gender: m
+    clip: {fileID: -623603649343465320, guid: b20da6ba133454ce6ab83ded0caaa126, type: 3}
+    loop: 1
+    speed: 1.4244
+    length: 1.0333334
+    tags:
+    - walk
+    offset: {x: 0, y: 0, z: 0}
+  - name: walk_careful
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 73fa61849f3ba4a39a263f6a4fc3c78c, type: 3}
+    loop: 1
+    speed: 0.528
+    length: 1.7333335
+    tags:
+    - walk
+    - guard
+    offset: {x: 0, y: 0, z: 0}
+  - name: walk_carry
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 4c2bc9abc9657491090083622c5c3160, type: 3}
+    loop: 1
+    speed: 0.834
+    length: 1.4666668
+    tags:
+    - walk
+    - carry
+    offset: {x: 0, y: 0, z: 0}
+  - name: walk_confident
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 183426aaff6b14618b3c98bd17156985, type: 3}
+    loop: 1
+    speed: 1.0663
+    length: 1.3333335
+    tags:
+    - walk
+    offset: {x: 0, y: 0, z: 0}
+  - name: walk_injured
+    gender: m
+    clip: {fileID: -623603649343465320, guid: d925fcd2e12ce4ff3ae0ddec836cf9dd, type: 3}
+    loop: 1
+    speed: 0.5878
+    length: 1.3666668
+    tags:
+    - walk
+    offset: {x: 0, y: 0, z: 0}
+  - name: walk_limp
+    gender: m
+    clip: {fileID: -623603649343465320, guid: a002eaacf9c374c64b695959d772ded4, type: 3}
+    loop: 1
+    speed: 0.8988
+    length: 1.2
+    tags:
+    - walk
+    offset: {x: 0, y: 0, z: 0}
+  - name: walk_patrol
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 06e3ee24622474775bba4f507200f114, type: 3}
+    loop: 1
+    speed: 2.2138
+    length: 0.93333334
+    tags:
+    - walk
+    - guard
+    offset: {x: 0, y: 0, z: 0}
+  - name: walk_sneaky
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 6137229ebd8764daab4dca3a549a3f15, type: 3}
+    loop: 1
+    speed: 0.4205
+    length: 2.7000003
+    tags:
+    - walk
+    offset: {x: 0, y: 0, z: 0}
+  - name: walk_strut
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 01e5a3accfb5049deb33c5f343ff8cb1, type: 3}
+    loop: 1
+    speed: 1.2157
+    length: 2.6666667
+    tags:
+    - walk
+    offset: {x: 0, y: 0, z: 0}
+  - name: walk_stumble
+    gender: m
+    clip: {fileID: -623603649343465320, guid: c82d1b30c86954a7a8689a3f73d2155e, type: 3}
+    loop: 1
+    speed: 1.2248
+    length: 2.0000002
+    tags:
+    - walk
+    offset: {x: 0, y: 0, z: 0}
+  - name: walk_texting
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 60fb515d53fa14f9aaef64af0a976cff, type: 3}
+    loop: 1
+    speed: 1.5301
+    length: 1.0000001
+    tags:
+    - walk
+    offset: {x: 0, y: 0, z: 0}
+  - name: wave
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 091f4afff50b94f708cfaa99211ce535, type: 3}
+    loop: 0
+    speed: 0
+    length: 1.9000001
+    tags:
+    - gesture
+    offset: {x: 0, y: 0, z: 0}
+  - name: wave_big
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 027557e59686d4c53a294fa03513e210, type: 3}
+    loop: 1
+    speed: 0
+    length: 5.3333335
+    tags:
+    - gesture
+    offset: {x: -0, y: 0, z: -0}
+  - name: wave_help
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 1a098b649f0204abf84f73ea4dc8b322, type: 3}
+    loop: 1
+    speed: 0
+    length: 5.033334
+    tags:
+    - gesture
+    offset: {x: -0, y: 0, z: -0}
+  - name: wounded_prone
+    gender: m
+    clip: {fileID: -623603649343465320, guid: 82bdbe2b902d64aa38f6f25a72c96dd5, type: 3}
+    loop: 1
+    speed: 0
+    length: 18.366669
+    tags:
+    - wounded
+    offset: {x: -0, y: 0, z: -0}
+  - name: wounded_side
+    gender: m
+    clip: {fileID: -623603649343465320, guid: f3b59fec1e40746c7a576dd308a2a408, type: 3}
+    loop: 1
+    speed: 0
+    length: 14.666667
+    tags:
+    - wounded
+    offset: {x: 0, y: 0, z: -0}
+  - name: cower
+    gender: f
+    clip: {fileID: -623603649343465320, guid: 9b5812f134c974287a7d3e66ae00ef08, type: 3}
+    loop: 1
+    speed: 0
+    length: 5.8
+    tags:
+    - panic
+    offset: {x: 0, y: 0, z: 0}
+  - name: drink
+    gender: f
+    clip: {fileID: -623603649343465320, guid: 64e6a3ac29c964584a0e48abfa94e1d8, type: 3}
+    loop: 1
+    speed: 0
+    length: 11.066667
+    tags:
+    - drink
+    offset: {x: 0, y: 0, z: 0}
+  - name: duck
+    gender: f
+    clip: {fileID: -623603649343465320, guid: 0a10c5fdfb7644defa7eb949fc51e9a2, type: 3}
+    loop: 0
+    speed: 0
+    length: 7.0000005
+    tags:
+    - react
+    offset: {x: 0, y: 0, z: 0}
+  - name: idle2
+    gender: f
+    clip: {fileID: -623603649343465320, guid: 0c5c91026564e4d7f93f3acd7b153066, type: 3}
+    loop: 1
+    speed: 0
+    length: 6.5000005
+    tags:
+    - idle
+    offset: {x: 0, y: 0, z: 0}
+  - name: idle
+    gender: f
+    clip: {fileID: -623603649343465320, guid: 4ed2c18735edb4d469c19afc9a9e0cfa, type: 3}
+    loop: 1
+    speed: 0
+    length: 6.6000004
+    tags:
+    - idle
+    offset: {x: 0, y: 0, z: 0}
+  - name: phone_talk
+    gender: f
+    clip: {fileID: -623603649343465320, guid: 9b22473fa1fed4256b8c483428359fd7, type: 3}
+    loop: 1
+    speed: 0
+    length: 6.033334
+    tags:
+    - phone
+    offset: {x: 0, y: 0, z: 0}
+  - name: phone
+    gender: f
+    clip: {fileID: -623603649343465320, guid: cc46b5998caa1496c9e1f3dc7a542cc4, type: 3}
+    loop: 1
+    speed: 0
+    length: 6.5000005
+    tags:
+    - phone
+    offset: {x: 0, y: 0, z: 0}
+  - name: run
+    gender: f
+    clip: {fileID: -623603649343465320, guid: 2ef0a21f32b6e465d9585b27005ff24a, type: 3}
+    loop: 1
+    speed: 2.9389
+    length: 0.7666667
+    tags:
+    - run
+    offset: {x: 0, y: 0, z: 0}
+  - name: run_panic
+    gender: f
+    clip: {fileID: -623603649343465320, guid: 2ef0a21f32b6e465d9585b27005ff24a, type: 3}
+    loop: 1
+    speed: 2.9389
+    length: 0.7666667
+    tags:
+    - run
+    offset: {x: 0, y: 0, z: 0}
+  - name: smoke
+    gender: f
+    clip: {fileID: -623603649343465320, guid: b9a1a6b442ad14203b19eee1332088ad, type: 3}
+    loop: 1
+    speed: 0
+    length: 8.166667
+    tags:
+    - smoke
+    offset: {x: 0, y: 0, z: 0}
+  - name: talk
+    gender: f
+    clip: {fileID: -623603649343465320, guid: 08452616528bb42b78d9f59ba26539a7, type: 3}
+    loop: 1
+    speed: 0
+    length: 8
+    tags:
+    - talk
+    offset: {x: 0, y: 0, z: 0}
+  - name: walk
+    gender: f
+    clip: {fileID: -623603649343465320, guid: 4afa1b00a8a0a43e1b70af6d85090cec, type: 3}
+    loop: 1
+    speed: 0.668
+    length: 1.4000001
+    tags:
+    - walk
+    offset: {x: 0, y: 0, z: 0}
+  - name: wave
+    gender: f
+    clip: {fileID: -623603649343465320, guid: 0459abca9b34f43d88bc5def634eb46d, type: 3}
+    loop: 0
+    speed: 0
+    length: 1.9000001
+    tags:
+    - gesture
+    offset: {x: 0, y: 0, z: 0}

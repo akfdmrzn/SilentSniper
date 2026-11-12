@@ -1,0 +1,1383 @@
+SİPER	OSŁONA
+Sana ateş ediyorlar! SİPER tuşuyla eğil — ateş kesilince doğrul ve kırmızı işaretli nişancıları indir. Yaraların birkaç saniye sonra iyileşir.	Strzelają do ciebie! Schowaj się przyciskiem OSŁONA — gdy ogień ustanie, wychyl się i zdejmij strzelców oznaczonych na czerwono. Rany goją się po kilku sekundach.
+YERİN TESPİT EDİLDİ — SANA ATEŞ EDECEKLER!	NAMIERZYLI CIĘ — ZACZNĄ STRZELAĆ!
+DOĞRUL	WYCHYL SIĘ
+YERİN TESPİT EDİLDİ	NAMIERZYLI CIĘ
+GÖZCÜ SENİ ARIYOR	OBSERWATOR CIĘ SZUKA
+YERİNİ ARIYORLAR	SZUKAJĄ TWOJEJ POZYCJI
+DİKKAT ÇEKİYORSUN	ŚCIĄGASZ UWAGĘ
+Her atış yerini biraz daha belli eder (susturucu daha az). Göz dolarsa yerin tespit edilir ve silahlı adamlar sana ateş eder.	Każdy strzał trochę bardziej zdradza twoją pozycję (z tłumikiem mniej). Gdy oko się zapełni, namierzą cię, a uzbrojeni ludzie otworzą ogień.
+Bir gözcü dürbünle damları tarıyor: dürbün parlaması sana dönerken eğil ya da önce onu indir.	Obserwator przeczesuje dachy lornetką: schowaj się, gdy błysk jego szkieł skieruje się na ciebie, albo zdejmij go pierwszego.
+MAĞAZA	SKLEP
+TEKLİFLER	OFERTY
+SİLAH PAKETLERİ	PAKIETY BRONI
+ELMAS	KLEJNOTY
+NAKİT	GOTÓWKA
+SATIN ALIMLARI GERİ YÜKLE	PRZYWRÓĆ ZAKUPY
+ÜCRETSİZ ELMAS	DARMOWE KLEJNOTY
+İZLE	OBEJRZYJ
+GECE	NOC
+TERMAL	TERMOWIZJA
+ELMAS YETMİYOR	ZA MAŁO KLEJNOTÓW
+Bu paket için 	Ten pakiet kosztuje 
+ elmas gerekiyor, sende 	 klejnotów, a masz 
+ var.	 na koncie.
+ELMAS AL	KUP KLEJNOTY
+PAKET HAZIR	PAKIET GOTOWY
+Tüfek	Karabin
+ kuşanıldı. Cephanelikte seni bekliyor.	 wyposażony. Czeka na ciebie w zbrojowni.
+CEPHANELİK	ZBROJOWNIA
+TAMAM	OK
+SATIN ALINAMADI	ZAKUP NIEUDANY
+KAPAT	ZAMKNIJ
+GERİ YÜKLEME	PRZYWRACANIE
+ satın alım geri yüklendi.	 zakupów przywrócono.
+Geri yüklenecek satın alım bulunamadı.	Nie znaleziono zakupów do przywrócenia.
+ALINDI	ODEBRANO
+Bugün 	Dziś zostało ci 
+ hakkın kaldı	 prób
+Şu an video yok	Brak dostępnych filmów
+TEST SÜRÜMÜ: satın almalar ücretsiz tamamlanır, reklamlar yer tutucudur. Gerçek fiyatlar App Store'dan gelir.	WERSJA TESTOWA: zakupy realizowane są za darmo, reklamy to zaślepki. Prawdziwe ceny pochodzą z App Store.
+GÜNLÜK ÖDÜL	NAGRODA DZIENNA
+Her gün gel, ödülün büyüsün. 7. gün büyük ödül.	Wracaj codziennie, a nagroda będzie rosła. 7. dnia wielka nagroda.
+. GÜN	. DZIEŃ
+ ELMAS	 KLEJNOTÓW
+ Z. DELİCİ	 PP
+2× AL	WEŹ 2×
+TOPLA	ODBIERZ
+VAZGEÇ	ANULUJ
+Dürbünde nişangahı birinin üzerinde tutarak kimliğini tara — masumları vurma.	Trzymaj celownik lunety na osobie, aby zeskanować jej tożsamość — nie strzelaj do niewinnych.
+Nefesini tutarken nişangah sabitlenir, ama nefes çubuğu biterse titreme artar.	Gdy wstrzymujesz oddech, celownik się stabilizuje, ale gdy pasek oddechu się wyczerpie, drżenie rośnie.
+Uzak mesafede kurşun düşer ve rüzgarla kayar. Kırmızı nokta isabet noktasını gösterir.	Na dużym dystansie pocisk opada i znosi go wiatr. Czerwona kropka pokazuje punkt trafienia.
+Bir koruma telsize uzanırsa birkaç saniyen var: onu durdurursan alarm verilmez.	Jeśli ochroniarz sięga po radio, masz kilka sekund: powstrzymaj go, a alarm nie zostanie podniesiony.
+Kafadan vuruşlar ve sivil kayıpsız görevler daha fazla yıldız ve para kazandırır.	Strzały w głowę i kontrakty bez ofiar cywilnych dają więcej gwiazdek i pieniędzy.
+Zırhlı adamların gövdesi kurşun tutar: kafaya nişan al ya da tüfeğinin HASAR'ını geliştir.	Opancerzeni ludzie przyjmują kule na tułów: celuj w głowę albo ulepsz OBRAŻENIA karabinu.
+Iskalama sessiz kalmaz: ikinci boş atış silahlıları yuvana yollar.	Pudło nie przechodzi bez echa: drugi chybiony strzał ściąga uzbrojonych na twoją pozycję.
+Görev, sana ateş eden son silahlı susunca biter. Önce en yakındakini sustur.	Kontrakt kończy się, gdy ucichnie ostatni strzelający do ciebie. Najpierw ucisz najbliższego.
+Cephanelikte her tüfeğin beş hattı var: en üst kademe elmasla açılır.	W zbrojowni każdy karabin ma pięć ścieżek: najwyższy poziom odblokowujesz klejnotami.
+Günün sözleşmesi iki kat para ve elmas öder — her gün yenisi gelir.	Kontrakt dnia płaci podwójnie gotówką i klejnotami — codziennie nowy.
+LİMAN OPERASYONU	OPERACJA PORT
+TAKTİK HARİTA  ·  GÖREV 	MAPA TAKTYCZNA  ·  KONTRAKT 
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     	<color=#46C8F2>●</color> Stanowiska strzeleckie     <color=#FF4545>●</color> Strefa celu     
+<color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#FFFFFF>- -</color> Znane trasy     Pierścienie: co 100 m od głównej pozycji     Góra: kierunek, w który patrzy główna pozycja
+ZORLUK  	TRUDNOŚĆ  
+VETERAN	WETERAN
+HARİTA	MAPA
+HEDEF DOSYASI	AKTA CELU
+SUİKAST	ZAMACH
+TANIMA	ROZPOZNANIE
+BRİFİNG	ODPRAWA
+GÖREV	KONTRAKT
+YILDIZ HEDEFLERİ	CELE GWIAZDEK
+DEĞİŞTİR	ZMIEŃ
+BAŞLA	START
+EKİPMAN GEREKLİ	WYMAGANY SPRZĘT
+Bu iş 	Tej roboty nie da się zrobić bez 
+ ve 	 i 
+ olmadan yapılamaz. Cephaneliğe git?	 — iść do zbrojowni?
+TÜFEĞİN ZAYIF KALABİLİR	KARABIN MOŻE BYĆ ZA SŁABY
+Bu sözleşme için önerilen güç 	Zalecana moc dla tego kontraktu: 
+ şu an 	 — obecnie 
+Geliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	Możesz spróbować bez ulepszenia, ale opancerzeni i dalekie cele dadzą ci w kość.
+GELİŞTİR	ULEPSZ
+YİNE DE BAŞLA	MIMO TO START
+ZIRHLI HEDEFLER	OPANCERZENI
+Bu işte zırhlı silahlılar var; tüfeğinin mermisi gövdeden geçmez.\nKısa bir video izle, 3 zırh delici mermi senin olsun.	W tej robocie są opancerzeni strzelcy; pocisk twojego karabinu nie przebije tułowia.\nObejrzyj krótki film, a 3 pociski przeciwpancerne są twoje.
+İZLE  +3 MERMİ	OBEJRZYJ  +3 PP
+GÜNÜN İŞİ ×2	ROBOTA DNIA ×2
+VETERAN ×1,5	WETERAN ×1,5
+<b><color=#E8B04A>YENİ:</color></b> 	<b><color=#E8B04A>NOWOŚĆ:</color></b> 
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n	<b><color=#FFB21E>WETERAN:</color></b> brak punktu trafienia, wiatr silniejszy i zmienny, karabin bardziej się chwieje, cel nie jest oznaczany. Nagroda ×1,5.\n
+NEREDEN ATEŞ EDECEKSİN?	SKĄD BĘDZIESZ STRZELAĆ?
+Her yerin artısı eksisi var. Görev sırasında iki kez yer değiştirebilirsin.	Każda pozycja ma swoje plusy i minusy. Podczas kontraktu możesz dwa razy zmienić pozycję.
+GERİ	WSTECZ
+DEVAM	DALEJ
+BÖLÜM 	ROZDZIAŁ 
+KORUMA	OCHRONA
+CANLI YAKALA	BRAĆ ŻYWCEM
+SABOTAJ	SABOTAŻ
+YARALA	ZRAŃ
+GÖREV 	KONTRAKT 
+KORUNACAK KİŞİ	OSOBA DO OCHRONY
+HEDEF DOSYASI  ·  CANLI	AKTA CELU  ·  ŻYWY
+•  Hedefi etkisiz hale getir	•  Zneutralizuj cel
+TÜFEK:  	KARABIN:  
+>GÜÇ 	>MOC 
+</color><color=#6B7682>  /  önerilen 	</color><color=#6B7682>  /  zalecana 
+Bu iş için verildi	Przydzielony do tej roboty
+   ·   Verilen: 	   ·   Przydzielono: 
+   ·   <color=#FF8A2B>Zırhlı silahlılar: kafaya nişan al, HASAR geliştir ya da zırh delici al</color>	   ·   <color=#FF8A2B>Opancerzeni strzelcy: celuj w głowę, ulepsz OBRAŻENIA albo weź pociski przeciwpancerne</color>
+AYARLAR	USTAWIENIA
+Nişan hassasiyeti	Czułość celowania
+Kolay nişan (3. yıldız alınmaz)	Łatwe celowanie (bez 3. gwiazdki)
+Kurşun kamerası (son hedefte ağır çekim)	Kamera pocisku (zwolnione tempo przy ostatnim celu)
+Titreşim	Wibracje
+Ses seviyesi	Głośność
+İlerleme	Postęp
+İLERLEMEYİ SIFIRLA	RESETUJ POSTĘP
+İlerleme sıfırlansın mı?	Zresetować postęp?
+Tüm yıldızlar, para ve geliştirmeler silinecek (satın aldıkların ve elmasların kalır). Bu işlem geri alınamaz.	Wszystkie gwiazdki, pieniądze i ulepszenia zostaną usunięte (zakupy i klejnoty zostają). Tej operacji nie można cofnąć.
+SIFIRLA	RESETUJ
+Satın alımlar ve gizlilik	Zakupy i prywatność
+GERİ YÜKLE	PRZYWRÓĆ
+GİZLİLİK	PRYWATNOŚĆ
+Grafik kalitesi	Jakość grafiki
+PERFORMANS	WYDAJNOŚĆ
+DENGELİ	BALANS
+KALİTE	JAKOŚĆ
+KAYNAKLAR VE LİSANSLAR	ŹRÓDŁA I LICENCJE
+Henüz dosyada bir şey yok. İlk sözleşmeyi tamamla.	W aktach jeszcze nic nie ma. Wykonaj pierwszy kontrakt.
+<size=40><color=#E8B04A><b>BÖLÜM 	<size=40><color=#E8B04A><b>ROZDZIAŁ 
+<b>SON</b>\n	<b>KONIEC</b>\n
+Disk KONTROL'de. Kurul'un koltukları yeniden doluyor.	Dysk jest u KONTROLI. Fotele Rady znów się zapełniają.
+Disk savcıda. KONTROL'ün kapısına polis dayandı.	Dysk trafił do prokuratora. Pod drzwiami KONTROLI stoi policja.
+DAVA DOSYASI	AKTA SPRAWY
+DURAKLATILDI	PAUZA
+DEVAM ET	WZNÓW
+YENİDEN BAŞLAT	OD NOWA
+GÖREVDEN ÇIK	PRZERWIJ
+Görevden çıkılsın mı?	Przerwać kontrakt?
+Bu görevdeki ilerlemen kaybolacak.	Stracisz postęp w tym kontrakcie.
+ÇIK	WYJDŹ
+DERECE	OCENA
+YENİ YILDIZ	NOWA GWIAZDKA
+ATIŞ	STRZAŁ
+En uzun atış	Najdłuższy strzał
+Kafadan vuruş	Strzały w głowę
+Süre	Czas
+İsabet	Celność
+KAZANÇ DÖKÜMÜ	ROZLICZENIE
+KAZANÇ	ZAROBEK
+2× KAZANÇ	2× ZAROBEK
+MENÜ	MENU
+TEKRAR	PONÓW
+SONRAKİ GÖREV	NASTĘPNY
+İSTİHBARAT	WYWIAD
+SON	KONIEC
+YİNE KİMSESİZ	ZNÓW SAM
+KENDİ SEÇİMİN	TWÓJ WYBÓR
+Kimyager: 	Chemik: 
+KONTROL'ün hücresinde kayboldu.	zniknął w celi KONTROLI.
+savcılığa ifade verdi; Baran davası onunla başladı.	zeznawał w prokuraturze; od niego zaczęła się sprawa Borowskiego.
+Baran'ın kasası: 	Sejf Borowskiego: 
+para sende, KONTROL bunu biliyor.	pieniądze są u ciebie, a KONTROLA o tym wie.
+dosyaların kopyası Başsavcı Arslan'da.	kopia akt jest u prokurator generalnej Lewickiej.
+Kurul: beş koltuk boşaldı.	Rada: pięć foteli opustoszało.
+KONTROL: yerinde. Yeni bir isim arıyor.	KONTROLA: na swoim miejscu. Szuka nowego nazwiska.
+KONTROL: kapısında polis.	KONTROLA: policja pod drzwiami.
+Toplam: 	Razem: 
+GÖREV TAMAMLANDI	KONTRAKT WYKONANY
+GÖREV BAŞARISIZ	KONTRAKT NIEUDANY
+   ·   VETERAN	   ·   WETERAN
+  <color=#FFB21E>REKOR</color>	  <color=#FFB21E>REKORD</color>
+ÖNCEDEN	WCZEŚNIEJ
+KOLAY NİŞAN	ŁATWE CELOWANIE
+Günün sözleşmesi  ·  elmas	Kontrakt dnia  ·  klejnoty
+İlk S derecesi  ·  elmas	Pierwsza ocena S  ·  klejnoty
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.	Kontrakt niewykonany — brak zapłaty.\nMożesz podjąć tę robotę jeszcze raz; co poszło nie tak, widzisz powyżej.
+\nKısa bir videoyla ücretin bir kısmını telafi alabilirsin.	\nKrótki film da ci rekompensatę części honorarium.
+TEKRAR DENE	SPRÓBUJ ZNÓW
+TÜFEĞİN ZORLANIYOR	KARABIN NIE DAJE RADY
+Bu iş için önerilen güç 	Zalecana moc dla tej roboty: 
+, senin tüfeğin 	, twój karabin: 
+. Geliştir ya da 	. Ulepsz go albo 
+bir silah paketiyle	pakietem broni
+ hemen güçlen.	 wzmocnij się od razu.
+GÜÇLEN	WZMOCNIJ
+ TP	 XP
+TELAFİ +	REKOMPENSATA +
+GÖREVLER	KONTRAKTY
+ANA YUVA	GŁÓWNA POZYCJA
+<color=#36D47C>●</color> Tamamlandı    <color=#FFB21E>●</color> Sıradaki    <color=#6B7682>●</color> Kilitli	<color=#36D47C>●</color> Wykonane    <color=#FFB21E>●</color> Następny    <color=#6B7682>●</color> Zablokowane
+BRİFİNGE GİT	DO ODPRAWY
+Rüzgâr 	Wiatr 
+\nZORLUK 	\nTRUDNOŚĆ 
+   ·   <color=#FF8A2B>ZIRHLI DÜŞMAN</color>	   ·   <color=#FF8A2B>OPANCERZENI WROGOWIE</color>
+Önerilen güç <b>	Zalecana moc <b>
+</b>   ·   Tüfeğin <color=	</b>   ·   Twój karabin <color=
+Önceki görevi tamamla	Wykonaj poprzedni kontrakt
+OYNA	GRAJ
+  ·  TEST MODU: tüm bölümler açık	  ·  TRYB TESTOWY: wszystkie rozdziały otwarte
+  ·  Tek oyunculu keskin nişancı	  ·  Snajper dla jednego gracza
+TEST MODU	TRYB TESTOWY
+Tüm haritalar ve görevler şu an açık. Normal ilerlemeye dönülsün mü?	Wszystkie mapy i kontrakty są teraz otwarte. Wrócić do normalnego postępu?
+Test için bütün haritalar ve görevler açılsın mı? (Ayarlardan ilerleme sıfırlanmaz.)	Otworzyć wszystkie mapy i kontrakty do testów? (Postęp w ustawieniach nie zostanie zresetowany.)
+AÇ	OTWÓRZ
+KAYNAKLAR	ŹRÓDŁA
+SIRADAKİ SÖZLEŞME	NASTĘPNY KONTRAKT
+GÜÇ	MOC
+GÜNLÜK GÖREVLER	ZADANIA DZIENNE
+GÜNÜN SÖZLEŞMESİ  ·  TAMAM	KONTRAKT DNIA  ·  GOTOWE
+GÜNÜN SÖZLEŞMESİ  ·  ×2 ÖDÜL  +10 ELMAS	KONTRAKT DNIA  ·  NAGRODA ×2  +10 KLEJNOTÓW
+Yenisi 	Nowy za 
+ sa 	 h 
+ dk sonra	 min
+  —  VETERAN kurallarıyla	  —  na zasadach WETERANA
+Güç 	Moc 
+Başlangıç paketi	Pakiet startowy
+Ücretsiz elmas	Darmowe klejnoty
+Elmas · Nakit	Klejnoty · Gotówka
+ dosya	 akt
+REKLAMLARDAN SIKILDIN MI?	MASZ DOŚĆ REKLAM?
+Görev aralarındaki reklamları 	Usuń reklamy między kontraktami za 
+ karşılığında sonsuza dek kaldır. Hediye: 	 — na zawsze. W prezencie: 
+ elmas.	 klejnotów.
+REKLAMSIZ OL	BEZ REKLAM
+ŞİMDİ DEĞİL	NIE TERAZ
+TÜFEKLER	KARABINY
+EKİPMAN	SPRZĘT
+MÜHİMMAT	AMUNICJA
+BECERİLER	UMIEJĘTNOŚCI
+Çevirmek için sürükle	Przeciągnij, aby obrócić
+ için 	 za 
+HEMEN AL	KUP TERAZ
+ elmasla hemen senin olsun mu?	 klejnotów — chcesz to od razu?
+AL	KUP
+SEVİYE 	POZIOM 
+ GEREKLİ	 WYMAGANY
+Son kademe (elmasla) 	Ostatni stopień (za klejnoty) odblokujesz na 
+. seviyede açılır. Sözleşmelerden tecrübe kazan.	. poziomie. Zdobywaj doświadczenie w kontraktach.
+AZ KALDI	JUŻ BLISKO
+Bu geliştirme için 	Do tego ulepszenia brakuje ci 
+ eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.	 — obejrzyj krótki film, a brakującą kwotę uzupełnimy i ulepszenie wykona się od razu.
+\nBugün 	\nDziś masz jeszcze 
+ hakkın var.	 prób.
+İZLE VE GELİŞTİR	OBEJRZYJ I ULEPSZ
+PARA YETMİYOR	ZA MAŁO GOTÓWKI
+Son kademe 	Ostatni stopień: 
+ elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	 klejnotów. Kup klejnoty w sklepie albo zbieraj je z nagród dziennych.
+Bu geliştirme 	To ulepszenie kosztuje 
+. Sözleşmelerden para kazan ya da mağazaya bak.	. Zarabiaj w kontraktach albo zajrzyj do sklepu.
+GÜÇ <color=#FFB21E>	MOC <color=#FFB21E>
+<color=#36D47C>KUŞANILDI</color>	<color=#36D47C>WYPOSAŻONY</color>
+SAHİP	POSIADANY
+ ★ ile açılır	 ★ — odblokowanie
+Yarı otomatik	Półautomatyczny
+Sürgülü	Powtarzalny
+   ·   Susturuculu	   ·   Z tłumikiem
+   ·   Duvar deler	   ·   Przebija ściany
+   ·   Siper deler	   ·   Przebija osłony
+  <color=#46C8F2>EN ÜST</color>	  <color=#46C8F2>MAKS.</color>
+SV 	POZ. 
+Satın aldığında beş hatta geliştirebilirsin. En üst kademe <color=#46C8F2>elmasla</color>.	Po zakupie możesz go ulepszać na pięciu ścieżkach. Najwyższy stopień <color=#46C8F2>za klejnoty</color>.
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> 	Aby przebić tułów opancerzonych, potrzebujesz <color=#FFB21E>OBRAŻEŃ</color> na 
+. kademe ya da zırh delici mermi gerekir.	. stopniu albo pocisków przeciwpancernych.
+Bu tüfek zırhlı gövdeyi deler.	Ten karabin przebija opancerzony tułów.
+KUŞANILDI	WYPOSAŻONY
+KUŞAN	WYPOSAŻ
+SATIN AL   	KUP   
+ ★ YA DA   	 ★ LUB   
+ ELMASLA AL	 KLEJNOTÓW
+SAHİPSİN	POSIADASZ
+Görevlerde otomatik takılı	Automatycznie zakładany w kontraktach
+ yıldızla açılır	 gwiazdek — odblokowanie
+SATIN AL  	KUP  
+KİLİTLİ	ZABLOKOWANE
+ adetlik paket	 szt. w pakiecie
+SABİT NİŞAN	STABILNY CEL
+Dürbündeki el titremesi her kademede %17 azalır.	Drżenie rąk w lunecie spada o 17% z każdym stopniem.
+NEFES KONTROLÜ	KONTROLA ODDECHU
+Nefesini daha uzun tutarsın: nişangah daha uzun sabit kalır.	Dłużej wstrzymujesz oddech: celownik dłużej pozostaje stabilny.
+SOĞUKKANLILIK	ZIMNA KREW
+Ateş altında ve yaralıyken titreme her kademede %25 azalır.	Pod ostrzałem i gdy jesteś ranny, drżenie spada o 25% z każdym stopniem.
+ sn	 s
+MAKSİMUM	MAKSIMUM
+YÜKSELT  	ULEPSZ  
+BURAYA ATEŞ ET	STRZEL TUTAJ
+İŞARETLE — HEDEF BU	OZNACZ — TO CEL
+YER DEĞİŞTİR	ZMIEŃ POZYCJĘ
+NEFES	ODDECH
+MENZİL	ZASIĘG
+Geçmek için dokun	Dotknij, aby pominąć
+Hedef: 	Cel: 
+Taşınırken dünya durmaz. Yeni yerde seni kimse bilmez.	Gdy się przemieszczasz, świat się nie zatrzymuje. Na nowej pozycji nikt o tobie nie wie.
+YER DEĞİŞTİRİYORSUN\n<size=30>	ZMIENIASZ POZYCJĘ\n<size=30>
+ sn</size>	 s</size>
+DOSYA	AKTA
+ARANIYOR	POSZUKIWANY
+ETKİSİZ	WYELIMINOWANY
+KAÇTI	UCIEKŁ
+DOĞRULANDI	POTWIERDZONO
+BEKLE…	CZEKAJ…
+NORMAL	NORMALNY
+KURŞUN KAMERASI  ·  	KAMERA POCISKU  ·  
+GECE GÖRÜŞÜ	NOKTOWIZJA
+KAFA	GŁOWA
+KOL	RĘKA
+BACAK	NOGA
+KARIN	BRZUCH
+GÖVDE	TUŁÓW
+Kimliği belirsiz	Tożsamość nieznana
+HEDEF DEĞİL	TO NIE CEL
+TARANDI	ZESKANOWANO
+Masum — ateş etme	Niewinny — nie strzelaj
+Dosyadaki yüzle karşılaştır — emin olunca İŞARETLE	Porównaj z twarzą z akt — gdy masz pewność, OZNACZ
+SİLAHLI	UZBROJONY
+BAYGIN	NIEPRZYTOMNY
+YERDE	POWALONY
+Koru — ona bir şey olmamalı	Chroń — nic nie może mu się stać
+Silahlı — sivil kılığında	Uzbrojony — w cywilnym przebraniu
+Sözleşme hedefi	Cel kontraktu
+” — sözleşme hedefi	” — cel kontraktu
+Silahlı — vurulabilir	Uzbrojony — można strzelać
+Yaralı — 	Ranny — 
+!  NİŞAN ALIYOR	!  CELUJE
+!  SANA ATEŞ EDİYOR	!  STRZELA DO CIEBIE
+GÖZCÜ	OBSERWATOR
+Öldürüldü	Zabity
+Kaçıyor — güvenli yere	Ucieka — w bezpieczne miejsce
+Güvende — gözün üzerinde olsun	Bezpieczny — miej go na oku
+Kimliği doğrulanmadı — dosyadaki yüzü bul	Tożsamość niepotwierdzona — znajdź twarz z akt
+Görüş dışında — bekle	Poza polem widzenia — czekaj
+Baygın	Nieprzytomny
+İğne isabet etti — bayılıyor	Strzałka trafiła — traci przytomność
+Yerde — sürünüyor	Powalony — czołga się
+NİŞAN ALIYOR — HEMEN VUR!	CELUJE — STRZELAJ NATYCHMIAST!
+KAÇIYOR!	UCIEKA!
+Sese doğru bakıyor — fırsat!	Patrzy w stronę dźwięku — okazja!
+Siperin arkasında — dikkatini dağıt	Za osłoną — odwróć jego uwagę
+Kalabalıkta — herkesi dürbünle tara	W tłumie — przeskanuj wszystkich lunetą
+Yaralı	Ranny
+Kimlik doğrulandı	Tożsamość potwierdzona
+Kimliği taranmadı — dürbünle tara	Tożsamość nieskanowana — zeskanuj lunetą
+HEDEF:  	CEL:  
+Sözleşme tamamlandı	Kontrakt wykonany
+Etkisiz hale getir: 	Zneutralizuj: 
+Ateş et: devre dışı bırak	Strzel: unieszkodliw
+Devam ediyor	W toku
+KEŞİF  ·  	ROZPOZNANIE  ·  
+ tehdit tarandı	 zagrożeń przeskanowano
+Fırsat penceresi	Okno okazji
+Bayraklara bak	Patrz na flagi
+Rüzgar yok	Brak wiatru
+Sağa esiyor »	Wieje w prawo »
+« Sola esiyor	« Wieje w lewo
+Karşıdan	Z naprzeciwka
+« Sola tut 	« Bierz w lewo 
+Sağa tut » 	Bierz w prawo » 
+TELSİZ  	RADIO  
+DOLDURULUYOR	PRZEŁADOWANIE
+STANDART	STANDARD
+Yıldız kaçtı: 	Stracona gwiazdka: 
+SÖZLEŞME 	KONTRAKT 
+  ·  VETERAN	  ·  WETERAN
+Kalabalıkta silahlı adam(lar) var — kimliği bilinmiyor	W tłumie są uzbrojeni ludzie — tożsamość nieznana
+Hedef bu bölgede — dosyadaki yüzü bul, emin olunca İŞARETLE	Cel jest w tej strefie — znajdź twarz z akt, a gdy masz pewność, OZNACZ
+HEDEF	CEL
+KORU	CHROŃ
+Ekranı parmağınla sürükleyerek etrafa bak.	Przeciągnij palcem po ekranie, aby się rozejrzeć.
+Sağdaki dürbün tuşuna dokunarak dürbünü aç.	Dotknij przycisku lunety po prawej, aby ją otworzyć.
+Kırmızı işaret hedefi gösterir. Nişangahı hedefin üzerine getir.	Czerwony znacznik pokazuje cel. Nakieruj na niego celownik.
+Nişangahı kişinin üzerinde tut: kimliği taranıyor…	Trzymaj celownik na osobie: trwa skanowanie tożsamości…
+Soldaki NEFES tuşuna basılı tut: nişan sabitlenir.	Przytrzymaj przycisk ODDECH po lewej: celownik się ustabilizuje.
+Hazır! Büyük kırmızı tuşla ateş et.	Gotowe! Strzel dużym czerwonym przyciskiem.
+  <size=24><color=#A3AEB9>·  SEVİYE 	  <size=24><color=#A3AEB9>·  POZIOM 
+SEVİYE ATLADIN!	NOWY POZIOM!
+2× TOPLA	ODBIERZ 2×
+   ·   SEVİYE 	   ·   POZIOM 
+AÇILDI:  	ODBLOKOWANO:  
+GÜN BATIMI	ZACHÓD SŁOŃCA
+GÜNDÜZ	DZIEŃ
+YAĞMURLU	DESZCZ
+YAĞMURLU GECE	DESZCZOWA NOC
+KARLI GÜN	ŚNIEŻNY DZIEŃ
+DAĞDA GÜN BATIMI	ZACHÓD W GÓRACH
+KARLI GECE	ŚNIEŻNA NOC
+TİPİ	ZAMIEĆ
+VİDEO YOK	BRAK FILMU
+Şu an gösterilecek video yok. Biraz sonra tekrar dene.	Nie ma teraz filmu do wyświetlenia. Spróbuj ponownie za chwilę.
+ÖDÜLLÜ TEST REKLAMI  ·  	TESTOWA REKLAMA Z NAGRODĄ  ·  
+TEST REKLAMI  ·  her 	REKLAMA TESTOWA  ·  co 
+ görevde bir	 kontrakty
+Reklam sonunda ödül verilir	Nagroda po zakończeniu reklamy
+Reklamsız paketle bu ekran kalkar	Pakiet bez reklam usuwa ten ekran
+AVUÇ DOLUSU	GARŚĆ
+KESE	SAKIEWKA
+EN POPÜLER	NAJPOPULARNIEJSZE
+SANDIK	SKRZYNIA
+KASA	SEJF
+EN İYİ DEĞER	NAJLEPSZA CENA
+HAZİNE	SKARB
+ZARF	KOPERTA
+ÇANTA	TORBA
+%15 FAZLA	%15 WIĘCEJ
+VALİZ	WALIZKA
+%33 FAZLA	%33 WIĘCEJ
+%54 FAZLA	%54 WIĘCEJ
+BAŞLANGIÇ PAKETİ	PAKIET STARTOWY
+500 elmas, $10.000 ve 10 zırh delici mermi. Sadece bir kez.	500 klejnotów, $10.000 i 10 pocisków przeciwpancernych. Tylko raz.
+%80 İNDİRİM	%80 TANIEJ
+REKLAMSIZ	BEZ REKLAM
+Görev aralarındaki reklamlar sonsuza dek kalkar. Ödüllü videolar istersen açık kalır. Hediye: 100 elmas.	Reklamy między kontraktami znikają na zawsze. Filmy z nagrodą zostają, jeśli chcesz. W prezencie: 100 klejnotów.
+GÖLGE OPERASYON	OPERACJA CIEŃ
+Susturuculu GÖLGE SR-7 hemen senin: bütün hatları 3. kademede. Gece görüşü ve 150 elmas.	CIEŃ SR-7 z tłumikiem od razu twój: wszystkie ścieżki na 3. stopniu. Noktowizja i 150 klejnotów.
+EN ÇOK SATAN	BESTSELLER
+TİTAN PAKETİ	PAKIET TYTAN
+Efsane TİTAN .50: zırhı ve camı deler. Termal dürbün, 400 elmas ve 20 zırh delici mermi.	Legendarny TYTAN .50: przebija pancerz i szkło. Luneta termowizyjna, 400 klejnotów i 20 pocisków przeciwpancernych.
+EFSANE	LEGENDA
+Bu paket zaten alındı.	Ten pakiet został już kupiony.
+Elmasın yetmiyor.	Masz za mało klejnotów.
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.	Sklep jest teraz niedostępny. Sprawdź połączenie z internetem i spróbuj ponownie za chwilę.
+LİMAN — KRAL'IN AĞI	PORT — SIATKA KRALA
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: 	Nie masz imienia. Trzy lata temu wojsko uznało cię za zmarłego. KONTROLA znalazła cię w szpitalu wojskowym i złożyła jedną ofertę: 
+limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	rozbij siatkę przemytniczą w porcie, a twoja przeszłość zostanie wymazana.\n\nKażdy kontrakt to jedno nazwisko. Każde nazwisko to droga do następnego.
+ŞEHİR — BARAN HOLDİNG	MIASTO — BOROWSKI HOLDING
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\n	Port upadł, ale pieniądze wciąż płyną. Ostatni numer w telefonie Wiktora Krala prowadzi do Bursztyn Plaza: Borowski Holding.\n\n
+Bu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	Tym razem cele noszą garnitury. W tłumie, za szklanymi ścianami, obok policjantów.
+KARTAL TEPE — KURUL	ORLA GRAŃ — RADA
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını 	Akta z sejfu Borowskiego dają pięć nazwisk: Rada. Pięć osób, które latami karmiły i chroniły Borowskiego, co roku spędza tydzień noworoczny 
+her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	na Orlej Grani.\n\nWśród akt jest jeszcze jeden podpis. Znajomy podpis.
+Selim Kaya'nın cebinden çıkan rüşvet makbuzlarında tek bir imza var: liman yönetiminden C. Aydın.	Na pokwitowaniach łapówek z kieszeni Sławomira Kaczmarka jest tylko jeden podpis: J. Adamczyk z zarządu portu.
+Can Aydın'ın sildiği kayıtlar kurtarıldı. Gelecek sevkiyatın alıcısı: Kuzgun lakaplı Tarık Bal.	Usunięte przez Jana Adamczyka zapisy odzyskano. Odbiorca następnej dostawy: Tomasz Bielak, zwany Krukiem.
+Kuzgun'un arabasındaki çanta boş değil: depoları koruyan paralı askerlerin maaş listesi. Başlarında Rico Vargas.	Torba w aucie Kruka nie jest pusta: lista płac najemników pilnujących magazynów. Dowodzi nimi Rico Vargas.
+Rico'nun telsizinde bir uyarı: "Depoda köstebek var." Örgüt de kendi içinde birini arıyor.	W radiu Rica ostrzeżenie: „W magazynie jest kret”. Organizacja też szuka kogoś we własnych szeregach.
+Köstebek Kerim'in sattığı bilgi bir teslimata işaret ediyor: Tilki çalınan belgeleri rıhtımdan kaçıracak.	Informacja sprzedana przez Kreta Zenona wskazuje na przekazanie: Lis wywiezie skradzione dokumenty z nabrzeża.
+Tilki'nin belgeleri bir gemi manifestosu: Meridian Star'ın ambarında örgütün silah yükü var.	Dokumenty Lisa to manifest statku: w ładowni Meridian Star jest transport broni organizacji.
+Kaptan Demir'in seyir defterinde tek bir isim tekrar ediyor: yükün sahibi Viktor Kral.	W dzienniku kapitana Kowala powtarza się jedno nazwisko: właściciel ładunku, Wiktor Kral.
+Kral düştü. Telefonundaki son arama Kordon Plaza'ya: Baran Holding. Ama örgüt hâlâ nefes alıyor — ve bir tanığı susturmak istiyor.	Kral upadł. Ostatnie połączenie z jego telefonu: Bursztyn Plaza, Borowski Holding. Ale organizacja wciąż oddycha — i chce uciszyć świadka.
+Ayten Şahin ifadesini verdi. Örgütün para kuryesi Emre Doğan şehirden kaçmaya hazırlanıyor.	Agnieszka Sokół złożyła zeznania. Kurier finansowy organizacji, Emil Dudek, szykuje się do ucieczki z miasta.
+Kuryenin çantasındaki hesaplar bir kimyagere ödeme gösteriyor: Dr. Selin Aras.	Rachunki w torbie kuriera wskazują płatności dla chemiczki: dr Sylwii Marczak.
+Kartal karanlıkta kaldı. Silah sevkiyatının parası bir laboratuvara gidiyor: Meridian Star'ın ambarı.	Orzeł został w ciemności. Pieniądze z transportu broni idą do laboratorium: ładownia Meridian Star.
+Dr. Aras konuştu: laboratuvarın asıl sahibi Baran Holding. Liman bitti; sırada şehir var.	Dr Marczak zaczęła mówić: prawdziwym właścicielem laboratorium jest Borowski Holding. Port skończony; teraz miasto.
+Defne Aksoy'un ekranında son işlem: Baran'ın rüşvet defteri Postacı'ya teslim edildi.	Ostatnia operacja na ekranie Doroty Nowak: księga łapówek Borowskiego trafiła do Listonosza.
+Rüşvet defteri ele geçti. Sayfalardan biri gemilerin sahibine ayrılmış: Cevdet Aydemir.	Księga łapówek przechwycona. Jedna ze stron dotyczy właściciela statków: Cezarego Lipińskiego.
+Aydemir'in balkonda bıraktığı telefon: Baran, Başsavcı Nermin Arslan'ı susturmak için iki kişi tutmuş.	Telefon zostawiony przez Lipińskiego na balkonie: Borowski wynajął dwóch ludzi, by uciszyć prokurator generalną Natalię Lewicką.
+Savcı konuşmasını bitirdi. Tetikçinin cebinden bir not çıktı: "Muhasebeci konuşmadan işini bitir." Baran'ın muhasebecisi her şeyi biliyor — onu canlı istiyoruz.	Prokurator skończyła przemówienie. W kieszeni zabójcy była notatka: „Skończ robotę, zanim księgowy zacznie mówić”. Księgowy Borowskiego wie wszystko — chcemy go żywego.
+Muhasebeci Koç'un hesapları gazeteci Selin Ay'ın cinayetine ödeme gösteriyor. Tetikçi Çakal, dosyayı kapatan bir komiser.	Rachunki księgowego Kozłowskiego wskazują zapłatę za zabójstwo dziennikarki Julii Wójcik. Zabójca, Szakal, to komisarz, który zamknął sprawę.
+Çakal'ın motosikletinde Baran'ın güvenlik şefinin numarası: Tolga Demirel. Bize karşı her hamleyi o planlamış.	Na motocyklu Szakala numer szefa ochrony Borowskiego: Tadeusz Mazur. To on planował każdy ruch przeciwko nam.
+Demirel'in tabletinde senin kullandığın bütün atış noktaları var — hepsi işten önce kaydedilmiş. Bunları ona kim verdi? Dosyanın üstünde tek harf: "K."	Na tablecie Mazura są wszystkie twoje stanowiska strzeleckie — każde zapisane przed robotą. Kto mu je dał? Na aktach jedna litera: „K”.
+Baran'ın son mesajı yarım kaldı: "KONTROL'e söyle, anlaşma hâlâ geçerli…" Dosyalar Kartal Tepe'yi ve beş ismi gösteriyor: Kurul.	Ostatnia wiadomość Borowskiego urwała się w pół zdania: „Powiedz KONTROLI, że umowa wciąż obowiązuje…”. Akta wskazują Orlą Grań i pięć nazwisk: Radę.
+Banker Kurt'un tableti Kurul'un ödeme defterine bağlanıyor. Her ödemenin altında aynı onay kodu: KONTROL.	Tablet bankiera Wilka łączy się z księgą płatności Rady. Pod każdą płatnością ten sam kod zatwierdzenia: KONTROLA.
+Hakim Oral'ın kasasında Baran davalarının kararları — duruşmalardan önce yazılmış. Biri de senin eski birliğine ait.	W sejfie sędziego Olszewskiego wyroki w sprawach Borowskiego — napisane przed rozprawami. Jeden dotyczy twojej dawnej jednostki.
+Müteahhit Tan'ın telefonunda Kurul'un kuryesinin rotası: şifreli diskle vadiyi geçecek.	W telefonie dewelopera Tarnowskiego trasa kuriera Rady: przejedzie przez dolinę z zaszyfrowanym dyskiem.
+Kuryenin diski açıldı: Kurul'un bütün ödemeleri — ve KONTROL'e yapılan aylık ödemeler. Bize iş verenler, Kurul'un kendi temizlikçileri.	Dysk kuriera otwarty: wszystkie płatności Rady — i comiesięczne wpłaty dla KONTROLI. Ci, którzy dają nam robotę, to sprzątacze samej Rady.
+Bülent Er'in konvoyundaki evraklar: Kurul'a karşı açılan her soruşturmayı KONTROL'ün talimatıyla kapatmış.	Papiery z konwoju Bogusława Zielińskiego: na polecenie KONTROLI umarzał każde śledztwo przeciwko Radzie.
+Elif Demir yaşıyor ve yarın konuşacak. Tetikçileri tutan adamın adı onun dosyasında: Orhan Sezer, Kurul'un temizlikçisi.	Ewa Mróz żyje i jutro będzie zeznawać. Nazwisko człowieka, który wynajął zabójców, jest w jej aktach: Oskar Sadowski, sprzątacz Rady.
+Sezer'in telefonundaki son arama Patron'dan değil. KONTROL'den. Senden sonra temizlenecek kişi sendin.	Ostatnie połączenie w telefonie Sadowskiego nie było od Szefa. Było od KONTROLI. Następnym do sprzątnięcia byłeś ty.
+Kurul bitti. Disk hâlâ sende.	Rady już nie ma. Dysk wciąż jest u ciebie.
+Dr. Aras baygın, tekne bekliyor. Onu kime teslim edeceksin?	Dr Marczak jest nieprzytomna, łódź czeka. Komu ją przekażesz?
+KONTROL'E	KONTROLI
+Kimyager KONTROL'ün hücresine gitti. Ondan bir daha haber alınmadı.	Chemiczka trafiła do celi KONTROLI. Nikt więcej o niej nie słyszał.
+SAVCILIĞA	PROKURATURZE
+Kimyager savcılığa bırakıldı. İfadesi Baran'a açılan davanın ilk delili oldu.	Chemiczkę zostawiono prokuraturze. Jej zeznania stały się pierwszym dowodem w sprawie przeciwko Borowskiemu.
+Baran'ın kasası açık: dosyalar ve iki milyon avro. Ne yapacaksın?	Sejf Borowskiego jest otwarty: akta i dwa miliony euro. Co zrobisz?
+PARAYI AL	WEŹ KASĘ
+Parayı aldın (+20.000). KONTROL'e sadece dosyaları gönderdin.	Wziąłeś pieniądze (+20.000). KONTROLI wysłałeś tylko akta.
+DOKUNMA	NIE RUSZAJ
+Parayı bıraktın. Dosyaların kopyasını Başsavcı Arslan'a yolladın.	Zostawiłeś pieniądze. Kopię akt wysłałeś prokurator generalnej Lewickiej.
+Kurul'un bütün ödemeleri ve KONTROL'ün imzası bu diskte. Kime vereceksin?	Wszystkie płatności Rady i podpis KONTROLI są na tym dysku. Komu go dasz?
+Diski KONTROL'e verdin. Ertesi sabah Kurul'un boş koltukları dolmaya başladı — yeni isimlerle. Sözleşme tamam; sen yine kimsesin.	Dałeś dysk KONTROLI. Następnego ranka puste fotele Rady zaczęły się zapełniać — nowymi nazwiskami. Kontrakt wykonany; znów jesteś nikim.
+SAVCIYA	PROKURATOR
+Diski Başsavcı Nermin Arslan'a bıraktın. Bir hafta sonra KONTROL'ün kapısına polis dayandı. Adın yine yok — ama bu sefer kendi seçimin.	Zostawiłeś dysk prokurator generalnej Natalii Lewickiej. Tydzień później pod drzwiami KONTROLI stanęła policja. Znów nie masz imienia — ale tym razem to twój wybór.
+ Kimyagerin ifadesi davayı ayakta tutuyor.	 Zeznania chemiczki podtrzymują sprawę.
+ Baran'ın parasını aldığını KONTROL biliyor.	 KONTROLA wie, że wziąłeś pieniądze Borowskiego.
+Seni kaybettiler — ama nişancı yuvasını arıyorlar	Zgubili cię — ale szukają gniazda snajpera
+Vuruldun — 	Trafiony — 
+Vuruldun — yerin tespit edildi	Trafiony — namierzyli cię
+ÇAYLAK	ŻÓŁTODZIÓB
+TETİKÇİ	ZABÓJCA
+NİŞANCI	STRZELEC
+KESKİN NİŞANCI	SNAJPER
+GÖLGE	CIEŃ
+HAYALET	WIDMO
+Günün sözleşmesi	Kontrakt dnia
+Elmasla son geliştirme kademeleri	Ostatnie stopnie ulepszeń za klejnoty
+Efsane rütbe yolu	Droga do legendarnej rangi
+TELEFERİK	KOLEJKA
+Kartal Tepe teleferiği	Kolejka linowa na Orlą Grań
+Sinan Kurt zirvedeki kahvaltıya teleferikle çıkacak. Kabin zirve istasyonuna varırsa onu kaybederiz.	Stanisław Wilk wjedzie kolejką na śniadanie na szczycie. Jeśli kabina dotrze do stacji szczytowej, stracimy go.
+Baran'ın dosyaları bizi Kartal Tepe'ye getirdi. Kurul — Baran'ı yıllarca besleyen ve koruyan beş kişi — yılbaşı haftasını her yıl burada geçiriyor.\n\nİlki Sinan Kurt, Kurul'un bankeri. Kayak barında kahvesini bitirince iki korumasıyla teleferiğe binip zirvedeki restorana çıkacak. Kabin hattın sonuna varırsa onu kaybederiz.	Akta Borowskiego zaprowadziły nas na Orlą Grań. Rada — pięć osób, które latami karmiły i chroniły Borowskiego — co roku spędza tu tydzień noworoczny.\n\nPierwszy to Stanisław Wilk, bankier Rady. Gdy skończy kawę w barze narciarskim, wsiądzie z dwoma ochroniarzami do kolejki i wjedzie do restauracji na szczycie. Jeśli kabina dotrze do końca linii, stracimy go.
+Kabin camı mermiyi durdurmaz; yukarı çıkan kabine biraz önden ve yukarıdan nişan al. İstasyonun yanındaki motor dairesine iki atış hattı durdurur: kabinler sallanır, içindekiler çömelir.	Szyba kabiny nie zatrzyma pocisku; celuj nieco przed i nad jadącą w górę kabinę. Dwa strzały w maszynownię obok stacji zatrzymają linię: kabiny się rozkołyszą, a pasażerowie przykucną.
+Uzun menzil: kabin 250 metreden 1 kilometreye kadar uzaklaşır	Duży dystans: kabina oddala się od 250 metrów do 1 kilometra
+Teleferik motoru: istasyonun batısındaki beton kulübe	Silnik kolejki: betonowa budka na zachód od stacji
+Sinan Kurt istasyona kaçtı	Stanisław Wilk uciekł do stacji
+KONTROL	KONTROLA
+Platformdalar. Sıradaki kabine binecekler.	Są na peronie. Wsiądą do następnej kabiny.
+Kabine bindiler — yukarı çıkıyorlar	Wsiedli do kabiny — jadą w górę
+Zirve istasyonuna	Do stacji szczytowej
+Sinan Kurt zirve istasyonuna vardı	Stanisław Wilk dotarł do stacji szczytowej
+Teleferik durdu — kabinler sallanıyor!	Kolejka stanęła — kabiny się kołyszą!
+Teknisyenler hattı yeniden çalıştırdı! Kabin yine hareket ediyor.	Technicy uruchomili linię! Kabina znów jedzie.
+Kayak barında, korumalarıyla kahve içiyor. Platforma çıkınca sıradaki kabine binecek.	Pije kawę w barze narciarskim z ochroniarzami. Gdy wyjdzie na peron, wsiądzie do następnej kabiny.
+Hat saatte 18 kilometre gidiyor. Kabin uzaklaştıkça mermi düşüşü artar — hesabını yap.	Linia jedzie 18 kilometrów na godzinę. Im dalej kabina, tym większy opad pocisku — uwzględnij to.
+Sinan Kurt	Stanisław Wilk
+Uzun gri palto, gözlük, kır saç. İki korumasıyla.	Długi szary płaszcz, okulary, siwe włosy. Z dwoma ochroniarzami.
+Sinan Kurt'u zirve istasyonuna varmadan etkisiz hale getir	Zneutralizuj Stanisława Wilka, zanim dotrze do stacji szczytowej
+Teleferik motorunu durdurabilirsin (isteğe bağlı)	Możesz zatrzymać silnik kolejki (opcjonalnie)
+Sözleşmeyi tamamla	Wykonaj kontrakt
+Kabin hareket halindeyken vur	Traf, gdy kabina jest w ruchu
+En fazla iki atış	Najwyżej dwa strzały
+ŞÖMİNE	KOMINEK
+Doğu yamacı — cam villa	Wschodni stok — szklana willa
+Hakim Ferit Oral şöminenin başında. Villanın bütün ön cephesi cam — ve cam kırıldığı an içeridekiler anlar.	Sędzia Feliks Olszewski siedzi przy kominku. Cała fasada willi jest ze szkła — a gdy szkło pęknie, ludzie w środku od razu zrozumieją.
+Ferit Oral, Baran'ın her davasını düşüren hakim. Yıllardır Kurul'un yargıdaki adamı. Bu gece doğu yamacındaki cam villasında eşiyle.\n\nDışarıda, terasta bir koruma dolaşıyor; aşağıda araçta bir şoför bekliyor. Hakim 23:25'te yatmaya gidecek. Eşi odadayken ateş edersen tanık kalır.	Feliks Olszewski to sędzia, który umarzał każdą sprawę Borowskiego. Od lat człowiek Rady w sądownictwie. Dziś wieczorem jest z żoną w swojej szklanej willi na wschodnim stoku.\n\nNa zewnątrz po tarasie krąży ochroniarz; niżej w aucie czeka kierowca. Sędzia pójdzie spać o 23:25. Jeśli strzelisz, gdy żona jest w pokoju, zostanie świadek.
+İlk mermi camı kırar ve sesi içeridekileri ürkütür: ilk atışın öldürücü olsun. Hakim zaman zaman cama gelip vadiye bakıyor — en açık an o.	Pierwszy pocisk rozbije szybę, a hałas spłoszy ludzi w środku: pierwszy strzał musi być śmiertelny. Sędzia co jakiś czas podchodzi do szyby i patrzy na dolinę — to najlepszy moment.
+Hakim bölmenin arkasında. Cama ya da şömineye geri gelmesini bekle.	Sędzia jest za przepierzeniem. Poczekaj, aż wróci do szyby albo kominka.
+Hakim yatak odasına kilitlendi	Sędzia zamknął się w sypialni
+Hakimin yatmasına	Do snu sędziego
+Hakim yatak odasına gidiyor!	Sędzia idzie do sypialni!
+Hakim yatmaya gitti	Sędzia poszedł spać
+Cam ön cephe vadiye bakıyor. Hakim kanepede, eşi masanın başında.	Szklana fasada wychodzi na dolinę. Sędzia na kanapie, żona przy stole.
+Eşi arada bir öbür odalara geçiyor. O sırada vurursan kimse bir şey görmez.	Żona co jakiś czas przechodzi do innych pokoi. Jeśli wtedy strzelisz, nikt nic nie zobaczy.
+Yolun aşağısındaki adamın elinde gece dürbünü var. Dürbün sana dönünce eğil.	Człowiek niżej przy drodze ma noktowizyjną lornetkę. Gdy skieruje ją na ciebie, schowaj się.
+Ferit Oral	Feliks Olszewski
+Beyaz balıkçı yaka kazak, gözlük, beyaz saç. Cam villada.	Biały golf, okulary, białe włosy. W szklanej willi.
+Hakim Ferit Oral'ı yatmaya gitmeden etkisiz hale getir	Zneutralizuj sędziego Feliksa Olszewskiego, zanim pójdzie spać
+Tanık bırakma: eşi odadayken ateş etme	Bez świadków: nie strzelaj, gdy żona jest w pokoju
+Camın ardından tek atış	Jeden strzał przez szybę
+JAKUZİ	JACUZZI
+Kartal Dağ Oteli — spa terası	Hotel Orle Gniazdo — taras spa
+Selim Tan gün batımında jakuzide. Buhar onu bir saklıyor, bir gösteriyor — pencereni bekle.	Seweryn Tarnowski o zachodzie słońca w jacuzzi. Para raz go zasłania, raz odsłania — czekaj na swoje okno.
+Selim Tan, Baran'ın limandaki depolarını, Kurul'un kara parayla yükselen bütün otellerini inşa eden müteahhit.\n\nOtelin spa terasında, jakuzide gün batımını izliyor. Kapıda bir koruması, yanında bir arkadaşı var; garson şampanya getirecek. Sudan çıktığında içeri girer.\n\nKoruma kapıdan dürbünle yamaçları tarıyor. Selim'in dibinde durduğu için onu vurmak Selim'i ürkütür: dürbün sana döndüğünde eğil.	Seweryn Tarnowski to deweloper, który zbudował magazyny Borowskiego w porcie i wszystkie hotele Rady wyrosłe na brudnych pieniądzach.\n\nOgląda zachód słońca w jacuzzi na tarasie spa hotelu. Przy drzwiach stoi ochroniarz, obok niego siedzi znajomy; kelner przyniesie szampana. Gdy wyjdzie z wody, wejdzie do środka.\n\nOchroniarz przy drzwiach przeczesuje stoki lornetką. Stoi tuż przy Sewerynie, więc strzał w niego spłoszy cel: gdy lornetka skieruje się na ciebie, schowaj się.
+Suyun üstünde yalnızca başı ve omuzları görünüyor. Buhar yoğunlaştığında hedef kaybolur, açıldığında birkaç saniyelik pencere doğar. Sudan çıkıp kapıya yürürken bütün boyuyla açıktadır — ama yalnızca birkaç saniye.	Nad wodą widać tylko jego głowę i ramiona. Gdy para gęstnieje, cel znika; gdy się rozwiewa, otwiera się okno na kilka sekund. Kiedy wychodzi z wody i idzie do drzwi, jest odsłonięty cały — ale tylko przez kilka sekund.
+Selim Tan otele girdi	Seweryn Tarnowski wszedł do hotelu
+Selim sudan çıkıyor — kapıya yürüyor!	Seweryn wychodzi z wody — idzie do drzwi!
+Sudan çıkmasına	Do wyjścia z wody
+Buhar bazen tamamen kapatıyor. Sabret: açıldığı an tek bir temiz atış yeter.	Para czasem zasłania go całkiem. Cierpliwości: gdy się rozwieje, wystarczy jeden czysty strzał.
+Kapıdaki koruma dürbünle yamaçları tarıyor. Onu vurursan Selim içeri kaçar: dürbün sana dönünce eğil.	Ochroniarz przy drzwiach przeczesuje stoki lornetką. Jeśli go zastrzelisz, Seweryn ucieknie do środka: gdy lornetka skieruje się na ciebie, schowaj się.
+Selim Tan	Seweryn Tarnowski
+Müteahhit	Deweloper
+Kalın yapılı, sakallı, koyu saç. Jakuzide.	Masywny, brodaty, ciemne włosy. W jacuzzi.
+Selim Tan'ı içeri girmeden etkisiz hale getir	Zneutralizuj Seweryna Tarnowskiego, zanim wejdzie do środka
+Kafadan vur	Strzał w głowę
+Buharın içinden vur	Strzel przez parę
+KAR MOTORU	SKUTER ŚNIEŻNY
+Vadi tabanı — batı yamacı	Dno doliny — zachodni stok
+Kurye Kurul'un defterini kar motoruyla dağa kaçıracak. Ölmemeli: defterin şifresi onda.	Kurier wywiezie księgę Rady skuterem śnieżnym w góry. Nie może zginąć: zna szyfr do księgi.
+Doğan Aksu, Kurul'un kuryesi. Bütün ödemelerin kaydı olan şifreli disk onda. Birazdan otelden çıkıp kar motoruyla vadiyi geçecek ve batı yamacından ormana girecek.\n\nOnu CANLI istiyoruz. Önce motoru durdur — motor bloğuna iki atış — sonra kaçmaya çalışırsa bacağından vur. Ekibimiz ratrakla gelip onu alacak.\n\nKurul onu bizim almamıza izin vermez: kurye düşünce spadan adamları çıkıp onu susturmaya gelecek. Ratrak gelene kadar onları durdur.	Dominik Rogalski, kurier Rady. Ma zaszyfrowany dysk z zapisem wszystkich płatności. Za chwilę wyjdzie z hotelu, przejedzie skuterem śnieżnym przez dolinę i zniknie w lesie na zachodnim stoku.\n\nChcemy go ŻYWEGO. Najpierw zatrzymaj skuter — dwa strzały w blok silnika — a jeśli spróbuje uciekać, strzel mu w nogę. Nasz zespół przyjedzie ratrakiem i go zabierze.\n\nRada nie pozwoli nam go zabrać: gdy kurier padnie, jej ludzie wyjdą ze spa, żeby go uciszyć. Powstrzymaj ich, dopóki nie dotrze ratrak.
+Kar motoru saatte 25 kilometreyle gidiyor: biraz önden nişan al. Sürücüye isabet edersen ölebilir; motor bloğu sürücünün önünde, hedefin altında. Motor durunca kurye en yakın dağ evine koşar: içeri girmeden bacağından vur.	Skuter jedzie 25 kilometrów na godzinę: celuj trochę przed nim. Trafienie w kierowcę może go zabić; blok silnika jest przed kierowcą, pod celem. Gdy silnik stanie, kurier pobiegnie do najbliższej chaty: strzel mu w nogę, zanim wejdzie do środka.
+Kurye bir dağ evine saklandı	Kurier ukrył się w chacie
+Kuryeyi BACAĞINDAN vur — ölmemeli	Strzel kurierowi w NOGĘ — nie może zginąć
+Ekip gelene kadar onu hayatta tut	Utrzymaj go przy życiu do przybycia zespołu
+Kar motoru çalışmıyor — kurye koşarak kaçıyor!	Skuter nie działa — kurier ucieka pieszo!
+Kurye ormana girdi	Kurier wszedł do lasu
+Kurye kar motorunda — vadiyi geçiyor!	Kurier na skuterze — przejeżdża przez dolinę!
+Motor durdu — kurye koşarak kaçıyor!	Silnik stanął — kurier ucieka pieszo!
+Ratrakın ulaşmasına	Do przyjazdu ratraka
+Spadan silahlı biri çıktı — kuryeye gidiyor!	Uzbrojony wyszedł ze spa — idzie do kuriera!
+Etraf temiz — ratrak tam gaz geliyor!	Czysto — ratrak jedzie pełnym gazem!
+Kurye uyudu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	Kurier śpi! Ratrak wyruszył — ludzie Rady wyjdą ze spa, nie pozwól im się do niego zbliżyć.
+Bacağından vuruldu! Ratrak yola çıktı — Kurul'un adamları spadan çıkacak, ona yaklaştırma.	Trafiony w nogę! Ratrak wyruszył — ludzie Rady wyjdą ze spa, nie pozwól im się do niego zbliżyć.
+Ekip kuryeyi aldı	Zespół zabrał kuriera
+Otelin spa kapısından çıkacak. Kar motoru otoparkın doğu ucunda.	Wyjdzie drzwiami spa hotelu. Skuter stoi na wschodnim końcu parkingu.
+Doğan Aksu	Dominik Rogalski
+Koyu yeşil kapüşonlu, gri bere, kargo pantolon. Kar motorunda.	Ciemnozielona bluza z kapturem, szara czapka, bojówki. Na skuterze śnieżnym.
+Önce kar motorunu durdurabilirsin (motor bloğu: 2 atış)	Najpierw możesz zatrzymać skuter (blok silnika: 2 strzały)
+Kuryeyi canlı yakala	Weź kuriera żywcem
+En fazla beş atış	Najwyżej pięć strzałów
+Kurul'un adamları nişan alamasın	Nie pozwól ludziom Rady wycelować
+ÇIĞ	LAWINA
+Batı yolu — çığ yamacı	Zachodnia droga — stok lawinowy
+KAZA	WYPADEK
+Bülent Er'in konvoyu batı yolundan gelecek. Kaza gibi görünmeli: yamaçta bir çığ patlayıcısı var.	Konwój Bogusława Zielińskiego nadjedzie zachodnią drogą. To ma wyglądać na wypadek: na stoku jest ładunek lawinowy.
+Bülent Er, emniyet istihbaratının başında ve Kurul'un maaş bordrosunda. Baran'a karşı açılan her soruşturmayı o kapattırdı. Bu sabah iki araçlık konvoyla batı yolundan otele geliyor.\n\nBir emniyet müdürünün kurşunla ölmesi ülkeyi ayağa kaldırır. Kaza olmalı: yolun üstündeki yamaçta çığ kontrol patlayıcısı var. Onu doğru anda vurursan yamaç kopar ve yolu örter. Bülent ikinci araçta.	Bogusław Zieliński stoi na czele wywiadu policji i jest na liście płac Rady. To on kazał umorzyć każde śledztwo przeciwko Borowskiemu. Dziś rano jedzie do hotelu zachodnią drogą w konwoju dwóch aut.\n\nŚmierć komendanta od kuli postawi kraj na nogi. To musi być wypadek: na stoku nad drogą jest ładunek do kontrolowanego wywoływania lawin. Trafisz go w odpowiedniej chwili, a stok się oberwie i zasypie drogę. Bogusław jedzie drugim autem.
+Çığ yola altı saniyede iner: sayaç altıya indiğinde patlayıcıyı vur. Erken vurursan konvoy kar yığınının önünde durur, geç kalırsan geçip gider; o zaman Bülent'i doğrudan vurmak zorundasın — ama kaza süsü gider.	Lawina schodzi na drogę w sześć sekund: strzel w ładunek, gdy licznik spadnie do sześciu. Za wcześnie — konwój zatrzyma się przed zwałem śniegu; za późno — przejedzie. Wtedy musisz zastrzelić Bogusława bezpośrednio — ale pozór wypadku przepada.
+Çığ kontrol patlayıcısı: yolun üstündeki yamacın tepesinde, sarı tank	Ładunek lawinowy: żółty zbiornik na szczycie stoku nad drogą
+İkinci araçta — batı yolundan geliyor	W drugim aucie — jedzie zachodnią drogą
+Bülent Er otele girdi	Bogusław Zieliński wszedł do hotelu
+Yamaç koptu — çığ yola iniyor!	Stok się oberwał — lawina schodzi na drogę!
+Konvoy otele vardı — Bülent arabadan iniyor!	Konwój dotarł do hotelu — Bogusław wysiada!
+Konvoyun yamaca ulaşmasına	Do dotarcia konwoju pod stok
+Konvoy batı yolunda. Yamacın altındaki virajdan geçecekler.	Konwój jest na zachodniej drodze. Przejedzie zakrętem pod stokiem.
+Çığ yolu kapattı, konvoy durdu. Bülent araçtan indi — kaza olmadı ama fırsat bu.	Lawina zamknęła drogę, konwój stanął. Bogusław wysiadł — wypadku nie było, ale to twoja szansa.
+Çığ boşa gitti! Konvoy otele devam ediyor — Bülent arabadan inince fırsatın var.	Lawina poszła na marne! Konwój jedzie dalej do hotelu — gdy Bogusław wysiądzie, masz szansę.
+Tepedeki adam kayak devriyesi, patlayıcıyı kontrol ediyor. O oradayken tetikleme.	Człowiek na górze to patrol narciarski, sprawdza ładunek. Nie odpalaj, dopóki tam jest.
+Çığ yamaçtan yola altı saniyede iner. Sayaç altıya indiği an patlayıcıyı vur.	Lawina schodzi ze stoku na drogę w sześć sekund. Strzel w ładunek, gdy licznik spadnie do sześciu.
+Bülent Er	Bogusław Zieliński
+Emniyet İstihbaratı	Wywiad policji
+İkinci araçta. Lacivert palto, şapka, gözlük.	W drugim aucie. Granatowy płaszcz, kapelusz, okulary.
+Bülent Er'i etkisiz hale getir — kaza gibi görünmeli	Zneutralizuj Bogusława Zielińskiego — ma to wyglądać na wypadek
+Kaza süsü ver: çığla	Upozoruj wypadek: lawiną
+Çığ devriyesine zarar verme	Nie krzywdź patrolu lawinowego
+KAYAK HOCASI	INSTRUKTORKA
+Acemi pisti	Ośla łączka
+Elif Demir yarın mahkemede Kurul'a karşı tanıklık edecek. Bugün onu öldürmeye üç kişi geliyor.	Ewa Mróz jutro zezna w sądzie przeciwko Radzie. Dziś przychodzi trzech ludzi, żeby ją zabić.
+Kayak hocası Elif Demir, geçen kış teleferik makinisti Hasan Usta'nın Kurul'un adamlarınca öldürülüşünü gördü. Yarın mahkemede tanıklık edecek; Kurul onu bugün susturmak istiyor.\n\nElif acemi pistinde ders veriyor. Üç tetikçi var: istasyonun çatısında bir nişancı, otelden yürüyerek gelen biri ve kar motoruyla gelecek biri. Jandarma 11:33'te geliyor. O zamana kadar onu hayatta tut.	Instruktorka narciarstwa Ewa Mróz zeszłej zimy widziała, jak ludzie Rady zabili maszynistę kolejki, Józefa Majewskiego. Jutro zezna w sądzie; Rada chce ją dziś uciszyć.\n\nEwa prowadzi lekcję na oślej łączce. Zabójców jest trzech: strzelec na dachu stacji, jeden idzie pieszo od hotelu, a jeden przyjedzie skuterem. Żandarmeria będzie o 11:33. Do tego czasu utrzymaj ją przy życiu.
+Nişancıyı önce bul: teleferik istasyonunun düz çatısında, kar kadar beyaz. Ateş ettiğin an namlu alevini görür ve sana döner. Silah çeken birini kolundan vurursan silahını düşürür.	Najpierw znajdź strzelca: na płaskim dachu stacji kolejki, biały jak śnieg. Gdy strzelisz, zobaczy błysk z lufy i obróci się w twoją stronę. Jeśli trafisz w rękę kogoś, kto wyciąga broń, upuści ją.
+Susturucu nişancının seni görmesini geciktirir	Tłumik opóźnia moment, w którym strzelec cię zauważy
+İstihbarat: üç tetikçi — biri yüksekte	Wywiad: trzech zabójców — jeden wysoko
+Elif Demir	Ewa Mróz
+TANIK	ŚWIADEK
+Kayak hocası — koru	Instruktorka — chroń
+Elif'i jandarma gelene kadar koru	Chroń Ewę do przybycia żandarmerii
+Çatıdaki Nişancı	Strzelec na dachu
+Haki yeşil palto, kalpak — teleferik istasyonunun çatısında	Khaki płaszcz, futrzana czapka — na dachu stacji kolejki
+İstasyonun çatısında biri doğruldu — Elif'e nişan alıyor!	Ktoś podniósł się na dachu stacji — celuje w Ewę!
+Çatıdaki nişancı seni vurdu	Strzelec z dachu cię trafił
+Yürüyen Adam	Piechur
+Siyah kapüşonlu, siyah bere, sakallı	Czarny kaptur, czarna czapka, broda
+Kar Motorlu Adam	Człowiek na skuterze
+Gri kapüşonlu, siyah bere, spor gözlük — kar motorunda	Szary kaptur, czarna czapka, sportowe okulary — na skuterze
+Doğudan bir kar motoru geliyor, hızlı!	Ze wschodu nadjeżdża skuter, szybko!
+Kar motorlu indi — Elif'e koşuyor!	Ten ze skutera zsiadł — biegnie do Ewy!
+Üç tetikçiyi de durdur	Powstrzymaj wszystkich trzech zabójców
+Üç tetikçiyi de durdur  	Powstrzymaj wszystkich trzech zabójców  
+Jandarmanın gelmesine	Do przybycia żandarmerii
+Jandarma geldi — Elif güvende	Żandarmeria przybyła — Ewa jest bezpieczna
+Üç tetikçi var. Yüksekteki önce: istasyonun çatısını tara.	Zabójców jest trzech. Najpierw ten wysoko: przeskanuj dach stacji.
+Tanık	Świadek
+Kırmızı mont, beyaz bere, at kuyruğu. Acemi pistinde ders veriyor.	Czerwona kurtka, biała czapka, kucyk. Prowadzi lekcję na oślej łączce.
+Elif Demir'i jandarma gelene kadar koru	Chroń Ewę Mróz do przybycia żandarmerii
+Üç tetikçiyi bul ve durdur (bonus)	Znajdź i powstrzymaj trzech zabójców (bonus)
+Tanığı koru	Chroń świadka
+Nişancıyı nişan alamadan durdur	Powstrzymaj strzelca, zanim wyceluje
+Öğrencilere zarar verme	Nie krzywdź kursantów
+Köy — tipi altında	Wioska — w zamieci
+Orhan Sezer tipiyi fırsat bilip ratrakla dağı aşacak. Göz gözü görmüyor — termal dürbün hazır olsun.	Oskar Sadowski wykorzysta zamieć, by przejechać przez góry ratrakiem. Nic nie widać — przygotuj lunetę termowizyjną.
+Orhan Sezer, Kurul'un temizlikçisi: tanıkları ortadan kaldıran, delilleri yok eden adam. Elif'e gönderilen tetikçileri o tutmuştu. Tipiyi fırsat bilip ratrakla dağı aşacak; zirvenin ötesinde bir helikopter bekliyor.\n\nOtelden çıkıp köyü yürüyerek geçecek ve istasyonun yanındaki ratraka binecek. Kar fırtınasında 200 metrenin ötesi görünmüyor; termal dürbün vücut ısısını sisin içinden gösterir. Rüzgar çok sert.	Oskar Sadowski, sprzątacz Rady: usuwa świadków i niszczy dowody. To on wynajął zabójców nasłanych na Ewę. Wykorzysta zamieć, by przejechać ratrakiem przez góry; za szczytem czeka helikopter.\n\nWyjdzie z hotelu, przejdzie pieszo przez wioskę i wsiądzie do ratraka obok stacji. W śnieżycy nic nie widać dalej niż na 200 metrów; luneta termowizyjna pokazuje ciepło ciała przez mgłę. Wiatr jest bardzo silny.
+Termal dürbün herkesi beyaz gösterir: tarayıp kimliği oku. Rüzgar saatte 30 kilometreden fazla esiyor; nişanı rüzgarın geldiği yöne kaydır.	Termowizja pokazuje wszystkich na biało: skanuj i odczytuj tożsamość. Wiatr wieje ponad 30 kilometrów na godzinę; przesuń celownik w stronę, z której wieje.
+Termal dürbün şart	Wymagana luneta termowizyjna
+Orhan istasyona kaçtı	Oskar uciekł do stacji
+Ratrak hareket etti — dağa tırmanıyor!	Ratrak ruszył — wspina się w góry!
+Ratrakın sırtı aşmasına	Do przejazdu ratraka przez grań
+Ratrak sırtı aştı	Ratrak przejechał przez grań
+Görüş 200 metrenin altında. Termal dürbünle sıcak noktaları ara, sonra kimliği tara.	Widoczność poniżej 200 metrów. Szukaj ciepłych punktów termowizją, potem skanuj tożsamość.
+Rüzgar doğudan sert esiyor. Uzak atışta mermi metrelerce sürüklenir.	Silny wiatr ze wschodu. Na dużym dystansie znosi pocisk o metry.
+Orhan Sezer	Oskar Sadowski
+Temizlikçi	Sprzątacz
+Lacivert uzun palto, kalpak, gözlük. İki korumasıyla.	Długi granatowy płaszcz, futrzana czapka, okulary. Z dwoma ochroniarzami.
+Orhan Sezer'i ratrak sırtı aşmadan etkisiz hale getir	Zneutralizuj Oskara Sadowskiego, zanim ratrak przejedzie przez grań
+Tek atış	Jeden strzał
+Termal dürbün kullanmadan	Bez lunety termowizyjnej
+ZİRVE	SZCZYT
+Kartal Dağ Oteli — yılbaşı gecesi	Hotel Orle Gniazdo — sylwester
+Gece yarısı havai fişekler başlayınca vadi gürültüyle dolacak. Patlamalar senin silahının sesini yutar.	O północy zaczną się fajerwerki i dolinę wypełni huk. Wybuchy zagłuszą twój strzał.
+Kurul'dan geriye bir kişi kaldı: Nedim Kurt — Patron. Baran'ı yaratan, yıllarca ayakta tutan ve her şeyin hesabını tutan adam.\n\nYılbaşı gecesi otelin önündeki terasta misafirleriyle. Gece yarısı gölün üstünde havai fişek gösterisi var: Patron izlemek için terasın ucuna yürüyecek. Patlamalar yankılanırken atılan bir kurşunu kimse duymaz. Gösteri bitince içeri girer — bir daha çıkmaz.\n\nPatron tedbirli: güvenlik şefi terasın önünden gece dürbünüyle yamaçları tarıyor. Seni görürse korumalar yerini öğrenir.	Z Rady została jedna osoba: Leopold Wilczyński — Szef. Człowiek, który stworzył Borowskiego, latami trzymał go przy życiu i prowadził rachunki wszystkiego.\n\nW sylwestra jest z gośćmi na tarasie przed hotelem. O północy nad jeziorem będzie pokaz fajerwerków: Szef podejdzie na skraj tarasu, żeby go oglądać. Gdy niosą się echa wybuchów, nikt nie usłyszy kuli. Po pokazie wejdzie do środka — i już nie wyjdzie.\n\nSzef jest ostrożny: jego szef ochrony przeczesuje stoki przed tarasem noktowizyjną lornetką. Jeśli cię zobaczy, ochroniarze poznają twoją pozycję.
+Havai fişek patlamasının sesi yuvaya ulaştığı an tetiğe bas: o anki atışı kimse duymaz. Patron'un iki koruması var; kalabalığın içinde ateş etme. Güvenlik şefinin dürbünü sana dönünce eğil (SİPER).	Pociągnij za spust w chwili, gdy huk fajerwerku dotrze do gniazda: nikt nie usłyszy tego strzału. Szef ma dwóch ochroniarzy; nie strzelaj w tłum. Gdy lornetka szefa ochrony skieruje się na ciebie, schowaj się (OSŁONA).
+Gece yarısı: göl üstünde havai fişek	Północ: fajerwerki nad jeziorem
+Patron içeri girdi	Szef wszedł do środka
+Gece yarısına	Do północy
+MİSAFİRLER	GOŚCIE
+On! Dokuz! Sekiz! Yedi...	Dziesięć! Dziewięć! Osiem! Siedem...
+Mutlu yıllar! — havai fişekler başladı	Szczęśliwego Nowego Roku! — fajerwerki ruszyły
+Gösterinin bitmesine	Do końca pokazu
+Gösteri bitti — Patron içeri dönüyor!	Pokaz skończony — Szef wraca do środka!
+Kalabalığın ortasında. Gece yarısı gösteriyi izlemek için terasın ucuna yürüyecek.	W środku tłumu. O północy podejdzie na skraj tarasu, żeby oglądać pokaz.
+Patlamanın sesi sana ulaştığı an ateş et — o anki atışı kimse duymaz.	Strzelaj w chwili, gdy dotrze do ciebie huk wybuchu — nikt nie usłyszy tego strzału.
+Gece dürbünüyle yamaçları tarıyor — seni görürse yerini bildirir	Przeczesuje stoki noktowizyjną lornetką — jeśli cię zobaczy, zgłosi twoją pozycję
+Terasın önünde gece dürbünlü biri var: Patron'un güvenlik şefi. Dürbün sana dönünce eğil — gece yarısından önce atış sesi duyulur.	Przed tarasem stoi ktoś z noktowizyjną lornetką: szef ochrony Szefa. Gdy lornetka skieruje się na ciebie, schowaj się — przed północą strzał będzie słychać.
+Nedim Kurt	Leopold Wilczyński
+Beyaz smokin ceket, papyon, kır sakal. Otel terasında.	Biała marynarka smokingowa, mucha, siwa broda. Na tarasie hotelu.
+Nedim Kurt'u gösteri bitmeden etkisiz hale getir	Zneutralizuj Leopolda Wilczyńskiego przed końcem pokazu
+Kurul'u bitir	Skończ z Radą
+Her atışı havai fişeklerin sesine gizle	Ukryj każdy strzał w huku fajerwerków
+Balıkçı	Rybak
+KARTAL K-98	ORZEŁ K-98
+Güvenilir sürgülü tüfek. Her suikastçının ilk ortağı.	Niezawodny karabin powtarzalny. Pierwszy partner każdego zabójcy.
+GÖLGE SR-7	CIEŃ SR-7
+7.62×51 susturuculu	7.62×51 z tłumikiem
+Entegre susturucu: atış sesi duyulmaz, mermi daha yavaş gider. Gizli işler için.	Zintegrowany tłumik: strzału nie słychać, pocisk leci wolniej. Do cichej roboty.
+FIRTINA DMR	BURZA DMR
+7.62×51 yarı otomatik	7.62×51 półautomatyczny
+Yarı otomatik: sürgü çekmeden peş peşe ateş. Kaçan ve kalabalık hedefler için.	Półautomat: strzały jeden po drugim bez przeładowania zamka. Na uciekające cele i tłumy.
+ATMACA .338 LR	JASTRZĄB .338 LR
+Uzun menzil: yüksek namlu çıkış hızı, az düşüş, 20× dürbün. İnce siperleri deler.	Duży zasięg: wysoka prędkość wylotowa, mały opad, luneta 20×. Przebija cienkie osłony.
+TİTAN .50	TYTAN .50
+Anti-materyel tüfek: duvar, araç kapısı ve motor bloğu deler. Her isabet öldürür.	Karabin przeciwsprzętowy: przebija ściany, drzwi aut i bloki silników. Każde trafienie zabija.
+Dürbüne takılır: karanlıkta her şeyi yeşil ışıkta görürsün.	Montowana na lunecie: w ciemności widzisz wszystko w zielonym świetle.
+TERMAL DÜRBÜN	LUNETA TERMO
+İnsan vücudu beyaz parlar: sis, karanlık ve kalabalıkta hedefi bul.	Ludzkie ciało świeci na biało: znajdź cel we mgle, w ciemności i w tłumie.
+KEŞİF DRONU	DRON ZWIADOWCZY
+Görev başına bir kez: bölgedeki herkesi 15 saniye işaretler ve kimliklerini tarar.	Raz na kontrakt: na 15 sekund oznacza wszystkich w strefie i skanuje ich tożsamość.
+Sınırsız.	Bez limitu.
+ZIRH DELİCİ	PRZECIWPANCERNE
+İnce siperleri, araç kapılarını ve camları delip geçer.	Przebija cienkie osłony, drzwi aut i szyby.
+UYUŞTURUCU İĞNE	STRZAŁKA USYPIAJĄCA
+Öldürmez, bayıltır. Sessizdir ama yavaştır: çok düşer.	Nie zabija, usypia. Cicha, ale wolna: mocno opada.
+PATLAYICI	WYBUCHOWE
+Çarptığı yerde patlar: araçları ve jeneratörleri tek atışta durdurur.	Wybucha przy uderzeniu: zatrzymuje pojazdy i generatory jednym strzałem.
+HASAR	OBRAŻENIA
+DÜRBÜN	LUNETA
+DENGE	STABILNOŚĆ
+ŞARJÖR	MAGAZYNEK
+HIZ	SZYBKOŚĆ
+Daha ağır mermi: zırhlı gövdeyi deler, kurşun daha hızlı ve düz gider.	Cięższy pocisk: przebija opancerzony tułów, leci szybciej i bardziej płasko.
+Dürbünün en büyük yakınlaştırması artar.	Zwiększa maksymalne przybliżenie lunety.
+Dürbündeki sallantı ve geri tepme azalır.	Zmniejsza kołysanie w lunecie i odrzut.
+Şarjöre daha çok fişek sığar.	Magazynek mieści więcej naboi.
+Sürgü ve şarjör değişimi hızlanır.	Szybsze przeładowanie zamka i wymiana magazynka.
+YAYGIN	POWSZECHNY
+NADİR	RZADKI
+EPİK	EPICKI
+ fişek	 naboi
+Bu açıdan 	Z tej pozycji 
+ görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	 — poza zasięgiem wzroku. Użyj ZMIEŃ POZYCJĘ, aby przejść gdzie indziej.
+Bundan sonra hedef işaretli gelmez. Dürbüne gir: sağdaki DOSYA'daki yüzü kalabalıkta bul, kişiyi tara, emin olunca İŞARETLE. Yanlış kişiyi vurursan sözleşme iptal.	Od teraz cel nie będzie oznaczony. Wejdź w lunetę: znajdź w tłumie twarz z AKT po prawej, zeskanuj osobę, a gdy masz pewność, OZNACZ. Jeśli trafisz złą osobę, kontrakt przepada.
+Uzak hedefte mermi düşer. Sol alttaki MENZİL ile dürbünü hedefin mesafesine ayarla (telemetre dürbünün altında) ya da sarı çizgilerden tut: 2 = 200 m, 3 = 300 m.	Na dalekim celu pocisk opada. Ustaw lunetę na odległość celu przyciskiem ZASIĘG w lewym dolnym rogu (dalmierz jest pod lunetą) albo celuj według żółtych kresek: 2 = 200 m, 3 = 300 m.
+Bundan sonra isabet noktası sadece NEFES tutarken görünür. Nefesini doğru ana sakla.	Od teraz punkt trafienia widać tylko podczas wstrzymywania ODDECHU. Zachowaj oddech na właściwy moment.
+Şehirde isabet noktası yok. Menzili ayarla, rüzgâr panelindeki yöne göre sarı noktalardan (1 nokta = 1 mil) tut.	W mieście nie ma punktu trafienia. Ustaw zasięg i celuj według żółtych kropek (1 kropka = 1 mil) w kierunku wskazanym na panelu wiatru.
+Dağda rüzgâr sert ve değişken; paneldeki ok ve güç anlık değişir. Okun yönünü ve gücünü izle, rüzgârın dindiği anı bekle.	W górach wiatr jest silny i zmienny; strzałka i siła na panelu zmieniają się na bieżąco. Śledź kierunek i siłę strzałki, poczekaj, aż wiatr ucichnie.
+Alarm engellendi	Alarm powstrzymany
+Son 10 saniye!	Ostatnie 10 sekund!
+Süre doldu	Czas minął
+Takviye — mevzi alıp yuvana ateş edecek	Posiłki — zajmą stanowisko i ostrzelają twoje gniazdo
+ silahlı adam mevzi alıyor — yuvanı arıyorlar!	 uzbrojonych zajmuje stanowiska — szukają twojego gniazda!
+Alarm çaldı, takviye geliyor. Başını eğik tut, önce silahlıları sustur.	Alarm podniesiony, nadchodzą posiłki. Trzymaj głowę nisko, najpierw ucisz uzbrojonych.
+Hedef düştü ama adamları seni arıyor. Siper al ya da silahlıları sustur — sonra çık.	Cel padł, ale jego ludzie cię szukają. Schowaj się albo ucisz uzbrojonych — potem się wycofaj.
+Iskalaman dikkat çekti — silahlılar dışarı çıkıyor. Siper al, sonra işini bitir.	Twoje pudło zwróciło uwagę — uzbrojeni wychodzą. Schowaj się, potem dokończ robotę.
+İŞÇİ	ROBOTNIK
+SİVİL	CYWIL
+Hedef saklandı	Cel się ukrył
+Hedef kaçtı	Cel uciekł
+Silahlı adam kaçtı	Uzbrojony uciekł
+Hedef öldü — onu canlı istiyorduk	Cel nie żyje — chcieliśmy go żywego
+Korunan kişi	Osoba chroniona
+ öldürüldü	 — zabity
+İsabet — 	Trafienie — 
+ atış daha	 strzałów więcej
+Görev başarısız	Kontrakt nieudany
+YENİ HEDEF: 	NOWY CEL: 
+  ·  DÜELLO	  ·  POJEDYNEK
+  ·  SON ANDA	  ·  W OSTATNIEJ CHWILI
+  ·  SİPERİN İÇİNDEN	  ·  PRZEZ OSŁONĘ
+  ·  CAMIN İÇİNDEN	  ·  PRZEZ SZYBĘ
+  ·  HAREKETLİ HEDEF	  ·  RUCHOMY CEL
+ZIRH DURDURDU — kafaya nişan al, zırh delici kullan ya da HASAR geliştir	PANCERZ ZATRZYMAŁ — celuj w głowę, użyj pocisków przeciwpancernych albo ulepsz OBRAŻENIA
+SİLAHLI ADAM BULUNDU: 	WYKRYTO UZBROJONEGO: 
+HEDEF DOĞRULANDI: 	CEL POTWIERDZONY: 
+Hedef değil — masum konuk	To nie cel — niewinny gość
+Üç yanlış teşhis — sözleşme iptal	Trzy błędne identyfikacje — kontrakt anulowany
+KONTROL: O değildi — masum birini vurdun!	KONTROLA: To nie on — trafiłeś niewinnego!
+KONTROL: Yine yanlış kişi. Bir daha olursa iptal.	KONTROLA: Znowu nie ta osoba. Jeszcze raz i anulujemy.
+KİMLİK DOĞRULANDI: 	TOŻSAMOŚĆ POTWIERDZONA: 
+KONTROL: Hayır, o değil. Dosyaya tekrar bak.	KONTROLA: Nie, to nie on. Zajrzyj jeszcze raz do akt.
+KONTROL: O da değil. Bir daha yanılırsan iptal.	KONTROLA: To też nie on. Jeszcze jedna pomyłka i anulujemy.
+YENİ YER: 	NOWA POZYCJA: 
+Dron bölgeyi taradı — 	Dron przeskanował strefę — 
+ kişi tanımlandı	 osób zidentyfikowano
+Dron silahlı birini işaretledi!	Dron oznaczył uzbrojonego!
+ vuruldu!	 trafiony!
+SUİKASTÇI ETKİSİZ — KAFADAN	ZABÓJCA ZNEUTRALIZOWANY — W GŁOWĘ
+SUİKASTÇI ETKİSİZ	ZABÓJCA ZNEUTRALIZOWANY
+KAFADAN VURUŞ — HEDEF ETKİSİZ	STRZAŁ W GŁOWĘ — CEL ZNEUTRALIZOWANY
+HEDEF ETKİSİZ	CEL ZNEUTRALIZOWANY
+ öldü!	 nie żyje!
+Koruma etkisiz — kafadan	Ochroniarz zneutralizowany — w głowę
+Koruma etkisiz	Ochroniarz zneutralizowany
+Yanlış kişi — o bir dublördü	Zła osoba — to był sobowtór
+Yanlış kişi — masum birini vurdun	Zła osoba — trafiłeś niewinnego
+Çok fazla sivil kayıp	Zbyt wiele ofiar cywilnych
+SİVİL KAYIP! Bir daha olursa görev iptal.	OFIARA CYWILNA! Jeszcze raz i kontrakt anulowany.
+ hedef kaldı	 celów zostało
+Yanlış yer — BACAĞINDAN vurmalısın	Złe miejsce — musisz trafić w NOGĘ
+Yanlış yer — KOLUNDAN vurmalısın	Złe miejsce — musisz trafić w RĘKĘ
+ yaralandı — artık yürüyemiyor	 ranny — nie może już chodzić
+Silahını düşürdü!	Upuścił broń!
+HEDEF YERE DÜŞTÜ	CEL POWALONY
+HEDEF YARALANDI	CEL RANNY
+Koruma yaralandı — hâlâ telsize uzanabilir	Ochroniarz ranny — wciąż może sięgnąć po radio
+Masum biri yaralandı!	Niewinny został ranny!
+ bayıldı — güvenli yere ulaşamaz	 stracił przytomność — nie dotrze w bezpieczne miejsce
+İĞNE İSABET — hedef birkaç saniyede bayılacak	STRZAŁKA TRAFIŁA — cel za kilka sekund straci przytomność
+Koruma bayılıyor	Ochroniarz traci przytomność
+Masum birini bayılttın	Uśpiłeś niewinnego
+KARŞI NİŞANCI SANA NİŞAN ALDI — ÖNCE SEN VUR!	KONTRSNAJPER CIĘ NAMIERZYŁ — STRZEL PIERWSZY!
+SİLAHLI ADAM NİŞAN ALIYOR — ŞİMDİ VUR!	UZBROJONY CELUJE — STRZELAJ TERAZ!
+GÖZCÜ SENİ GÖRDÜ!	OBSERWATOR CIĘ WIDZI!
+GÖZCÜ SENİ GÖRDÜ — telsize uzanıyor, onu durdur!	OBSERWATOR CIĘ WIDZI — sięga po radio, powstrzymaj go!
+Koruma telsize uzanıyor — onu durdur!	Ochroniarz sięga po radio — powstrzymaj go!
+GÖZCÜ YERİNİ BİLDİRDİ!	OBSERWATOR ZGŁOSIŁ TWOJĄ POZYCJĘ!
+ALARM VERİLDİ — HEDEF KAÇIYOR	ALARM PODNIESIONY — CEL UCIEKA
+Hedef tedirgin oldu ve kaçıyor!	Cel się zaniepokoił i ucieka!
+Hedef saklandığı yerden çıkmadı	Cel nie wyszedł z kryjówki
+Hedef içeri saklandı — bekle, bakmak için tekrar çıkabilir	Cel schował się do środka — czekaj, może wyjrzeć jeszcze raz
+Hedef kapıda göründü — şimdi!	Cel pojawił się w drzwiach — teraz!
+Hedef siperin arkasında, görünmüyor. Yakınına ateş et: sesi duyunca bakmak için açığa çıkar. Bir daha ateş edersen kaçar — o sırada vur.	Cel jest za osłoną, nie widać go. Strzel obok niego: usłyszy dźwięk i wyjdzie zobaczyć. Jeśli strzelisz znowu, ucieknie — trafiaj wtedy.
+ISKALADIN — 	PUDŁO — 
+ KAÇIYOR!	 UCIEKA!
+Iskaladın — biri ürktü ve kaçıyor!	Pudło — ktoś się spłoszył i ucieka!
+Sana ateş edenleri sustur	Ucisz tych, którzy do ciebie strzelają
+Sana ateş edenleri sustur  ·  	Ucisz tych, którzy do ciebie strzelają  ·  
+ kaldı	 zostało
+HEDEF TAMAM — AMA SENİ BULDULAR: SİLAHLILARI SUSTUR	CEL ZAŁATWIONY — ALE CIĘ ZNALEŹLI: UCISZ UZBROJONYCH
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — 	Cel padł, ale twoja pozycja jest znana. Nikt nie może pójść twoim tropem — 
+ silahlı var, hepsini sustur. Gerekirse siper al.	 uzbrojonych, ucisz wszystkich. W razie potrzeby się schowaj.
+Kalan silahlılar geri çekildi	Pozostali uzbrojeni się wycofali
+BÖLGE TEMİZ — GÖREV TAMAM	STREFA CZYSTA — KONTRAKT WYKONANY
+Sözleşme ücreti	Honorarium za kontrakt
+Yıldız hedefleri  ×	Cele gwiazdek  ×
+Sessiz iş — alarm yok	Cicha robota — bez alarmu
+Uzak atış  ·  	Daleki strzał  ·  
+Keşif  ·  	Rozpoznanie  ·  
+ tehdit	 zagrożeń
+Sivil kaybı  ×	Ofiary cywilne  ×
+Yaralı sivil  ×	Ranni cywile  ×
+Tekrar oynanış  ×%	Powtórka  ×%
+VETERAN  ×1,5	WETERAN  ×1,5
+Günün sözleşmesi (+%33: ücretin 2 katı)	Kontrakt dnia (+%33: 2× honorarium)
+GÜMRÜK KAPISI	BRAMA CELNA
+Liman giriş kapısı	Brama wjazdowa do portu
+Selim Kaya kapıda denetimde. Kimliğini tara, sonra işini bitir.	Sławomir Kaczmarek kontroluje bramę. Zeskanuj jego tożsamość, potem go załatw.
+Gümrük müdürü Selim Kaya, rüşvet karşılığında kaçakçılara liman kapısını açıyor. Her sabah kapıdaki güvenlik noktasını denetliyor.\n\nKapıdan ayrılmadan onu etkisiz hale getir. Alarm verilirse otoparktaki aracına koşar.	Naczelnik urzędu celnego Sławomir Kaczmarek za łapówki otwiera przemytnikom bramę portu. Co rano kontroluje punkt ochrony przy bramie.\n\nZneutralizuj go, zanim odejdzie od bramy. Jeśli zostanie podniesiony alarm, pobiegnie do swojego auta na parkingu.
+Dürbünü aç ve nişangahı birinin üzerinde tut: kimliği otomatik taranır. Kırmızı işaret hedefi gösterir.	Otwórz lunetę i trzymaj celownik na osobie: jej tożsamość zostanie zeskanowana automatycznie. Czerwony znacznik pokazuje cel.
+Selim Kaya	Sławomir Kaczmarek
+Gümrük Müdürü	Naczelnik urzędu celnego
+Lacivert takım elbise, kırmızı kravat, gözlük.	Granatowy garnitur, czerwony krawat, okulary.
+Gümrük müdürü Selim Kaya'yı etkisiz hale getir	Zneutralizuj naczelnika celników Sławomira Kaczmarka
+LİMAN OFİSİ	BIURO PORTU
+Liman yönetim binası	Budynek zarządu portu
+Aydın sigara için dışarı çıkacak. Kapıdan uzaklaştığı an senin anın.	Adamczyk wyjdzie na papierosa. Gdy odejdzie od drzwi — to twoja chwila.
+Liman müdür yardımcısı Can Aydın, kaçak sevkiyatların kayıtlarını siliyor. Binadan sadece sigara molalarında çıkıyor.\n\nKapıdan çıktığında fırsatı kaçırma: alarm verilirse binaya kapanır ve görev başarısız olur.	Zastępca dyrektora portu Jan Adamczyk usuwa zapisy przemytniczych dostaw. Wychodzi z budynku tylko na przerwy na papierosa.\n\nGdy wyjdzie, nie przegap okazji: jeśli zostanie podniesiony alarm, zamknie się w budynku, a kontrakt się nie powiedzie.
+Hedef bina içindeyken bekle. Kapıdan çıkınca sigara içtiği noktada sabit durur — nefesini tut ve kafasına nişan al.	Gdy cel jest w budynku, czekaj. Po wyjściu stoi nieruchomo tam, gdzie pali — wstrzymaj oddech i celuj w głowę.
+Can Aydın	Jan Adamczyk
+Müdür Yardımcısı	Zastępca dyrektora
+Mavi polo tişört, siyah pantolon. Sigara molasında dışarı çıkar.	Niebieska koszulka polo, czarne spodnie. Wychodzi na papierosa.
+Can Aydın'ı binaya geri girmeden vur	Zastrzel Jana Adamczyka, zanim wróci do budynku
+Alarm verdirme	Nie dopuść do alarmu
+Hedefi kafadan vur	Trafiaj cel w głowę
+KONTEYNER TAKASI	WYMIANA KONTENERÓW
+Konteyner sahası	Plac kontenerowy
+Kuzgun limana giriyor. Takas yeri çatıdan görünmüyor — onu dışarı çekmen gerekecek.	Kruk wjeżdża do portu. Miejsca wymiany nie widać z dachu — będziesz musiał go wywabić.
+Kuzgun lakaplı kaçakçı Tarık Bal arabasıyla limana gelecek ve konteynerlerin arasında bir alıcıyla buluşacak. Takas bitince arabasına binip gidecek.\n\nTakas yeri çatıdan görünmüyor. Ya yürürken vur ya da onu açığa çıkar: arabasının alarmı ya da yakınına düşen bir kurşun. İkinci kez ürkerse arabasına koşar.	Przemytnik Tomasz Bielak, zwany Krukiem, przyjedzie autem do portu i spotka się z kupcem między kontenerami. Po wymianie wsiądzie do auta i odjedzie.\n\nMiejsca wymiany nie widać z dachu. Trafiaj go, gdy idzie, albo go wywab: alarmem auta lub kulą, która padnie obok. Jeśli spłoszy się drugi raz, pobiegnie do auta.
+Hedef görünmüyorsa yakınına ateş et: sese bakmak için açığa çıkar. Arabasını vurursan alarm çalar, kontrol etmeye gelir.	Jeśli cel jest niewidoczny, strzel obok niego: wyjdzie sprawdzić dźwięk. Jeśli trafisz jego auto, włączy się alarm i przyjdzie sprawdzić.
+Tarık konteynerlerin arasında, buradan görünmüyor. Arabasına ateş et: alarm çalınca kontrol etmeye gelir. Ya da ara yolun açık kısmına ateş et, sese bakmak için oraya yürür.	Tomasz jest między kontenerami, stąd go nie widać. Strzel w jego auto: gdy zawyje alarm, przyjdzie sprawdzić. Albo strzel w odsłonięty odcinek alejki — pójdzie tam sprawdzić dźwięk.
+Arabasında — limana geliyor	W swoim aucie — jedzie do portu
+Hedef arabasıyla kaçtı	Cel uciekł autem
+Takas bitti — hedef arabasına dönüyor!	Wymiana skończona — cel wraca do auta!
+Takasın bitmesine	Do końca wymiany
+Hedefin arabası kapıdan girdi	Auto celu wjechało przez bramę
+Araç alarmı çalıyor!	Wyje alarm samochodowy!
+Tarık Bal	Tomasz Bielak
+Gri tişört, kot pantolon, kırmızı bere. Kolları dövmeli.	Szary T-shirt, dżinsy, czerwona czapka. Wytatuowane ręce.
+Kuzgun'u takas bitmeden etkisiz hale getir	Zneutralizuj Kruka przed końcem wymiany
+En fazla 3 atış	Najwyżej 3 strzały
+GECE NÖBETİ	NOCNA WARTA
+Depolar ve gözetleme kulesi	Magazyny i wieża obserwacyjna
+Rico ve adamları ateşin başında. Kuledeki gözcü her şeyi görür — önce onu düşün.	Rico i jego ludzie przy ognisku. Obserwator na wieży widzi wszystko — najpierw pomyśl o nim.
+Paralı asker Rico Vargas ve adamları depoları koruyor. Gece soğuğunda ateş varilinin başında toplanıyorlar.\n\nKuledeki gözcü cesetleri görürse alarm verir. Önce onu susturmak işini kolaylaştırır.	Najemnik Rico Vargas i jego ludzie pilnują magazynów. W nocnym chłodzie zbierają się przy beczce z ogniem.\n\nJeśli obserwator na wieży zobaczy ciała, podniesie alarm. Uciszenie go najpierw ułatwi ci robotę.
+Ateşin yanındaki kırmızı yakıt bidonu tek atışta patlar ve yanındakileri götürür — ama yanlarındaki bekçi de ölür (sivil kayıp, yıldız kaybı) ve patlama sessiz iş primini yakar. Temiz iş için Rico'yu doğrudan vur.	Czerwony kanister z paliwem przy ognisku wybucha od jednego strzału i zabiera tych obok — ale zginie też stojący przy nich stróż (ofiara cywilna, utrata gwiazdki), a wybuch przekreśla premię za cichą robotę. Dla czystej roboty trafiaj Rica bezpośrednio.
+Paralı Asker	Najemnik
+Kel ve sakallı. Taktik yelek, kırmızı tişört.	Łysy i brodaty. Kamizelka taktyczna, czerwony T-shirt.
+Rico Vargas'ı etkisiz hale getir	Zneutralizuj Rica Vargasa
+Bekçiye zarar verme	Nie krzywdź stróża
+DEPODAKİ KÖSTEBEK	KRET W MAGAZYNIE
+A deposu yükleme alanı	Strefa załadunku magazynu A
+Köstebek kasa taşıyanlardan biri. Masumları vurma: önce tara.	Kret jest jednym z tragarzy skrzyń. Nie strzelaj do niewinnych: najpierw skanuj.
+Depoda çalışan Kerim, örgütün sevkiyat bilgilerini rakiplere satıyor. Diğer işçilerle birlikte kasa taşıyor.\n\nİşçiler masum: hedefi kıyafetinden tanı ve ateş etmeden önce mutlaka tara.	Zenon, który pracuje w magazynie, sprzedaje konkurencji informacje o dostawach organizacji. Nosi skrzynie razem z innymi robotnikami.\n\nRobotnicy są niewinni: rozpoznaj cel po ubraniu i zawsze skanuj przed strzałem.
+Hareket eden hedefi vururken kurşunun uçuş süresini hesaba kat: yürüdüğü yönün biraz önüne nişan al.	Strzelając do ruchomego celu, uwzględnij czas lotu pocisku: celuj trochę przed nim w kierunku, w którym idzie.
+Kerim Usta	Zenon Kubiak
+Köstebek	Kret
+Kırmızı kazak, siyah pantolon, bere. Kasa taşıyor.	Czerwony sweter, czarne spodnie, czapka. Nosi skrzynie.
+Köstebeği bul ve etkisiz hale getir	Znajdź i zneutralizuj kreta
+Sivillere zarar verme	Nie krzywdź cywilów
+RIHTIM KAÇAĞI	UCIECZKA Z NABRZEŻA
+Rıhtım ve iskele	Nabrzeże i pomost
+Tilki belgeleri teslim edip tekneye koşacak. Tekneyi vurursan yaya kalır.	Lis przekaże dokumenty i pobiegnie do łodzi. Jeśli trafisz łódź, zostanie na lodzie.
+Tilki lakaplı Deniz Kara, çalınan belgeleri rıhtımda bir adama teslim edecek. Ardından iskeledeki sürat teknesiyle kaçacak.\n\nTekneye binerse onu kaybederiz. Hareketli hedefe önden nişan al.	Dawid Czarnecki, zwany Lisem, przekaże skradzione dokumenty komuś na nabrzeżu. Potem ucieknie motorówką przy pomoście.\n\nJeśli wsiądzie do łodzi, stracimy go. Na ruchomy cel bierz poprawkę do przodu.
+300 metrede kurşun yaklaşık 0,4 saniye uçar. Koşan hedefte nişanı yaklaşık bir gövde önüne al. İskeledeki sürat teknesini önceden vurursan motoru çalışmaz: tekneyle kaçamaz, iskeleden koşmak zorunda kalır.	Na 300 metrach pocisk leci ok. 0,4 sekundy. Na biegnący cel bierz poprawkę mniej więcej o jedną sylwetkę do przodu. Jeśli wcześniej trafisz motorówkę przy pomoście, silnik nie zapali: nie ucieknie łodzią, będzie musiał uciekać pomostem.
+Tekne çalışmıyor — hedef iskeleden kaçıyor!	Łódź nie działa — cel ucieka pomostem!
+Tekne vuruldu — motor çalışmıyor, tekneyle kaçamaz!	Łódź trafiona — silnik nie działa, nie ucieknie łodzią!
+Deniz Kara	Dawid Czarnecki
+Kahverengi kapüşonlu, kasket, koyu pantolon.	Brązowa bluza z kapturem, kaszkiet, ciemne spodnie.
+Tilki'yi tekneyle kaçmadan durdur	Zatrzymaj Lisa, zanim ucieknie łodzią
+Önce teknesini vur	Najpierw trafiaj jego łódź
+KAPTAN KÖŞKÜ	MOSTEK KAPITAŃSKI
+Meridian Star köprüüstü	Mostek Meridian Star
+Kaptan köprüüstünün kanadına çıkacak. Uzun atış, sert rüzgar — rüzgar okuna bak.	Kapitan wyjdzie na skrzydło mostka. Daleki strzał, silny wiatr — patrz na strzałkę wiatru.
+Meridian Star'ın kaptanı Orhan Demir, örgütün silah yükünü teslim etmeden limandan ayrılmak üzere. Köprüüstünün açık kanadına çıkıyor.\n\nMesafe uzun ve rüzgar sert. Kaçırırsan köşke kapanır.	Kapitan Meridian Star, Olgierd Kowal, zaraz wypłynie z portu, nie oddając ładunku broni organizacji. Wychodzi na otwarte skrzydło mostka.\n\nDystans jest duży, a wiatr silny. Jeśli spudłujesz, zamknie się na mostku.
+Uzun mesafede kurşun düşer. Nişan yardımı açıksa dürbündeki kırmızı nokta kurşunun gideceği yeri gösterir.	Na dużym dystansie pocisk opada. Jeśli pomoc w celowaniu jest włączona, czerwona kropka w lunecie pokazuje, gdzie trafi pocisk.
+Orhan Demir	Olgierd Kowal
+Yeşil mont, kot pantolon. Köprüüstü kanadında.	Zielona kurtka, dżinsy. Na skrzydle mostka.
+Kaptan Orhan Demir'i köşke kapanmadan vur	Zastrzel kapitana Olgierda Kowala, zanim zamknie się na mostku
+YAT PARTİSİ	IMPREZA NA JACHCIE
+İskeledeki yat	Jacht przy pomoście
+Kral'ın partisi. Beyaz smokinli iki adam var — bıyıklı ve gözlüklü olan bizim adam.	Impreza Krala. Jest dwóch mężczyzn w białych smokingach — nasz ma wąsy i okulary.
+Örgütün başı Viktor Kral yatında kutlama yapıyor. Korumaları her yerde.\n\nKonuklardan biri de beyaz smokin giymiş: taramadan ateş etme. Kral bir süre sonra iskeleden ayrılıp depolara yürüyecek.	Szef organizacji Wiktor Kral świętuje na swoim jachcie. Jego ochroniarze są wszędzie.\n\nJeden z gości też ma biały smoking: nie strzelaj bez skanowania. Po jakimś czasie Kral zejdzie z pomostu i pójdzie do magazynów.
+Gerçek hedef bıyıklı ve güneş gözlüklü. Emin değilsen nişangahı üzerinde tut ve kimlik kartını oku.	Prawdziwy cel ma wąsy i okulary przeciwsłoneczne. Jeśli nie masz pewności, trzymaj na nim celownik i odczytaj jego dowód.
+Kral'ın ayrılmasına	Do odejścia Krala
+Viktor Kral	Wiktor Kral
+Örgüt Lideri	Szef organizacji
+Beyaz smokin, papyon. Bıyıklı ve güneş gözlüklü.	Biały smoking, mucha. Wąsy i okulary przeciwsłoneczne.
+Viktor Kral'ı yattan ayrılmadan etkisiz hale getir	Zneutralizuj Wiktora Krala, zanim zejdzie z jachtu
+Konuklara zarar verme	Nie krzywdź gości
+Korumalara dokunma	Nie ruszaj ochroniarzy
+Giriş kapısı ve yönetim binası	Brama wjazdowa i budynek zarządu
+Ayten Şahin bugün örgüte karşı ifade verecek. Polis onu ofise götürüyor. Kalabalıkta iki tetikçi var.	Agnieszka Sokół złoży dziś zeznania przeciwko organizacji. Policja prowadzi ją do biura. W tłumie jest dwóch zabójców.
+Gümrük memuru Ayten Şahin, örgütün rüşvet ağına karşı tanıklık edecek. Polis onu sabah liman yönetim binasına getiriyor.\n\nÖrgüt iki tetikçi yolladı: işçi kılığında kalabalığa karışmışlar. Herkesi dürbünle tara — silahlılar kimlik kartında görünür. Ayten binaya girene kadar hayatta kalmalı.\n\nÖrgüt yalnız gelmedi: gözetleme kulesinde dürbünlü bir gözcü, kapının iki yanında silahlı adamları var. Yerini bulurlarsa sana ateş ederler.	Celniczka Agnieszka Sokół zezna przeciwko siatce łapówkarskiej organizacji. Policja przywozi ją rano do budynku zarządu portu.\n\nOrganizacja wysłała dwóch zabójców: wmieszali się w tłum przebrani za robotników. Przeskanuj wszystkich lunetą — uzbrojonych widać w dowodzie. Agnieszka musi przeżyć, dopóki nie wejdzie do budynku.\n\nOrganizacja nie przyszła sama: na wieży obserwacyjnej jest obserwator z lornetką, a po obu stronach bramy uzbrojeni ludzie. Jeśli znajdą twoją pozycję, otworzą ogień.
+Tetikçi silah çekince işaretçisinin etrafındaki kırmızı halka dolmadan vur. Kolundan vurursan silahını düşürür. Kuledeki gözcünün dürbünü sana dönünce eğil (SİPER) ya da önce onu indir.	Gdy zabójca wyciągnie broń, traf go, zanim zapełni się czerwony pierścień wokół jego znacznika. Trafiony w rękę upuści broń. Gdy lornetka obserwatora na wieży skieruje się na ciebie, schowaj się (OSŁONA) albo zdejmij go pierwszego.
+Termal dürbün kalabalıkta işe yarar	Termowizja przydaje się w tłumie
+Ayten Şahin	Agnieszka Sokół
+Bej trençkot — polis eşliğinde	Beżowy trencz — w asyście policji
+Tanığı ofise kadar koru	Chroń świadka aż do biura
+Bilinmeyen İşçi	Nieznany robotnik
+Temizlikçi kılığında — silahlı	W przebraniu sprzątacza — uzbrojony
+İşçi kılığında — silahlı	W przebraniu robotnika — uzbrojony
+Tetikçileri durdur	Powstrzymaj zabójców
+Tetikçileri durdur  	Powstrzymaj zabójców  
+Kulede dürbünlü biri var. Dürbünü sana döndüğünde eğil — seni görürse telsizle herkese bildirir.	Na wieży jest ktoś z lornetką. Gdy skieruje ją na ciebie, schowaj się — jeśli cię zobaczy, da znać wszystkim przez radio.
+Polis arabasında — yolda	W radiowozie — w drodze
+Tanık arabadan indi, kapıya yürüyor. Gözünü dört aç.	Świadek wysiadł z auta, idzie do bramy. Miej oczy szeroko otwarte.
+POLİS	POLICJA
+Silah! Arkamda kal, eğil!	Broń! Zostań za mną, schyl się!
+Herkesi tara. Kartında SİLAHLI yazan adam bizim adamımız değil.	Przeskanuj wszystkich. Facet z napisem UZBROJONY w dowodzie nie jest z naszych.
+Bej trençkot, kahverengi saç. Polis memuruyla yürüyor.	Beżowy trencz, brązowe włosy. Idzie z policjantem.
+Tanığı ofise girene kadar hayatta tut	Utrzymaj świadka przy życiu, dopóki nie wejdzie do biura
+Kalabalıktaki iki tetikçiyi bul ve durdur (bonus)	Znajdź i powstrzymaj dwóch zabójców w tłumie (bonus)
+İki tetikçiyi de silah çekmeden durdur	Powstrzymaj obu zabójców, zanim wyciągną broń
+KURYE	KURIER
+Kurye çantayla depodan çıkacak. Müşteri onu canlı istiyor: bacağından vur, gerisini ekip halleder.	Kurier wyjdzie z magazynu z torbą. Zleceniodawca chce go żywego: strzel w nogę, resztą zajmie się zespół.
+Emre Doğan, örgütün banka hesaplarını taşıyan kurye. Birazdan A deposundan çıkıp arabasına yürüyecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, yere düşsün. Ekibimiz arabayla gelip onu alacak. Öldürürsen bilgi kaybolur. Dikkat: örgüt, kuryesinin konuşmasındansa ölmesini tercih eder — korumaları ona silah çekecek, depodaki adamları da dışarı çıkıp onu susturmaya çalışacak.	Emil Dudek to kurier, który wozi konta bankowe organizacji. Za chwilę wyjdzie z magazynu A i pójdzie do auta.\n\nZleceniodawca chce go ŻYWEGO: strzel mu w nogę, niech upadnie. Nasz zespół podjedzie i go zabierze. Jeśli go zabijesz, informacje przepadną. Uwaga: organizacja woli, żeby kurier zginął, niż zaczął mówić — ochroniarze wyciągną na niego broń, a ludzie z magazynu wyjdą, żeby go uciszyć.
+Bacağından vurulan yere düşer. Korumalar onu susturmak için silah çekerse kırmızı halka dolmadan indir — kolundan vurursan silahını düşürür. Iskalarsan kurye arabasına koşar.	Trafiony w nogę upada. Jeśli ochroniarze wyciągną broń, żeby go uciszyć, zdejmij ich, zanim zapełni się czerwony pierścień — trafiony w rękę upuści broń. Jeśli spudłujesz, kurier pobiegnie do auta.
+Kurye arabasıyla kaçtı	Kurier uciekł autem
+Ekip gelene kadar kuryeyi hayatta tut	Utrzymaj kuriera przy życiu do przybycia zespołu
+Kurye dışarıda. Bacağına nişan al.	Kurier jest na zewnątrz. Celuj w nogę.
+Depodaki Adam	Człowiek z magazynu
+Depodan silahlı biri çıktı — kuryeye gidiyor!	Uzbrojony wyszedł z magazynu — idzie do kuriera!
+Yol temiz — ekip gaza bastı, geliyorlar!	Droga czysta — zespół wcisnął gaz, jadą!
+Ekip kuryeyi aldı!	Zespół zabrał kuriera!
+Ekibin gelmesine	Do przyjazdu zespołu
+Kurye yerde! Ekip yolda — 	Kurier leży! Zespół w drodze — 
+ saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	 sekund. Ludzie organizacji spróbują go uciszyć, wyjdą też z magazynu!
+Emre Doğan	Emil Dudek
+Mavi polo tişört, siyah pantolon. Elinde siyah bir çanta.	Niebieska koszulka polo, czarne spodnie. W ręku czarna torba.
+Ekip gelene kadar onu silahlı adamlardan koru	Chroń go przed uzbrojonymi do przybycia zespołu
+Kuryeyi canlı teslim et	Dostarcz kuriera żywego
+İlk atışta bacağından vur	Pierwszym strzałem w nogę
+Kimse kuryeye nişan alamasın	Nikt nie może wycelować w kuriera
+KARARTMA	ZACIEMNIENIE
+Merkez saha — gece sevkiyatı	Plac centralny — nocna dostawa
+Kartal sevkiyatı bizzat denetliyor. Işıklar onun lehine — ama elektrik panosu direğin dibinde.	Orzeł osobiście nadzoruje dostawę. Światła działają na jego korzyść — ale skrzynka elektryczna stoi u stóp masztu.
+Silah tüccarı Hakan Er, namıdiğer Kartal, gece yarısı limanın merkez sahasında bir sevkiyatı denetliyor. Etrafı aydınlık ve korumalarla dolu.\n\nIşık direğinin dibindeki elektrik panosunu vurursan bütün liman karanlığa gömülür: korumalar kör kalır, ama Kartal da arabasına yürür. Gece görüşü dürbünü bu iş için sende.	Handlarz bronią Henryk Orłowski, znany jako Orzeł, o północy nadzoruje dostawę na placu centralnym portu. Wokół jest jasno i pełno ochroniarzy.\n\nJeśli trafisz skrzynkę elektryczną u stóp masztu oświetleniowego, cały port pogrąży się w ciemności: ochroniarze oślepną, ale Orzeł ruszy do auta. Na tę robotę dostajesz lunetę z noktowizją.
+Gece görüşünü dürbündeki göz tuşuyla aç. Karanlıkta korumalar yakından geçmedikçe cesetleri göremez. Kartal arabasına binerse kaçar.	Włącz noktowizję przyciskiem z okiem w lunecie. W ciemności ochroniarze nie zauważą ciał, chyba że przejdą tuż obok. Jeśli Orzeł wsiądzie do auta, ucieknie.
+Kartal arabasıyla kaçtı	Orzeł uciekł autem
+Kartal'ı etkisiz hale getir	Zneutralizuj Orła
+Kartal arabasına yürüyor!	Orzeł idzie do auta!
+Sevkiyatın bitmesine	Do końca dostawy
+KARARTMA — liman karanlığa gömüldü	ZACIEMNIENIE — port pogrążył się w ciemności
+Işıklar gitti! Gece görüşünü aç — Kartal arabasına gidiyor!	Światła zgasły! Włącz noktowizję — Orzeł idzie do auta!
+Hakan Er	Henryk Orłowski
+Lacivert takım, kırmızı kravat, gözlük. Sevkiyatı denetliyor.	Granatowy garnitur, czerwony krawat, okulary. Nadzoruje dostawę.
+Silah tüccarı Kartal'ı etkisiz hale getir	Zneutralizuj handlarza bronią Orła
+İstersen önce elektrik panosunu vurup limanı karart	Jeśli chcesz, najpierw trafiaj skrzynkę elektryczną i zaciemnij port
+Işıkları söndür ve karanlıkta vur	Zgaś światła i strzelaj w ciemności
+İĞNE	STRZAŁKA
+Rıhtım — Meridian Star iskelesi	Nabrzeże — pomost Meridian Star
+Kimyager gemiye binmeden onu uyut. Kimse ölmeyecek — bu iş temiz olmalı.	Uśpij chemiczkę, zanim wejdzie na statek. Nikt nie zginie — to ma być czysta robota.
+Dr. Selin Aras, örgütün sentetik uyuşturucu laboratuvarını yöneten kimyager. Şafak sökmeden iki korumasıyla rıhtım boyunca yürüyüp Meridian Star'a binecek.\n\nİstihbarat onu canlı istiyor. Sana yedi uyuşturucu iğne veriyoruz: kimyageri bayılt. Korumaları da bayıltırsan ekibimiz tekneyle gelip onu sessizce alır. Korumalar — ya da gemiden inen biri — baygın kadına ulaşırsa onu gemiye taşırlar.	Dr Sylwia Marczak to chemiczka kierująca laboratorium syntetycznych narkotyków organizacji. Przed świtem przejdzie z dwoma ochroniarzami wzdłuż nabrzeża i wejdzie na Meridian Star.\n\nWywiad chce jej żywej. Dajemy ci siedem strzałek usypiających: uśpij chemiczkę. Jeśli uśpisz też ochroniarzy, nasz zespół podpłynie łodzią i cicho ją zabierze. Jeśli ochroniarze — albo ktoś ze statku — dotrą do nieprzytomnej kobiety, wniosą ją na pokład.
+Mermi seçici tuşuyla UYUŞTURUCU İĞNE'ye geç. İğne yavaş uçar ve çok düşer: kırmızı nokta isabet yerini gösterir. Önce korumaları bayıltmak işi kolaylaştırır.	Przełącz amunicję na STRZAŁKĘ USYPIAJĄCĄ przyciskiem wyboru pocisków. Strzałka leci wolno i mocno opada: czerwona kropka pokazuje punkt trafienia. Uśpienie najpierw ochroniarzy ułatwi robotę.
+Kimyager gemiye bindi	Chemiczka weszła na statek
+Kimyageri uyuşturucu iğneyle bayılt	Uśpij chemiczkę strzałką usypiającą
+Ekip tekneyle gelene kadar onu korumalardan uzak tut	Trzymaj ochroniarzy z dala od niej, aż zespół przypłynie łodzią
+Meridian Star'ın adamı — kimyageri gemiye taşımak isteyecek	Człowiek z Meridian Star — zechce wnieść chemiczkę na statek
+Ekip kimyageri tekneye aldı!	Zespół zabrał chemiczkę na łódź!
+Teknenin gelmesine	Do przypłynięcia łodzi
+Gemiden iki kişi iniyor — kimyagere gidiyorlar!	Ze statku schodzą dwie osoby — idą do chemiczki!
+Herkes yerde. Tekne hızlanıyor!	Wszyscy leżą. Łódź przyspiesza!
+Korumalar temiz. Tekne geliyor — 	Ochroniarze załatwieni. Łódź płynie — 
+ saniye.	 sekund.
+İğne tuttu! Korumaları durdur, sonra ekibi gönderiyorum.	Strzałka zadziałała! Zatrzymaj ochroniarzy, wtedy wyślę zespół.
+Koruma kimyagere ulaştı — onu taşıyacak!	Ochroniarz dotarł do chemiczki — zaraz ją zabierze!
+Mürettebat kimyagere ulaştı — onu kaldırıyorlar!	Załoga dotarła do chemiczki — podnoszą ją!
+Kimyageri gemiye taşıdılar	Wnieśli chemiczkę na statek
+Dr. Selin Aras	Dr Sylwia Marczak
+Siyah mont, sarı saç. İki korumayla yürüyor.	Czarna kurtka, blond włosy. Idzie z dwoma ochroniarzami.
+Korumaları durdur, ekip onu tekneyle alsın	Zatrzymaj ochroniarzy, niech zespół zabierze ją łodzią
+Kimyageri canlı teslim et	Dostarcz chemiczkę żywą
+Kimseyi öldürme	Nikogo nie zabijaj
+Önce korumaları bayılt	Najpierw uśpij ochroniarzy
+CAM KULE	SZKLANA WIEŻA
+Kordon Plaza — 11. kat	Bursztyn Plaza — 11. piętro
+Defne Aksoy hâlâ ofiste. Cam mermiyi durdurmaz — ama kırıldığı an içerideki herkes duyar.	Dorota Nowak wciąż jest w biurze. Szkło nie zatrzyma pocisku — ale gdy pęknie, wszyscy w środku to usłyszą.
+Liman ağı çöktü ama paranın aktığı yer hâlâ ayakta: Baran Holding. Finans direktörü Defne Aksoy, örgütün kirli parasını aklıyor ve bu gece hesapları yurtdışına taşıyacak.\n\nKordon Plaza'nın 11. katında, ışıkları yanan ofiste tek başına çalışıyor. Katta bir güvenlik görevlisi devriye geziyor. Saat 22:42'de asansörle iniyor: ondan önce bitir.	Siatka w porcie upadła, ale miejsce, do którego płyną pieniądze, wciąż stoi: Borowski Holding. Dyrektor finansowa Dorota Nowak pierze brudne pieniądze organizacji i tej nocy przeniesie konta za granicę.\n\nPracuje sama w oświetlonym biurze na 11. piętrze Bursztyn Plaza. Po piętrze krąży ochroniarz. O 22:42 zjeżdża windą: skończ przed tym.
+Cam mermiyi yavaşlatır ama durdurmaz. İlk atışta cam kırılır ve içeridekiler sesi duyar: Defne kırık cama bakmaya gelir, ikinci kez ürkerse asansöre koşar.	Szkło spowalnia pocisk, ale go nie zatrzymuje. Pierwszy strzał rozbije szybę, a ludzie w środku usłyszą dźwięk: Dorota podejdzie obejrzeć rozbitą szybę, a jeśli spłoszy się drugi raz, pobiegnie do windy.
+Defne masaların arkasında, görünmüyor. Ofisin camına yakın bir yere ateş et: kırılan camı görmeye pencereye gelir.	Dorota jest za biurkami, nie widać jej. Strzel w szybę biura gdzieś blisko: podejdzie do okna zobaczyć rozbite szkło.
+Defne asansöre bindi	Dorota wsiadła do windy
+Asansöre inmesine	Do zjazdu windą
+Defne çantasını aldı — asansöre yürüyor!	Dorota wzięła torbę — idzie do windy!
+Katta bir güvenlik görevlisi var. Cesedi görürse alarm verir, Defne de kaçar.	Na piętrze jest ochroniarz. Jeśli zobaczy ciało, podniesie alarm, a Dorota ucieknie.
+Pencereye her gelişinde birkaç saniye durup şehre bakıyor. Sabırlı ol.	Za każdym razem, gdy podchodzi do okna, przez kilka sekund patrzy na miasto. Bądź cierpliwy.
+Defne Aksoy	Dorota Nowak
+Siyah ceket, mavi etek, kızıl saç, gözlük. Kordon Plaza 11. kat.	Czarny żakiet, niebieska spódnica, rude włosy, okulary. Bursztyn Plaza, 11. piętro.
+Defne Aksoy'u asansöre binmeden etkisiz hale getir	Zneutralizuj Dorotę Nowak, zanim wsiądzie do windy
+TRAMVAY	TRAMWAJ
+Saat Kulesi tramvay durağı	Przystanek tramwajowy Wieża Zegarowa
+Postacı defteri tramvayla şehirden çıkaracak. 19:06 tramvayı durağa girdiğinde iş biter.	Listonosz wywiezie księgę z miasta tramwajem. Gdy tramwaj 19:06 wjedzie na przystanek, będzie po robocie.
+Mert Tunç, nam-ı diğer Postacı, Baran'ın rüşvet defterini taşıyor: kime ne ödendiyse hepsi orada. Kordon'dan yürüyüp Saat Kulesi durağında tramvay bekleyecek.\n\nDurak kalabalık. Postacı'ya çok benzeyen bir yolcu da orada: kapüşonlu, kasketli. Ateş etmeden önce tara. Tramvaya binerse onu kaybederiz.	Marek Pawlak, znany jako Listonosz, wiezie księgę łapówek Borowskiego: kto ile dostał, wszystko tam jest. Przyjdzie pieszo z Bulwaru Nadmorskiego i będzie czekał na tramwaj na przystanku Wieża Zegarowa.\n\nNa przystanku jest tłoczno. Jest tam też pasażer bardzo podobny do Listonosza: kaptur, kaszkiet. Skanuj przed strzałem. Jeśli wsiądzie do tramwaju, stracimy go.
+Yürüyen hedefe biraz önden nişan al. Durakta bekleyenlerden biri Postacı'ya çok benziyor: nişangahı üzerinde tut, kimlik kartını oku.	Na idący cel bierz trochę poprawki do przodu. Jeden z czekających na przystanku jest bardzo podobny do Listonosza: trzymaj na nim celownik i odczytaj jego dowód.
+Postacı kaçtı	Listonosz uciekł
+Hedef değil — Postacı'ya benzeyen bir yolcu	To nie cel — pasażer podobny do Listonosza
+Tramvayın gelmesine	Do przyjazdu tramwaju
+Tramvay yola çıktı. Durağa girdiği an Postacı biner.	Tramwaj ruszył. Gdy wjedzie na przystanek, Listonosz wsiądzie.
+Tramvay durakta — herkes biniyor!	Tramwaj na przystanku — wszyscy wsiadają!
+Postacı tramvaya bindi	Listonosz wsiadł do tramwaju
+Postacı Kordon'dan durağa yürüyor. Durakta ona benzeyen biri var — önce tara.	Listonosz idzie z Bulwaru Nadmorskiego na przystanek. Na przystanku jest ktoś do niego podobny — najpierw skanuj.
+Mert Tunç	Marek Pawlak
+Postacı	Listonosz
+Koyu kapüşonlu, gri kasket, kot pantolon. Durağa yürüyor.	Ciemna bluza z kapturem, szary kaszkiet, dżinsy. Idzie na przystanek.
+Postacı'yı tramvaya binmeden etkisiz hale getir	Zneutralizuj Listonosza, zanim wsiądzie do tramwaju
+Postacı'yı yürürken vur	Trafiaj Listonosza w marszu
+Yolculara zarar verme	Nie krzywdź pasażerów
+Devlet Opera ve Balesi	Opera i Balet Państwowy
+Aydemir'in dublörü önden gelir. Limuzinden inen adama inanma — önce tara.	Sobowtór Lipińskiego przyjeżdża pierwszy. Nie wierz człowiekowi z limuzyny — najpierw skanuj.
+Armatör Cevdet Aydemir, Baran'ın gemilerinin sahibi. Bu gece operanın sezon açılışında: kırmızı halı, fotoğrafçılar, polis.\n\nAydemir kalabalığa asla önce kendisi çıkmaz: limuzinden önce dublörü iner. Gerçek Aydemir birkaç dakika sonra siyah bir sedanla gelir, eşiyle halıda poz verir ve içeri girer. Perde arasında balkona çıkacağı biliniyor.	Armator Cezary Lipiński jest właścicielem statków Borowskiego. Dziś wieczorem jest na otwarciu sezonu w operze: czerwony dywan, fotografowie, policja.\n\nLipiński nigdy nie wychodzi do tłumu pierwszy: z limuzyny najpierw wysiada sobowtór. Prawdziwy Lipiński przyjeżdża kilka minut później czarnym sedanem, pozuje z żoną na dywanie i wchodzi do środka. Wiadomo, że w przerwie wyjdzie na balkon.
+Flaşlar patlarken dürbünde parlama olur, panik yapma. Dublörü vurursan herkes kaçar ve gerçek Aydemir'in arabası durmadan geçer.	Gdy strzelają flesze, luneta rozbłyska — bez paniki. Jeśli trafisz sobowtóra, wszyscy uciekną, a auto prawdziwego Lipińskiego przejedzie bez zatrzymania.
+Dikkat: limuzinden inen adam Aydemir'in dublörü olabilir	Uwaga: człowiek z limuzyny może być sobowtórem Lipińskiego
+DUBLÖR — bu Aydemir değil!	SOBOWTÓR — to nie Lipiński!
+Sedanda — operaya geliyor	W sedanie — jedzie do opery
+Aydemir operaya kaçtı	Lipiński uciekł do opery
+Aydemir salona döndü — fırsat kaçtı	Lipiński wrócił na salę — okazja przepadła
+Aydemir balkona çıktı!	Lipiński wyszedł na balkon!
+CANLI  ·  OPERA GİRİŞİ	NA ŻYWO  ·  WEJŚCIE DO OPERY
+Siyah bir sedan bulvara girdi, operaya geliyor. Kim olduğunu taramadan ateş etme.	Czarny sedan wjechał na bulwar, jedzie do opery. Nie strzelaj, dopóki nie zeskanujesz, kto to.
+Aydemir'in arabası durmadan geçti	Auto Lipińskiego przejechało bez zatrzymania
+İçeri giren dublördü. Asıl adam birazdan geliyor — sabır.	Do środka wszedł sobowtór. Właściwy człowiek zaraz przyjedzie — cierpliwości.
+Cevdet Aydemir	Cezary Lipiński
+Armatör	Armator
+Kır saç, bıyık, gri smokin ve papyon. Eşi kırmızı elbiseli.	Siwe włosy, wąsy, szary smoking i mucha. Żona w czerwonej sukni.
+Cevdet Aydemir'i gala gecesinde etkisiz hale getir	Zneutralizuj Cezarego Lipińskiego podczas gali
+Kırmızı halıda vur	Trafiaj na czerwonym dywanie
+Dublöre ve davetlilere dokunma	Nie ruszaj sobowtóra ani gości
+MİTİNG	WIEC
+Saat Kulesi Meydanı	Plac Wieży Zegarowej
+Başsavcı bugün Baran hakkında iddianameyi açıklıyor. Onu öldürmek isteyen tek kişi değiliz bu sefer — onu korumak bizim işimiz.	Prokurator generalna ogłasza dziś akt oskarżenia przeciwko Borowskiemu. Tym razem to nie my chcemy ją zabić — naszym zadaniem jest ją chronić.
+Başsavcı Nermin Arslan, meydandaki halk buluşmasında Baran'a açılan davayı anlatacak. Baran onu konuşturmamak için iki kişi tuttu: meydanı yukarıdan gören bir keskin nişancı ve kalabalığa karışmış silahlı biri.\n\nNişancıyı önce bul. Dikkat: bir atış yaparsan namlu alevini görür ve sana döner. Savcı konuşmasını bitirip sahneden inene kadar hayatta kalmalı.	Prokurator generalna Natalia Lewicka na spotkaniu z mieszkańcami na placu przedstawi sprawę przeciwko Borowskiemu. Borowski wynajął dwóch ludzi, żeby nie dopuścić jej do głosu: snajpera, który widzi plac z góry, i uzbrojonego wmieszanego w tłum.\n\nNajpierw znajdź snajpera. Uwaga: gdy oddasz strzał, zobaczy błysk z lufy i obróci się w twoją stronę. Prokurator musi przeżyć, dopóki nie skończy przemówienia i nie zejdzie ze sceny.
+Keskin nişancının dürbünü güneşi yakaladıkça parlar. Sana nişan alırsa kırmızı halka dolmadan onu indir. Kalabalıktaki adam silah çekince kolundan vurursan silahını düşürür.	Luneta snajpera błyska, gdy złapie słońce. Jeśli wyceluje w ciebie, zdejmij go, zanim zapełni się czerwony pierścień. Gdy człowiek w tłumie wyciągnie broń, trafiony w rękę upuści ją.
+Susturuculu tüfekle nişancı seni daha geç fark eder	Z karabinem z tłumikiem snajper później cię zauważy
+İstihbarat: meydanı yukarıdan gören bir nişancı ve kalabalıkta silahlı biri var	Wywiad: jest snajper, który widzi plac z góry, i uzbrojony w tłumie
+Nermin Arslan	Natalia Lewicka
+BAŞSAVCI	PROKURATOR
+Başsavcı — konuşması bitene kadar koru	Prokurator generalna — chroń do końca przemówienia
+Başsavcıyı konuşması bitene kadar koru	Chroń prokurator generalną do końca przemówienia
+Kuledeki Nişancı	Snajper na wieży
+Siyah gömlek, güneş gözlüğü — saat kulesinin çan katında	Czarna koszula, okulary przeciwsłoneczne — na piętrze dzwonów wieży zegarowej
+Kalabalıktaki Adam	Człowiek z tłumu
+Siyah kapüşonlu, kırmızı bere, sakallı	Czarny kaptur, czerwona czapka, broda
+Nişancıyı ve silahlıyı durdur	Powstrzymaj snajpera i uzbrojonego
+Nişancıyı ve silahlıyı durdur  	Powstrzymaj snajpera i uzbrojonego  
+Kalabalıkta biri öne doğru itiliyor — silahı var!	Ktoś przepycha się w tłumie do przodu — ma broń!
+Bir dürbün parladı! Savcıya nişan alıyorlar — bul onu!	Błysnęła luneta! Celują w prokurator — znajdź go!
+Kuledeki nişancı seni vurdu	Snajper z wieży cię trafił
+Meydanı tepeden gören her yere bak. Bir nişancı varsa dürbünü güneşte parlar.	Sprawdź każde miejsce, z którego widać plac z góry. Jeśli jest tam snajper, jego luneta błyśnie w słońcu.
+Başsavcı	Prokurator generalna
+Gri takım, küt kesim saç. Sahnede, kürsüde konuşuyor.	Szary garnitur, krótkie proste włosy. Przemawia na scenie przy mównicy.
+Nişancıyı ve kalabalıktaki silahlıyı bul ve durdur (bonus)	Znajdź i powstrzymaj snajpera i uzbrojonego w tłumie (bonus)
+Başsavcıyı koru	Chroń prokurator generalną
+Kimse nişan alamadan ikisini de durdur	Powstrzymaj obu, zanim ktokolwiek wyceluje
+Kalabalığa zarar verme	Nie krzywdź tłumu
+İSKELE	PRZYSTAŃ
+Kordon vapur iskelesi	Przystań promowa na Bulwarze Nadmorskim
+Muhasebeci sabah vapurundan inecek. Müşteri onu canlı istiyor: bacağından.	Księgowy zejdzie z porannego promu. Zleceniodawca chce go żywego: w nogę.
+Ertan Koç, Baran'ın bütün hesaplarını bilen muhasebeci. Sabah vapuruyla şehre geliyor, iskeleden yürüyüp taksiye binecek ve havalimanına gidecek.\n\nMüşteri onu CANLI istiyor: bacağından vur, taksi durağında bekleyen ekibimiz koşup onu alsın. Baran da onu izletiyor: muhasebeci yere düştüğü an susturmak için birini gönderecek.	Edward Kozłowski to księgowy, który zna wszystkie rachunki Borowskiego. Przypływa do miasta porannym promem, przejdzie przez przystań, wsiądzie do taksówki i pojedzie na lotnisko.\n\nZleceniodawca chce go ŻYWEGO: strzel mu w nogę, a nasz zespół czekający na postoju taksówek podbiegnie i go zabierze. Borowski też każe go śledzić: gdy księgowy upadnie, wyśle kogoś, żeby go uciszyć.
+Vapurdan inen kalabalıkta herkesi tara. Muhasebeci yere düşünce Baran'ın adamı motosikletle promenattan gelir: silah çekmeden önce onu durdur.	Przeskanuj wszystkich w tłumie schodzącym z promu. Gdy księgowy upadnie, człowiek Borowskiego przyjedzie promenadą na motocyklu: zatrzymaj go, zanim wyciągnie broń.
+Muhasebeci taksiyle kaçtı	Księgowy uciekł taksówką
+Muhasebeciyi BACAĞINDAN vur — ölmemeli	Strzel księgowemu w NOGĘ — nie może zginąć
+Vapurda — iskeleye yanaşıyor	Na promie — przybija do przystani
+CANLI  ·  VAPUR İSKELESİ	NA ŻYWO  ·  PRZYSTAŃ PROMOWA
+Gri tişört, kırmızı bere — Baran'ın tetikçisi	Szary T-shirt, czerwona czapka — zabójca Borowskiego
+Bekleyen Adam	Czekający
+Gri ceket — tramvay durağında, silahlı	Szara kurtka — na przystanku tramwajowym, uzbrojony
+Baran'ın adamlarını durdur	Powstrzymaj ludzi Borowskiego
+Baran'ın adamlarını durdur  	Powstrzymaj ludzi Borowskiego  
+Ekibin ulaşmasına	Do dotarcia zespołu
+Muhasebeci yerde! Ekip koşuyor — 	Księgowy leży! Zespół biegnie — 
+ saniye. Baran'ın adamı da yolda!	 sekund. Człowiek Borowskiego też jest w drodze!
+Tramvay durağındaki gri ceketli de Baran'ın adamı — muhasebeciye gidiyor!	Ten w szarej kurtce z przystanku też jest od Borowskiego — idzie do księgowego!
+Tehlike geçti — ekip koşuyor!	Niebezpieczeństwo minęło — zespół biegnie!
+Ekip muhasebeciyi aldı!	Zespół zabrał księgowego!
+Vapur yanaşıyor. Muhasebeci elinde siyah bir evrak çantasıyla inecek.	Prom przybija. Księgowy zejdzie z czarną aktówką w ręku.
+Ertan Koç	Edward Kozłowski
+Kahverengi deri mont, kot pantolon, gözlük. Elinde siyah evrak çantası.	Brązowa skórzana kurtka, dżinsy, okulary. W ręku czarna aktówka.
+Ekip gelene kadar onu Baran'ın adamlarından koru	Chroń go przed ludźmi Borowskiego do przybycia zespołu
+Muhasebeciyi canlı teslim et	Dostarcz księgowego żywego
+Baran'ın adamları nişan alamasın	Nie pozwól ludziom Borowskiego wycelować
+YAĞMUR	DESZCZ
+Saat Kulesi Meydanı — çeşme	Plac Wieży Zegarowej — fontanna
+ÇİFT HEDEF	PODWÓJNY CEL
+İkisi de şemsiye altında. Biri düştüğü an öteki kaçar — ikinci atışın hazır olsun.	Obaj są pod parasolami. Gdy jeden padnie, drugi ucieknie — miej gotowy drugi strzał.
+Gazeteci Selin Ay'ı öldüren tetikçi Erol Kaya, nam-ı diğer Çakal, bu gece parasını alacak. Parayı getiren, cinayet dosyasını kapatan Komiser Tuncay Er.\n\nYağmurda, çeşmenin başında buluşacaklar. İkisi de bu işin bedelini ödeyecek. Biri vurulduğu an öteki aracına koşar: Komiser'in arabası Plaza Sokak'ta, Çakal'ın motosikleti meydanın köşesinde. Sana yarı otomatik bir tüfek ve termal dürbün veriyoruz.	Jerzy Wróbel, zwany Szakalem, zabójca dziennikarki Julii Wójcik, odbierze dziś zapłatę. Pieniądze przyniesie komisarz Ryszard Jasiński, który zamknął sprawę zabójstwa.\n\nSpotkają się w deszczu przy fontannie. Obaj zapłacą za tę robotę. Gdy jeden zostanie trafiony, drugi pobiegnie do swojego pojazdu: auto komisarza stoi na ulicy Bursztynowej, motocykl Szakala na rogu placu. Dajemy ci karabin półautomatyczny i lunetę termowizyjną.
+Şemsiyeler yukarıdan bakınca başı saklar ama kurşunu durdurmaz. Termal dürbün yağmurda vücut ısısını gösterir. Yarı otomatik tüfekle sürgü çekmeden ikinci atışı yaparsın.	Parasole zasłaniają głowę z góry, ale nie zatrzymają pocisku. Termowizja pokazuje ciepło ciała w deszczu. Z półautomatem oddasz drugi strzał bez przeładowania zamka.
+Ödünç: FIRTINA DMR (yarı otomatik) ve termal dürbün	Pożyczone: BURZA DMR (półautomat) i luneta termowizyjna
+Komiser arabasıyla kaçtı	Komisarz uciekł autem
+Çakal motosikletle kaçtı	Szakal uciekł motocyklem
+Komiser çeşmenin başında bekliyor. Çakal meydanın güneyinden geliyor — kırmızı şemsiyeli.	Komisarz czeka przy fontannie. Szakal nadchodzi od południa placu — z czerwonym parasolem.
+Biri düştüğü an öteki koşar. İkisini de aynı anda görebileceğin yeri bekle.	Gdy jeden padnie, drugi ucieknie. Poczekaj na moment, w którym widzisz obu naraz.
+Erol Kaya	Jerzy Wróbel
+Çakal	Szakal
+Siyah kapüşonlu, kırmızı bere, sakallı. Kırmızı şemsiye.	Czarny kaptur, czerwona czapka, broda. Czerwony parasol.
+Tuncay Er	Ryszard Jasiński
+Lacivert polo, kep, bıyıklı. Siyah şemsiye.	Granatowe polo, czapka z daszkiem, wąsy. Czarny parasol.
+Çakal'ı etkisiz hale getir	Zneutralizuj Szakala
+Komiser Tuncay Er'i etkisiz hale getir	Zneutralizuj komisarza Ryszarda Jasińskiego
+İkisini 4 saniye içinde vur	Trafiaj obu w ciągu 4 sekund
+İkisini de kafadan vur	Obu w głowę
+HELİPAD	LĄDOWISKO
+Palas Oteli çatısı	Dach hotelu Królewskiego
+Demirel'i almaya bir helikopter geliyor. Kapısı kapandığı an iş biter.	Po Mazura leci helikopter. Gdy zamkną się jego drzwi, będzie po robocie.
+Tolga Demirel, eski özel kuvvetler subayı, Baran'ın güvenlik şefi. Sana ve ekibimize karşı yürütülen her şeyi o planlıyor. Bu akşam Palas Oteli'nin çatısından helikopterle şehirden çıkacak.\n\nHelikopter piste indikten sonra Demirel iki korumasıyla çatı kapısından çıkıp yürüyecek. Mesafe uzun ve çatıda rüzgar sert. Helikopterin motorunu önceden vurursan yerde kalır: Demirel binaya geri döner — ama o yürüyüş açıkta geçer.	Tadeusz Mazur, były oficer sił specjalnych, szef ochrony Borowskiego. To on planuje wszystko, co wymierzone w ciebie i nasz zespół. Dziś wieczorem odleci z miasta helikopterem z dachu hotelu Królewskiego.\n\nGdy helikopter wyląduje, Mazur z dwoma ochroniarzami wyjdzie drzwiami na dach i ruszy do maszyny. Dystans jest duży, a na dachu mocno wieje. Jeśli wcześniej trafisz silnik helikoptera, maszyna zostanie na ziemi: Mazur wróci do budynku — ale ta droga prowadzi po otwartym terenie.
+Uzun atışta rüzgar okuna ve kurşun düşüşüne dikkat. Helikopterin gövdesine iki isabet motoru durdurur; patlayıcı mermi tek atışta yeter.	Przy dalekim strzale uważaj na strzałkę wiatru i opad pocisku. Dwa trafienia w kadłub helikoptera zatrzymają silnik; pociskowi wybuchowemu wystarczy jeden strzał.
+Otelin çatısının batı köşesinde dürbünlü biri var. Dürbün sana dönünce eğil — ya da önce onu indir.	W zachodnim rogu dachu hotelu jest ktoś z lornetką. Gdy skieruje ją na ciebie, schowaj się — albo zdejmij go pierwszego.
+Binada — çatıya çıkacak	W budynku — wyjdzie na dach
+Demirel helikopterle kaçtı	Mazur uciekł helikopterem
+Demirel çatıya çıktı!	Mazur wyszedł na dach!
+Demirel binaya geri döndü	Mazur wrócił do budynku
+Motor durdu — helikopter yerde kaldı!	Silnik stanął — helikopter został na ziemi!
+Güzel! Helikopter gitmiyor. Demirel binaya dönecek — yürürken yakala!	Świetnie! Helikopter nie odleci. Mazur wróci do budynku — dopadnij go po drodze!
+CANLI  ·  PALAS HELİPADI	NA ŻYWO  ·  LĄDOWISKO HOTEL KRÓLEWSKI
+Helikopter denizden geliyor. Demirel inişten sonra çatı kapısından çıkacak.	Helikopter nadlatuje od morza. Po lądowaniu Mazur wyjdzie drzwiami na dach.
+Tolga Demirel	Tadeusz Mazur
+Güvenlik Şefi	Szef ochrony
+Kel, sakallı, güneş gözlüklü. Siyah kruvaze takım.	Łysy, brodaty, okulary przeciwsłoneczne. Czarny dwurzędowy garnitur.
+Tolga Demirel'i helikoptere binmeden etkisiz hale getir	Zneutralizuj Tadeusza Mazura, zanim wsiądzie do helikoptera
+Helikopteri havalanmadan yere çak	Uziem helikopter, zanim wystartuje
+SON PERDE	OSTATNI AKT
+Palas Oteli — çatı katı	Hotel Królewski — penthouse
+Baran biliyor. Çatıda bir nişancısı, bir projektörü ve bekleyen bir helikopteri var. Bu gece bitiyor.	Borowski wie. Na dachu ma snajpera, reflektor i czekający helikopter. Tej nocy to się kończy.
+Kenan Baran. Limandaki kaçakçılık, kirli para, satın alınmış polisler, susturulan tanıklar: hepsinin arkasındaki adam. Bu gece Palas Oteli'nin çatı katında, cam duvarların ardında küçük bir parti veriyor.\n\nBaran bizi bekliyor. Çatıda projektörle damları tarayan bir adam ve bir keskin nişancı var: ışık seni bulursa nişancı sana döner. Ateş edersen Baran merdivenden çatıya, bekleyen helikoptere koşar. Bu son iş — temiz bitir.	Konrad Borowski. Przemyt w porcie, brudne pieniądze, kupieni policjanci, uciszeni świadkowie: za wszystkim stoi on. Dziś wydaje małe przyjęcie w penthousie hotelu Królewskiego, za szklanymi ścianami.\n\nBorowski na nas czeka. Na dachu jest człowiek, który przeczesuje dachy reflektorem, i snajper: jeśli światło cię znajdzie, snajper obróci się w twoją stronę. Gdy strzelisz, Borowski pobiegnie schodami na dach, do czekającego helikoptera. To ostatnia robota — skończ ją czysto.
+Önce çatıdaki nişancıyı bul: dürbünü yeşil parlar. Projektör ışığı üzerine gelince nişancı sana nişan alır. Cam duvarlar mermiyi durdurmaz.	Najpierw znajdź snajpera na dachu: jego luneta błyska na zielono. Gdy światło reflektora padnie na ciebie, snajper wyceluje. Szklane ściany nie zatrzymają pocisku.
+Çatıda projektör ve bir karşı nişancı var — ışık seni bulmadan onu bul	Na dachu jest reflektor i kontrsnajper — znajdź go, zanim światło znajdzie ciebie
+Kenan Baran'ı etkisiz hale getir	Zneutralizuj Konrada Borowskiego
+Baran helikopterle kaçtı	Borowski uciekł helikopterem
+Palas'ın çatısında, korkuluğun arkasında	Na dachu hotelu Królewskiego, za balustradą
+PROJEKTÖR ÜZERİNDE — GÖRÜLDÜN!	REFLEKTOR NA TOBIE — WIDZĄ CIĘ!
+Projektör damları tarıyor, sana yaklaşıyor! Işık seni bulmadan nişancıyı indir.	Reflektor przeczesuje dachy, zbliża się do ciebie! Zdejmij snajpera, zanim światło cię znajdzie.
+Baran binaya geri döndü	Borowski wrócił do budynku
+Merdivende — çatıya çıkıyor	Na schodach — idzie na dach
+Baran çatıya kaçıyor — helikoptere!	Borowski ucieka na dach — do helikoptera!
+Helikopter yerde kaldı!	Helikopter został na ziemi!
+BARAN	BOROWSKI
+Biliyorum oradasın, tetikçi. Bu camların ardında bana dokunamazsın.	Wiem, że tam jesteś, zabójco. Za tymi szybami mnie nie dosięgniesz.
+Telsizini dinliyoruz. Çatıda projektör ve bir nişancı var — önce onu bul.	Podsłuchujemy jego radio. Na dachu jest reflektor i snajper — najpierw znajdź jego.
+Baran düştü. Bitti... Şehir artık nefes alabilir.	Borowski padł. Koniec... Miasto może wreszcie odetchnąć.
+Kenan Baran	Konrad Borowski
+Gümüş saç ve sakal, koyu takım, kırmızı kravat.	Srebrne włosy i broda, ciemny garnitur, czerwony krawat.
+Çatıdaki nişancı sana nişan alamasın	Nie pozwól snajperowi z dachu wycelować w ciebie
+Davetlilere zarar verme	Nie krzywdź gości
+Buluşmanın bitmesine	Do końca spotkania
+Buluşma başladı	Spotkanie się zaczęło
+Kurşun siperine çarptı — nişancı başını kaldırmanı bekliyor	Kula trafiła w twoją osłonę — snajper czeka, aż podniesiesz głowę
+Iskaladı — nişancı yeniden nişan alıyor	Spudłował — snajper znów celuje
+Nişancı yine aşağıya nişan alıyor!	Snajper znów celuje w dół!
+Seni gördü! Ateş etmeden onu indir — ya da siperine eğil!	Widzi cię! Zdejmij go, zanim strzeli — albo schowaj się za osłoną!
+2 sözleşme tamamla	Wykonaj 2 kontrakty
+3 kafadan vuruş yap	Oddaj 3 strzały w głowę
+250 m'den uzak bir isabet	Trafienie z ponad 250 m
+Alarm vermeden bir iş bitir	Wykonaj robotę bez alarmu
+S derecesi al	Zdobądź ocenę S
+5 yıldız topla	Zbierz 5 gwiazdek
+2 zırhlı adamı sustur	Ucisz 2 opancerzonych
+VETERAN olarak bir iş bitir	Wykonaj robotę jako WETERAN
+Sivillere dokunmadan 2 iş bitir	Wykonaj 2 roboty bez krzywdzenia cywilów
+Dürbün, nefes tutma ve ilk atış.	Luneta, wstrzymywanie oddechu i pierwszy strzał.
+MENZİL ayarı: uzak hedefte mermi düşer, sarı çizgilerle tut.	Ustawianie ZASIĘGU: na dalekim celu pocisk opada, celuj według żółtych kresek.
+Dikkat dağıtma: yakınına düşen kurşun ya da araba alarmı hedefi siperden çıkarır.	Odwracanie uwagi: kula obok celu albo alarm samochodowy wywabi go zza osłony.
+Gece ve gözcü: önce seni görebilecek olanı düşün.	Noc i obserwator: najpierw pomyśl o tym, kto może cię zobaczyć.
+Hedefi kendin bul. İsabet noktası artık sadece nefes tutarken görünür.	Znajdź cel sam. Punkt trafienia widać już tylko przy wstrzymanym oddechu.
+Hareketli hedef: yürüyüşüne göre önden nişan al.	Ruchomy cel: bierz poprawkę na jego chód.
+Uzun atış ve sert rüzgâr: rüzgâr panelindeki mil değerine göre kaydır.	Daleki strzał i silny wiatr: koryguj według wartości w milach na panelu wiatru.
+Koruma: kalabalıktaki tetikçileri bul, tanık yaşasın.	Ochrona: znajdź zabójców w tłumie, świadek musi przeżyć.
+Canlı yakala: bacaktan vur, öldürme.	Brać żywcem: strzał w nogę, nie zabijaj.
+Karanlık: ışığı kesmek korumaları kör eder.	Ciemność: odcięcie światła oślepia ochroniarzy.
+Uyuşturucu iğne: kimse ölmeyecek.	Strzałka usypiająca: nikt nie zginie.
+Şehir: isabet noktası yok. Iskalarsan hedef kaçar; iş bitince yerin biliniyorsa çıkış var.	Miasto: brak punktu trafienia. Pudło i cel ucieka; jeśli po robocie znają twoją pozycję, czeka cię przebicie się.
+Dublör: yüze iyi bak, yanlış kişiyi vurursan iş biter.	Sobowtór: przyjrzyj się twarzy, zły cel kończy robotę.
+Karşı nişancı: önce o seni bulmasın.	Kontrsnajper: nie daj mu się znaleźć pierwszy.
+Çift hedef: biri düşünce öteki kaçar, ikinci atış hazır olsun.	Podwójny cel: gdy jeden padnie, drugi ucieka — miej gotowy drugi strzał.
+Zaman penceresi: helikopterin kapısı kapanınca iş biter.	Okno czasowe: gdy zamkną się drzwi helikoptera, po robocie.
+Dağ: rüzgâr sert ve değişken. Paneldeki yön ve gücü izle, dindiği anı bekle.	Góry: wiatr silny i zmienny. Śledź kierunek i siłę na panelu, czekaj, aż ucichnie.
+Kaza: kurşun değil, çığ.	Wypadek: nie kula, a lawina.
+Tipi: termal dürbün olmadan göremezsin.	Zamieć: bez lunety termowizyjnej nic nie zobaczysz.
+Ses örtüsü: havai fişek patlarken atış duyulmaz.	Osłona dźwiękowa: gdy wybuchają fajerwerki, strzału nie słychać.
+HAFİF	SŁABY
+ORTA	UMIARKOWANY
+SERT	SILNY
+FIRTINA	SZTORM
+LİMAN	PORT
+Konteyner limanı	Port kontenerowy
+Kaçakçılar, silah tüccarları ve rüşvet ağı. Her şey limanda başladı.	Przemytnicy, handlarze bronią i siatka łapówek. Wszystko zaczęło się w porcie.
+Liman kuruluyor	Ładowanie portu
+ŞEHİR MERKEZİ	CENTRUM MIASTA
+ŞEHİR OPERASYONU	OPERACJA MIASTO
+Örgütün parası ve koruyucuları şehirde. Opera, gökdelen, otel — ve deniz kıyısında bir meydan.	Pieniądze i protektorzy organizacji są w mieście. Opera, wieżowiec, hotel — i plac nad morzem.
+Şehir kuruluyor	Ładowanie miasta
+Liman'da 6. görevi bitir	Wykonaj 6. kontrakt w porcie
+KARTAL TEPE	ORLA GRAŃ
+DAĞ OPERASYONU	OPERACJA GÓRY
+Kartal Tepe Kayak Merkezi	Ośrodek narciarski Orla Grań
+Örgütün konseyi karlı bir dağ otelinde toplanıyor. Teleferik, dağ evleri, donmuş göl — ve tipi.	Rada organizacji zbiera się w zaśnieżonym hotelu górskim. Kolejka, chaty, zamarznięte jezioro — i zamieć.
+Dağ kuruluyor	Ładowanie gór
+Şehirde 16. görevi bitir	Wykonaj 16. kontrakt w mieście
+Başlatılıyor	Uruchamianie
+Hazırlanıyor	Przygotowanie
+Hazır	Gotowe
+Ceset suya gömüldü — kimse bulamayacak	Ciało poszło pod wodę — nikt go nie znajdzie
++%{0} BONUS	+%{0} BONUSU
+Bu paket için {0} elmas gerekiyor, sende {1} var.	Ten pakiet kosztuje {0} klejnotów, a masz {1}.
+{0} kuşanıldı. Cephanelikte seni bekliyor.	{0} wyposażony. Czeka na ciebie w zbrojowni.
+{0} satın alım geri yüklendi.	Przywrócone zakupy: {0}.
+Bugün {0} / {1} hakkın kaldı	Pozostało dziś: {0} / {1}
+{0}. GÜN	{0}. DZIEŃ
+{0} Z. DELİCİ	{0} PP
+TAKTİK HARİTA  ·  GÖREV {0}  ·  {1}	MAPA TAKTYCZNA  ·  KONTRAKT {0}  ·  {1}
+<color=#46C8F2>●</color> Atış yerleri     <color=#FF4545>●</color> Hedef bölgesi     <color=#FFFFFF>- -</color> Bilinen güzergâhlar     Halkalar: ana yuvadan 100 m aralıkla     Yukarısı: ana yuvanın baktığı yön	<color=#46C8F2>●</color> Stanowiska strzeleckie     <color=#FF4545>●</color> Strefa celu     <color=#FFFFFF>- -</color> Znane trasy     Pierścienie: co 100 m od głównej pozycji     Góra: kierunek, w który patrzy główna pozycja
+ZORLUK  {0}/10	TRUDNOŚĆ  {0}/10
+Bu iş {0} olmadan yapılamaz. Cephaneliğe git?	Tej roboty nie da się zrobić bez: {0}. Iść do zbrojowni?
+Bu sözleşme için önerilen güç {0}, {1} şu an {2}.\nGeliştirmeden de deneyebilirsin ama zırhlılar ve uzak hedefler zorlar.	Zalecana moc dla tego kontraktu: {0}, {1} ma teraz {2}.\nMożesz spróbować bez ulepszenia, ale opancerzeni i dalekie cele dadzą ci w kość.
+<b><color=#E8B04A>YENİ:</color></b> {0}\n{1}	<b><color=#E8B04A>NOWOŚĆ:</color></b> {0}\n{1}
+<b><color=#FFB21E>VETERAN:</color></b> isabet noktası yok, rüzgâr daha sert ve dalgalı, tüfek daha çok sallanır, hedef işaretlenmez. Ödül ×1,5.\n{0}	<b><color=#FFB21E>WETERAN:</color></b> brak punktu trafienia, wiatr silniejszy i zmienny, karabin bardziej się chwieje, cel nie jest oznaczany. Nagroda ×1,5.\n{0}
+BÖLÜM {0}	ROZDZIAŁ {0}
+GÖREV {0}  ·  {1}	KONTRAKT {0}  ·  {1}
+TÜFEK:  {0}   <size=26><color={1}>GÜÇ {2}</color><color=#6B7682>  /  önerilen {3}</color></size>	KARABIN:  {0}   <size=26><color={1}>MOC {2}</color><color=#6B7682>  /  zalecana {3}</color></size>
+   ·   Verilen: {0}	   ·   Przydzielono: {0}
+GÖREV {0} · {1}	KONTRAKT {0} · {1}
+Baran'ın kasası: {0}	Sejf Borowskiego: {0}
++{0} ELMAS	+{0} KLEJNOTÓW
+Sözleşme tamamlanmadı — ödeme yok.\nAynı işe tekrar girebilirsin; neyin ters gittiğini yukarıda görürsün.{0}	Kontrakt niewykonany — brak zapłaty.\nMożesz podjąć tę robotę jeszcze raz; co poszło nie tak, widzisz powyżej.{0}
+Bu iş için önerilen güç {0}, senin tüfeğin {1}. Geliştir ya da {2} hemen güçlen.	Zalecana moc dla tej roboty: {0}, twój karabin: {1}. Ulepsz go albo od razu wzmocnij się {2}.
++{0} TP	+{0} XP
+TELAFİ +{0}	REKOMPENSATA +{0}
+GÖREV {0}	KONTRAKT {0}
+{0}Rüzgâr {1} m/s   ·   {2}\nZORLUK {3}/10{4}	{0}Wiatr {1} m/s   ·   {2}\nTRUDNOŚĆ {3}/10{4}
+Önerilen güç <b>{0}</b>   ·   Tüfeğin <color={1}><b>{2}</b></color>	Zalecana moc <b>{0}</b>   ·   Twój karabin <color={1}><b>{2}</b></color>
+Yenisi {0} sa {1} dk sonra	Nowy za {0} h {1} min
+{0} · {1}  —  VETERAN kurallarıyla	{0} · {1}  —  na zasadach WETERANA
+Güç {0} / {1}	Moc {0} / {1}
+Görev aralarındaki reklamları {0} karşılığında sonsuza dek kaldır. Hediye: {1} elmas.	Usuń reklamy między kontraktami na zawsze za {0}. W prezencie: {1} klejnotów.
+{0} için {1} elmas gerekiyor, sende {2} var.	{0} kosztuje {1} klejnotów, a masz {2}.
+{0} {1} elmasla hemen senin olsun mu?	{0} za {1} klejnotów — chcesz to od razu?
+SEVİYE {0} GEREKLİ	WYMAGANY POZIOM {0}
+Son kademe (elmasla) {0}. seviyede açılır. Sözleşmelerden tecrübe kazan.	Ostatni stopień (za klejnoty) odblokujesz na {0}. poziomie. Zdobywaj doświadczenie w kontraktach.
+Bu geliştirme için {0} eksik. Kısa bir video izle, eksik para tamamlansın ve geliştirme hemen yapılsın.\nBugün {1} hakkın var.	Do tego ulepszenia brakuje ci {0}. Obejrzyj krótki film, a brakującą kwotę uzupełnimy i ulepszenie wykona się od razu.\nDziś masz jeszcze {1} prób.
+Son kademe {0} elmas. Mağazadan elmas alabilir ya da günlük ödüllerle toplayabilirsin.	Ostatni stopień: {0} klejnotów. Kup klejnoty w sklepie albo zbieraj je z nagród dziennych.
+Bu geliştirme {0}. Sözleşmelerden para kazan ya da mağazaya bak.	To ulepszenie kosztuje {0}. Zarabiaj w kontraktach albo zajrzyj do sklepu.
+GÜÇ <color=#FFB21E>{0}</color>   ·   {1}	MOC <color=#FFB21E>{0}</color>   ·   {1}
+{0}   ·   {1} ★ ile açılır	{0}   ·   odblokowanie za {1} ★
+{0}  <color=#46C8F2>EN ÜST</color>	{0}  <color=#46C8F2>MAKS.</color>
+Zırhlı adamların gövdesini delmek için <color=#FFB21E>HASAR</color> {0}. kademe ya da zırh delici mermi gerekir.	Aby przebić tułów opancerzonych, potrzebujesz <color=#FFB21E>OBRAŻEŃ</color> na {0}. stopniu albo pocisków przeciwpancernych.
+SATIN AL   {0}	KUP   {0}
+{0} ★ YA DA   	{0} ★ LUB   
+{0} ELMASLA AL	{0} KLEJNOTÓW
+{0} yıldızla açılır	Odblokowanie za {0} gwiazdek
+SATIN AL  {0}	KUP  {0}
+YÜKSELT  {0}	ULEPSZ  {0}
+YER DEĞİŞTİRİYORSUN\n<size=30>{0}  ·  {1} sn</size>	ZMIENIASZ POZYCJĘ\n<size=30>{0}  ·  {1} s</size>
+KURŞUN KAMERASI  ·  {0}	KAMERA POCISKU  ·  {0}
+“{0}” — sözleşme hedefi	„{0}” — cel kontraktu
+Yaralı — {0}	Ranny — {0}
+KEŞİF  ·  {0} / {1} tehdit tarandı	ROZPOZNANIE  ·  {0} / {1} zagrożeń przeskanowano
+TELSİZ  {0},{1} sn	RADIO  {0},{1} s
+Yıldız kaçtı: {0}	Stracona gwiazdka: {0}
+SÖZLEŞME {0}  ·  {1}{2}	KONTRAKT {0}  ·  {1}{2}
+{0}  <size=24><color=#A3AEB9>·  SEVİYE {1}</color></size>	{0}  <size=24><color=#A3AEB9>·  POZIOM {1}</color></size>
+{0} / {1} TP	{0} / {1} XP
+{0}   ·   SEVİYE {1}	{0}   ·   POZIOM {1}
+AÇILDI:  {0}	ODBLOKOWANO:  {0}
+ÖDÜLLÜ TEST REKLAMI  ·  {0}	TESTOWA REKLAMA Z NAGRODĄ  ·  {0}
+TEST REKLAMI  ·  her {0} görevde bir	REKLAMA TESTOWA  ·  co {0} kontrakty
+Adın yok. Ordu seni üç yıl önce ölü yazdı. KONTROL seni bir askeri hastanede buldu ve tek bir teklif yaptı: limandaki kaçakçılık ağını çökert, geçmişin silinsin.\n\nHer sözleşme bir isim. Her isim, bir sonrakine giden yol.	Nie masz imienia. Trzy lata temu wojsko uznało cię za zmarłego. KONTROLA znalazła cię w szpitalu wojskowym i złożyła jedną ofertę: rozbij siatkę przemytniczą w porcie, a twoja przeszłość zostanie wymazana.\n\nKażdy kontrakt to jedno nazwisko. Każde nazwisko to droga do następnego.
+Liman çöktü ama para akmaya devam ediyor. Viktor Kral'ın telefonundaki son numara Kordon Plaza'ya çıkıyor: Baran Holding.\n\nBu kez hedefler takım elbiseli. Kalabalığın içinde, cam duvarların ardında, polislerin yanında.	Port upadł, ale pieniądze wciąż płyną. Ostatni numer w telefonie Wiktora Krala prowadzi do Bursztyn Plaza: Borowski Holding.\n\nTym razem cele noszą garnitury. W tłumie, za szklanymi ścianami, obok policjantów.
+Baran'ın kasasından çıkan dosyalar beş isim veriyor: Kurul. Yıllardır Baran'ı besleyen ve koruyan beş kişi, yılbaşı haftasını her yıl Kartal Tepe'de geçiriyor.\n\nDosyaların arasında bir imza daha var. Tanıdık bir imza.	Akta z sejfu Borowskiego dają pięć nazwisk: Rada. Pięć osób, które latami karmiły i chroniły Borowskiego, co roku spędza tydzień noworoczny na Orlej Grani.\n\nWśród akt jest jeszcze jeden podpis. Znajomy podpis.
+Vuruldun — {0}	Trafiony — {0}
+Üç tetikçiyi de durdur  {0}/3	Powstrzymaj wszystkich trzech zabójców  {0}/3
+{0} fişek	{0} naboi
+Bu açıdan {0} görünmüyor. YER DEĞİŞTİR ile başka bir yere geç.	Z tego miejsca nie widać: {0}. Użyj ZMIEŃ POZYCJĘ, aby przejść gdzie indziej.
+{0} silahlı adam mevzi alıyor — yuvanı arıyorlar!	{0} uzbrojonych zajmuje stanowiska — szukają twojego gniazda!
+Etkisiz hale getir: {0}	Zneutralizuj: {0}
+{0} öldürüldü	{0} — zabity
+İsabet — {0} atış daha	Trafienie — jeszcze {0} strzałów
+YENİ HEDEF: {0}	NOWY CEL: {0}
+SİLAHLI ADAM BULUNDU: {0}	WYKRYTO UZBROJONEGO: {0}
+HEDEF DOĞRULANDI: {0}	CEL POTWIERDZONY: {0}
+KİMLİK DOĞRULANDI: {0}	TOŻSAMOŚĆ POTWIERDZONA: {0}
+YENİ YER: {0}	NOWA POZYCJA: {0}
+Dron bölgeyi taradı — {0} kişi tanımlandı	Dron przeskanował strefę — zidentyfikowano osób: {0}
+{0} öldü!	{0} nie żyje!
+{0} hedef kaldı	Pozostało celów: {0}
+{0} yaralandı — artık yürüyemiyor	{0} ranny — nie może już chodzić
+{0} bayıldı — güvenli yere ulaşamaz	{0} stracił przytomność — nie dotrze w bezpieczne miejsce
+ISKALADIN — {0} KAÇIYOR!	PUDŁO — {0} UCIEKA!
+Sana ateş edenleri sustur  ·  {0} kaldı	Ucisz tych, którzy do ciebie strzelają  ·  zostało {0}
+Hedef düştü ama yerin belli. Kimse arkandan gelmesin — {0} silahlı var, hepsini sustur. Gerekirse siper al.	Cel padł, ale twoja pozycja jest znana. Nikt nie może pójść twoim tropem — uzbrojonych: {0}, ucisz wszystkich. W razie potrzeby się schowaj.
+Yıldız hedefleri  ×{0}	Cele gwiazdek  ×{0}
+Uzak atış  ·  {0} m	Daleki strzał  ·  {0} m
+Keşif  ·  {0}/{1} tehdit	Rozpoznanie  ·  {0}/{1} zagrożeń
+Sivil kaybı  ×{0}	Ofiary cywilne  ×{0}
+Yaralı sivil  ×{0}	Ranni cywile  ×{0}
+Tekrar oynanış  ×%{0}	Powtórka  ×%{0}
+Tetikçileri durdur  {0}/2	Powstrzymaj zabójców  {0}/2
+Kurye yerde! Ekip yolda — {0} saniye. Örgütün adamları onu susturmaya çalışacak, depodan da çıkacaklar!	Kurier leży! Zespół w drodze — {0} sekund. Ludzie organizacji spróbują go uciszyć, wyjdą też z magazynu!
+Korumalar temiz. Tekne geliyor — {0} saniye.	Ochroniarze załatwieni. Łódź płynie — {0} sekund.
+Nişancıyı ve silahlıyı durdur  {0}/2	Powstrzymaj snajpera i uzbrojonego  {0}/2
+Baran'ın adamlarını durdur  {0}/2	Powstrzymaj ludzi Borowskiego  {0}/2
+Muhasebeci yerde! Ekip koşuyor — {0} saniye. Baran'ın adamı da yolda!	Księgowy leży! Zespół biegnie — {0} sekund. Człowiek Borowskiego też jest w drodze!
+{0} ELMAS	{0} KLEJNOTÓW
+Kimyager: {0}	Chemik: {0}
+Toplam: {0}	Razem: {0}
+SV {0}	POZ. {0}
+Hedef: {0}{1}	Cel: {0}{1}
+HEDEF:  {0}	CEL:  {0}
+{0} vuruldu!	{0} trafiony!
+Kullanım Koşulları (EULA)	Warunki użytkowania (EULA)
+Gizlilik Politikası	Polityka prywatności
+Oyunu beğendin mi?	Podoba ci się gra?
+PUANLA	OCEŃ
+BURAYA	TUTAJ
+Önce dürbünü aç.	Najpierw otwórz lunetę.
+EĞİTİM	SZKOLENIE
+Yakınlaştır: soldaki kaydırıcıyı yukarı it ya da iki parmakla ekranı aç.	Przybliż: przesuń suwak po lewej w górę albo rozsuń dwa palce na ekranie.
+Halka boşalmadan ateş et: nefes biterse nişan titrer.	Strzel, zanim pierścień się opróżni: bez oddechu celownik drży.
+Kırmızı nokta merminin ineceği yeri gösterir.	Czerwona kropka pokazuje, gdzie trafi pocisk.
+Kırmızı halka: bu adam sana nişan alıyor!	Czerwony pierścień: on celuje w ciebie!
+Halka dolmadan onu vur ya da SİPER'e eğil.	Zdejmij go, zanim pierścień się zapełni, albo schowaj się przyciskiem OSŁONA.
+Vuruluyorsun! SİPER tuşuna bas: duvarın arkasına eğil.	Obrywasz! Naciśnij przycisk OSŁONA: schowaj się za murem.
+Siperde can yenilenir.	Za osłoną odzyskujesz zdrowie.
+Ateş kesilince dürbünle doğrul ve karşılık ver: önce sana nişan alanı vur.	Gdy ogień ustanie, wychyl się z lunetą i odpowiedz ogniem: najpierw zdejmij tego, kto w ciebie celuje.
+Hedef {0} m uzakta. Mermi yol boyunca düşer.	Cel jest {0} m od ciebie. Pocisk opada w locie.
+Kırmızı nokta merminin ineceği yer: nişangahın {0} cm altında. Kafaya nişan alırsan ıskalarsın.	Czerwona kropka to miejsce trafienia: {0} cm pod celownikiem. Jeśli wycelujesz w głowę, spudłujesz.
+MENZİL'i hedefin mesafesine getir: + tuşuna bas.	Ustaw ZASIĘG na odległość celu: naciśnij +.
+MENZİL'i hedefin mesafesine getir: − tuşuna bas.	Ustaw ZASIĘG na odległość celu: naciśnij −.
+MENZİL {0} m  ·  hedef {1} m	ZASIĘG {0} m  ·  cel {1} m
+Tam ayar! Nokta nişangaha döndü.	Idealnie! Kropka wróciła na celownik.
+Uzak hedefte önce mesafeyi oku, MENZİL'i ona getir, sonra ateş et.	Na dalekim celu najpierw odczytaj odległość, ustaw na nią ZASIĘG, potem strzelaj.
+Hedef yürüyor: mermi oraya varana kadar o da ilerler.	Cel idzie: zanim pocisk doleci, on się przesunie.
+Nişangahı yürüdüğü yöne, mavi halkanın üzerine al.	Przesuń celownik w stronę, w którą idzie, na niebieski pierścień.
+İşte bu! Önünde kal ve ateş et.	O to chodzi! Trzymaj się przed nim i strzel.
+Koşan adamda pay daha büyük, duran adamda hiç yok.	Na biegnącego bierz większą poprawkę, na stojącego żadnej.
+Rüzgâr mermiyi yana iter. Yönü ve gücü bu panelde.	Wiatr znosi pocisk w bok. Kierunek i siła są na tym panelu.
+Bak: rüzgâr mermiyi {0} cm sağa götürüyor.	Patrz: wiatr znosi pocisk {0} cm w prawo.
+Bak: rüzgâr mermiyi {0} cm sola götürüyor.	Patrz: wiatr znosi pocisk {0} cm w lewo.
+Kırmızı nokta merminin ineceği yer.	Czerwona kropka to miejsce trafienia.
+Rüzgâra karşı tut: nişangahı {0} mil sola kaydır.	Weź poprawkę na wiatr: przesuń celownik o {0} mil w lewo.
+Rüzgâra karşı tut: nişangahı {0} mil sağa kaydır.	Weź poprawkę na wiatr: przesuń celownik o {0} mil w prawo.
+Sarı noktalar 1 mil aralıklı. Kırmızı nokta hedefe gelince ateş et.	Żółte kropki są co 1 mil. Strzel, gdy czerwona kropka będzie na celu.
+Tam üstünde! Şimdi ateş et.	Dokładnie na celu! Teraz strzel.
+Rüzgâr dinip artar: ateşten önce paneldeki değere bir daha bak.	Wiatr słabnie i znów się wzmaga: przed strzałem jeszcze raz sprawdź wartość na panelu.
+Bu işte kimse ölmeyecek: bu tuşla İĞNE'ye geç.	W tej robocie nikt nie zginie: przełącz tym przyciskiem na STRZAŁKĘ.
+Mermi seçici: her basış bir sonraki türü takar.	Wybór pocisków: każde naciśnięcie ładuje kolejny rodzaj.
+İğne yavaş uçar ve çok düşer: biraz yukarı nişan al.	Strzałka leci wolno i mocno opada: celuj trochę wyżej.
+Kırmızı nokta iğnenin ineceği yeri gösterir.	Czerwona kropka pokazuje, gdzie trafi strzałka.
+Zırhlı adam! Gövdesine mermi işlemez.	Opancerzony wróg! Pocisk nie przebije tułowia.
+Bu tuşla ZIRH DELİCİ'ye geç ya da kafasına nişan al.	Przełącz tym przyciskiem na PRZECIWPANCERNE albo celuj w głowę.
+Kafasına nişan al. Zırh delici mermiyi cephanelikten alabilirsin.	Celuj w głowę. Pociski przeciwpancerne dostaniesz w zbrojowni.
+Yerin belli oldu. YER DEĞİŞTİR: yeni yerde seni kimse bilmez.	Namierzyli cię. ZMIEŃ POZYCJĘ: w nowym miejscu nikt o tobie nie wie.
+Taşınırken dünya durmaz: hedef kaçmadan dön.	Świat nie czeka, gdy się przenosisz: wróć, zanim cel ucieknie.
+Bu yüz dosyadakiyle aynıysa İŞARETLE — HEDEF BU.	Jeśli twarz zgadza się z aktami, naciśnij OZNACZ — TO CEL.
+Emin değilsen basma: yanlış kişiyi vurmak işi bitirir.	Jeśli nie masz pewności, nie naciskaj: strzał w złą osobę kończy robotę.
+Karanlıkta gece görüşü kullan: bu tuşla modu değiştir.	W ciemności używaj noktowizji: tym przyciskiem zmieniasz tryb.
+Termal dürbünde insanlar beyaz parlar: sis ve kar arkasında bile.	W lunecie termowizyjnej ludzie świecą na biało: nawet za mgłą i śniegiem.
+DRON'u gönder: bölgeyi tarar, tehditleri işaretler.	Wyślij DRON: przeskanuje strefę i oznaczy zagrożenia.
+Her sözleşmede bir kez.	Raz na kontrakt.
+Son anda kıpırdadı. Nişanı tazele, tekrar dene.	Poruszył się w ostatniej chwili. Wyceluj ponownie i spróbuj jeszcze raz.
+Siperine takıldı. Açığa çıkmasını bekle ya da başka açıdan dene.	Trafiłeś w jego osłonę. Poczekaj, aż się odsłoni, albo spróbuj z innego kąta.
+Iska: {0} cm alçak.	Pudło: {0} cm za nisko.
+Iska: {0} cm yüksek.	Pudło: {0} cm za wysoko.
+Iska: {0} cm solda.	Pudło: {0} cm w lewo.
+Iska: {0} cm sağda.	Pudło: {0} cm w prawo.
+Mermi düştü: hedef {0} m, MENZİL {1}. MENZİL'i hedefin mesafesine getir.	Pocisk opadł: cel {0} m, ZASIĘG {1}. Ustaw ZASIĘG na odległość celu.
+Fazla yüksek: hedef {0} m, MENZİL {1}. MENZİL'i düşür.	Za wysoko: cel {0} m, ZASIĘG {1}. Zmniejsz ZASIĘG.
+Arkasından geçti: yürüdüğü yöne daha önden nişan al.	Poszło za nim: weź większą poprawkę w stronę, w którą idzie.
+Önünden geçti: payı biraz azalt.	Poszło przed nim: zmniejsz trochę poprawkę.
+Rüzgâr sağa itti: biraz sola tut.	Wiatr zniósł pocisk w prawo: celuj trochę w lewo.
+Rüzgâr sola itti: biraz sağa tut.	Wiatr zniósł pocisk w lewo: celuj trochę w prawo.
+Nefesini tut: nişan sabitlenince ateş et.	Wstrzymaj oddech: strzel, gdy celownik się ustabilizuje.
+Nişangahı vücudun ortasına al.	Celuj w środek sylwetki.
+Sabır: hedef dışarı çıkana kadar bekle, nefesini tut ve kafaya nişan al.	Cierpliwość: czekaj, aż cel wyjdzie, wstrzymaj oddech i celuj w głowę.
+MENZİL ayarı: uzak hedefte mermi düşer. Dikkat dağıtma: yakına düşen kurşun hedefi açığa çıkarır.	Ustawianie ZASIĘGU: na dalekim celu pocisk opada. Odwracanie uwagi: kula obok celu wywabi go z ukrycia.
+Mağaza şu an açık değil. İnternet bağlantını kontrol edip biraz sonra tekrar dene.{0}	Sklep jest teraz niedostępny. Sprawdź połączenie z internetem i spróbuj ponownie za chwilę.{0}
+GEÇ	POMIŃ
+Yer seviyesi — siper arkası	Poziom ziemi — za osłoną
+Alçak mevzi — yakın çatı	Niska pozycja — pobliski dach
+Orta yükseklik	Średnia wysokość
+Hedeflerle aynı seviyede ve yakın. Net atış, ama seni de çabuk görürler.	Blisko, na poziomie celów. Czyste strzały, ale szybko cię też wypatrzą.
+Birkaç kat yukarıda: yakın ve geniş açı.	Kilka pięter wyżej: blisko i z szerokim widokiem.
+Sahaya yukarıdan ama yakından bakar.	Patrzy na teren z góry, ale z bliska.
+Dil  ·  Language	Język  ·  Language

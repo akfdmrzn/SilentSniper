@@ -1,0 +1,16 @@
+{
+ "name": "m_hit",
+ "frames": 50,
+ "fps": 30,
+ "length": 1.6333,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Hit_Reaction.glb",
+ "tags": [
+  "hit"
+ ],
+ "offset": [
+  -0.5219,
+  -0.9463
+ ]
+}

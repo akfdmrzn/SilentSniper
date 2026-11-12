@@ -1,0 +1,39 @@
+{
+ "id": "ph_tyre",
+ "category": "prop",
+ "tris": 899,
+ "tris_src": 2880,
+ "size": [
+  0.6,
+  0.6,
+  0.165
+ ],
+ "center": [
+  0.0,
+  0.3,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ph_tyre__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_tyre_m0_albedo.jpg",
+   "normal": "ph_tyre_m0_normal.jpg",
+   "ms": "ph_tyre_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

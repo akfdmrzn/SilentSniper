@@ -1,0 +1,16 @@
+{
+ "name": "m_dodge",
+ "frames": 42,
+ "fps": 30,
+ "length": 1.3667,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Stand_Dodge.glb",
+ "tags": [
+  "react"
+ ],
+ "offset": [
+  0.0005,
+  0.0022
+ ]
+}

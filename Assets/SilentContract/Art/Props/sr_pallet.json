@@ -1,0 +1,39 @@
+{
+ "id": "sr_pallet",
+ "category": "prop",
+ "tris": 800,
+ "tris_src": 2052,
+ "size": [
+  1.204,
+  0.209,
+  0.8
+ ],
+ "center": [
+  0.0,
+  0.104,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "sr_pallet__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_m0_albedo.jpg",
+   "normal": "sr_pallet_m0_normal.jpg",
+   "ms": "sr_pallet_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "NVIDIA SimReady (CC-BY 4.0)",
+ "tags": []
+}

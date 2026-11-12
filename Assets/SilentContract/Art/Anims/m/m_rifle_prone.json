@@ -1,0 +1,16 @@
+{
+ "name": "m_rifle_prone",
+ "frames": 4,
+ "fps": 30,
+ "length": 0.1,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Prone_Reload.glb",
+ "tags": [
+  "combat"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

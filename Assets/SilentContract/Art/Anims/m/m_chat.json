@@ -1,0 +1,16 @@
+{
+ "name": "m_chat",
+ "frames": 156,
+ "fps": 30,
+ "length": 5.1667,
+ "loop": true,
+ "speed": 0.0,
+ "source": "Stand_and_Chat.glb",
+ "tags": [
+  "talk"
+ ],
+ "offset": [
+  -0.0,
+  -0.0
+ ]
+}

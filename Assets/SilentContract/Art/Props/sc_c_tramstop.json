@@ -1,0 +1,159 @@
+{
+ "id": "sc_c_tramstop",
+ "category": "struct",
+ "tris": 312,
+ "tris_src": 312,
+ "size": [
+  34.0,
+  3.45,
+  13.2
+ ],
+ "center": [
+  0.0,
+  1.725,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "shared__ts_platform",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.001,
+   "smoothness": 0.453,
+   "albedo": "shared__ts_platform_albedo.jpg",
+   "normal": "shared__ts_platform_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "ts_platform",
+   "window": false
+  },
+  {
+   "name": "shared__ts_edge",
+   "color": [
+    0.9,
+    0.78,
+    0.2,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "ts_edge",
+   "window": false
+  },
+  {
+   "name": "shared__glass_ts",
+   "color": [
+    0.55,
+    0.62,
+    0.66,
+    1.0
+   ],
+   "metallic": 0.9,
+   "smoothness": 0.96,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "glass_ts",
+   "window": false
+  },
+  {
+   "name": "shared__ts_frame",
+   "color": [
+    0.12,
+    0.14,
+    0.16,
+    1.0
+   ],
+   "metallic": 0.7,
+   "smoothness": 0.65,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "ts_frame",
+   "window": false
+  },
+  {
+   "name": "shared__ts_roof_v3",
+   "color": [
+    0.3,
+    0.32,
+    0.34,
+    1.0
+   ],
+   "metallic": 0.3,
+   "smoothness": 0.3,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "ts_roof_v3",
+   "window": false
+  },
+  {
+   "name": "shared__emit_ts_ad",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__emit_ts_ad_albedo.jpg",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "emit_ts_ad",
+   "window": false,
+   "emission": [
+    1.8,
+    1.9,
+    2.0
+   ]
+  },
+  {
+   "name": "shared__emit_ts_name",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__emit_ts_name_albedo.jpg",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "emit_ts_name",
+   "window": false,
+   "emission": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  }
+ ],
+ "lods": 1,
+ "collider": "mesh",
+ "static": true,
+ "credit": "",
+ "tags": []
+}

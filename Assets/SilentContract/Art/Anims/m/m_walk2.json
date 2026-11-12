@@ -1,0 +1,12 @@
+{
+ "name": "m_walk2",
+ "frames": 32,
+ "fps": 30,
+ "length": 1.0333,
+ "loop": true,
+ "speed": 1.4244,
+ "source": "137_29.bvh",
+ "tags": [
+  "walk"
+ ]
+}

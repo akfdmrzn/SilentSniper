@@ -1,0 +1,39 @@
+{
+ "id": "ph_toolbox",
+ "category": "prop",
+ "tris": 1499,
+ "tris_src": 14228,
+ "size": [
+  0.4,
+  0.305,
+  0.271
+ ],
+ "center": [
+  -0.0,
+  0.152,
+  -0.021
+ ],
+ "materials": [
+  {
+   "name": "ph_toolbox__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ph_toolbox_m0_albedo.jpg",
+   "normal": "ph_toolbox_m0_normal.jpg",
+   "ms": "ph_toolbox_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 1,
+ "collider": "box",
+ "static": true,
+ "credit": "Poly Haven (CC0)",
+ "tags": []
+}

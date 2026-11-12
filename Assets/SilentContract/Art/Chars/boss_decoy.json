@@ -1,0 +1,26 @@
+{
+ "id": "boss_decoy",
+ "gender": "m",
+ "tris": 24468,
+ "height": 1.82,
+ "materials": [
+  {
+   "name": "boss_decoy_opaque",
+   "albedo": "boss_decoy_albedo.jpg",
+   "normal": "boss_decoy_normal.jpg",
+   "ms": "boss_decoy_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "boss_decoy",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

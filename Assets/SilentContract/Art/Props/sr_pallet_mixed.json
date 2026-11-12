@@ -1,0 +1,167 @@
+{
+ "id": "sr_pallet_mixed",
+ "category": "prop",
+ "tris": 3500,
+ "tris_src": 335683,
+ "size": [
+  1.067,
+  0.997,
+  1.255
+ ],
+ "center": [
+  -0.0,
+  0.498,
+  0.0
+ ],
+ "materials": [
+  {
+   "name": "sr_pallet_mixed__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_mixed_m0_albedo.jpg",
+   "normal": "sr_pallet_mixed_m0_normal.jpg",
+   "ms": "sr_pallet_mixed_m0_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_mixed__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_mixed_m1_albedo.jpg",
+   "normal": "sr_pallet_mixed_m1_normal.jpg",
+   "ms": "sr_pallet_mixed_m1_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_mixed__m2",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.441,
+   "albedo": "sr_pallet_mixed_m2_albedo.jpg",
+   "normal": "sr_pallet_mixed_m2_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_mixed__m3",
+   "color": [
+    0.0065,
+    0.0452,
+    0.0086,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.687,
+   "albedo": null,
+   "normal": "sr_pallet_mixed_m3_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_mixed__m4",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.472,
+   "albedo": "sr_pallet_mixed_m4_albedo.jpg",
+   "normal": "sr_pallet_mixed_m4_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_mixed__m5",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_mixed_m5_albedo.jpg",
+   "normal": "sr_pallet_mixed_m5_normal.jpg",
+   "ms": "sr_pallet_mixed_m5_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_mixed__m6",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.294,
+   "albedo": "sr_pallet_mixed_m6_albedo.jpg",
+   "normal": "sr_pallet_mixed_m6_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_mixed__m7",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.998,
+   "smoothness": 0.586,
+   "albedo": "sr_pallet_mixed_m7_albedo.jpg",
+   "normal": "sr_pallet_mixed_m7_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_mixed__m8",
+   "color": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.84,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 3,
+ "collider": "box",
+ "static": true,
+ "credit": "NVIDIA SimReady (CC-BY 4.0)",
+ "tags": []
+}

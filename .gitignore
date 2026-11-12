@@ -1,0 +1,25 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+*.apk
+*.aab
+*.ipa
+# proje araclari / gecici
+/_sc2_transfer/
+/AutoTest/
+/AutoTest_arsiv/
+/_autotest_live/
+/.utmp/
+AutoTest_run.log
+*.tar.gz
+.DS_Store

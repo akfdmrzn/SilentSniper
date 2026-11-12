@@ -1,0 +1,41 @@
+{
+ "id": "ai_gun_smg",
+ "category": "prop",
+ "tris": 5000,
+ "tris_src": 8901,
+ "size": [
+  0.68,
+  0.266,
+  0.071
+ ],
+ "center": [
+  0.0,
+  0.0,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "ai_gun_smg__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "ai_gun_smg_m0_albedo.jpg",
+   "normal": "ai_gun_smg_m0_normal.jpg",
+   "ms": "ai_gun_smg_m0_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "Material_0",
+   "window": false
+  }
+ ],
+ "lods": 1,
+ "collider": "none",
+ "static": false,
+ "credit": "Silent Contract (AI-generated model, Meshy)",
+ "tags": []
+}

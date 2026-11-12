@@ -1,0 +1,26 @@
+{
+ "id": "w_fixer",
+ "gender": "m",
+ "tris": 24725,
+ "height": 1.86,
+ "materials": [
+  {
+   "name": "w_fixer_opaque",
+   "albedo": "w_fixer_albedo.jpg",
+   "normal": "w_fixer_normal.jpg",
+   "ms": "w_fixer_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "w_fixer",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}

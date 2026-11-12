@@ -1,0 +1,135 @@
+{
+ "id": "sr_pallet_brown",
+ "category": "prop",
+ "tris": 3499,
+ "tris_src": 203487,
+ "size": [
+  1.01,
+  0.866,
+  1.2
+ ],
+ "center": [
+  0.0,
+  0.433,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "sr_pallet_brown__m0",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.441,
+   "albedo": "sr_pallet_brown_m0_albedo.jpg",
+   "normal": "sr_pallet_brown_m0_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_brown__m1",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_brown_m1_albedo.jpg",
+   "normal": "sr_pallet_brown_m1_normal.jpg",
+   "ms": "sr_pallet_brown_m1_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_brown__m2",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_brown_m2_albedo.jpg",
+   "normal": "sr_pallet_brown_m2_normal.jpg",
+   "ms": "sr_pallet_brown_m2_ms.png",
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_brown__m3",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.294,
+   "albedo": "sr_pallet_brown_m3_albedo.jpg",
+   "normal": "sr_pallet_brown_m3_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_brown__m4",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.998,
+   "smoothness": 0.586,
+   "albedo": "sr_pallet_brown_m4_albedo.jpg",
+   "normal": "sr_pallet_brown_m4_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_brown__m5",
+   "color": [
+    0.0284,
+    0.0284,
+    0.0284,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.687,
+   "albedo": null,
+   "normal": "sr_pallet_brown_m5_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true
+  },
+  {
+   "name": "sr_pallet_brown__m6",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "sr_pallet_brown_m6_albedo.jpg",
+   "normal": "sr_pallet_brown_m6_normal.jpg",
+   "ms": "sr_pallet_brown_m6_ms.png",
+   "cutout": false,
+   "double_sided": true
+  }
+ ],
+ "lods": 3,
+ "collider": "box",
+ "static": true,
+ "credit": "NVIDIA SimReady (CC-BY 4.0)",
+ "tags": []
+}

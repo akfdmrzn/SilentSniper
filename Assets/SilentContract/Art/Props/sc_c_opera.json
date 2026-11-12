@@ -1,0 +1,321 @@
+{
+ "id": "sc_c_opera",
+ "category": "struct",
+ "tris": 5465,
+ "tris_src": 5465,
+ "size": [
+  74.51,
+  36.5,
+  77.1
+ ],
+ "center": [
+  -1.705,
+  18.25,
+  -0.0
+ ],
+ "materials": [
+  {
+   "name": "shared__op_base",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "shared__op_base_albedo.jpg",
+   "normal": "shared__op_base_normal.jpg",
+   "ms": "shared__op_base_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "op_base",
+   "window": false
+  },
+  {
+   "name": "shared__op_base_rust",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "shared__op_base_rust_albedo.jpg",
+   "normal": "shared__op_base_rust_normal.jpg",
+   "ms": "shared__op_base_rust_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "op_base_rust",
+   "window": false
+  },
+  {
+   "name": "shared__op_stone",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.468,
+   "albedo": "shared__op_stone_albedo.jpg",
+   "normal": "shared__op_stone_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "op_stone",
+   "window": false
+  },
+  {
+   "name": "shared__op_marble",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.49,
+   "albedo": "shared__op_marble_albedo.jpg",
+   "normal": "shared__op_marble_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "op_marble",
+   "window": false
+  },
+  {
+   "name": "shared__win_hotel",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__win_hotel_albedo.png",
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "win_hotel",
+   "window": true
+  },
+  {
+   "name": "shared__op_door",
+   "color": [
+    0.16,
+    0.06,
+    0.04,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.5,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "op_door",
+   "window": false
+  },
+  {
+   "name": "shared__emit_op_door_glow",
+   "color": [
+    1.0,
+    0.78,
+    0.45,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "emit_op_door_glow",
+   "window": false,
+   "emission": [
+    2.5,
+    1.95,
+    1.125
+   ]
+  },
+  {
+   "name": "shared__op_balustrade",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.49,
+   "albedo": "shared__op_balustrade_albedo.jpg",
+   "normal": "shared__op_balustrade_normal.jpg",
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "op_balustrade",
+   "window": false
+  },
+  {
+   "name": "shared__op_frieze",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": "shared__op_frieze_albedo.png",
+   "normal": null,
+   "ms": null,
+   "cutout": true,
+   "double_sided": true,
+   "src": "op_frieze",
+   "window": false
+  },
+  {
+   "name": "shared__op_roof",
+   "color": [
+    0.28,
+    0.44,
+    0.4,
+    1.0
+   ],
+   "metallic": 0.4,
+   "smoothness": 0.5,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "op_roof",
+   "window": false
+  },
+  {
+   "name": "shared__roof_flat",
+   "color": [
+    1,
+    1,
+    1,
+    1
+   ],
+   "metallic": 1.0,
+   "smoothness": 1.0,
+   "albedo": "shared__roof_flat_albedo.jpg",
+   "normal": "shared__roof_flat_normal.jpg",
+   "ms": "shared__roof_flat_ms.png",
+   "cutout": false,
+   "double_sided": true,
+   "src": "roof_flat",
+   "window": false
+  },
+  {
+   "name": "shared__op_skylight",
+   "color": [
+    0.2,
+    0.24,
+    0.27,
+    1.0
+   ],
+   "metallic": 0.6,
+   "smoothness": 0.8,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "op_skylight",
+   "window": false
+  },
+  {
+   "name": "shared__op_unit",
+   "color": [
+    0.55,
+    0.56,
+    0.55,
+    1.0
+   ],
+   "metallic": 0.4,
+   "smoothness": 0.5,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "op_unit",
+   "window": false
+  },
+  {
+   "name": "shared__op_copper",
+   "color": [
+    0.25,
+    0.48,
+    0.42,
+    1.0
+   ],
+   "metallic": 0.45,
+   "smoothness": 0.55,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "op_copper",
+   "window": false
+  },
+  {
+   "name": "shared__op_gold",
+   "color": [
+    0.8,
+    0.6,
+    0.25,
+    1.0
+   ],
+   "metallic": 1.0,
+   "smoothness": 0.75,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "op_gold",
+   "window": false
+  },
+  {
+   "name": "shared__emit_op_flood",
+   "color": [
+    1.0,
+    0.85,
+    0.6,
+    1.0
+   ],
+   "metallic": 0.0,
+   "smoothness": 0.4,
+   "albedo": null,
+   "normal": null,
+   "ms": null,
+   "cutout": false,
+   "double_sided": true,
+   "src": "emit_op_flood",
+   "window": false,
+   "emission": [
+    5.0,
+    4.25,
+    3.0
+   ]
+  }
+ ],
+ "lods": 1,
+ "collider": "mesh",
+ "static": true,
+ "credit": "",
+ "tags": []
+}

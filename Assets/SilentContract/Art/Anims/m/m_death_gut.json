@@ -1,0 +1,17 @@
+{
+ "name": "m_death_gut",
+ "frames": 106,
+ "fps": 30,
+ "length": 3.5,
+ "loop": false,
+ "speed": 0.0,
+ "source": "Fall_Dead_from_Abdominal_Injury.glb",
+ "tags": [
+  "death",
+  "ho=2.00"
+ ],
+ "offset": [
+  -1.1171,
+  0.2811
+ ]
+}

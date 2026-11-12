@@ -1,0 +1,26 @@
+{
+ "id": "bodyguard_a",
+ "gender": "m",
+ "tris": 24636,
+ "height": 1.82,
+ "materials": [
+  {
+   "name": "bodyguard_a_opaque",
+   "albedo": "bodyguard_a_albedo.jpg",
+   "normal": "bodyguard_a_normal.jpg",
+   "ms": "bodyguard_a_ms.png",
+   "cutout": false
+  }
+ ],
+ "parts": [
+  "meshy"
+ ],
+ "credits": [
+  {
+   "asset": "bodyguard_a",
+   "author": "Silent Contract / Meshy AI",
+   "license": "Meshy commercial (paid plan)",
+   "source": "https://www.meshy.ai"
+  }
+ ]
+}
